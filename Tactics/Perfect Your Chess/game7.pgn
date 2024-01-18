@@ -1,0 +1,1300 @@
+﻿[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "001"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/6p1/4r3/1p5p/p2rn2P/3NR1P1/P3R1K1/8 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "002"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4r2/1bp3kB/pp1p1b2/3Pn2Q/2P5/6pP/PP3P2/4R1K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "003"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn2k2r/pp2pp1p/2p1qp1b/5b2/3P4/4BNP1/PPP2PBP/R2QK2R w KQkq - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "004"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4rk1/pp3pB1/5b2/2p1nN1P/6Q1/2Pq4/PP3PP1/K6R w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "005"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3rb2/1b3p2/3p2kp/qp1P1NN1/2p1P3/3n2RP/1P3PP1/3QR1K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "006"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3kb1r/2qp1ppp/p3p3/2pbP3/2N5/8/PPP2PPP/R1BQR1K1 w kq - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "007"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2q2rk1/Q2n1ppp/b1r1p3/Pp1p4/3P1B2/2P1P3/5PPP/R1RKN3 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "008"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rk1/p4rbp/1p2p1p1/1Ppn1p2/2Nn4/P2PB1P1/4PPBP/1RR2K2 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "009"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2rr2k1/1q3pbp/p2p2p1/8/1PQNn3/P3B2P/5PP1/2RR2K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "010"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1n1k2r/pp3ppp/3ppn2/1b5q/1BBP4/5N1P/PPP2PP1/R2Q1RK1 w kq - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "011"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r2rk1/3q2pp/3Pp3/1pp5/1nb1Pp2/2Q3P1/1B1R1PBP/R5K1 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "012"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/2P1k1N1/6b1/5p2/p7/P3K3/8 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "013"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b1qr2/p1r1p1kp/2Npnnp1/5p2/1P6/PB4P1/1QRNPP1P/2R3K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "014"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r1qrbk1/1b3pp1/3p1n1p/1Np5/2B5/4RN1P/1PP1QPP1/4R1K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "015"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r1r4/3bq3/5pkp/p1bBp1p1/P1R1P3/2P4P/4QPPN/4R1K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "016"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b1qr2/pp3pbk/n1p3R1/2P1p1B1/2B1P3/P6P/1P3PP1/R1Q3K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "017"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3r2k1/pbb5/n3p1rP/2p2p2/2P4q/P2BQ3/1P1B1RPP/4RNK1 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "018"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2kr3r/pp3ppp/4b3/1p6/1QP2B2/7P/PP2BPqn/R3KR2 b Q - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "019"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4rk1/1bn1pp2/3q1bpp/p2PN3/Np1P4/1B6/PP3PPP/2RQR1K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "020"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k2/2pq1b2/3p1Qp1/2p3Np/2P2P1K/1P4PP/8/8 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "021"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4rrk1/4Q2p/p4p2/4P1p1/P2p1B2/3P1BPq/1P6/R5K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "022"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "b5k1/5p1p/4p1pb/4Pn2/2p1qP2/P5PP/BPP2Q1K/1R6 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "023"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2kr3r/2p2ppp/p5q1/4Pn2/1Qp1NP2/2Pp4/P5PP/1R3RK1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "024"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/2p3Pp/1p1p3P/3Ppq2/1PP1n3/Q6R/4Br2/7K b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "025"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4brk1/5p1p/4PRpP/4r3/1pp3P1/8/1PP3BK/5R2 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "026"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5bk1/ppp3pR/5q2/3pr3/4r3/2P1B3/1PP2PQ1/1K5R w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "027"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2rk1/2qnbpp1/pp5p/2p5/1nB1N3/1P3N2/PBQ2PPP/3R1RK1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "028"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/p5k1/7R/3pq2p/4n3/P1P1Q3/K1P3P1/2B2r2 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "029"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "b2r3k/p3Nppp/3r4/1pq5/2p2Q2/4R3/PP1R1PPP/6K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "030"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r4k1/1q3pp1/r3b2p/p2N4/3R4/QP3P2/2P3PP/1K1R4 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "031"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "Q7/p3kp2/1q1prb1p/R7/1P3PP1/2P5/1P2r2P/1K1R4 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "032"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "q3r3/6bk/2nBP1pp/2P2p2/1PQ3n1/5PP1/r5BP/3RR1K1 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "033"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3q1r1k/6p1/2p2bQp/3b4/3r2B1/4R1B1/5PPP/4R1K1 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "034"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r6r/k4pp1/pq2p2p/1p1n4/3N3P/1R6/PPP1QPP1/2KR4 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "035"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5rk1/3R1p2/4p2p/4P1pP/2q4r/P1n1BQ2/2P2PP1/4R1K1 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "036"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rr1q2k1/5ppp/p1p2n2/3Pp1B1/1Qp1P3/2P2P1P/P2K1P2/1R4R1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "037"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1r3r1k/ppnq2bp/6p1/4p3/1PQn4/P1N2BP1/1B2PP1P/1R3RK1 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "038"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4rrk1/5p2/3p2np/3PbQ2/pq2B3/8/P5PP/1N2RRK1 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "039"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r3k1/p4pp1/n2b2p1/3P1q2/Pp1Nr3/1Q4P1/3R1PKP/2BR4 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "040"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppq3pp/2nN1pn1/8/2P5/R7/1B3PPP/1B1QR1K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "041"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1r3rk1/2qnbppp/p7/3p2P1/2pN1B1P/P4P2/1PP2Q2/1K1RR3 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "042"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1kn4r/4r3/Qpq5/2N1p2p/2N3p1/2P1B1P1/1P3P1P/R5K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "043"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4rk1/1pq2ppp/p1n5/3RbbNQ/P1B1p3/1P2P3/1B3PP1/R6K w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "044"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rrk/1P1R1Qpp/2q1np1B/2p1p3/8/6P1/5P1P/3R2K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "045"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4rbk1/5p2/5Pp1/p5qp/1nr1B3/2B2QP1/1P3PK1/3R3R w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "046"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn3rk1/pp2ppbn/2pp2pp/7q/2PPP1bN/2N3P1/PPQ2PBP/R1B1R1K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "047"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2q3rk/p4n1p/5Pp1/4p2P/2rpP2Q/8/P2B1RP1/5R1K w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "048"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rk1/pp3r1p/3pb1p1/8/2PQPn1q/2N2B2/1PR3PP/6RK w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "049"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5rk1/pp1bp2p/3p1np1/4n3/3NP1P1/2P1QP2/q1P5/2KR1B1R b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.08"]
+[Round "?"]
+[White "050"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn3rk1/1b1qb1pp/4p3/p2pPp2/Pp1P1N2/1Q2PB2/1P1B2PP/2R2RK1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "051"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1q2bk2/5pp1/R3p2p/8/8/7P/P2Q1PP1/1r1N2K1 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "052"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r3k1/3bb1p1/1q1pP1Pp/8/4P1Q1/4rNN1/pP1R4/K6R b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "053"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2r2k1/pR3ppp/5n2/2Ppn3/8/P1P1PP1q/4BP1P/2BQ1RK1 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "054"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1k1rr3/ppq2p2/2n2pbp/8/1b1pNPP1/3B3P/PPPNQ3/1K1RR3 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "055"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r7/3bb1kp/q4ppN/1pnPp1n1/2p4Q/2P3N1/1PB3P1/2B2RK1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "056"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r3k/P5p1/1P2Q3/2B1R1K1/2p3p1/3r4/8/7q w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "057"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1rb1k2r/3nbpp1/p2pp2p/q5P1/2pNPP1P/2N1B3/PPP3Q1/1K1R3R w k - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "058"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5r1k/1q3p2/4pN1p/p3P1pP/npQ5/6R1/1P1r1PP1/2R3K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "059"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3rb2/1bq1np1k/pp1p2pP/4n3/P2NP2Q/2N4R/1PPB2BP/5RK1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "060"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r1qrk1/pb1p2pn/1pnB4/6P1/2P1p3/P7/1PQ1BPP1/1K1R3R w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "061"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3k3/1b2q2p/p3pb2/1p1p2r1/8/2N1Q3/PPP1B1PP/1K1R1R2 w q - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "062"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r1r1k1/ppp1bppp/8/n4b2/2PPqB2/P4N2/4BPPP/R1Q1R1K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "063"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1qr1r1k1/3b1ppp/pb6/1p1n4/4N3/BP1R3P/P1B2PP1/R2Q2K1 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "064"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r4r/1pB1kp2/p3b1p1/2p5/2P5/5P2/PPB1Q3/1K2R2q w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "065"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/r1pnkp2/1pQpp1qr/p3P1p1/P1PP2P1/2P2N2/6P1/4RRK1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "066"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5r2/1RR1Qpkp/q3p1p1/p7/r2pn3/1N4P1/1P2PP1P/6K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "067"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r1r1k1/1p3pp1/p6p/q3b3/3Nn3/1P6/PB3PPP/1Q1RR1K1 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "068"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rk1/pb1nqp1p/3p1npQ/4pPN1/3PP3/2rB1RN1/P5PP/4R1K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "069"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r2b1r/3k1p2/2bppPpp/NB2n1P1/K2B4/P7/1P5P/3R1R2 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "070"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4rk1/pp4pp/2n5/3pNp1b/3PnP1q/2PB4/PP1NQ1RP/6RK w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "071"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r1rk1/pb2qppp/1pn5/4N3/4PQ2/1B6/P4PPP/3RR1K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "072"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp2qpp1/1n3n2/2p1p1N1/2B1P3/2N5/P1P3PP/1R1Q1RK1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "073"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r4k/pp2q1p1/2n4p/3R2b1/6P1/P2QprB1/BP5P/1K5R b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "074"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1rb2rk1/2q1bppp/p2pp3/2nB2PQ/1p1BP3/2N5/PPP2P1P/2KR2R1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "075"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3Qrk2/5p2/p2R2p1/P5n1/8/2Q1pp2/1q2N1PP/6K1 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "076"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3q1rk/p2b2bp/1p3n2/2pPppN1/P1B5/4B2P/1PQ2PP1/R3R1K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "077"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1k1rr3/p3n1p1/q2bppNp/2p5/2P1QPP1/2B5/PP1R3P/1K1R4 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "078"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn2k2r/1q1n1p1p/p3p1p1/4P1Q1/1p1N4/2N5/PPP3PP/R4RK1 w kq - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "079"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b2rk1/2p5/3p1n2/2nPpPNp/8/2P3R1/q1B2PP1/3Q2K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "080"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/4b1p1/2r3rp/4pq2/N1P1R2P/1P1R1P2/5Q1K/8 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "081"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2q2r1/1pp2ppk/p2p1n1p/8/3bP2B/1Q2N3/PP3PPP/R4RK1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "082"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r2k1r1/p3pp2/3pb1p1/6Pp/2qBP3/Q1N2P2/PnP5/1R2K2R w K - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "083"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r1k1/4r1pp/p1p2p2/2N1n3/3q4/1P1P1PP1/P5KP/2RQ1R2 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "084"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/B3ppbp/3p2p1/3P4/r1b1B3/6PP/1pR1PP2/1N4K1 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "085"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r1rk1/1p3ppp/5q2/p3Nb2/PnB5/1Q2R3/1P3PPP/2R3K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "086"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rk1/pp1bqppp/2r1pn2/8/2B2B2/8/PP2QPPP/R2R2K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "087"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/4rkp1/R1n1r2p/2p2q2/1pn1Np2/2P2P1P/6P1/1QB1RK2 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "088"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r5k/6bp/3p2p1/1q1B3n/3pPr2/7Q/3B2R1/6RK w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "089"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3kb1r/5p2/2bppp2/4qP1N/pp2P2p/3B4/PPP1Q1PP/1K1R1R2 w kq - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "090"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rk1/2p2Rpq/p2p2n1/2pPpQPp/4P2P/3P2N1/PP6/6K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "091"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp2b1p1/7p/n3N2b/3pB3/2P5/PPQ3PP/R1B1R1K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "092"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2q1b2/3b1k1p/p2p1Pp1/1prN4/3R4/1P3Q2/1PP2P1P/1K4R1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "093"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3rq2k/2p3p1/pb3r1p/1p2NR1P/3n2P1/PQ6/1PB2P2/3R2K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "094"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r2rk1/1q2bpp1/3R1n1p/3ppN2/2p1P3/2P4P/1P3PP1/2BQR1K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "095"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4rk1/p4p1p/3p2bQ/7N/1p6/1P2B3/Rbq3PP/4R1K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "096"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5k2/p7/6Pp/4R2P/1p1p1K2/3b4/1P2p3/8 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "097"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1b1r1k1/p4pb1/2Q2n2/N1PN2pp/3Pp3/4P2q/P3BPnB/1R3RK1 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "098"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k2/pqr1b1p1/5n1N/7P/Pp6/3r4/1B2QPP1/4R1K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "099"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "bnr4k/5ppp/2Nqp3/1Q6/3P4/6P1/1P2PPBP/2R3K1 w - - 0 0"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.09"]
+[Round "?"]
+[White "100"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r3r1k1/p1qn1ppp/1b3n2/Np2p2b/2P1P3/1P3NPP/1B3PB1/R3QRK1 b - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
