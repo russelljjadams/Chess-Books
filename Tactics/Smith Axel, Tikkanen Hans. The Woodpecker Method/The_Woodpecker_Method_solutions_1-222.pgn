@@ -1,0 +1,3873 @@
+[Event "?"]
+[Site "?"]
+[Date "1.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r6r/1pp3k1/1b6/p2P1p2/P1N1pn2/2P2PP1/BP5P/4RR1K b - - 0 1"]
+[PlyCount "3"]
+[EventDate "1.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxh2+ $1 2. Kxh2 Rh8# {
+mate * Black would have been lost without this resource.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rnb3kr/ppp4p/3b3B/3Pp2n/2BP4/3K1Rp1/PPP3q1/RN1Q4 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "2.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Rf8+ $1 Bxf8 2. d6+ Be6 3. Bxe6# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "3.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2q1rk1/pppb1ppp/3b4/4p1P1/4Pn2/2N1B2P/PPPQBP2/2KR3R w - - 0 1"]
+[PlyCount "3"]
+[EventDate "3.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+{The bishop on d6 is pinned and Steinitz took advantage of that with} 1. Bxf4
+$1 exf4 2. e5 {* which won a piece.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "4.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2kr4/1pp4p/1p1r4/5Pp1/1P2q3/2P1R2P/P3KP2/1Q1R4 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "4.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rd2+ $1 $19 {* The queen loses its defender.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "5.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn1qk2r/ppp2ppp/5n2/2b1p3/2B1P1b1/3P1N2/PPP3PP/RNBQK2R w KQkq - 0 1"]
+[PlyCount "3"]
+[EventDate "5.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Bxf7+ Kxf7 2. Nxe5+ $18 {* White has won two pawns after he next plays Nxg4.
+} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "6.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2k3r/pp1b3p/1qn1p1p1/1B1pPn2/Q7/P4N2/1P1BNPPP/2R3K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "6.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Rxc6 $1 bxc6 2. Ba5 $18 {
+* White emerges with a queen and a knight for a rook and bishop.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "7.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r1k2r/1b1p2q1/p4p2/4p3/PpB1Pp1p/7P/1PPRQPP1/4R1K1 b k - 0 1"]
+[PlyCount "3"]
+[EventDate "7.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... f3 $1 {The queen is overloaded and White loses the bishop on c4:} (1...
+Rxc4 $6 2. Qxc4 f3 3. Qf1 $14 {is of course not the way to go.}) 2. Qxf3 Rxc4
+$19 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "8.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r3k2r/p1ppbppp/1pn1q3/4P3/2BP2n1/5NB1/1PP1Q1PP/R4K1R b kq - 0 1"]
+[PlyCount "5"]
+[EventDate "8.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Qxc4 $1 {There is a fork on e3 coming up:} 2. Qxc4 Ne3+ 3. Ke2 Nxc4 $19 {*
+} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "9.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1b6/3n1p2/r1k1p1pp/Pr2P3/1PK2P2/3R4/3B2PP/R7 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "9.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Rxd7 $1 {White wins back the piece with a winning advantage.} Kxd7 (1...
+Rxb4+ {captures a pawn, but the a-pawn still decides after:} 2. Bxb4 Kxd7 3.
+Kb5 $18 {*}) 2. Kxb5 $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "10.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b5/4Q1pp/pp3n1k/3p3q/P2P1P2/BP1B2P1/7P/6K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "10.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Qxf6+ $1 {Black resigned due to:} gxf6 2. Bf8# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "11.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4r2k/1b3Q1p/p1q3p1/1p4B1/2pb4/8/PPB3PP/5R1K w - - 0 1"]
+[PlyCount "5"]
+[EventDate "11.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Be4 $1 {The only drawing move, and easy to find, as Black's mate threat
+means White has no other sensible try.} (1. Rg1 $4 {
+loses to everything, but is mated most swiftly by} Qxg2+ $1) 1... Qxe4 ({
+Obviously not} 1... Rxe4 $4 2. Qf8# {mate}) 2. Bf6+ Bxf6 3. Qxf6+ {
+* 1/2-1/2 White has a perpetual on f6 and f7.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "12.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1n5/pp2q1kp/2ppr1p1/4p1Q1/8/2N4R/PPP3PP/5RK1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "12.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Qh6+ $1 Kg8 2. Rf8+ $1 Qxf8 3. Qxh7# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "13.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4rrk1/ppp3pp/3p2n1/3Ppqb1/nPP5/6P1/P1NBQP1P/2R1NRK1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "13.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Nc3 $1 {The queen can't move and keep the bishop on d2 defended, and} 2.
+Bxc3 Bxc1 $19 {* lost an exchange (0-1, 39 moves).} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "14.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2kr3r/p4pp1/2p4p/4p3/2n4q/1NPPnP1P/PP2Q2P/R1K2B1R b - - 0 1"]
+[PlyCount "9"]
+[EventDate "14.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxd3 $1 {Breaking open the king's position to close out the game.} 2. Bg2
+({Or} 2. Qxd3 Qe1+ {* with mate on the next move.}) 2... Rhd8 {There is nothing
+White can do against the threats to penetrate on d1 or d2. The game ended
+after:} 3. a4 Rd1+ 4. Rxd1 Rxd1+ 5. Qxd1 Nxd1 {0-1} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "15.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/5pp1/p1n1r2p/2NQ4/1P1p4/P6P/1B1bqPP1/5RK1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "15.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Qxf1+ $1 {* White's previous move, Qc4-d5, was a grave blunder.} 2. Kxf1
+Re1# {mate} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "16.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1bqk1nr/pppp3p/2n2p2/b5p1/2BPPp1P/2P2N2/P5P1/RNBQK2R w KQkq - 0 1"]
+[PlyCount "13"]
+[EventDate "16.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nxg5 $1 {Not recapturing would be equivalent to resignation, but Black is
+mated if he takes the knight:} fxg5 (1... Qe7 $18 {
+and White won after 26 moves.}) 2. Qh5+ {*} Ke7 {
+There are several ways to mate or pick up material. The quickest mate is:} 3.
+Qf7+ Kd6 4. e5+ Nxe5 5. dxe5+ Kxe5 6. Qd5+ Kf6 7. Qxg5# {mate} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "17.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2kr1bnr/p1ppqp1p/bpn5/1N4p1/P2PPp2/5N2/1PP2KPP/R1BQ1B1R w - - 0 1"]
+[PlyCount "3"]
+[EventDate "17.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nxa7+ $1 {White wins an important pawn after:} Nxa7 2. Bxa6+ {
+* (1-0, 25 moves)} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "18.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn1qk1nr/ppp2ppp/8/2b1p3/2B1P1b1/5N2/PPPP2PP/RNBQK2R w KQkq - 0 1"]
+[PlyCount "3"]
+[EventDate "18.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Bxf7+ $1 {Not the only time Steinitz executed this combination. White wins
+two pawns after:} Kxf7 2. Nxe5+ $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "19.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1k2r3/2p3p1/p4p2/1p3q1p/1n6/PQ2P3/1P2B2P/2KR4 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "19.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+{Black is two pawns up, but that doesn't stop him from being precise:} 1...
+Rxe3 $1 2. Qxb4 (2. Qxe3 Qc2# {mate *}) 2... Rxe2 $19 {
+* White resigned five moves later.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "20.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1bqkbnr/pppp3p/2n2p2/6p1/2BPPp2/5N2/PPP3PP/RNBQK2R w KQkq - 0 1"]
+[PlyCount "11"]
+[EventDate "20.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nxg5 $1 {Black cannot take back:} fxg5 ({
+Black instead allowed a forced mate after} 1... h6) 2. Qh5+ {*} Ke7 3. Qf7+ Kd6
+{And for instance:} 4. e5+ Nxe5 5. Qd5+ Ke7 6. Qxe5# {mate} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "21.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppp3p/5p2/6p1/4Pp1P/5N2/PPPP2P1/RNBQKB1R w KQkq - 0 1"]
+[PlyCount "9"]
+[EventDate "21.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nxg5 $1 fxg5 2. Qh5+ Ke7 3. Qxg5+ {*} Ke8 4. Qh5+ $1 ({Imprecise is} 4. Qe5+
+$6 Qe7 5. Qxh8 Qxe4+ $18 {with some slight counterplay.}) 4... Ke7 5. Qe5+ $18
+{White picks up the rook on h8.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "22.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pp1p2pp/2p2p2/4p3/2B5/2P2N2/PPP2PPP/R1BQ1RK1 w kq - 0 1"]
+[PlyCount "11"]
+[EventDate "22.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nxe5 $1 {A surprisingly common theme in Lasker's games.} d5 (1... fxe5 2.
+Qh5+ g6 (2... Ke7 3. Qxe5# {mate}) 3. Qxe5+ Qe7 4. Qxh8 $18 {*}) 2. Qh5+ ({
+Or just as good is:} 2. Re1 fxe5 3. Rxe5+ Kd7 4. Bg5 $1 $18) 2... g6 ({
+One source gives this game as played in New York 1911, with} 2... Ke7 3. Nf7 $2
+Qe8 $2 {0-1 (??) as the final moves, none of which makes any sense.}) 3. Nxg6
+hxg6 4. Qxh8 {*} ({Or} 4. Re1+ {first.}) 4... dxc4 {
+There are many ways to win and you don't have to decide in advance. Easiest is:
+} 5. Re1+ Kf7 6. Bh6 $18 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "23.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r3k1/p3qppp/2pr4/Q2b4/1P2p3/4P3/P3BPPP/2RR2K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "23.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Rxd5 $1 Rxd5 2. Qxd5 $18 {
+* White has won a piece, since Black cannot recapture.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "24.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/2p3pp/q3pn2/1pp1p3/4P3/1P1P1P2/rNP2P1P/1Q3RK1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "24.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Na4 $1 {* The rook is trapped and the c5-pawn is threatened.} Ra3 2. Qb2 ({
+Lasker played} 2. Nxc5 {and won after 22 moves, but the text is better.}) 2...
+b4 3. Qxe5 {Black loses a second pawn.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "25.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/1p3q1k/2p3pp/4P1r1/8/4Q3/PP6/3R3K b - - 0 1"]
+[PlyCount "7"]
+[EventDate "25.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxe5 $1 2. Qxe5 Qf3+ 3. Kg1 Qxd1+ {*} 4. Kf2 Qd7 $17 {It is probably a
+theoretical draw, but that does not change the verdict during a game between
+humans (0-1, 55 moves).} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "26.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r5k1/1b1n2r1/p3n2q/1p1pPRN1/2pP3P/2P3P1/PPBQ4/5R1K w - - 0 1"]
+[PlyCount "7"]
+[EventDate "26.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+{White has a minor piece less, but can more than make up for it with the
+following double threat:} 1. Rf6 $1 Nxf6 2. Rxf6 {*} Qh5 3. Bd1 {
+Not necessary, but a luxury White can afford.} (3. Nxe6) ({and} 3. Rxe6 {
+are also winning.}) 3... Qe8 4. Rxe6 $18 {Black is an exchange up, but since
+he has no chance against all the pawns and an invasion on the kingside, he
+resigned now.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "27.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2rk1/p2p1p2/2p5/1p2PPqn/1b1p2N1/1B1P3Q/PPP3PP/R4RK1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "27.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Qxh5 $1 {The fork on f6 gains a piece.} Qxh5 2. Nf6+ Kh8 3. Nxh5 $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "28.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r5r1/p1p1k3/3q3B/5p2/4p3/1P6/P1P1QPP1/R4RK1 b - - 0 1"]
+[PlyCount "7"]
+[EventDate "28.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxg2+ $1 {* White resigned, since he is mated after:} 2. Kxg2 Rg8+ ({Or} 
+2... Qg6+) 3. Kh1 Qxh6+ 4. Qh5 Qxh5# {mate} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "29.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6rk/p1q2p2/2p1rb1P/1p2pN2/4P1Q1/2PP4/PPB5/2K4R w - - 0 1"]
+[PlyCount "5"]
+[EventDate "29.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Qg7+ $1 Rxg7 2. hxg7+ Kg8 3. Rh8# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "30.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4q1k1/2r3pp/1p6/8/1b2N3/4R1P1/PP3P1P/R5K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "30.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nf6+ $1 {Black could have resigned here, but continued another 15 moves.}
+gxf6 2. Rxe8+ $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "31.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4k3/1bp4r/p7/1p1P4/2P3pN/1P2r1P1/1BP2RPK/8 b - - 0 1"]
+[PlyCount "6"]
+[EventDate "31.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxh4+ $1 {Black can also start by exchanging on c4.} 2. gxh4 g3+ 3. Kg1
+gxf2+ {*} 4. Kxf2 $19 {Instead of being an exchange up, Black is a rook up.}
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "32.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2q4k/5Qp1/4B2p/p1p5/1P6/6PK/r4P1P/8 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "32.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxf2 $1 {Defending against the double threat and getting a queen ending
+with two healthy pawns and a safe king.} 2. Qxf2 Qxe6+ $18 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "33.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5Rnk/pp1q4/7p/3p2rN/3Pp1Q1/2P5/PP5P/6K1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "33.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Qxg5 $1 (1. Rxg8+ Rxg8 2. Qxg8+ {is another way to do the same thing.}) 1...
+hxg5 2. Rxg8+ {Black resigned since he will be a piece down:} Kxg8 3. Nf6+ Kf7
+4. Nxd7 $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "34.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1bq2k1/pp3rpp/2n2b2/3p1p2/3P4/BQPB1N2/P4PPP/R3R1K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "34.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Qxd5 $1 $18 {Black resigned, as he is mated after:} Qxd5 2. Re8+ Rf8 3.
+Rxf8# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "35.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r3k1/pb2bp1p/1p2p1p1/8/q1NPP3/3B4/P3QPPP/3R2K1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "35.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Bxe4 $1 {White's pieces are overloaded and Black won a pawn after:} 2.
+Bxe4 Rxc4 $19 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "36.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6r1/2r1k3/R3p3/p4pPp/1pPK1P2/1P3B1P/P7/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "36.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Rxe6+ $1 Kxe6 2. Bd5+ Kd6 3. Bxg8 $18 {* Black's rook is unable to fight
+against the two passed pawns. The final moves were:} Re7 4. c5+ Kc6 5. Bd5+ Kb5
+6. g6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "37.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4r1k/pppqNppp/3p1B2/4p3/3nP3/3P1b2/PPPQ1PPP/R4RK1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "37.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Bxg7+ $1 Kxg7 2. Qg5+ Kh8 3. Qf6# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "38.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3r2k1/2p2pp1/p1Q2n1p/7q/8/1P1N2P1/P1P2P2/R3K3 b Q - 0 1"]
+[PlyCount "5"]
+[EventDate "38.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxd3 $1 {The game move wins a piece after:} (1... Qh1+ $4 2. Qxh1 {
+would be a terrible blunder.}) 2. cxd3 Qe5+ 3. Kd2 Qxa1 $19 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "39.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp3qpp/2p1p3/2Ppb1PP/5B2/3BP3/PP3Q2/2R1K2R w K - 0 1"]
+[PlyCount "3"]
+[EventDate "39.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Bxh7+ $1 Kh8 ({Or} 1... Kxh7 2. g6+ $18 {* with a fork.}) 2. Bg6 {
+And White won.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "40.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r2rk1/pQ1n1pp1/1p2p2p/3p4/P2P4/4P2P/1qB2PP1/2R2RK1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "40.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Bh7+ $1 (1. Qxd7 Rxc2 {is equal.}) 1... Kxh7 2. Rxc8 Rxc8 3. Qxc8 $18 {
+* White is an exchange up.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "41.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3k4/p1p2prr/1p5N/3PRPP1/b1P5/4B3/P4K2/8 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "41.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+{A good choice is} 1. f6 (1. Nxf7+ $6 {
+looks like a combination and was played in the game, but Black had} Rxf7 2. g6
+Rxf5+ $1 3. Rxf5 Rg7 {
+when he collects the g-pawn with a draw. Instead normal moves give two points.}
+) 1... Rg6 2. Bf4 $1 $18 {when Black's rooks are trapped and he can't
+sacrifice the exchange in a good way.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "42.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3k2r/pbp2qb1/1pn1p2p/3nP1pQ/3PNp2/2PB4/PP1N1BPP/R4RK1 w kq - 0 1"]
+[PlyCount "3"]
+[EventDate "42.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nd6+ $1 {Black resigned due to:} cxd6 2. Bg6 $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "43.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4k3/1r2r1pp/1nR2p2/pp1p4/1N1P2P1/1R2PP2/PP3K1P/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "43.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Rxb6 $1 {Winning a second pawn.} axb4 ({Or} 1... Rxb6 2. Nxd5 $18 {
+* with a fork.}) 2. Rxb7 Rxb7 3. Rxb4 {1-0 The endgame is hopeless for Black.}
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "44.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7r/1p3pp1/pn1kb2p/3p4/3N1P1P/PP1BP3/3K2P1/2R5 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "44.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Bxa6 $1 {White wins a pawn due to:} bxa6 2. Rc6+ Ke7 3. Rxb6 $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "45.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3nrk1/1bp2ppp/pp2p3/3q2N1/1b1PNP2/3B2P1/PP2QP1P/2RR2K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "45.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nxh7 $1 f5 ({Instead} 1... Kxh7 {can be met by} 2. Nf6+ $18 {
+* with a discovered check} ({or} 2. Nc3+ $18)) 2. Nhg5 {
+In the game, Black resigned due to:} (2. Nxf8 fxe4 3. Bc4 {is also winning.})
+2... fxe4 3. Bxe4 {The bishop on b7 is doomed. (White could also go for the
+king with 19.Bc4 $18, forcing Black to give up his queen.)} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "46.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b1k2r/2qp1ppp/ppnbpn2/8/2PNP3/P1N1BP2/1P4PP/2RQKB1R w Kkq - 0 1"]
+[PlyCount "7"]
+[EventDate "46.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Ndb5 $1 (1. Ncb5 {is the same.}) 1... axb5 2. Nxb5 Bg3+ {Regaining the pawn
+does little to alleviate the real problems of the black position - his
+weaknesses on the dark squares (and the b6-pawn) and lack of development.} 3.
+hxg3 Qxg3+ 4. Bf2 $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "47.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r1k1/6qp/pp4p1/2pP4/4Pp2/1P6/P1R3PP/4Q2K b - - 0 1"]
+[PlyCount "3"]
+[EventDate "47.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxe4 $1 2. Qxe4 Qa1+ {* With back-rank mate.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "48.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2bq1r2/4bpk1/4pp1N/7Q/1p1p4/3B4/PP3PPP/R5K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "48.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nxf7 $1 Rxf7 2. Qh7+ $1 Kf8 3. Qh8# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "49.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3r1k1/3b2pp/2p5/p1RpPp2/3Q1P2/1q2P1P1/6BP/R5K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "49.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Rxd5 $1 {White wins a pawn, since} cxd5 2. Bxd5+ $18 {* is a fork.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "50.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3br1k/pp5p/4B1p1/4NpP1/P2Pn3/q1PQ3R/7P/3R2K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "50.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Rxh7+ $1 Kxh7 2. Qh3+ Kg7 3. Qh6# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "51.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5rk1/ppp2ppp/6q1/2b1P3/3r4/2N1BQ1b/PP3PPP/R3R1K1 b - - 0 1"]
+[PlyCount "7"]
+[EventDate "51.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Bxg2 $1 {Highlighting the usefulness of the active d4-rook.} 2. Qg3 (2.
+Qxg2 Rg4 $19 {* pins the queen.}) 2... Rg4 {*} 3. Bxc5 Rxg3 4. fxg3 Re8 $19 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "52.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r2k/ppp3pp/8/1PPb1p2/3P1P1b/P1Q2p1P/7R/R4KBq b - - 0 1"]
+[PlyCount "3"]
+[EventDate "52.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Qg2+ $1 2. Rxg2 fxg2# {mate *} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "53.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3r1b1k/pp4p1/2p1Qp2/5N2/PP2Pp2/2Pq4/5PKP/5R2 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "53.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... f3+ 2. Kg1 Qxf1+ $1 3. Kxf1 Rd1# {mate *} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "54.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp4pp/2pb4/3p1pq1/2PP4/1N1BPR2/PPQ3PP/4R1K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "54.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Bxh2+ $1 2. Kxh2 Qh4+ 3. Rh3 Qxe1 $17 {* Undefended pieces...} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "55.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "q6r/1b4bp/4k1p1/1p2Pn2/2pPp1Q1/2P5/1P1N2PP/2B2RK1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "55.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+{White reduces the material deficit from a piece to an exchange with:} 1. Rxf5
+$1 gxf5 2. Qxg7 $16 {* Considering the weak dark squares and exposed king, his
+position is clearly superior.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "56.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rk1/1b1p1ppp/1qr1p3/p2pP3/P4P2/Q2B4/1PP3PP/R4R1K w - - 0 1"]
+[PlyCount "3"]
+[EventDate "56.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Bxh7+ $1 {Forcing the king to leave the defence of the rook.} Kxh7 2. Qxf8
+$18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "57.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5r1k/pp4pp/2p5/8/4n3/5NPQ/P3Bq1P/4R2K b - - 0 1"]
+[PlyCount "9"]
+[EventDate "57.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Qxe1+ $1 (1... Rxf3 2. Rf1 Qxf1+ $1 (2... Qxe2 $4 3. Qc8+ Rf8 4. Qxf8# {
+mate}) 3. Bxf1 Nf2+ 4. Kg2 Nxh3 5. Kxf3 Ng5+ {is also winning for Black,
+although it doesn't look so simple with White's king active after} 6. Kf4 Nf7
+7. Kf5 {(one point).}) 2. Nxe1 Nf2+ 3. Kg2 Nxh3 4. Nf3 (4. Kxh3 Re8 $1 $19 {*})
+4... Rxf3 {Black could also have achieved a winning position by going for the
+a-pawn, but this is simple.} 5. Bxf3 (5. Kxf3 Ng1+ $18 {*}) 5... Ng5 $19 {*}
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "58.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4rk1/pp2bppp/1qp1p3/4Pb2/Q1P1nB2/2N5/PP1RBPPP/5RK1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "58.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nxe4 $1 Bxe4 2. c5 {A discovered attack, winning the bishop.} Bxc5 3. Qxe4
+$18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "59.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r5/pp1bkp1Q/2nbpq2/3p1p2/3P1Pr1/2NBP1N1/PP4PP/2R2RK1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "59.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nxf5+ $1 ({Not} 1. Bxf5 $2 Rh4 (1... Rxg3 $17) 2. Nh5 Qh8 {
+and Black wins a piece.}) 1... exf5 ({Instead Alekhine tried} 1... Kf8 {
+but White has several ways to win, for instance} 2. Nxd6 Rh4 {
+trapping the queen, but to no avail.} 3. Qxf7+ Qxf7 4. Nxf7 $18 {
+White has won three pawns (1-0, 42 moves).}) 2. Nxd5+ $18 {* It's a fork.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "60.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1bqr1k1/1p1nbpp1/p1p3p1/3p4/3P1B2/2NBP2P/PP3PP1/2RQ1RK1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "60.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nxd5 $1 cxd5 $2 ({Yates avoided this with} 1... Bd6 {but after} 2. Bxd6 {*}
+cxd5 $18 {he had no compensation whatsoever for the lost pawn.}) 2. Bc7 $18 {
+* The queen is trapped.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "61.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3r2k1/q1p1nppp/p3n3/1pb1p3/4P2N/1PP3PP/PBB1QPK1/7R b - - 0 1"]
+[PlyCount "7"]
+[EventDate "61.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Bxf2 $1 $15 {White can't take back due to:} 2. Qxf2 $2 Qxf2+ 3. Kxf2 Rd2+
+4. Ke3 Rxc2 $19 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "62.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1Q6/p4pkp/3p2p1/3P4/q7/P3rBbP/6P1/5R1K b - - 0 1"]
+[PlyCount "3"]
+[EventDate "62.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxf3 $1 2. gxf3 (2. Rxf3 Qd1+ 3. Rf1 Qxf1# {mate *}) 2... Qc2 {
+* 0-1 There is no defence against the mate.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "63.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1bqk2r/p1pn1pp1/1p2pn1p/8/3P4/B1PB4/P1P1QPPP/R3K1NR w KQkq - 0 1"]
+[PlyCount "3"]
+[EventDate "63.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Qxe6+ $1 fxe6 2. Bg6# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "64.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2qk2r/1p1b1pp1/p1pBpn1p/2P1N3/1n1P4/3B4/PPQ2PPP/2KR3R w kq - 0 1"]
+[PlyCount "3"]
+[EventDate "64.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Bg6 $1 fxg6 (1... Qa5 {avoids mate, but Black is completely lost after} 2.
+Bxf7+ Kd8 {followed by any decent queen move.}) 2. Qxg6# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "65.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1r2r1k1/p1pbqppp/Q2b1n2/3p4/P2P4/2P5/1P2BPPP/R1B1KN1R b KQ - 0 1"]
+[PlyCount "3"]
+[EventDate "65.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Bb5 $1 2. axb5 Qxe2# {mate *} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "66.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r4k1/pqp2pbp/2Q2np1/1N2p3/8/1P5P/PBP2PP1/3R2K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "66.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Rd8+ $1 (1. Qxb7 Rxb7 2. Bxe5 {is also good (White will soon be two pawns
+up) but only the game move forces resignation.}) ({Note that after} 1. Qxb7
+Rxb7 {White should avoid pinning the bishop with} 2. Rd8+ Bf8 3. Ba3 {
+since Black can struggle on with:} Nd7 $1 {
+Nevertheless, White gets a rook ending a pawn up that looks winning.}) 1... Bf8
+(1... Rxd8 2. Qxb7 $18 {*}) 2. Qxf6 $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "67.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn1qkb1r/pp3p1b/2p1pnpp/4N3/2B4P/6N1/PPPPQPP1/R1B1K2R w KQkq - 0 1"]
+[PlyCount "3"]
+[EventDate "67.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nxf7 $1 {Classical destruction of the f7-e6 formation.} Kxf7 2. Qxe6+ {1-0}
+(2. Qxe6+ {Black foresaw} Kg7 3. Qf7# {mate *}) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "68.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3n4/2prR1pk/p2r1p1p/1p5P/5P1P/P1B2K2/1PP5/4R3 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "68.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Bxf6 $1 $16 {* White wins a pawn since Black cannot take back on f6.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "69.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6r1/1p2R3/p5k1/2p5/4Nr1P/8/PP5P/6K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "69.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxe4 $1 {Finishing off a winning position.} 2. Rxe4 Kf5+ 3. Kf2 Kxe4 $19 {
+*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "70.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppqnbppp/2p1pn2/3p2B1/2PP4/2NBPN2/PPQ2PPP/R3K2R w KQ - 0 1"]
+[PlyCount "6"]
+[EventDate "70.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Bxh7+ Nxh7 2. Bxe7 {*} Re8 3. Bh4 dxc4 $16 {White was not worried about
+giving back the pawn, since he gets a strong centre. If he was worried, he
+could have started with cxd5+/-, which is equally strong. (1-0, 40 moves)} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "71.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b1qrk1/pppp1ppp/1bn3n1/3Np1BQ/2B1P3/3P1N2/PPP2PPP/R3K2R w KQ - 0 1"]
+[PlyCount "3"]
+[EventDate "71.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nf6+ $1 gxf6 2. Bxf6 {* 1-0 There is no defence against the mate on g7.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "72.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2qrbk1/1bp2ppp/p2p1n2/2p2NB1/4P3/2N2Q2/PPP2PPP/R3R1K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "72.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nh6+ $1 gxh6 2. Bxf6 $18 {* White checkmates or wins the queen.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "73.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4r1k/ppn1NBpp/4b3/4P3/3p1R2/1P6/P1P3PP/R5K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "73.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Ng6+ $1 hxg6 2. Rh4# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "74.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r2rk1/pp1bnp2/3q1n1Q/3p1P2/4p2N/1BPP4/P1P3PP/R4RK1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "74.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Qxh2+ $1 {Exchanging queens and consolidating the material advantage.} 2.
+Kxh2 Ng4+ 3. Kg3 Nxh6 $19 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "75.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5rk1/pbp2ppp/qr6/8/5Q2/1PP5/P4PP1/R1B2RK1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "75.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Bxg2 $1 2. Kxg2 Rg6+ $18 {* Black wins the queen or the rook on f1.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "76.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp1p1ppp/2n2n2/q7/2P5/P1N2NP1/3QPKBP/R1B4R b - - 0 1"]
+[PlyCount "5"]
+[EventDate "76.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Qxc3 $1 2. Qxc3 Ne4+ {
+Black wins back his sacrificed piece, leaving him a pawn up.} 3. Kf1 Nxc3 $15 {
+*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "77.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3Q4/p4pkp/1p3np1/2q5/4p3/4P1N1/PP3PPP/6K1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "77.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Qxf6+ $1 Kxf6 2. Nxe4+ Ke5 3. Nxc5 bxc5 {* The pawn ending is winning,
+unless Black gets time to collect the queenside pawns. And he doesn't after:}
+4. Kf1 ({or} 4. f3) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "78.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3r4/p2q1pkp/1pn1bnp1/2p1p3/P1N1P3/1PP1Q1PP/5PK1/4RBN1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "78.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Nxe4 2. Qxe4 ({If White steps out of the pin with} 2. Kh2 {
+there are many moves that keep the pawn:} f5 (2... Bd5) ({or even} 2... Nf6 3.
+Nxe5 Nxe5 4. Qxe5 Bxb3)) 2... Bd5 $19 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "79.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2kr4/p1p2ppp/3rb3/8/2P5/1R1BR3/P4PPP/5K2 b - - 0 1"]
+[PlyCount "6"]
+[EventDate "79.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxd3 $1 2. Rexd3 Rxd3 ({Or} 2... Bxc4 {first makes no difference.}) 3.
+Rxd3 Bxc4 4. Ke2 $19 {* An extra pawn in a pawn ending wins, unless there are
+some special circumstances.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "80.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/3q3p/p1p3pQ/1p1p4/3P2RP/1P3P2/r3r1P1/5R1K b - - 0 1"]
+[PlyCount "5"]
+[EventDate "80.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxg2 $1 2. Rxg2 Qh3+ 3. Kg1 Qxg2# {mate *} ({Or} 3... Rxg2# {mate.}) 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "81.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/6pp/p1p3r1/3p4/P2P1Pq1/1R2PR2/2Q1K1P1/7r b - - 0 1"]
+[PlyCount "7"]
+[EventDate "81.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Qxg2+ 2. Rf2 Qxf2+ $1 3. Kxf2 Rh2+ {And Black takes the queen:} 4. Kf3
+Rxc2 $19 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "82.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1r2nrk1/p1p2pp1/4bb1p/3p4/q4B2/P1PB1Q1P/1P2NPP1/1R1R2K1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "82.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxb2 $1 2. Rxb2 Qxd1+ $15 {* Black has won a pawn.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "83.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5rk1/p4ppp/b3p3/2n1N3/Pp2P3/1P1r4/3N1PPP/R2R2K1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "83.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxd2 $1 2. Rxd2 Nxb3 $19 {* The extra pawn is decisive.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "84.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r1r2k/p4pp1/2pBnb1p/q1Pp4/3P4/P2R4/2Q1NPPP/3R2K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "84.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Nxd4 $1 (1... Bxd4 {picks up the pawn, but not the exchange. Black is not
+clearly winning yet (zero points).}) 2. Rxd4 Bxd4 {
+White cannot take in any way due to mate on e1:} 3. Rxd4 Qe1# {mate *} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "85.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1bn1b1r/pp2k1pp/5p2/1B2p3/5B2/5N2/PPP2PPP/2KR3R w - - 0 1"]
+[PlyCount "3"]
+[EventDate "85.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nxe5 $1 Ne6 (1... fxe5 2. Bg5+ $18 {*}) 2. Nd3 $1 $18 {
+* White is not only a pawn up, Black is also far behind in development.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "86.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r2rk1/5ppp/p1pp4/2p1n1q1/4P2b/1PN4P/PBPRQPP1/R5K1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "86.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Nf3+ $1 {Black wins an exchange after:} 2. Qxf3 Qxd2 $19 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "87.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/2q3pk/1p2p2p/2n5/2B5/P3PQ2/5PKP/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "87.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Bxe6 $1 Nxe6 {Keeping the knight and setting up a blockade on the e-file
+was not realistic, since White has an f-pawn as well.} 2. Qf5+ ({Or} 2. Qe4+)
+2... Kh8 3. Qxe6 $16 {* White's winning chances should be bigger than Black's
+drawing chances, although the game ended in a draw.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "88.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r7/3k3p/6p1/N1P2p2/1p2p2P/3bPP2/5KP1/R7 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "88.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxa5 $1 2. Rxa5 b3 $19 {* White loses the rook.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "89.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4rrk1/pp2p3/2pqP1p1/4Rp1p/P2P1n1P/6Q1/1P3PP1/1N1R2K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "89.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Qxe5 $1 {Removing the defender of the e2-square.} 2. dxe5 Ne2+ 3. Kh2 Nxg3
+$19 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "90.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r2k1/2q1b2p/ppnpPpp1/2pB4/2P2PPB/PP1R3P/3Q4/6K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "90.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Bxf6 $1 Bxf6 2. e7+ Kg7 3. exd8=Q $18 {* Opposite-coloured bishops normally
+improve the drawing chances of the player who has sacrificed material, but
+Black did not sacrifice the exchange here - he lost it. And without active
+pieces, he cannot create anything on the dark squares. Instead White's active
+pieces and advantage in terrain give him an even greater advantage.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "91.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3r2k1/p1q2pbp/1pn1p1p1/2p5/4P3/4B1P1/PPP1RPBP/2Q4K b - - 0 1"]
+[PlyCount "7"]
+[EventDate "91.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Bxb2 $1 2. Qxb2 Rd1+ 3. Bf1 Rxf1+ 4. Kg2 Rd1 $17 {
+* Black has won a pawn (0-1, 35 moves).} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "92.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1k6/pp3pp1/rr6/3p2Np/2pPnP2/q1P1P2P/P1R3P1/K1QR4 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "92.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Nxc3 $1 2. Qxa3 (2. Rxc3 Qxa2# {mate *}) 2... Rxa3 $19 {* (0-1, 37 moves)}
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "93.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r3r1k1/ppp2ppp/2nb1q2/6Rn/2BP4/P1NQBP1P/1P3P2/2KR4 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "93.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxe3 $1 2. Qxe3 ({White played} 2. Rxg7+ $18 {and resigned after 45 moves.
+}) 2... Bf4 $19 {* There is both a fork and a pin.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "94.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "7k/p6p/6p1/2b2b2/2P5/2R1pBP1/P2rR1KP/8 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "94.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Be4 {White resigned.} 2. Bxe4 (2. Rxd2 exd2 $19 {* and the pawn queens}) (
+{or} 2. Rcxe3 Bxe3 3. Rxd2 Bxf3+ 4. Kxf3 Bxd2 {* and Black is winning.}) 2...
+Rxe2+ $18 {* The bishop will have to sacrifice itself for the e-pawn.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "95.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3q3k/1pp3pp/5p2/1P6/4PQ2/3B2P1/1r3b1P/R6K w - - 0 1"]
+[PlyCount "1"]
+[EventDate "95.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Qxc7 $1 $18 {
+* White wins two pawns due to the back-rank mate (1-0, 47 moves).} (1. e5 {
+also looks promising, as it opens up for an attack against h7, but} Rd2 $1 2.
+Qf5 g6 3. Qxf6+ Qxf6 4. exf6 $18 {
+limits White's advantage to only a winning endgame.}) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "96.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4rk1/p3qpp1/2p2n2/3pb2p/3Q2B1/1PN1P3/PB3PPP/2R2RK1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "96.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Nxd5 $1 {Threatening the queen with check.} cxd5 2. Qxe5 Qxe5 3. Bxe5 $18 {
+* White has won a pawn with a dominant position (1-0, 24 moves).} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "97.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r4rk1/pp1b3p/2p4q/3p1p2/3P2n1/2NBP1PR/PP3PK1/R2Q4 b - - 0 1"]
+[PlyCount "6"]
+[EventDate "97.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Qxh3+ $1 2. Kxh3 Nxf2+ 3. Kg2 Nxd1 4. Rxd1 $19 {
+* It's an exchange and a pawn.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "98.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3kr2/1p1b1pp1/p1n1p2p/8/4q3/1N6/PPP1BKPP/R2Q1R2 w q - 0 1"]
+[PlyCount "5"]
+[EventDate "98.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Qxd7+ $1 Kxd7 2. Nc5+ Ke7 3. Nxe4 $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "99.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r1k1/5p1p/2Qb2p1/3P4/6Pn/2N1B2P/1P3P1q/3R1K2 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "99.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1... Rxe3 $1 2. fxe3 Qg2+ 3. Ke1 Nf3# {mate *} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "100.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b1k2r/1p3pp1/p3pn2/2p1q1N1/8/1B2P3/PPP1Q2P/2KR3R w kq - 0 1"]
+[PlyCount "5"]
+[EventDate "100.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+
+1. Rd8+ $1 Ke7 ({The point is} 1... Kxd8 2. Nxf7+ Ke7 3. Nxe5 $18 {*}) 2. Rxh8
+$18 {* The game finished with:} Qxg5 3. Qd2 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "101.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/1pqrnp2/3p2p1/2pn2b1/P1Q3Pp/2B4P/1PP1RP2/4R1K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "101.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Qxd5 $1 Nxd5 ({The game move} 1... Bf4 {
+is of course hopeless as well (1-0, 41 moves).}) 2. Re8+ Kh7 3. Rh8# {mate *}
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "102.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/1p3pp1/p7/P2n1PQ1/8/8/1r3r1P/3R3K b - - 0 1"]
+[PlyCount "9"]
+[EventDate "102.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Rxh2+ $1 2. Kg1 Rbg2+ $1 ({Or} 2... Rhg2+) 3. Qxg2 ({The game went} 3. Kf1
+Rxg5 {0-1.}) 3... Rxg2+ 4. Kxg2 Ne3+ 5. Kf3 Nxd1 $19 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "103.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r4k1/2qpn1pp/p1p1pr2/2b5/2P2P2/3B4/PP4PP/R1BQ1R1K w - - 0 1"]
+[PlyCount "5"]
+[EventDate "103.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Bxh7+ $1 (1. Qh5 Nf5 2. g4 {does not win a piece, and even loses after} Rh6)
+1... Kxh7 2. Qh5+ Rh6 3. Qxc5 $16 {
+* White has won a pawn, but it is only a flank pawn.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "104.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1rq1r2k/5Rbp/p2p1p1B/2p1p3/2P1P2Q/1P6/P5PP/3b2K1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "104.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Bxg7+ $1 Kg8 2. Bh8 $1 Kxf7 3. Qxf6+ Kg8 4. Qg7# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "105.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5bk1/p2Q1p2/q4p2/4r2p/3pr3/8/PPRRNPPP/5K2 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "105.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Rxe2 $1 2. Rxe2 d3 3. Rxe5 ({White resigned after} 3. Rc3 dxe2+ 4. Ke1 Bb4
+) 3... dxc2+ $18 {* Black gets a second queen.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "106.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/q4pp1/4p2p/1p1r4/1PpPQ3/r1P1R1P1/4RP1P/6K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "106.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Rxc3 $1 2. Rxc3 Qa1+ 3. Kg2 Qxc3 $19 {* (0-1, 38 moves)} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "107.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2qk2r/pp1n1ppb/2pbpn1p/4N3/2BP1P1P/6N1/PPP1Q1P1/R1B1K2R w KQkq - 0 1"]
+[PlyCount "5"]
+[EventDate "107.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Nxf7 $1 Kxf7 (1... Qe7 {and White won after 30 moves.}) 2. Qxe6+ Kf8 3. Qf7#
+{mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "108.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1r4k1/5n1p/5qp1/1p6/3Q4/1P4PP/P3rPB1/R2R2K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "108.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Re1+ $1 {0-1 White resigned due to:} 2. Kh2 (2. Rxe1 Qxd4 $19 {*}) 2...
+Qxd4 3. Rxd4 Rxa1 $19 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "109.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r3r1k1/1p5p/p1pqn1p1/3p1p2/PP1P1P2/1Q1RP3/4B1PP/1R4K1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "109.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Nxf4 $1 2. exf4 Rxe2 {
+* Black is clearly better, but White managed to hold (41 moves).} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "110.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r2k1/p2r1p2/4b1p1/qPp1R2p/P1p4P/8/5PP1/Q3RBK1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "110.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Bxc4 $1 $18 {Black cannot take the bishop due to:} (1. Rxe6 fxe6 2. Bxc4 $2
+(2. Rxe6 Kh7) 2... Qxe1+ $18) 1... Bxc4 (1... Rd6 2. Bxe6 {
+was just hopeless (1-0, 41 moves).}) 2. Re8+ Rxe8 3. Rxe8+ Kh7 4. Rh8# {mate *}
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "111.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3r2k1/5qpp/pp2r3/2p2b2/nPPp1PP1/P4Q2/3N3P/R3RBK1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "111.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Bxg4 $1 2. Qxg4 ({White fought on with} 2. Qg3 $19 {
+but he regretted his previous move g4? for sure (0-1, 38 moves).}) 2... Rg6 $19
+{*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "112.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/1q1rbpp1/7p/1p1p1P2/1P2p1P1/P1Q5/4B2P/3R2K1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "112.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... d4 $1 2. Rxd4 (2. Qe1 d3 $19 {
+and the pawn supported by pieces is too strong.}) 2... Qb6 {* 0-1  If you
+chose a slower way to advance the pawn on the 1st move, such as Bf6 or Qa7+,
+you also get full points.} ({Or} 2... Qa7 $19) ({but not} 2... Bf6 $2 3. Rxd7
+$1 $17) 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "113.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r1b1k1/r1N2p1p/1p2p1pn/p2pP3/1b1P2P1/1P3N1P/P1R2P2/2R2BK1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "113.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Nxd5 $1 (1. Ba6 $6 Rd8 $14) 1... Rxc2 2. Nf6+ {
+Getting out of Dodge before recapturing the rook.} Kf8 3. Rxc2 $18 {* In additi
+on to an extra pawn, White's pieces are much stronger, for instance the bishop
+on e8 is dominated (1-0, 33 moves).} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "114.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4rk1/2n1q2p/b1n1p1p1/pp1pPpN1/P1pP1N1P/2P3P1/1P3PB1/R2QR1K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "114.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Nfxe6 $1 $18 ({There are a few alternatives with the same idea:} 1. Ngxe6
+$18) ({or} 1. axb5 Bxb5 2. Ngxe6 $18) 1... Nxe6 2. Bxd5 $18 {* Since the
+c6-knight cannot retreat on account of the a8-rook, White is regaining at
+least the piece, with a winning position (1-0, 30 moves).} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "115.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r1n1k/3P3p/pp3q2/2pQp3/P1P3B1/3b2R1/1P5P/6K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "115.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Qg8+ $1 {
+A magnet sacrifice leading to a quick mate. Black resigned, rather than face:}
+Kxg8 2. Be6+ Kh8 3. Rg8# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "116.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/5r1p/p2N4/nppP2q1/2P5/1P2N3/PQ5P/7K w - - 0 1"]
+[PlyCount "5"]
+[EventDate "116.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Qh8+ $1 {In the game, Black resigned. He is a piece down after:} (1. Nxf7 $6
+Qxe3 $1 $14) 1... Kxh8 2. Nxf7+ Kg7 3. Nxg5 $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "117.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "Q7/2r2rpk/2p4p/7N/3PpN2/1p2P3/1K4R1/5q2 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "117.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rxg7+ $1 (1. Qe8 {eyes the pawn on e4, but wins only because White has the
+same rook sacrifice later.}) ({But not:} 1. Nf6+ $4 Rxf6 $19) 1... Rxg7 2. Nf6#
+{mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "118.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6rk/p3p2p/1p2Pp2/2p2P2/2P1nBr1/1P6/P6P/3R1R1K b - - 0 1"]
+[PlyCount "3"]
+[EventDate "118.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Rg1+ $1 {White resigned due to:} 2. Rxg1 Nf2# {mate *} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "119.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/pr1r3p/6p1/2p1pk2/3b2N1/1P4P1/P2R1PKP/4R3 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "119.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rxd4 $1 {Black resigned as it's mate:} Rxd4 2. Rxe5+ Kxg4 3. f3# {mate *} ({
+Or} 3. h3# {mate.}) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "120.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r5k1/pp1b2pp/4q3/n7/3Rp3/P7/5QPP/2B2RK1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "120.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rxe4 $1 Qxe4 (1... Qg6 $18 {is hopeless for Black when he has lost his only
+trump, the passed e-pawn (1-0, 28 moves).}) 2. Qf7+ Kh8 3. Qf8+ Rxf8 4. Rxf8# {
+mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "121.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp2ppbp/2n3p1/2pn4/3p1P2/NP2PN2/PBPPB1PP/3RQRK1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "121.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... d3 $1 {The bishop on b2 is en prise and} 2. Bxg7 dxe2 $19 {
+* is an intermediate move that wins a piece.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "122.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/4r1k1/4qp2/1p6/3R4/P1N2QPp/1PP2K1P/4r3 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "122.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Rf1+ $1 {Other moves are obviously also winning, but mate-in-two should
+be seen and played here.} 2. Kxf1 Qe1# {mate *} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "123.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2kr3r/pbpq4/1p5p/4PpP1/P2p4/2P2Q2/2P2P2/R1B1KB1R w KQ - 0 1"]
+[PlyCount "3"]
+[EventDate "123.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Ba6 $1 Bxa6 ({Black played} 1... c6 {but was simply a piece down after} 2.
+Bxb7+) 2. Qa8# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "124.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/4r1p1/p2k1p1p/1bNp3P/3P1K2/2P2P2/6P1/1R6 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "124.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Nxa6 $1 {Neatly picking up a pawn due to:} Bxa6 2. Rb6+ Kd7 3. Rxa6 $18 {*}
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "125.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4kb1r/1br4p/p3p1p1/1p3R2/1n2p3/PNN1B3/1PP3PP/2R3K1 w k - 0 1"]
+[PlyCount "3"]
+[EventDate "125.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rxf8+ $1 Rxf8 2. axb4 $18 {* The two pieces easily outshine the rook.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "126.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/4k1p1/1p2pp1p/p6P/2n1PN2/4qPP1/1P4K1/3Q4 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "126.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Qxf4 $1 {There is a fork on e3 coming up.} 2. gxf4 Ne3+ 3. Kg3 Nxd1 $19 {*
+} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "127.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5r1k/p3Npp1/4p3/3nP3/4QP2/PP2q1P1/1KR5 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "127.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Qh6+ $1 {Black did not let his opponent execute the mate:} Kxh6 ({Or} 1...
+Kg8 2. Rc8+ Rf8 3. Rxf8# {mate.}) 2. Rh1# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "128.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3Rb3/6kp/6p1/3P1p2/3q4/Q5PP/P1r1r1B1/6RK b - - 0 1"]
+[PlyCount "11"]
+[EventDate "128.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+{Black is winning with many moves, but only one is a forced mate:} 1... Qxg1+
+2. Kxg1 Rxg2+ 3. Kh1 Rh2+ 4. Kg1 Rcg2+ 5. Kf1 Bb5+ 6. Ke1 Rh1# {mate *} ({Or} 
+6... Rg1# {mate}) 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "129.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r2nk1/p2q1pp1/1p2b2p/3p4/3P1P2/4R1P1/PP1Q3P/1B2R1K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "129.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. f5 $1 Bxf5 2. Re7 $18 {* The queen can no longer defend the bishop.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "130.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "b2r4/p4Brk/1pqp1Qp1/2p2pPp/5P2/3P4/PP5P/2B1RRK1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "130.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+{It's mate in five moves:} 1. Bxg6+ $1 (1. Re2 {
+is winning as well thanks to the continued threat of Bxg6+}) 1... Rxg6 2. Re7+
+Kg8 3. Qxg6+ ({Or} 3. Qf7+ Kh8 4. Qh7# {mate.}) 3... Kf8 4. Qg7# {mate *} ({Or
+} 4. Qf7# {mate.}) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "131.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2kn3r/pp1b4/2n1p1p1/q2pP1P1/2pN1P2/P1P3K1/2PB4/R2Q3B b - - 0 1"]
+[PlyCount "5"]
+[EventDate "131.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Rxh1 $1 {Black gets two pieces for the rook after:} 2. Qxh1 Nxd4 3. cxd4
+Qxd2 $19 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "132.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7k/8/7P/6K1/6Q1/6P1/7q/8 b - - 0 1"]
+[PlyCount "2"]
+[EventDate "132.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Qxh6+ $1 (1... Qd2+ {is the complicated way to draw (zero points). The
+queen endgame with g- and h-pawns is generally drawn with the defending king
+in front of the pawns. It surprised the whole Swedish team when we learned
+this at the 2016 Olympiad in Baku.}) ({However} 1... Qd2+ {
+should lose in a practical game. First, Black has to find} 2. Qf4 Qd8+ 3. Qf6+
+Kh7 $1 4. Qxd8 {with stalemate.}) 2. Kxh6 {* 1/2-1/2 Stalemate!} (2. Kf5 {
+keeps the game going, but it's an easy draw anyway.}) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "133.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r4rk1/pp5p/2pp4/2n3q1/2b2p1R/2N3P1/PP1QPPB1/2KR4 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "133.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Bxa2 $1 {White is lost due to:} 2. Nxa2 Nb3+ {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "134.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2q4k/p6p/6p1/5p2/5P1P/1Bb2QP1/Pr6/3R2K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "134.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rd8+ $1 {Deflection.} ({But not} 1. Rc1 $4 Bd4+ $18) 1... Qxd8 2. Qxc3+ Qf6
+3. Qxf6# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "135.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3r2k1/5rbp/pp3np1/3P4/1B1N1R2/8/P5PP/5RK1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "135.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Nxd5 $1 2. Ne6 (2. Rxf7 Bxd4+ 3. Kh1 Nxb4 $19 {*}) 2... Nxf4 $19 {
+White resigned after:} 3. Rxf4 Rxf4 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "136.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1bqr1k1/p1p2ppp/3b1n2/2P3B1/8/2NQ1N2/PP3PPP/R4RK1 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "136.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Bxh2+ $1 {* Discovered attack.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "137.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r4rk1/2p3b1/3p2qp/p1PPp3/4Rn2/P5Q1/3B1NPP/2R3K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "137.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Qxe4 $1 2. Nxe4 Ne2+ 3. Kh1 Nxg3+ {* Black should be winning with the
+extra exchange, but failed to convert (1/2-1/2, 57 moves).} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "138.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2rq1rk1/pp3pb1/3p2pB/n4P2/4pP2/1BNQ4/PKP3P1/3R3R w - - 0 1"]
+[PlyCount "5"]
+[EventDate "138.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Bxg7 $1 exd3 ({The game ended after} 1... Kxg7 2. Nxe4 {when either White's
+attack or his extra piece would have been enough on their own.}) 2. f6 ({Or} 2.
+Bd4 $18) 2... dxc2 3. Rh8# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "139.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "rr4k1/1q3p2/4b2p/p2n2p1/2B5/Q3P3/PP1R1PPP/3R2K1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "139.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Nxe3 $1 {Black is a piece up, but there is still work to be done. Black
+decided the game on the spot.} 2. Qxe3 (2. Bxe6 Qxg2# {mate *}) 2... Bxc4 $19 {
+* (0-1, 31 moves)} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "140.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r1rk1/ppp1qpp1/2p1b2p/4P3/3nNQ1P/5N2/PPP2PP1/R4RK1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "140.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+{White exploits Black's last move (Nd4) with a simple discovered attack.} 1.
+Nxd4 (1. Nf6+ $2 Qxf6 $1 {and White has to play} 2. Qxd4 $15) 1... Rxd4 2. Nf6+
+$1 Qxf6 3. Qxd4 {* White has a clear advantage and the game ended abruptly
+after a further blunder by Black:} Rd8 4. Qe4 Bd5 $2 5. Qxd5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "141.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2brrbk1/2q2p1p/p4np1/1ppPp3/4P3/BP2N1P1/P3QPBP/2RR2K1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "141.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Bxc5 $1 Bxc5 ({The game saw} 1... Qb8 $18) 2. b4 $18 {*} Nd7 $2 {
+The only critical move, but it is simply bad:} 3. bxc5 Nxc5 $2 4. Qc2 $18 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "142.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r4rk1/ppp1bppp/2N2n2/7q/6b1/2P5/PP1NBPPP/R1B1QRK1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "142.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Bd6 $1 {Moving the threatened piece out of danger with a dangerous threat.
+} ({Not} 1... bxc6 2. Bxg4) ({or} 1... Bxe2 $2 2. Nxe7+ $16) 2. h3 Bxe2 3. Nd4
+Bxf1 $19 {* (0-1, 36 moves)} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "143.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1nq1n2/3b2k1/p2p1p1R/Pp1Pp1p1/1Pp1P1P1/2P1BPN1/2BQ2K1/8 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "143.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rxf6 $1 {Taking the rook loses the queen, so Black resigned.} ({
+Instead if White had retreated the rook with, for example,} 1. Rh3 {then he wou
+ld still have some work to do, although 1-0 does seem the most probable result
+(no points).}) 1... Qxf6 (1... Kxf6 2. Bxg5+ $18 {*}) 2. Nh5+ $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "144.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4rbk1/3Q1ppp/3p4/3P4/5q2/B7/P5PP/5RK1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "144.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Qd4+ $1 (1... Qe3+ 2. Rf2 (2. Kh1 Qf2 $19) 2... Re7 $1 3. Qa4 Ra7 $1 {
+will also win.}) 2. Kh1 (2. Rf2 Re1# {mate *}) 2... Qf2 $1 $19 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "145.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1b5/5pk1/1p1p3p/3Pq1p1/PQ2Pn2/5P2/5RPP/3R3K b - - 0 1"]
+[PlyCount "3"]
+[EventDate "145.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Nd3 $1 {An unexpected fork after White's last move Rf1-f2?} 2. Qxb6 (2.
+Rxd3 Qa1+ {* mating.}) 2... Nxf2+ $18 {* Black is a piece up and has the more
+active heavy pieces. White resigned a few moves later.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "146.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6rk/7p/p2Q4/1p2r3/8/4NP1q/PPP4P/5R1K b - - 0 1"]
+[PlyCount "3"]
+[EventDate "146.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Qxh2+ $1 {The only winning move. 0-1} 2. Kxh2 Rh5# {mate *} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "147.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r2b1k1/R4nqp/4p3/1pR5/1P1P1r2/5N2/1Q2B1P1/6K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "147.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rg5 $1 {Using the fact that the knight on f7 is pinned.} Qxg5 (1... Nxg5 2.
+Rxg7+ Kxg7 3. Nxg5 $18 {* and White is up too much material.}) 2. Nxg5 {*} Nxg5
+3. d5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "148.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2rb1qk1/1b4pp/3p4/1P2pr2/2n2PB1/2NQ2P1/P1N4P/R2R2K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "148.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Bb6+ $1 ({The move order} 1... Rxf4 {doesn't work as well:} 2. Be6+ $1 Kh8
+3. Nd5 $17) ({Even worse is:} 1... Nb2 $2 2. Qxf5 $16) 2. Kf1 Rxf4+ $1 3. gxf4
+Qxf4+ {* 0-1 Black has a mating attack.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "149.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2b2k1p/pp1P3r/2p3p1/6P1/1P2R2P/5P2/6K1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "149.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Re7+ $1 {The only way to promote the pawn.} ({And not:} 1. dxc7 $2 Rc6 $17)
+1... Kf8 (1... Kf6 2. dxc7 $18 {*}) 2. dxc7 $18 Rc6 3. Rd7 ({
+White chose a slower way:} 3. Rxh7 Ke8 4. h4 $18) 3... Ke8 4. Rd8+ Ke7 5. c8=Q
+Rxc8 6. Rxc8 $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "150.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r3rnk1/1N3ppp/1p6/p1Pp2q1/8/6P1/PP2PPBP/2R1Q1K1 b - - 0 1"]
+[PlyCount "7"]
+[EventDate "150.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Rxe2 $1 2. Qxe2 Qxc1+ {* Black has opened White's first rank and won a
+pawn, leaving him up a full exchange, and winning. The game had a quick finish:
+} 3. Qf1 Qd2 4. cxb6 $2 Rc8 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "151.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/6k1/1P1p2p1/3Ppn2/3q4/8/6PP/rR2QB1K b - - 0 1"]
+[PlyCount "3"]
+[EventDate "151.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Ng3+ $1 {White resigned in view of} 2. hxg3 Ra8 $1 {* with mate.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "152.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/7R/2r5/8/P3n3/8/3nk1PP/R5K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "152.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Nf3+ $1 {0-1 Mate is coming up:} 2. gxf3 Rg6+ 3. Kh1 Nf2# {mate *} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "153.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3rrk2/R4ppB/7p/1p2N1q1/nPbP1p2/2PQ1P2/6PP/4R1K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "153.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Qxc4 $1 {Black resigned instead of permitting:} bxc4 2. Rxf7# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "154.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5kr1/5p2/8/1Q1bPp2/8/P5P1/q1rBBK1P/3R4 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "154.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Qxd5 $1 {Move order is important here.} (1. Bh6+ Ke7 $14 2. Rxd5 $2 (2. Qb4+
+Kd7 3. Rd2 Rxd2 4. Bxd2 Rg6 $14) 2... Rxe2+ $1) ({or} 1. Qb4+ $5 Kg7 2. Qh4 Re8
+$1 $14 {still with great chances against Black's exposed king.}) 1... Qxd5 2.
+Bh6+ (2. Bb4+ $2 Qc5+ {=}) 2... Ke7 3. Rxd5 $18 {* (1-0, 38 moves)} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "155.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3rrnk1/1bq2pp1/ppnppb1p/8/2P1PPQ1/1PN2N2/PB4PP/1B1R1R1K w - - 0 1"]
+[PlyCount "3"]
+[EventDate "155.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Nd5 $1 (1. Nb5 {is a worse variant since the queen can escape to e7, but it
+still gives a winning advantage:} Qe7 2. Bxf6 Qxf6 3. Nxd6 $18 {(full points)})
+1... Bxb2 (1... exd5 2. Bxf6 Ng6 3. Bxd8 $18 {*}) 2. Nxc7 $18 {
+* (1-0, 40 moves)} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "156.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1n3rk1/p2pQpp1/4q2p/1r6/4B3/4P1P1/P4P1P/2RR2K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "156.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Bh7+ $1 {Deflection.} Kxh7 2. Qxf8 $18 {* (1-0, 40 moves)} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "157.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4R3/p4pk1/5qpp/1PnP4/3Q3P/6P1/r1r1BPK1/3R4 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "157.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rg8+ $1 {Deflection.} Kxg8 2. Qxf6 {* (1-0, 45 moves)} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "158.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4rrk1/1p1n1pb1/2ppq1p1/p3p1Bp/P1P1P2P/2NP2P1/1P2QPK1/3R1R2 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "158.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Nd5 $1 {Exploiting the claustrophobic queen on e6.} Nc5 ({
+Black's alternatives are no better:} 1... cxd5 2. cxd5 $18 {*}) (1... Rb8 2.
+Nc7 $18 {*}) ({or} 1... Rc8 2. Ne7+ $16 {*}) 2. Nc7 Qd7 3. Nxe8 $16 {
+* Black saved a draw (42 moves).} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "159.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3rbk1/1b3Npp/1q1p2n1/2pP4/5R2/1PN3Q1/4P1BP/5R1K w - - 0 1"]
+[PlyCount "3"]
+[EventDate "159.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Qxg6 $1 {1-0 White was winning anyway, but this is too nice to pass up.}
+hxg6 2. Rh4 {And on next move Rh8 mate * is unavoidable.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "160.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5nk1/1b1qQpp1/p3p3/3pP1N1/3P3P/1p1B4/1P3PP1/6K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "160.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Bh7+ $1 {Deflecting the knight or king.} Nxh7 (1... Kh8 2. Qxf8# {mate *})
+2. Qxd7 $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "161.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r2k/3n2bB/2p1NqQ1/2Pp4/5B2/r6P/5PP1/4R1K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "161.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Rxe6 $1 {Clearing the back rank in order to force the king to h2, so the
+bishop falls with check.} 2. Rxe6 Ra1+ (2... Qxf4 $6 3. Re8+ Nf8 4. Qh5 $15) 3.
+Kh2 Qxf4+ $18 {* (0-1, 46 moves)} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "162.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2b4k/p3q2p/2p1p3/2PpPpr1/3P3Q/4P2B/3b1B1P/R6K b - - 0 1"]
+[PlyCount "11"]
+[EventDate "162.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Bxe3 $1 {
+Using the fact that pins can sometimes become discovered attacks instead.} 2.
+Bxe3 $6 (2. Bg2 Bxf2 3. Qxf2 $17) 2... Rg1+ 3. Rxg1 Qxh4 4. Bg5 Qe4+ $1 5. Bg2
+Qxd4 {* White has no time to move the bishop from g2, since the e5-pawn is
+hanging. After} 6. Bf6+ Kg8 $19 {
+there is no good discovered check (0-1, 50 moves).} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "163.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "7r/3b1pk1/2p2qp1/8/1P1bNP2/r2B4/3Q2PP/2R2R1K b - - 0 1"]
+[PlyCount "3"]
+[EventDate "163.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Rxh2+ {White resigned due to:} 2. Kxh2 Qh4# {mate *} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "164.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1r1r4/5ppk/1p5p/2b1Pp1Q/8/q7/3B1PPP/2RR2K1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "164.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Rxd2 $1 2. Rxd2 ({After the game move} 2. Qh4 $19 {
+Black has simply won a piece, so White resigned in a couple of moves.}) 2...
+Qxc1+ $18 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "165.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4kr2/p1Bbpp2/1p4p1/n6p/2B1P2P/2K2P2/P2R2P1/8 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "165.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Bb5 $1 {
+The X-ray mate threat wins the bishop. Black resigned instead of allowing:}
+Bxb5 2. Rd8# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "166.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2n2k2/2b2pp1/2p1pnp1/2Pp2N1/3P1PP1/3BP2P/3BK3/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "166.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Bxg6 $1 Bxf4 (1... fxg6 2. Nxe6+ Ke7 3. Nxc7 $18 {*}) 2. exf4 ({Or} 2. Nxf7
+$18) ({or} 2. Nxe6+ fxe6 3. exf4 $18) 2... fxg6 3. Nxe6+ $18 {(1-0, 69 moves)}
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "167.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r5k1/pb1p1Rpq/2n1p1Q1/1p2P3/3P2P1/P7/1P1K4/5R2 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "167.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rf8+ $1 {Deflection.} ({Worse is} 1. Qxh7+ Kxh7 2. Rxd7 $16) 1... Rxf8 2.
+Rxf8+ Kxf8 3. Qxh7 $18 {* (1-0, 42 moves)} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "168.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1k1r1q1r/2p2ppp/Qp6/3b1N2/8/P5P1/1P3P1P/2R2RK1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "168.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rxc7 $1 (1. Nd4 {threatens Nb5 with mate, but Black can defend after} Qe7 2.
+Nb5 c6 $16) 1... Kxc7 2. Qa7+ {
+* 1-0 With the rook coming to c1, the attack will be deadly.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "169.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/4qp2/1B4pp/2R1b3/P2Nb3/1P2Q3/r4PPP/6K1 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "169.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Qxc5 $1 {* The back-rank mate threat means Black has simply won a rook,
+leaving him easily winning.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "170.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "R3n1k1/7p/3prppB/1p2p3/1P2P2Q/7P/5PPK/1q6 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "170.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rxe8+ Rxe8 ({Instead Black soon lost after} 1... Kf7 $18) 2. Qxf6 {
+* White is mating.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "171.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2rr4/pp4kp/6p1/3nNp2/2B5/2n3P1/P2R1PKP/R7 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "171.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Ne3+ {* 0-1} ({A discovered attack, which could also be executed with} 
+1... Nf4+ $18) 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "172.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rk1/ppr2Npp/2q1Pp2/3n4/8/6Q1/P5PP/3R1R1K w - - 0 1"]
+[PlyCount "3"]
+[EventDate "172.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rxd5 $1 Qxd5 2. Qxc7 $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "173.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r7/5kpp/2p1pq2/1bP2p2/p4Q2/5BP1/PP3P1P/4R1K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "173.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Bxc6 $1 Bxc6 2. Qc7+ Qe7 3. Qxc6 $16 {
+* White is a pawn up with good winning chances.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "174.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/1p3pkp/pb2p1p1/8/4P2P/1N4P1/P1R1KP2/7r b - - 0 1"]
+[PlyCount "3"]
+[EventDate "174.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Bxf2 $1 {Winning a second pawn due to:} 2. Kxf2 Rh2+ $18 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "175.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r5/pp1b4/4p3/3pPk2/5P2/8/1K6/3R2R1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "175.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rd4 $1 {* 1-0 Mating.} (1. Rg7 {
+is a useless intermediate move that allows Black to defend with} Be8 2. Rd4 Bg6
+$16) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "176.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2r2k1/1p1n1bpp/1pp1pp2/8/Pb1PP1P1/1BNRBP1P/1P3K2/2R5 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "176.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Nc5 $1 {The pin allows this fork.} 2. dxc5 Rxd3 $17 {* (0-1, 36 moves)}
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "177.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/1R3pbp/4p1k1/5p2/8/2N2P2/1P1r1P1P/4K3 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "177.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Rxb2 {Picking up a pawn with a small tactic gives Black a winning endgame.
+} 2. Rxb2 ({Instead, White tried to fight with} 2. Nb5 $19 {
+but in the end it proved fruitless (0-1, 53 moves).}) 2... Bxc3+ $18 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "178.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k1r/ppq3b1/8/3Pp2p/3n4/7Q/PP3PPP/3RR1K1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "178.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+{White is obviously much better, but cleanest is:} 1. Rxd4 $1 {
+Black resigned in view of:} exd4 2. Qf5+ Qf7 3. Qc8+ Qe8 4. Qxe8# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "179.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3qn1k/pp3pp1/2b1p2p/4P1BP/2B3Q1/8/PPP3P1/2K1R3 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "179.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Bf6 $1 {The king is too exposed after:} gxf6 2. exf6 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "180.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3r2k1/1b3p1p/pp4p1/4PqP1/3NpP2/1P2Q2P/P6K/2R5 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "180.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Rxd4 $1 $19 {* Black wins back the rook on c1, so he has just won a piece,
+and will break through easily.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "181.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r1rk/p3q2p/3p1n1Q/3P4/Pp1n1P2/3BN2R/1PPK1P2/R7 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "181.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Qxf6+ $1 {Other moves take longer to win.} Qxf6 2. Rxh7# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "182.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2kr3r/1pq3p1/p1p3Qp/P1n1p3/8/RbN1P1P1/1P2P1BP/5RK1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "182.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rxb3 $1 {Black resigned since} Nxb3 2. Qe6+ Kb8 3. Qxb3 $18 {
+* is winning, although it wouldn't have hurt to fight on.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "183.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2rq1rk1/1p4bp/4p1p1/p2p1bP1/P2N4/2PnB3/QP4BP/R5RK b - - 0 1"]
+[PlyCount "3"]
+[EventDate "183.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Qxg5 $1 {Picking up this pawn increases the advantage considerably.} 2.
+Bxg5 ({White tried to fight on with} 2. Rge1 {but resigned a few moves later.})
+2... Nf2# {mate *} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "184.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2k4r/pp3p2/1np3q1/2Q3p1/3R4/1P2P1P1/P4PB1/6K1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "184.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Bh3+ $1 {* 1-0 If the king moves, Qe5+ picks up the rook on h8 (and mates).
+If the bishop is taken then Qf8+ mates. And finally, anything put in the way
+will just be taken.} ({Not} 1. Rd6 $2 Qb1+ 2. Bf1 Qh7 3. Bg2 Qb1+ {=}) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "185.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2rk1/p1q2n1p/6p1/2Ppp3/8/2Q2NPP/P4PB1/1R3RK1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "185.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Nxe5 $1 Nxe5 2. Bxd5+ $18 {* Winning the rook on a8.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "186.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r6/RP5p/P1kp4/2n2p2/8/4PKP1/5P1P/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "186.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Ra8 $1 Kc7 (1... Nxa6 2. Rxa6+ {leaves White with an easily winning endgame.
+}) 2. a7 Rxb7 3. Rc8+ $1 {* 1-0 The pawn promotes.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "187.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2qk2r/3bb1pp/5p2/1p1Q4/1pNP4/4P3/PB4PP/R4RK1 w kq - 0 1"]
+[PlyCount "3"]
+[EventDate "187.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+{The knight seems to be forced back, but can instead go forward to seemingly
+protected squares.} 1. Ne5 $1 Rf8 (1... fxe5 $2 2. Qf7# {mate}) 2. Nxd7 $1 $18
+{* Black can't take back since it would leave the rook on a8 unprotected (1-0,
+23 moves).} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "188.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3k1r1/p4p1p/3bpBp1/3p1b2/5P2/3BP2P/PP4P1/1K1R3R w q - 0 1"]
+[PlyCount "3"]
+[EventDate "188.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. e4 $1 {The bishop on d6 becomes exposed.} Bxe4 (1... dxe4 2. Bb5+ Kf8 3.
+Rxd6 $18 {*}) 2. Bxe4 $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "189.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r2k/6b1/8/p2R3p/1pP1p1Nq/8/PP3P1P/3Q3K w - - 0 1"]
+[PlyCount "5"]
+[EventDate "189.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Nf6 $1 {1-0 With winning threats on h5.} ({But not} 1. Ne3 $6 Be5 $16) 1...
+Qxf6 (1... Bxf6 2. Rxh5+ $18) 2. Qxh5+ Kg8 3. Qxe8+ $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "190.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r4k/2q4p/p2bPp2/1p6/6QP/3B4/PPP5/1K4R1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "190.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. e7 $1 {
+* 1-0 The only defence against Qg7 mate leaves the rook on c8 undefended.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "191.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3n4/2p2pk1/3r2p1/6Np/1P1q3P/4QR2/5PP1/6K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "191.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rxf7+ $1 {1-0 The variation goes:} Nxf7 2. Ne6+ Rxe6 3. Qxd4+ $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "192.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1q2rk1/3bpp1p/3p2p1/3P4/Pnn1P3/2N2NP1/1R1Q1PB1/4R1K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "192.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Qh6 $1 {White removes the queen from danger with a mating threat, leaving
+the knight on b4 to face the gallows.} f6 (1... Nxb2 2. Ng5 $18 {* with mate.})
+2. Rxb4 $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "193.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r2rk1/p4ppp/1p6/2b5/5Pn1/1Q2PR1P/P5P1/R1B1qBK1 b - - 0 22"]
+[PlyCount "3"]
+[EventDate "193.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+22... Nxe3 $1 {*} (22... Bxe3+ $2 23. Bxe3 {wins for White.}) 23. Rxe3 ({
+Other moves are no better:} 23. Bxe3 Qxa1 $19 ({or} 23... Bxe3+ 24. Qxe3 Qxa1
+$19 {White is so tied up that basically any move wins by eventually bringing
+one rook into the action.})) 23... Rfe8 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "194.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5r1k/2p5/5qp1/1Pb1p2p/4B2P/3P2P1/4QPK1/5R2 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "194.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Bxg6 $1 {
+Winning two more pawns, bringing the total to an overwhelming three.} Qxg6 2.
+Qxe5+ Kg8 3. Qxc5 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "195.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2kB2r1/p3R3/q1p3r1/bp2Qp2/2PP3p/1P4P1/P4P2/5K2 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "195.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rc7+ $1 (1. Qxf5+ Kb8 2. Bxa5 Ka8 $1 $13) 1... Kb8 (1... Kxd8 2. Qe7# {
+mate *}) ({or} 1... Bxc7 2. Qxc7# {mate *}) 2. Rxc6+ {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "196.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r3k2/2p3Rp/2b5/p1Pp2p1/P2B1pq1/2PB2P1/7P/5RK1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "196.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rxf4+ $1 {* 1-0 Winning the queen.} (1. Bxh7 {
+keeps the threat of Rxf4+, but Black can fight on with} Qh3 $16) (1. Rxh7 {
+allows} Rb2 $1) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "197.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/5rpp/4Qn2/3p4/1q1P4/1p2P2P/6P1/3B1RK1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "197.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Bh5 $1 {Exploiting all the pins!} (1. Rxf6 $5 gxf6 2. Bh5 Qb7 3. Bxf7+ Qxf7
+4. Qb6 $16 {gives Black good drawing chances in a queen ending a pawn down.})
+1... g6 (1... Nxh5 2. Qxf7+ {*} Kh8 3. Qe8+ Qf8 4. Rxf8# {mate}) ({or} 1... Qf8
+2. Bxf7+ $18) 2. Rxf6 {*  In the game, Black resigned in a few moves:} ({Or} 2.
+Bxg6 hxg6 3. Rxf6 $18) 2... Qb7 3. Bd1 b2 4. Qe8+ Kg7 5. Qxf7+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "198.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6rk/7p/8/1p3R2/pN6/P1n2B1P/4brPK/4R3 b - - 0 1"]
+[PlyCount "7"]
+[EventDate "198.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Bxf3 $1 {Winning the g2-pawn and an exchange.} (1... Rgxg2+ 2. Bxg2 Rxf5 {
+is too kind:} 3. Rc1 $15) 2. Rxf3 Rgxg2+ 3. Kh1 Rh2+ 4. Kg1 Ne2+ {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "199.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r3k1/p2b2pp/1pqr4/2p1R3/4P3/P1Q3PP/1P4BK/3R4 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "199.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Re7 $1 $18 {* Threatening mate, and both defences end up losing the bishop.}
+Rd4 (1... Rg6 2. Rdxd7 $18) 2. Rxd4 cxd4 3. Qxd4 {1-0 Double attack.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "200.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r3r1k1/p2q1pbp/6p1/3Q2B1/8/5P2/PP4PP/R2R2K1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "200.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Re1+ $1 {Deflection.} 2. Rxe1 (2. Kf2 Qxd5 3. Rxd5 Rxa1 $19 {*}) 2... Qxd5
+$19 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "201.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r2k1/pp4qn/3p1ppQ/2pPp3/4P1N1/1P2P2R/1PP3PP/6K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "201.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Qxh7+ Qxh7 2. Nxf6+ $18 {* 1-0 White wins a piece.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "202.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r2k/p4rp1/1pb3qp/3NB3/2P1Q2n/1P1R4/1P4PP/4R1K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "202.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Rxe5 $1 {The white queen is doubly pinned and is needed to protect g2.} 2.
+Qxh4 (2. Qxe5 Qxg2# {mate *} ({or} 2... Qxd3 $19)) ({and} 2. Qxg6 Rxe1# {mate *
+} ({or} 2... Nxg6 $19)) 2... Rxe1+ ({Or} 2... Qxd3 $19) 3. Qxe1 Qxd3 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "203.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b3k1/r2r1pp1/p3p2p/1pq1P3/4B2Q/2P5/P4PPP/3RR1K1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "203.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Qd8+ $1 {
+An X-ray/reloader theme supported by the strongly-placed bishop on e4.} Rxd8 (
+1... Qf8 2. Bh7+ $18 {*}) 2. Rxd8+ Qf8 3. Bh7+ $1 ({Or} 3. Red1 Rc7 4. Bh7+ $16
+) 3... Kxh7 4. Rxf8 $16 {* (1-0, 30 moves)} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "204.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r5/R2b1pk1/3q1bpp/1p1Pp3/4P3/3P3P/1Q1NBPP1/6K1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "204.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Rxd7 $1 {1-0 Winning another pawn and exchanging some pieces.} ({Too kind is
+} 1. Bg4 Bxg4 2. hxg4 $16) 1... Qxd7 2. Bg4 Qd8 3. Bxc8 Qxc8 4. Qxb5 $18 {*}
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "205.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r6k/7p/1Qp2rpq/p3p3/2B1P3/2B2P1n/P5PK/1R6 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "205.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Qb8+ $1 ({The breathing hole on g7 is not enough, neither is either of the
+two possible blocks on f8.} 1. Bxe5 $2 Ng5+ 2. Kg1 (2. Kg3 Nxe4+ 3. fxe4 Qg5+
+$18) 2... Nxf3+ $18) 1... Rxb8 2. Rxb8+ Kg7 (2... Rf8 3. Bxe5+ (3. Rxf8+ Qxf8
+4. Bxe5+ $18) 3... Qg7 4. Rxf8# {mate *}) (2... Qf8 3. Rxf8+ Rxf8 4. Bxe5+ Rf6
+5. Bxf6# {mate *}) 3. Rg8# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "206.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6rk/p6n/3p4/2pPb2q/4N3/P2BQPp1/6K1/7R b - - 0 1"]
+[PlyCount "9"]
+[EventDate "206.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Qxh1+ $1 {Forcing a winning endgame.} ({Not} 1... Qh2+ 2. Rxh2 gxh2+ 3.
+Kh1 Rg1+ 4. Qxg1 hxg1=Q+ 5. Kxg1 $15) 2. Kxh1 g2+ 3. Kg1 Bd4 {* With his
+al advantage and dangerous passed pawn, Black is winning. The game ended
+swiftly:} 4. Qxd4+ cxd4 5. Nxd6 Ng5 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "207.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5rk1/p4qp1/2p4p/1p2Pn2/2pP2Q1/2P4P/P2B3K/5R2 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "207.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Ne3 $1 (1... b4 $6 $17) 2. Bxe3 (2. Rxf7 Nxg4+ $18 {*}) 2... Qxf1 $19 {
+* (0-1, 34 moves)} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "208.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r3qbk/1p2rpp1/p1p2n1p/PnN1NP2/1P2PQ2/3P1B1P/7K/1R4R1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "208.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Ne6 $1 $18 {
+White is clearly better after other moves, but this finishes the game.} fxe6 ({
+The game try} 1... g5 {is plain hopeless; the game continued} 2. Nxf8 (2. fxg6
+{and other moves are winning as well}) 2... gxf4 3. Nfg6+ $1 fxg6 4. Nxg6+ {
+and Black resigned.}) ({No better is} 1... Qc8 2. Rxg7 {* with mate.}) 2. Ng6+
+Kh7 3. Nxf8+ $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "209.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r1k1/2BR3p/8/5Rp1/4n1K1/4P1P1/1P2P2P/5r2 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "209.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... h5+ $1 {Deflecting the king from the defence of the rook.} (1... Nf6+ $2
+2. Rxf6 Rxf6 {and all the pawns make up for the exchange.}) 2. Kxh5 Rxf5 {*}
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "210.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4rrk1/p2pB1pp/2p5/2P1R3/3QN3/Pq2n3/1P4PP/2KR4 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "210.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Nf6+ $1 {* 1-0 Getting rid of the pesky knight on e3 with tempo, leaving
+White totally winning.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "211.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1n3q1k/r2r3p/p3Q3/1p6/8/2P3R1/P4PPP/4R1K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "211.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Qf6+ $1 {Black resigned.} Qxf6 2. Re8+ Qf8 3. Rxf8# {mate *} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "212.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1qr1r1k1/2b2ppp/Bpb1p3/4n3/P7/2N1BP2/1PP3PP/3RR1QK b - - 0 1"]
+[PlyCount "3"]
+[EventDate "212.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Nxf3 $1 2. gxf3 Bxf3+ {* 0-1 Winning the queen.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "213.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2rb2k1/5pp1/2p1pn1p/2P5/1N1Pp3/4P1BP/5PP1/1R4K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "213.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+{White wins a pawn by exploiting the potential pin on the eighth rank, either
+by:} 1. Nxc6 $1 ({Or the almost equally good} 1. Ra1 {threatening Ra1-a6, so}
+Nd5 2. Nxc6 {with the same theme but having given away ...Nf6-d5.}) 1... Rxc6
+2. Rb8 Kh7 3. Rxd8 $18 {*} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "214.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5r1k/q3bQpp/2B5/1P2p3/4P3/p1P5/5PPP/5RK1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "214.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. b6 $1 {1-0} (1. b6 $1 {The pawn queens after} Rxf7 2. bxa7 $18 {*}) (1. b6
+$1 {and the threat on the rook leaves White a piece up after} Qxb6 2. Qxe7 {*})
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "215.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r3k1/4bpp1/4pn1p/1p6/q1r5/2BR1BP1/PQ2PPKP/3R4 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "215.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Rxc3 {0-1} (1... Rxc3 {The rook on d3 is overloaded:} 2. Rxc3 Rxc3 3. Qxc3
+Qxd1 $19 {*}) 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "216.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r1k1/5p2/p5pp/P1p2q2/3Nr3/3Q4/5PPP/1RR3K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "216.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Re1+ {A discovered attack.} 2. Rxe1 Rxe1+ 3. Rxe1 Qxd3 $19 {*} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "217.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r3k1/5p2/p3bBp1/1p5p/4P3/1P4qP/P5P1/1B1RR2K b - - 0 1"]
+[PlyCount "1"]
+[EventDate "217.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1... Bxh3 $1 {0-1} (1... Bxh3 $1 {Black is up too much material after} 2. gxh3
+Qxh3+ 3. Kg1 Qg3+ 4. Kh1 Qf3+ 5. Kg1 Qxf6 {*}) 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "218.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r5k/6pp/2p1r3/1R1p4/pn1P1q2/3Q1P2/PP3BPP/3R2K1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "218.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Qf5 $1 {* 1-0 Black is back-rank mated or loses the rook on e6.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "219.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2r2k1/1bqp1ppp/ppnbpn2/8/2PNP3/P1N1BP2/1P2B1PP/2RQ1R1K w - - 0 1"]
+[PlyCount "1"]
+[EventDate "219.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Ndb5 {* 1-0 Winning a pawn, with the bishop pair and d6-square, gives a
+decisive advantage.} ({Somewhat weaker is winning the b6-pawn with:} 1. Ncb5
+Qb8 2. Nxd6 Qxd6 3. Nxc6 Qxc6 4. Qd4 $18) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "220.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2k1r3/p1pbbpp1/1p5p/2pNP3/2P3P1/1P3PBP/P5K1/3R4 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "220.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Nxc7 $1 Kxc7 $2 ({Instead the game saw} 1... Rd8 2. Nd5 $16 {
+when White had simply won a pawn, also stabilizing the knight on d5.}) 2. e6+
+$18 {* White's rook will penetrate to the seventh rank with devastating effect.
+} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "221.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r1qk/2p4n/1b3pQB/p1p5/2P1P3/1P1R3P/P5P1/6K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "221.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Bg7+ $1 Qxg7 2. Qxe8+ {* With a winning advantage due to the two pawns,
+Black's exposed king and the pawn-like bishop on b6. You don't have to see any
+further.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "222.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2R5/4bppk/1p1p4/5R1P/4PQ2/5P2/r4q1P/7K w - - 0 1"]
+[PlyCount "1"]
+[EventDate "222.??.??"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+
+1. Qh6+ {* 1-0 What a way to finish a World Championship (Magnus Carlsen -
+Sergey Karjakin, New York (rapid 4) 2016)! It's mate in one however Black
+takes back.} 1-0
+
