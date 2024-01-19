@@ -1,0 +1,1100 @@
+[Event "#300 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in one"]
+[Black "White to move"]
+[Result "*"]
+[FEN "2r2k1r/pbq1pp1p/1pn2N2/2n3B1/3p4/1P1P1PP1/P2NQ2P/1K2R2R w - - 0 1"]
+
+1. Bh6# *
+
+[Event "#301 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in one"]
+[Black "White to move"]
+[Result "*"]
+[FEN "r1b1k2r/1ppp3p/p3pQ2/1NP5/1PK5/P3Pn1P/5P2/8 w - - 0 1"]
+
+1. Nxc7# *
+
+[Event "#302 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in one"]
+[Black "White to move"]
+[Result "*"]
+[FEN "4k3/4Pp2/3P4/8/8/5Q2/1K6/4q3 w - - 0 1"]
+
+1. Qc6# *
+
+[Event "#303 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in one"]
+[Black "White to move"]
+[Result "*"]
+[FEN "4k3/8/5PN1/3Q4/8/5p2/4n2K/5q2 w - - 0 1"]
+
+1. f7# *
+
+[Event "#304 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in one"]
+[Black "White to move"]
+[Result "*"]
+[FEN "5r2/k7/Np6/7p/1P2b1pP/4Pr2/R4PKB/8 w - - 0 1"]
+
+1. Nc5# *
+
+[Event "#305 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in one"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/8/5N2/1pr3PP/r1k1K2R w K - 0 1"]
+
+1. O-O# *
+
+[Event "#306 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in one"]
+[Black "White to move"]
+[Result "*"]
+[FEN "rb6/k1p4R/P1P5/PpK5/8/8/8/5B2 w - b6 0 1"]
+
+1. axb6# *
+
+[Event "#307 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "1Q6/8/8/8/8/k2K4/8/8 w - - 0 1"]
+
+1. Kc3 { threatening Qa7#(#1) } 1... Ka2 ( 1... Ka4 2. Qb4# ) 2. Qb2# *
+
+[Event "#308 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/8/k2K4/7Q/8 w - - 0 1"]
+
+1. Kc4 Ka4 2. Qa2# *
+
+[Event "#309 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/k1K3Q1/8/8/8/8/8 w - - 0 1"]
+
+1. Qb1 { threatening Qa2#(#1) } 1... Ka5 ( 1... Ka7 2. Qb7# ) 2. Qb5# *
+
+[Event "#310 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/8/6KQ/8/4n1k1 w - - 0 1"]
+
+1. Qh2+ Kf1 2. Qf2# *
+
+[Event "#311 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/2p5/2Q5/7k/5K2/8/8 w - - 0 1"]
+
+1. Qf5 { threatening Qg4#(#1) } 1... c5 2. Qg4# *
+
+[Event "#312 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "4K2k/8/5N2/4Q3/8/8/8/8 w - - 0 1"]
+
+1. Nh5+ Kg8 2. Qg7# *
+
+[Event "#313 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "5K1k/8/8/6NN/8/3p4/8/1B6 w - - 0 1"]
+
+1. Nf7+ ( 1. Nf4 { threatening Ng6#(#1) } 1... d2 2. Ng6# ( 2. Nf7# ) ) ( 1. Nf6 { threatening Nf7#(#1) } 1... d2 2. Nf7# ) ( 1. Ng3 d2 2. Nf7# ) ( 1. Ng7 d2 2. Nf7# ) 1... Kh7 2. Bxd3# *
+
+[Event "#314 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/6N1/8/4K3/7k/5Q2 w - - 0 1"]
+
+1. Qh3+ Kg1 2. Nf3# *
+
+[Event "#315 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/8/K3Q3/B1k5/8 w - - 0 1"]
+
+1. Bb3+ Kb1 2. Qg1# ( 2. Qe1# ) *
+
+[Event "#316 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/5Q2/8/8/5p2/5K2/8/5k2 w - - 0 1"]
+
+1. Qa2 { threatening Qb1#(#1) } 1... Ke1 ( 1... Kg1 2. Qg2# ) 2. Qe2# *
+
+[Event "#317 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/1N6/6K1/1P1k4/5Q2 w - - 0 1"]
+
+1. Qd3+ Kc1 ( 1... Ke1 2. Nc2# ) 2. Qc2# *
+
+[Event "#318 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/5p2/5B2/8/1K1R4/8/2k5 w - - 0 1"]
+
+1. Bg4 { threatening Rd1#(#1) } 1... Kb1 2. Rd1# *
+
+[Event "#319 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/4Q3/8/6rp/7k/8/7K/8 w - - 0 1"]
+
+1. Qe1+ Rg3 ( 1... Kg4 2. Qe4# ) 2. Qxg3# *
+
+[Event "#320 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/2N1p2Q/5k2/8/5K2 w - - 0 1"]
+
+1. Ne5+ Ke3 2. Qf2# *
+
+[Event "#321 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/2p5/2K5/Q7/N7/1k6 w - - 0 1"]
+
+1. Kc3 { threatening Qb2#(#1) } 1... Ka1 2. Qb2# *
+
+[Event "#322 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/8/6Kp/8/5Qnk w - - 0 1"]
+
+1. Kf2 { threatening Qxg1#(#1) } 1... Kh2 ( 1... h2 2. Qg2# ) 2. Qxg1# *
+
+[Event "#323 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/1pQ5/8/1k6/1N6/1K6/8/8 w - - 0 1"]
+
+1. Nd5 { threatening Qb6#(#1) } 1... Ka6 ( 1... b6 2. Qxb6# ) 2. Qb6# *
+
+[Event "#324 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/5KN1/8/6k1/6p1/6Q1/8/8 w - - 0 1"]
+
+1. Ne6+ Kf5 ( 1... Kh5 2. Qh2# ) 2. Qf4# *
+
+[Event "#325 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/4N1K1/8/8/5k2/8/8/3BQ3 w - - 0 1"]
+
+1. Ng6+ Kf5 ( 1... Kg5 2. Qa5# ( 2. Qe5# ) ) 2. Qe5# *
+
+[Event "#326 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/5K2/6B1/4p1k1/4Q3 w - - 0 1"]
+
+1. Qf2+ Kh1 2. Qh2# *
+
+[Event "#327 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/3K4/8/4kp1R/7Q/8 w - - 0 1"]
+
+1. Qg2 { threatening Rxf3#(#1) } 1... Kd3 2. Rxf3# *
+
+[Event "#328 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/8/6Q1/p3k3/R1K5 w - - 0 1"]
+
+1. Rxa2+ Kf1 2. Qf2# *
+
+[Event "#329 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "5Q2/1n1k4/4N3/3K4/8/8/8/8 w - - 0 1"]
+
+1. Qf7+ Kc8 2. Qc7# *
+
+[Event "#330 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "5Q2/6r1/7k/6N1/6K1/8/8/8 w - - 0 1"]
+
+1. Qf6+ Rg6 2. Qh8# *
+
+[Event "#331 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/5R1K/4kP2/2Q5/8/8/8/8 w - - 0 1"]
+
+1. Re7+ Kxf6 2. Qe5# *
+
+[Event "#332 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/7B/6p1/5p2/2K5/2B5/2k5 w - - 0 1"]
+
+1. Bf8 { threatening Ba3#(#1) } 1... f3 2. Ba3# *
+
+[Event "#333 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/2Q2p1N/4k3/8/4K3/8/8 w - - 0 1"]
+
+1. Nf7+ Kf5 2. Qe4# *
+
+[Event "#334 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "3N1k2/3K2bQ/8/8/8/8/8/8 w - - 0 1"]
+
+1. Ne6+ Kf7 2. Qxg7# *
+
+[Event "#335 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/5R2/8/6k1/5N2/7K/7R w - - 0 1"]
+
+1. Rg1+ Kh5 2. Rg5# *
+
+[Event "#336 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/Q7/8/Nkp5/8/K3B3 w - - 0 1"]
+
+1. Qxc3+ Ka4 2. Qb4# *
+
+[Event "#337 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/8/4pk1K/2Q3N1/8 w - - 0 1"]
+
+1. Nh4+ Kf4 2. Qf5# *
+
+[Event "#338 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "6Q1/3k4/1K1P4/8/3N4/8/8/8 w - - 0 1"]
+
+1. Qe6+ Kd8 2. Nc6# *
+
+[Event "#339 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/2p5/1pQ5/8/1k6/1N6/1K6/8 w - - 0 1"]
+
+1. Nd4 { threatening Qb5#(#1) } 1... Ka5 ( 1... b5 2. Qxb5# ) 2. Qb5# *
+
+[Event "#340 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "5knQ/8/4K2p/7P/8/8/8/8 w - - 0 1"]
+
+1. Qh7 { threatening Qf7#(#1) } 1... Ke8 ( 1... Ne7 2. Qf7# ) 2. Qxg8# *
+
+[Event "#341 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/4NQbk/8/8/8/8/1p6/1K6 w - - 0 1"]
+
+1. Nf5 { threatening Qxg7#(#1) } 1... Kh8 2. Qxg7# *
+
+[Event "#342 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "6N1/4N3/2B1k3/2K5/5R2/8/8/8 w - - 0 1"]
+
+1. Rf6+ Ke5 2. Ng6# *
+
+[Event "#343 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/RN1kP3/5K2/2R5/2P5/8/8/8 w - - 0 1"]
+
+1. Na5+ Kd6 ( 1... Ke8 2. Rc8# ) 2. Rd5# ( 2. Rc6# ) *
+
+[Event "#344 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/8/2p3KN/R1b5/7k w - - 0 1"]
+
+1. Ra1+ Bb1 ( 1... Bd1 2. Rxd1# ) 2. Rxb1# *
+
+[Event "#345 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/1Q6/4k3/7K/3PN3/4P3/8 w - - 0 1"]
+
+1. Ng4+ Kd5 ( 1... Kf4 2. Qf2# ( 2. Qf6# ) ) ( 1... Kf5 2. Qf6# ) 2. e4# *
+
+[Event "#346 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/4K3/1N1p4/4k1p1/6Q1 w - - 0 1"]
+
+1. Qe3+ Kd1 ( 1... Kf1 2. Nd2# ) 2. Qd2# *
+
+[Event "#347 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "5R2/5nK1/8/8/8/7Q/8/3N2k1 w - - 0 1"]
+
+1. Qg3+ Kf1 ( 1... Kh1 2. Nf2# ) 2. Qf2# *
+
+[Event "#348 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/2K5/8/3k4/2nB2Q1/2R5 w - - 0 1"]
+
+1. Qf3+ Ne3 ( 1... Kxd2 2. Rd1# ) 2. Qxe3# *
+
+[Event "#349 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/7p/8/5QPk/7p/7K/8 w - - 0 1"]
+
+1. Qf5 { threatening Qh5#(#1) } 1... h5 2. Qxh5# *
+
+[Event "#350 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/6p1/6K1/2Q1N3/4k2B/8 w - - 0 1"]
+
+1. Qc2+ Ke1 ( 1... Kxe3 2. Bg1# ) 2. Bg3# *
+
+[Event "#351 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "6B1/5p2/1Q6/4k3/8/4NK2/8/8 w - - 0 1"]
+
+1. Ng4+ Kd5 ( 1... Kf5 2. Qf6# ) 2. Bxf7# *
+
+[Event "#352 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "3K4/3P4/1k6/8/Q1R5/2P5/8/8 w - - 0 1"]
+
+1. Qb3+ Ka5 2. Ra4# *
+
+[Event "#353 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "R7/p7/k1K5/8/p7/B7/8/8 w - - 0 1"]
+
+1. Bc5 { threatening Rxa7#(#1) } 1... a3 2. Rxa7# *
+
+[Event "#354 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "5R2/8/5Pk1/3K4/7Q/6P1/8/8 w - - 0 1"]
+
+1. Qg4+ Kh6 ( 1... Kh7 2. Qh5# ( 2. Qg7# ) ) 2. Rh8# *
+
+[Event "#355 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/5Q2/5nB1/2B1k3/8/5K2 w - - 0 1"]
+
+1. Qc5+ Kd3 ( 1... Ke4 2. Qd4# ) 2. Bf5# *
+
+[Event "#356 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/3p2N1/3K4/6pQ/5k2 w - - 0 1"]
+
+1. Qf4+ Ke1 2. Qc1# *
+
+[Event "#357 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "6R1/5Kn1/8/8/8/6R1/8/6Bk w - - 0 1"]
+
+1. Rh8+ Nh5 2. Rxh5# *
+
+[Event "#358 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "4K3/8/2p1k3/4P3/3PQ3/8/8/8 w - - 0 1"]
+
+1. Qf3 { threatening Qf7#(#1) } 1... c5 2. Qf7# *
+
+[Event "#359 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/kPP5/1Rn5/2K5/8/8/8/8 w - - 0 1"]
+
+1. b8=Q+ Nxb8 2. cxb8=Q# *
+
+[Event "#360 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "5Br1/6P1/5KBk/8/8/8/8/8 w - - 0 1"]
+
+1. Bd6 { threatening Bf4#(#1) } 1... Rf8+ ( 1... Re8 2. Bf4# ) 2. gxf8=Q# ( 2. gxf8=B# ) *
+
+[Event "#361 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "k1KQ4/P7/8/1p6/1P6/8/8/8 w - - 0 1"]
+
+1. Qd5+ Kxa7 2. Qb7# *
+
+[Event "#362 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/3p4/5K2/3kNN2/2R5 w - - 0 1"]
+
+1. Ne4+ Kd3 2. Nf4# *
+
+[Event "#363 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/4Q3/5p2/2R5/3kb3/8/3K4 w - - 0 1"]
+
+1. Qd5+ Bd4 2. Qxd4# *
+
+[Event "#364 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "6RR/6pp/7k/5K2/6P1/8/8/8 w - - 0 1"]
+
+1. g5+ Kh5 2. Rxh7# *
+
+[Event "#365 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/7k/5pR1/7K/7R/7P/8 w - - 0 1"]
+
+1. Rhg3 { threatening Rh5#(#1) } 1... f4 2. Rh5# *
+
+[Event "#366 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/3p4/3K1R2/5B2/5k2/7Q/8/8 w - - 0 1"]
+
+1. Bh7+ Kg5 2. Rf5# *
+
+[Event "#367 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "Rnk5/8/p2K4/N7/8/8/8/8 w - - 0 1"]
+
+1. Nc6 { threatening Rxb8#(#1) } 1... a5 2. Rxb8# *
+
+[Event "#368 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "2R2K2/8/4k1p1/2P3Q1/8/8/8/8 w - - 0 1"]
+
+1. Rc6+ Kd7 2. Qd5# *
+
+[Event "#369 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/k1K5/BN6/8/1N6/8/8/8 w - - 0 1"]
+
+1. Nc8+ Ka8 2. Bb7# *
+
+[Event "#370 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/7p/5K1P/7k/7p/7Q w - - 0 1"]
+
+1. Qf3+ Kxh4 2. Qg3# *
+
+[Event "#371 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/5p2/3K4/3N1k2/5N2/6Q1 w - - 0 1"]
+
+1. Qh1+ Ke2 ( 1... Kg3 2. Qh3# ) 2. Qd1# *
+
+[Event "#372 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "K7/2NPB3/1kB5/2R5/8/8/8/8 w - - 0 1"]
+
+1. Nd5+ Ka6 2. Bb7# *
+
+[Event "#373 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/2p3R1/2K1p3/4k3/6Q1 w - - 0 1"]
+
+1. Qh2+ Kd1 ( 1... Kf3 2. Rf4# ( 2. Qg2# ) ) 2. Rg1# *
+
+[Event "#374 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/2RN4/k1p5/8/KP6/8 w - - 0 1"]
+
+1. Nc3+ Kb4 2. Rb5# *
+
+[Event "#375 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "1R1N4/kp1N4/8/1K6/8/8/8/8 w - - 0 1"]
+
+1. Rxb7+ Ka8 2. Nb6# *
+
+[Event "#376 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/5p2/2Q5/5k1K/5P2/7N w - - 0 1"]
+
+1. Qd3+ Kf4 2. Qe3# *
+
+[Event "#377 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/4N3/1R6/2kN4/3r4/K3Q3 w - - 0 1"]
+
+1. Nf3 { threatening Qxd2#(#1) } 1... Kc2 2. Qxd2# *
+
+[Event "#378 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/3N4/Q3p3/3kp3/8/4K2N/8 w - - 0 1"]
+
+1. Ng4 { threatening Qxe5#(#1) } 1... e3 2. Qxe5# *
+
+[Event "#379 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/N1K5/k1N5/p2p4/3R4 w - - 0 1"]
+
+1. Ra1 { threatening Rxa2#(#1) } 1... d1=Q 2. Rxa2# *
+
+[Event "#380 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/6p1/6P1/6Q1/6p1/6k1/8/5KN1 w - - 0 1"]
+
+1. Ne2+ Kf3 ( 1... Kh2 2. Qh4# ( 2. Qh5# ) ) ( 1... Kh3 2. Qh5# ) 2. Qf4# *
+
+[Event "#381 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/1P1k2p1/5pN1/2Q2K2/8/8/8/8 w - - 0 1"]
+
+1. Qb5+ Kc7 2. b8=Q# *
+
+[Event "#382 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/1n6/8/3QbkBK/4N3 w - - 0 1"]
+
+1. Bf3 { threatening Qxe2#(#1) } 1... Nd3 2. Qxe2# *
+
+[Event "#383 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "3Q4/1p6/1r6/k7/1pP5/1K6/8/8 w - - 0 1"]
+
+1. c5 { threatening Qxb6#(#1) } 1... Ka6 2. Qxb6# *
+
+[Event "#384 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/6p1/6Pp/7k/5K2/5bQ1 w - - 0 1"]
+
+1. Qh1+ Kxg4 2. Qf3# *
+
+[Event "#385 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/1p6/1B6/8/k1P5/p1K5/8/R7 w - - 0 1"]
+
+1. Bc5 { threatening Rxa3#(#1) } 1... a2 ( 1... Ka5 2. Rxa3# ) 2. Rxa2# *
+
+[Event "#386 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/n7/K7/N1p5/k1B5/1R6 w - - 0 1"]
+
+1. Nb5 { threatening Nxc3#(#1) } 1... Nc4 2. Nxc3# *
+
+[Event "#387 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/5K2/5B2/4pk2/5p2/5B2/7N/8 w - - 0 1"]
+
+1. Ng4 { threatening Nh6#(#1) } 1... e4 2. Nh6# *
+
+[Event "#388 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/p7/Q7/2Kp4/b2P4/k7 w - - 0 1"]
+
+1. Qa3 { threatening Qb2#(#1) } 1... Kb1 2. Qb2# *
+
+[Event "#389 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/2p5/2K5/1PQ5/4N3/3k4/6N1 w - - 0 1"]
+
+1. Qe2+ Kc1 2. Qc2# *
+
+[Event "#390 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/7N/5Np1/2K1kPQ1/8/8/8/8 w - - 0 1"]
+
+1. Qe3+ Kxf5 2. Qe4# *
+
+[Event "#391 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "6r1/5Qnk/8/8/6N1/8/1B6/1K6 w - - 0 1"]
+
+1. Nf6+ Kh6 ( 1... Kh8 2. Qxg8# ) 2. Bc1# *
+
+[Event "#392 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/7N/8/8/5p1k/5Qp1/6p1/6K1 w - - 0 1"]
+
+1. Qxf4+ Kh3 ( 1... Kh5 2. Qg5# ) 2. Ng5# *
+
+[Event "#393 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "k7/p1Bp4/K1n5/3Q4/8/8/8/8 w - - 0 1"]
+
+1. Qg8+ Nb8+ ( 1... Nd8 2. Qxd8# ) 2. Qxb8# *
+
+[Event "#394 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/5p2/5Q2/3p1P2/1N2k1K1/8 w - - 0 1"]
+
+1. Nc4 { threatening Qd2#(#1) } 1... d2 ( 1... Kd1 2. Qd2# ) 2. Qxd2# *
+
+[Event "#395 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/6NB/6NP/6k1/4K2R w - - 0 1"]
+
+1. Rh2+ Kf3 ( 1... Kg1 2. Ne2# ) 2. Rf2# *
+
+[Event "#396 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/5N2/1R6/2p5/2k5/R3K1N1 w - - 0 1"]
+
+1. Ra2+ Kc1 ( 1... Kd3 2. Rd4# ) 2. Ne2# *
+
+[Event "#397 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/8/8/8/8/2Q1p3/1Rp1K3/1qk5 w - - 0 1"]
+
+1. Kxe3 Qa2 ( 1... Qxb2 2. Qe1# ) ( 1... Kd1 2. Qd2# ) 2. Qxc2# *
+
+[Event "#398 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/5Q2/8/N3p3/4k1N1/2p5/2K5/8 w - - 0 1"]
+
+1. Qf6 Kd4 2. Qxe5# *
+
+[Event "#399 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Copyright 1994 Könemann"]
+[Date "1994.??.??"]
+[Round "-"]
+[White "Mate in two"]
+[Black "White to move"]
+[Result "*"]
+[FEN "8/4p3/4K3/8/8/2kP4/6N1/1Q1R4 w - - 0 1"]
+
+1. Rc1+ Kd2 ( 1... Kd4 2. Rc4# ) 2. Qc2# *
+
