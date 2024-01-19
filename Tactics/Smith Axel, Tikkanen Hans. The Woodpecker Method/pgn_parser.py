@@ -31,7 +31,7 @@ def save_games_to_pgn(games, output_directory, batch_size=100):
         pgn_file.close()
 
 def main():
-    input_pgn_file = 'The_Woodpecker_Method_diagrams_1-1128.pgn'
+    input_pgn_file = 'woodpecker.pgn'
     output_directory = './'
 
     with open(input_pgn_file) as pgn_file:
