@@ -20,7 +20,7 @@ def save_games_to_pgn(games, output_directory, batch_size=100):
         if game_count % batch_size == 0:
             if pgn_file:
                 pgn_file.close()
-            pgn_file_path = os.path.join(output_directory, f'middlegames_black_{batch_number}.pgn')
+            pgn_file_path = os.path.join(output_directory, f'middlegames_{batch_number}.pgn')
             pgn_file = open(pgn_file_path, 'w')
             batch_number += 1
 
@@ -31,7 +31,7 @@ def save_games_to_pgn(games, output_directory, batch_size=100):
         pgn_file.close()
 
 def main():
-    input_pgn_file = 'middlegames_black.pgn'
+    input_pgn_file = 'middlegames.pgn'
     output_directory = './'
 
     with open(input_pgn_file) as pgn_file:

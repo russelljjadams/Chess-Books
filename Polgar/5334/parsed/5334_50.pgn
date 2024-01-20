@@ -1,0 +1,1007 @@
+[Event "#4900 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Corr."]
+[Date "1968.??.??"]
+[Round "-"]
+[White "List"]
+[Black "Losche"]
+[Result "*"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. g4 Nc6 9. g5 Nxd4 10. Qxd4 e5 11. Qd1 Nd7 12. Qh5 O-O 13. g6 hxg6 14. Qxg6 Nf6 15. Rg1 Ne8 16. Bh6 Bf6 17. O-O-O Qa5 { Diagram } 18. Bxg7 Bxg7 19. Qh6 { White is 
+winning Or 19... Be6 20. Rxg7+! Nxg7 21. Rg1 White is winning } *
+
+[Event "#4901 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "-"]
+[White "Kupper"]
+[Black "Olafsson"]
+[Result "*"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. Bd3 Nbd7 9. a4 b6 10. O-O Bb7 11. Qe1 g6 12. Qh4 Bg7 13. fxe5 dxe5 14. Bh6 O-O 15. Ng5 Nh5 16. Bxg7 Kxg7 17. Rxf7+ Kg8 { Diagram } 18. Rg7+ $1 Kh8 19. Rxh7+ Kg8 20. Rg7+ *
+
+[Event "#4902 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Hastings 1947"]
+[Date "1947.??.??"]
+[Round "-"]
+[White "Mieses"]
+[Black "Sergeant"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nc3 c6 6. Nge2 Ne7 7. Ng3 Nd7 8. Be3 Nf6 9. Bg5 Nd7 10. Nh5 O-O { Diagram } 11. Nxg7 $1 Kxg7 12. Qh5 f5 13. Qh6+ Kh8 14. Qxd6 Qe8 15. O-O ( 15. Qxe7 Qxe7+ 16. Bxe7 Re8 $1 ) 15... Ng6 16. Rfe1 Qf7 17. Bh6 Re8 18. Rxe8+ Qxe8 19. Bxf5 *
+
+[Event "#4903 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Wageningen 1955"]
+[Date "1955.??.??"]
+[Round "-"]
+[White "Perfors"]
+[Black "Seters"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. Nf3 cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6 12. Nf4 O-O 13. Re1 Bd7 14. Nxe6 Rfe8 15. Bf5 h6 { Diagram } 16. Nxg7 $1 Kxg7 17. Bxh6+ $1 Kh8 ( 17... Kxh6 18. Qd2+ Kg7 19. Qg5+ Kf7 20. Qg6+ Kf8 21. Qxf6+ Kg8 22. Bh7+ $1 Kxh7 23. Ng5+ Kg8 24. Qf7+ Kh8 25. Qh7# ) 18. Bxd7 Nxd7 19. Rxe8+ Rxe8 20. Ng5 Re7 21. Qh5 Qxb2 22. Nf7+ Rxf7 23. Bc1+ Rh7 24. Qe8+ *
+
+[Event "#4904 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Gausdal 1979"]
+[Date "1979.??.??"]
+[Round "-"]
+[White "Donaldson"]
+[Black "Ornstein"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nf6 8. Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 Bd7 11. b3 a6 12. Bb2 Qc7 13. Qe2 Bd6 14. Nf5 Bxh2+ 15. Kh1 O-O { Diagram } 16. Nxg7 $1 Qf4 ( 16... Kxg7 17. Qg4+ Kh6 18. Bc1+ ) 17. Nh5 *
+
+[Event "#4905 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Magdeburg 1938"]
+[Date "1938.??.??"]
+[Round "-"]
+[White "Platz"]
+[Black "Hegebarth"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ Qxf6 6. Nf3 h6 7. Bd3 Bd6 8. O-O O-O 9. Qe2 Nc6 10. c3 Qe7 11. Re1 Re8 12. Ne5 Nxe5 13. dxe5 Bc5 14. Qh5 Bd7 15. Re4 Qf8 16. Rg4 Kh8 { Diagram } 17. Rxg7 $1 Bxf2+ ( 17... Qxg7 18. Bxh6 ) 18. Kxf2 Qc5+ 19. Kf1 *
+
+[Event "#4906 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Omsk 1943"]
+[Date "1943.??.??"]
+[Round "-"]
+[White "Boleslavsky"]
+[Black "Ufimcev"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 b6 7. Bb5+ c6 8. Bc4 Ba6 9. Bb3 Qc7 10. c4 Nd7 11. O-O O-O-O 12. Qe2 Bd6 13. a4 Rhg8 14. a5 c5 15. axb6 Qxb6 16. Be3 Bb7 17. dxc5 Nxc5 18. Bd1 Rg4 19. Qd2 Ne4 20. Qa5 Rdg8 21. Ne1 { Diagram } ( 21. Bxb6 Rxg2+ 22. Kh1 Nxf2+ 23. Bxf2 Rxh2# ) 21... Rxg2+ $1 22. Nxg2 Nd2 $1 23. Qd5 ( 23. Bxb6 Rxg2+ 24. Kh1 Rxh2+ 25. Kg1 Rh1# ) 23... Bxd5 24. cxd5 Qxb2 25. Bxd2 Qxa1 26. Bf3 Bxh2+ *
+
+[Event "#4907 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Minsk 1956"]
+[Date "1956.??.??"]
+[Round "-"]
+[White "Ljuboshit"]
+[Black "Shagalovich"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Nb5 f6 8. Bd3 Qa5+ 9. Bd2 Qb6 10. Qh5+ Kf8 11. Rh3 cxd4 12. Rg3 fxe5 { Diagram } 13. Rxg7 $1 Kxg7 14. Bh6+ Kg8 ( 14... Kf6 15. Qf3# ) 15. Bg6 $1 *
+
+[Event "#4908 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Vinn de Mar 1947"]
+[Date "1947.??.??"]
+[Round "-"]
+[White "Rossetto"]
+[Black "Stahlberg"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Nb5 f6 8. Bd3 a6 9. Qh5+ Kf8 10. Rh3 axb5 11. Bh6 Qa5+ 12. Bd2 Qc7 13. Rg3 cxd4 14. Nf3 Nxe5 { Diagram } 15. Rxg7 $1 h6 ( 15... Kxg7 16. Bh6+ Kg8 17. Qe8+ ) 16. Bh7 Kxg7 ( 16... Nxf3+ 17. Kd1 $1 ( 17. gxf3 Qe5+ ) ) 17. Qxh6+ Kf7 18. Qh5+ Kg7 ( 18... Kf8 19. Bh6# ) 19. Qh6+ *
+
+[Event "#4909 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Frankfurt 1887"]
+[Date "1887.??.??"]
+[Round "-"]
+[White "Harmonist"]
+[Black "Burn"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Qd2 O-O 8. Nd1 f5 9. exf6 Qxf6 10. Bd3 e5 11. dxe5 Nxe5 12. Ne2 c5 13. c3 Bh3 14. Kf1 { Diagram } 14... Bxg2+ $1 15. Kxg2 Qf3+ 16. Kg1 Qg4+ 17. Kf1 Qh3+ *
+
+[Event "#4910 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Gausdal 1987"]
+[Date "1987.??.??"]
+[Round "-"]
+[White "Lane"]
+[Black "Tisdall"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. Qg4 Nf6 7. Qxg7 Rg8 8. Qh6 Nbd7 9. Nh3 b6 10. Be2 Bb7 11. O-O Qe7 12. a4 O-O-O 13. Ba3 c5 14. Qh4 Qd6 15. Rfd1 e3 16. f3 { Diagram } 16... Rxg2+ $1 17. Kxg2 Rg8+ 18. Ng5 ( 18. Kh1 Ng4 ) 18... h6 19. Rg1 hxg5 20. Qg3 Qd5 21. Kf1 Nh5 22. Qg2 Nf4 23. Qg3 Nxe2 24. Kxe2 Qc4+ *
+
+[Event "#4911 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Corr. 1950"]
+[Date "1950.??.??"]
+[Round "-"]
+[White "Torber"]
+[Black "Menke"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 Nf6 6. e5 Nfd7 7. a4 c5 8. Qg4 Kf8 9. h4 Qc7 10. Rh3 cxd4 11. Ba3+ Kg8 { Diagram } 12. Qxg7+ $1 Kxg7 13. Rg3+ Kh6 14. Bc1+ Kh5 15. Be2+ Kxh4 16. Rh3# *
+
+[Event "#4912 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Norymberdze 1906"]
+[Date "1906.??.??"]
+[Round "-"]
+[White "Hartlaub"]
+[Black "Fahrni"]
+[Result "*"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Qe7 6. Nc3 Qb4 7. Qe2 Nc6 8. Nf3 Bc5 9. O-O Bd4 10. Nxd4 Nxd4 11. Qg4 Qf8 12. Nd5 Ne6 13. f4 Qc5+ 14. Kh1 Qxc4 15. f5 h5 16. fxe6 $1 hxg4 17. exf7+ Kf8 { Diagram } 18. Bxg7+ Kxg7 19. f8=Q+ Kg6 20. Qf7+ Kh6 21. Rf5 *
+
+[Event "#4913 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Bremen 1912"]
+[Date "1912.??.??"]
+[Round "-"]
+[White "Hartlaub"]
+[Black "Testa"]
+[Result "*"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Bb4+ 6. Nc3 d6 7. Nf3 Nf6 8. O-O Bxc3 9. Bxc3 O-O 10. e5 Ne4 11. Bb2 Bg4 12. Qd4 Bxf3 13. gxf3 Ng5 14. Kh1 Nxf3 15. Qd3 Nxe5 16. Rg1 Qd7 ( 16... Nxd3 17. Rxg7+ Kh8 18. Rg8+ Kxg8 19. Rg1+ Qg5 20. Rxg5# ) 17. Qd2 Ng6 18. Qd4 Ne5 { Diagram } 19. Rxg7+ $1 Kxg7 20. Rg1+ Kh8 ( 20... Kf6 21. Qh4+ ) 21. Qxe5+ dxe5 22. Bxe5+ f6 23. Bxf6+ Rxf6 24. Rg8# *
+
+[Event "#4914 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "London 1866"]
+[Date "1866.??.??"]
+[Round "-"]
+[White "Hewitt"]
+[Black "Steinitz"]
+[Result "*"]
+
+1. e4 e5 2. Bc4 f5 3. d3 Nf6 4. Ne2 Bc5 5. c3 Nc6 6. d4 exd4 7. Nxd4 fxe4 8. Bf4 d5 9. Bb5 Bxd4 10. Qxd4 O-O 11. Bxc6 bxc6 12. Qa4 Bd7 13. Bg5 Qe8 14. Qb3 Ng4 15. Bh4 e3 16. O-O Qh5 17. Bg3 e2 18. Re1 Rxf2 19. Nd2 Raf8 20. c4 { Diagram } 20... Rxg2+ $1 21. Kxg2 Qh3+ 22. Kxh3 ( 22. Kg1 Rf2 $1 23. Qf3 Rxf3 24. Nxf3 Nxh2 ) 22... Ne3+ 23. Kh4 Ng2+ 24. Kg5 Rf5+ 25. Kg4 h5+ 26. Kh3 Rf2# *
+
+[Event "#4915 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "London 1844"]
+[Date "1844.??.??"]
+[Round "-"]
+[White "Staunton"]
+[Black "Harrison"]
+[Result "*"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. Bc4 Bc5 3. Qe2 Nc6 4. c3 Nf6 5. f4 Bxg1 6. Rxg1 O-O 7. d3 d5 8. Bb3 dxe4 9. dxe4 exf4 10. Bc2 Ng4 11. Bxf4 Qh4+ 12. Bg3 Qh6 13. h3 Ne3 14. Bd3 Be6 15. Bf2 Nxg2+ 16. Rxg2 Qxh3 17. Rg3 Qh1+ 18. Rg1 Qh2 19. O-O-O Ne5 20. Kb1 Nxd3 { Diagram } 21. Rxg7+ $1 Kh8 ( 21... Kxg7 22. Bd4+ ) 22. Bd4 $1 Qxe2 23. Rxf7+ Kg8 24. Rg7+ Kh8 25. Rg6+ *
+
+[Event "#4916 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Los Angeles 1940"]
+[Date "1940.??.??"]
+[Round "-"]
+[White "Horowitz"]
+[Black "N. N"]
+[Result "*"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Bc5 4. Qg4 Qf6 5. Nd5 Qxf2+ 6. Kd1 Kf8 7. Nh3 Qd4 8. d3 Bb6 9. Rf1 Nf6 10. Rxf6 d6 { Diagram } 11. Qxg7+ $1 Kxg7 12. Bh6+ Kg8 13. Rg6+ $1 hxg6 14. Nf6# *
+
+[Event "#4917 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Berlin 1921"]
+[Date "1921.??.??"]
+[Round "-"]
+[White "Kolbe"]
+[Black "Rotenstein"]
+[Result "*"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Bc4 Qh4+ 5. Kf1 Bc5 6. g3 fxg3 7. Nf3 { Diagram } 7... g2+ $1 8. Kxg2 ( 8. Ke2 Qf2+ 9. Kd3 Nb4# ) 8... Qf2+ 9. Kh3 d5# *
+
+[Event "#4918 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Moscow 1956"]
+[Date "1956.??.??"]
+[Round "-"]
+[White "Milner-Barry"]
+[Black "Hanninen"]
+[Result "*"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 c5 8. Be2 Be7 9. O-O O-O 10. Qe1 f6 11. Qg3 fxe5 12. Bh6 Bf6 13. Nxe5 Bxe5 14. Qxe5 Rf6 { Diagram } 15. Bxg7 $1 Re6 ( 15... Kxg7 16. Qg5+ Kf7 17. Bh5+ ) 16. Qh5 Qe7 17. Bh6 Nd7 18. Bg4 Re5 19. Qh3 Nb6 20. Rf8+ Qxf8 21. Bxf8 Kxf8 22. Qxh7 *
+
+[Event "#4919 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "-"]
+[White "Soldatenkov"]
+[Black "Villenchik"]
+[Result "*"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Qe2 Qxd5 7. Nd2 f5 8. g4 Nc6 9. c3 Be7 10. Bg2 g6 11. Nxe4 fxe4 12. Bxe4 Qe6 13. f5 gxf5 14. gxf5 Bh4+ 15. Kf1 O-O 16. Nf3 Qe7 17. Rg1+ Kh8 18. Bh6 Rf7 19. Nxh4 Qxh4 20. Qg2 Bxf5 { Diagram } 21. Qg7+ $1 Rxg7 22. Bxg7+ Kg8 23. Bd5+ Be6 24. Bxe6# *
+
+[Event "#4920 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Berlin 1865"]
+[Date "1865.??.??"]
+[Round "-"]
+[White "Anderssen"]
+[Black "Schallopp"]
+[Result "*"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Bg7 6. Nxg4 d5 7. Nf2 dxe4 8. Nxe4 Nf6 9. Nbc3 O-O 10. d3 Re8 11. Be2 Nd5 12. Nxd5 Qxd5 13. Bxf4 f5 14. Nc3 Qxg2 15. Kd2 Nc6 16. Rg1 Qf2 17. Nd5 Nd4 { Diagram } 18. Rxg7+ $1 Kxg7 19. Qg1+ Qxg1 20. Rxg1+ Kh8 21. Bh5 *
+
+[Event "#4921 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Dusseldorf 1965"]
+[Date "1965.??.??"]
+[Round "-"]
+[White "Hulsmann"]
+[Black "Engert"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. a3 Bxc3 5. dxc3 d6 6. Bg5 Be6 7. Bd3 Nbd7 8. O-O h6 9. Bh4 Nf8 10. Qe2 Ng6 11. Bg3 Nh5 12. Rfd1 Nhf4 13. Qf1 O-O 14. Bc4 Qf6 15. Rd2 { Diagram } 15... Nxg2 $1 16. Kxg2 Bh3+ $1 17. Kxh3 Qxf3 18. Rd3 Nf4+ 19. Kh4 Qh5# *
+
+[Event "#4922 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "London 1930"]
+[Date "1930.??.??"]
+[Round "-"]
+[White "Marten"]
+[Black "Winterburn"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 Bd7 5. exd5 Nd4 6. Qd1 Nxf3+ 7. Qxf3 f5 8. d4 e4 9. Qe3 Bd6 10. Qg5 Nf6 11. Qxg7 Rg8 12. Qh6 Bf8 13. Qd2 Nxd5 14. Bc4 Bc6 15. O-O { Diagram } 15... Rxg2+ $1 16. Kxg2 e3 17. fxe3 Nf4+ 18. Kg3 Qg5+ 19. Kf2 Qh4+ 20. Kg1 Nh3# *
+
+[Event "#4923 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Banja Vrucica 1991"]
+[Date "1991.??.??"]
+[Round "-"]
+[White "Vukovic"]
+[Black "Mozetic"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nc3 Bb4 6. Be2 Nf6 7. O-O Bxc3 8. Nf5 Qxe4 9. Bd3 Qg4 10. f3 Qa4 11. bxc3 O-O { Diagram } 12. Nxg7 $1 Kxg7 13. Bh6+ Kh8 14. Bxf8 d6 15. Qd2 Qh4 16. Bh6 Ng8 17. Bg5 Qa4 18. c4 Qa5 19. Qf4 Ne5 20. Bf6+ Nxf6 21. Qxf6+ Kg8 22. Qg5+ *
+
+[Event "#4924 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Veszprem 1983"]
+[Date "1983.??.??"]
+[Round "-"]
+[White "I. Horvath"]
+[Black "Boguslavsky"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 d6 5. d4 exd4 6. Nxd4 Bd7 7. O-O Nxd4 8. Bxd7+ Qxd7 9. Qxd4 Be7 10. Bf4 O-O 11. Rad1 Qg4 12. Bg3 a6 13. Qc4 Rac8 14. h3 Qg6 15. a4 Rfe8 16. Rd3 Bf8 17. Re1 Nd7 18. Nd5 Nc5 19. Rde3 Qe6 20. e5 dxe5 21. Bxe5 Red8 { Diagram } 22. Bxg7 $1 Qxd5 23. Bf6 $1 Ne6 ( 23... Qxc4 24. Rg3+ Bg7 25. Rxg7+ Kf8 26. Rxh7 ) 24. Rg3+ Ng7 25. Rxg7+ $1 Bxg7 26. Qg4 *
+
+[Event "#4925 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Viden 1958"]
+[Date "1958.??.??"]
+[Round "-"]
+[White "Posch"]
+[Black "Dorrer"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxd4 exd4 6. e5 dxc3 7. exf6 cxd2+ 8. Bxd2 Qxf6 9. O-O Be7 10. Bc3 Qg5 11. Re1 O-O 12. Re5 Qf6 13. Bd3 h6 14. Qg4 Qh4 { Diagram } 15. Qxg7+ $1 Kxg7 16. Rg5# *
+
+[Event "#4926 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Buenos Aires"]
+[Date "1914.??.??"]
+[Round "-"]
+[White "Coria"]
+[Black "Capablanca"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3 8. bxc3 Qe7 9. Nd2 h6 10. Bh4 Nd8 11. d4 Ne6 12. dxe5 dxe5 13. Bd3 Nf4 14. Nc4 Rd8 15. Bxf6 Qxf6 16. Qd2 Bh3 17. Ne3 { Diagram } 17... Bxg2 18. Nf5 ( 18. Nxg2 Qg5 19. f3 Nh3+ ) 18... Bxe4 19. Ng3 Nh3# *
+
+[Event "#4927 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Wiedniu"]
+[Date "1908.??.??"]
+[Round "-"]
+[White "Maroczy"]
+[Black "Swiderski"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Ne2 Qe7 8. c3 Bc5 9. Ng3 Ne8 10. h3 h6 11. d4 Bb6 12. Re1 Kh7 13. Be3 Rg8 14. Ng5+ Kh8 15. Qh5 Rf8 16. Bxc6 bxc6 17. Nf3 Nf6 18. Qh4 Kg8 19. Nh5 Re8 { Diagram } 20. Nxg7 Kxg7 21. Bxh6+ Kh7 22. Bg5+ *
+
+[Event "#4928 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Taskent"]
+[Date "1965.??.??"]
+[Round "-"]
+[White "Trofimov"]
+[Black "Boleslavsky"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 exd4 5. O-O d6 6. Nxd4 Nf6 7. Nc3 O-O 8. f4 d5 9. Nxc6 bxc6 10. exd5 Bc5+ 11. Kh1 cxd5 12. Bxd5 Ba6 13. Bxa8 Qxa8 14. Re1 Bb7 15. Re2 Ng4 16. Qe1 { Diagram } 16... Bxg2+ $1 17. Rxg2 Nf2+ 18. Kg1 Nd3+ 19. Be3 Nxe1 20. Rxe1 Re8 *
+
+[Event "#4929 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Breslau"]
+[Date "1860.??.??"]
+[Round "-"]
+[White "Anderssen"]
+[Black "N.N"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8. cxd4 Bb6 9. d5 Na5 10. Bb2 Nf6 11. Bd3 Bg4 12. Nc3 c6 13. Ne2 O-O 14. Qd2 Rc8 15. Qg5 Bxf3 16. gxf3 cxd5 17. Kh1 Nc4 18. Rg1 Ne8 { Diagram } 19. Qxg7+ $1 Nxg7 20. Rxg7+ Kh8 21. Rg8+ $1 Kxg8 22. Rg1+ Qg5 23. Rxg5# *
+
+[Event "#4930 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Perouse"]
+[Date "1875.??.??"]
+[Round "-"]
+[White "Guila"]
+[Black "Cardinal Pezzi"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. exf6 dxc4 8. Qe2+ Be6 9. fxg7 Rg8 10. cxd4 Nxd4 11. Nxd4 Bxd4 12. Qh5 Qf6 13. O-O Rxg7 14. Qb5+ c6 15. Qxb7 { Diagram } 15... Rxg2+ $1 16. Kxg2 Qg6+ 17. Kh1 ( 17. Kf3 Qg4# ) 17... Bd5+ 18. f3 Bxf3+ 19. Rxf3 Qg1# *
+
+[Event "#4931 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "-"]
+[White "B. Sorensen"]
+[Black "S. A. Sorensen"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. exf6 dxc4 8. fxg7 Rg8 9. O-O Rxg7 10. Re1+ Be7 11. cxd4 Bg4 12. d5 Qd7 13. Nc3 O-O-O 14. dxc6 Qxd1 15. cxb7+ Kxb7 16. Nxd1 Bxf3 17. Ne3 Bb4 18. Rf1 { Diagram } 18... Rxg2+ $1 19. Nxg2 Rg8 20. Rd1 Rxg2+ 21. Kf1 Rxh2 *
+
+[Event "#4932 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "London"]
+[Date "1850.??.??"]
+[Round "-"]
+[White "Bird"]
+[Black "Pinkerley"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. c3 O-O 6. d4 exd4 7. cxd4 Bb6 8. e5 d5 9. exf6 dxc4 10. Bg5 g6 11. d5 Nb8 12. b3 cxb3 13. Qxb3 Bg4 14. Nbd2 Bxf3 15. Nxf3 Qd7 16. Bc1 c6 17. Ne5 Qc7 18. Bb2 Nd7 19. Ng4 Nc5 20. Qe3 Ne6 21. Qh6 cxd5 { Diagram } 22. Qg7+ $1 Nxg7 23. Nh6+ Kh8 24. fxg7# *
+
+[Event "#4933 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "New York"]
+[Date "1918.??.??"]
+[Round "-"]
+[White "Capablanca"]
+[Black "N. N"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. O-O O-O 6. d3 d6 7. Bg5 Bg4 8. Nd5 Nd4 9. Qd2 Qd7 10. Bxf6 Bxf3 11. Ne7+ Kh8 { Diagram } 12. Bxg7+ $1 Kxg7 13. Qg5+ Kh8 14. Qf6# *
+
+[Event "#4934 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Budapest"]
+[Date "1958.??.??"]
+[Round "-"]
+[White "Haag"]
+[Black "Varnusz"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8. Bxc6 bxc6 9. O-O Bc5 10. Be3 Bb6 11. Nd2 Nxd2 12. Qxd2 O-O 13. Bg5 Qe8 14. Rfe1 c5 15. Bf6 $1 h6 16. Re3 Kh7 17. Qd3+ Kh8 18. Rh3 $1 Bxh3 19. Qxh3 Kh7 { Diagram } 20. Bxg7 $1 Kxg7 21. Nf5+ Kg6 22. Qg4+ Kh7 23. Qg7# *
+
+[Event "#4935 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "-"]
+[White "Euwe"]
+[Black "Reti"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8. Nc3 Qa5 9. Nxd4 Nxd4 10. Qxd4 f5 11. Bg5 Qc5 12. Qd8+ Kf7 13. Nxe4 fxe4 14. Rad1 Bd6 15. Qxh8 Qxg5 16. f4 Qh4 17. Rxe4 Bh3 18. Qxa8 Bc5+ 19. Kh1 { Diagram } 19... Bxg2+ $1 20. Kxg2 Qg4+ 21. Kh1 Qf3# *
+
+[Event "#4936 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Correspondence"]
+[Date "1945.??.??"]
+[Round "-"]
+[White "Young"]
+[Black "Barden"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8. Qf3 cxb5 9. Qxa8 Bc5 10. Ne4 Nxe4 11. Qxe4 O-O 12. O-O Re8 13. Qe2 Bb7 14. Qxb5 Bb6 15. d3 Re6 16. Kh1 { Diagram } 16... Bxg2+ $1 17. Kxg2 Rg6+ ( 17... Qa8+ 18. f3 ( 18. Kg3 Rg6+ ) 18... Rg6+ ) 18. Kh1 ( 18. Kf3 ) 18... Qa8+ 19. f3 Qxf3+ 20. Rxf3 Rg1# *
+
+[Event "#4937 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Breslau"]
+[Date "1859.??.??"]
+[Round "-"]
+[White "Anderssen"]
+[Black "Suhle"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. d4 exd4 5. O-O Ng6 6. Nxd4 Be7 7. Nf5 O-O 8. Nc3 Bc5 9. Qh5 d6 10. Bg5 Qe8 { Diagram } 11. Nxg7 $1 Kxg7 12. Qh6+ Kg8 13. Bf6 *
+
+[Event "#4938 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Munich"]
+[Date "1941.??.??"]
+[Round "-"]
+[White "Kieninger"]
+[Black "Aljechin"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Qf6 5. O-O Nge7 6. d3 h6 7. Nbd2 O-O 8. Nc4 Ng6 9. d4 exd4 10. Bxc6 dxc6 11. Nxd4 Re8 12. Nb3 Bf8 13. Qc2 Qe6 14. Ncd2 Nh4 15. f3 c5 16. Rd1 { Diagram } 16... Nxg2 $1 17. Kxg2 Qh3+ 18. Kg1 ( 18. Kh1 Bd6 19. f4 Bf5 20. exf5 ( 20. Re1 Bxf4 21. Nf1 Rxe4 ) 20... Re2 ) 18... Bd6 19. Nf1 Qxf3 20. Rd3 Qxe4 21. Rd2 Qh4 22. Rg2 Bh3 23. Qf2 Qe4 24. Bd2 Qxg2+ 25. Qxg2 Bxg2 *
+
+[Event "#4939 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Helsinki"]
+[Date "1983.??.??"]
+[Round "-"]
+[White "Maki"]
+[Black "Rantanen"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Nxe5 Nxe5 7. Qh5+ Ng6 8. dxc5 Nf6 9. Qe2 O-O 10. O-O d5 11. cxd6 Qxd6 12. h3 Kh8 13. Bg5 Qe5 14. Be3 Nh5 15. Ba4 Ngf4 16. Qb5 Qf6 17. Kh2 { Diagram } 17... Nxg2 $1 18. Kxg2 Qf3+ 19. Kg1 Bxh3 *
+
+[Event "#4940 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Wiedinu"]
+[Date "1947.??.??"]
+[Round "-"]
+[White "Hoffmann"]
+[Black "Lambert"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Nxe5 Nxe5 6. d4 c6 7. Ba4 Nxe4 8. Re1 d5 9. dxc5 O-O 10. Qd4 Qf6 11. Be3 Bh3 12. Kh1 { Diagram } 12... Bxg2+ $1 13. Kxg2 Qf3+ 14. Kg1 Qg4+ 15. Kh1 ( 15. Kf1 Nf3 16. Qd3 Nxh2# ) 15... Nf3 16. Qd1 Qh3 *
+
+[Event "#4941 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Arrecife"]
+[Date "1973.??.??"]
+[Round "-"]
+[White "Ljubojevic"]
+[Black "Calwo"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Qh5 Nxe5 8. Qxe5 Nxb5 9. Qxg7 Rf8 10. a4 Nd6 11. Nc3 Nf5 { Diagram } 12. Nd5 $1 f6 ( 12... Nxg7 13. Nf6# ) 13. Qxh7 d6 14. Qg6+ Rf7 15. Nxf6+ *
+
+[Event "#4942 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Denmark"]
+[Date "1972.??.??"]
+[Round "-"]
+[White "Bondum"]
+[Black "Iskov"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8. Nbd2 Ne7 9. Re1 Ng6 10. d4 Nf4 11. hxg4 hxg4 12. Nh2 { Diagram } 12... Nxg2 $1 13. Ndf1 ( 13. Kxg2 Rxh2+ $1 14. Kxh2 Qxf2+ 15. Kh1 g3 16. Qe2 g2+ 17. Kh2 Qg1+ ) 13... Nxe1 14. Qxe1 O-O-O 15. Bd2 Bd6 16. d5 cxd5 17. exd5 e4 18. Qxe4 Bxh2+ 19. Nxh2 Rxh2 $1 20. Kxh2 Qxf2+ 21. Kh1 Rh8+ *
+
+[Event "#4943 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Vilnius"]
+[Date "1949.??.??"]
+[Round "-"]
+[White "Kirilov"]
+[Black "Furman"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. a4 b4 8. Bd5 Nxd5 9. exd5 Nd4 10. Nxd4 exd4 11. O-O O-O 12. Qc4 c5 13. dxc6 dxc6 14. Qxc6 Ra7 15. Qf3 Rc7 16. d3 Bb7 17. Qd1 Bd6 18. Nd2 Re8 19. Nc4 Bxh2+ $1 20. Kxh2 Qh4+ 21. Kg1 { Diagram } 21... Bxg2 $1 22. Kxg2 Rc6 23. Bf4 ( 23. Rh1 Rg6+ 24. Kf3 Qg4# ) 23... Qxf4 24. Rh1 Rf6 25. Rh2 Rg6+ 26. Kh1 Re1+ $1 27. Qxe1 Qf3+ *
+
+[Event "#4944 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Margate"]
+[Date "1937.??.??"]
+[Round "-"]
+[White "Thomas"]
+[Black "Keres"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 d6 7. Ng5 d5 8. Nxd5 Nd4 9. Ne3 Nxb3 10. axb3 h6 11. Nf3 Nxe4 12. Nxe5 Qf6 13. Nf3 Bb7 14. Qe2 O-O-O 15. O-O Bd6 16. Ng4 Qf5 17. d3 Ng5 18. Nh4 Qd5 19. c4 Nh3+ 20. Kh1 Qh5 21. c5 Rhe8 22. Qc2 Qxh4 23. cxd6 { Diagram } 23... Bxg2+ $1 24. Kxg2 Qxg4+ 25. Kh1 Qf3# *
+
+[Event "#4945 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Yaroslavl"]
+[Date "1954.??.??"]
+[Round "-"]
+[White "Zaitzev"]
+[Black "Rokhlin"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. Nxe5 Nxe5 9. dxe5 Bb7 10. Be3 Bc5 11. Qg4 Bxe3 12. Qxg7 Qg5 13. Qxh8+ Ke7 14. Qxh7 Bxf2+ 15. Kh1 Rg8 16. Qh3 d4 17. Na3 { Diagram } 17... Qxg2+ $1 18. Qxg2 Ng3+ $1 19. hxg3 Rh8# *
+
+[Event "#4946 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "New York"]
+[Date "1898.??.??"]
+[Round "-"]
+[White "Showalter"]
+[Black "Pillsbury"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d4 exd4 5. O-O a6 6. Ba4 Be7 7. Re1 O-O 8. e5 Ne8 9. Nxd4 Nxd4 10. Qxd4 d5 11. b4 c6 12. Bb2 Nc7 13. a3 a5 14. c3 Bf5 15. Qb6 Qc8 16. Nd2 Ne6 17. Nf3 Nf4 18. Bb3 { Diagram } 18... Nxg2 $1 19. Red1 ( 19. Kxg2 Bh3+ 20. Kh1 Qg4 ) 19... Be4 20. Nd2 Ra6 21. Qd4 Nf4 22. Qe3 Qg4+ 23. Kf1 Bd3+ 24. Qxd3 Qg2+ 25. Ke1 Nxd3+ *
+
+[Event "#4947 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Hastings"]
+[Date "1983.??.??"]
+[Round "-"]
+[White "Short"]
+[Black "Hebden"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3 d6 9. c3 Na5 10. Bc2 c5 11. Nbd2 Re8 12. Nf1 h6 13. Ng3 Bf8 14. h3 Bb7 15. d4 cxd4 16. cxd4 exd4 17. Nxd4 Rc8 18. b3 d5 19. e5 Ne4 20. Bb2 Rxe5 21. f3 Rg5 22. Nf1 { Diagram } 22... Rxg2+ $1 23. Kxg2 Qg5+ 24. Kh2 Bd6+ 25. Kh1 Nf2# *
+
+[Event "#4948 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Bern"]
+[Date "1992.??.??"]
+[Round "-"]
+[White "Lustenberger"]
+[Black "Mooser"]
+[Result "*"]
+
+1. d4 d5 2. Nf3 e6 3. Bf4 Nf6 4. Nbd2 c5 5. e3 Nc6 6. c3 Be7 7. Bd3 O-O 8. Ne5 Bd7 9. g4 Ne8 10. g5 Nxe5 11. dxe5 Bxg5 12. Qh5 h6 13. Rg1 Bxf4 14. exf4 Kh8 15. O-O-O f5 16. exf6 Qxf6 17. Rg6 Qxf4 18. Rdg1 e5 { Diagram } 19. Rxg7 $1 Nxg7 20. Qg6 *
+
+[Event "#4949 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Tartu"]
+[Date "1935.??.??"]
+[Round "-"]
+[White "Kibbermann"]
+[Black "Keres"]
+[Result "*"]
+
+1. d4 Nc6 2. Nf3 d5 3. c4 e5 4. Nxe5 Nxe5 5. dxe5 d4 6. e4 Ne7 7. Bd3 Ng6 8. f4 Bb4+ 9. Bd2 Nxf4 10. Bxb4 Nxg2+ 11. Kf2 { Diagram } 11... Qh4+ $1 12. Kg1 ( 12. Kxg2 Bh3+ 13. Kg1 Qg5+ 14. Kf2 Qe3# ) 12... Qg5 13. Qf3 Ne1+ 14. Qg3 Qxg3+ 15. hxg3 Nxd3 16. Ba3 Nxe5 *
+
+[Event "#4950 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Karlsbad"]
+[Date "1929.??.??"]
+[Round "-"]
+[White "Spielmann"]
+[Black "Grunfeld"]
+[Result "*"]
+
+1. d4 d5 2. c4 e6 3. Nc3 dxc4 4. e4 c5 5. Nf3 cxd4 6. Nxd4 a6 7. Bxc4 Bd7 8. O-O Nc6 9. Nf3 Qc7 10. Qe2 Bd6 11. Rd1 Nge7 12. Be3 Ne5 13. Nxe5 Bxe5 14. g3 Bxc3 15. bxc3 Ng6 16. Bb3 O-O 17. Bd4 b5 18. Qe3 Bc6 19. h4 Qb7 20. h5 Ne7 { Diagram } 21. Bxg7 Kxg7 22. Qg5+ Ng6 23. h6+ *
+
+[Event "#4951 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Chicago"]
+[Date "1926.??.??"]
+[Round "-"]
+[White "Marshall"]
+[Black "Kupchik"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. Nf3 e6 5. Bg5 Nbd7 6. cxd5 exd5 7. e3 Be7 8. Bd3 O-O 9. Qc2 Re8 10. O-O Nf8 11. Rae1 Be6 12. Ne5 N6d7 13. Bxe7 Rxe7 14. f4 f6 15. Nxd7 Qxd7 16. f5 Bf7 17. Rf3 Rae8 18. Qf2 h6 19. a3 Nh7 20. h4 Qd6 21. Rg3 Kh8 22. Ne2 b6 23. Nf4 c5 { Diagram } 24. Rxg7 Qd8 ( 24... Kxg7 25. Qg3+ Kh8 26. Ng6+ ) 25. Rg3 *
+
+[Event "#4952 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Luzern"]
+[Date "1982.??.??"]
+[Round "-"]
+[White "Miles"]
+[Black "Browne"]
+[Result "*"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 e6 4. e3 Nc6 5. d4 d5 6. dxc5 Bxc5 7. a3 a6 8. b4 Ba7 9. Bb2 O-O 10. Rc1 d4 11. exd4 Nxd4 12. c5 Nxf3+ 13. Qxf3 Bd7 14. Bd3 Bc6 15. Ne4 Nxe4 16. Bxe4 Qc7 17. O-O Rad8 18. Bxh7+ Kxh7 19. Qh5+ Kg8 { Diagram } 20. Bxg7 Kxg7 21. Qg5+ Kh8 22. Qf6+ Kg8 23. Rc4 *
+
+[Event "#4953 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "-"]
+[White "Honlinger"]
+[Black "Palda"]
+[Result "*"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Nbd2 Nbd7 6. Bd3 Be7 7. O-O O-O 8. b3 b6 9. Bb2 Bb7 10. Qe2 c5 11. Ne5 Qc7 12. Rac1 Rac8 13. f4 Bd6 14. cxd5 exd5 15. Nxd7 Nxd7 16. dxc5 bxc5 { Diagram } 17. Bxg7 Kxg7 18. Qg4+ Kh8 ( 18... Kf6 19. Qg5+ Ke6 20. Bf5# ) 19. Qf5 ( 19. Qf5 Kg7 20. Qxh7+ Kf6 21. Qh4+ Ke6 22. f5+ Ke5 23. Nf3# ) *
+
+[Event "#4954 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "-"]
+[White "Lilienthal"]
+[Black "Shamkovich"]
+[Result "*"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nf6 5. Bg5 h6 6. Bxf6 Qxf6 7. Qb3 Nd7 8. e4 dxe4 9. Nxe4 Qf4 10. Bd3 Be7 11. O-O O-O 12. Rfe1 b6 13. Bc2 Bb7 14. Qd3 Qc7 15. Ng3 Nf6 16. Ne5 Rfd8 17. Nh5 Kf8 18. Qg3 Ne8 { Diagram } 19. Nxg7 ( 19. Nxg7 Nf6 ) *
+
+[Event "#4955 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Zagreb"]
+[Date "1955.??.??"]
+[Round "-"]
+[White "Fuderer"]
+[Black "Milic"]
+[Result "*"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 d5 4. Bg5 Be7 5. e3 O-O 6. Rc1 h6 7. Bh4 Ne4 8. Bxe7 Qxe7 9. Qc2 c6 10. Bd3 Nxc3 11. Qxc3 Qg5 12. Nf3 Qxg2 13. Ke2 Qh3 14. Rcg1 f5 15. Rg3 Qh5 16. Rhg1 Rf7 17. Qa3 Nd7 18. Ke1 dxc4 19. Bxc4 f4 { Diagram } 20. Rxg7+ Rxg7 21. Bxe6+ Kh8 22. Rxg7 Kxg7 23. Qe7+ Kh8 24. Ne5 fxe3 ( 24... Nxe5 25. Qf8+ Kh7 26. Qg8# ) 25. f4 *
+
+[Event "#4956 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Nice"]
+[Date "1931.??.??"]
+[Round "-"]
+[White "Alekhine"]
+[Black "Stoltz"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. b3 Qc8 8. Nc3 d5 9. cxd5 Nxd5 10. Bb2 c5 11. Rc1 Nxc3 12. Bxc3 Rd8 13. Qd2 Bd5 14. Qf4 Qb7 15. dxc5 bxc5 16. e4 Bc6 17. Ne5 Be8 18. Ng4 Na6 { Diagram } 19. Bxg7 ( 19. Bxg7 Kxg7 20. Qh6+ Kh8 ( 20... Kg8 21. e5 Bc6 22. Nf6+ Bxf6 23. exf6 ) 21. Nf6 Bxf6 22. Qf8# ) *
+
+[Event "#4957 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "-"]
+[White "Lukomski"]
+[Black "Podebin"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 b6 4. e4 Bb4 5. e5 Ne4 6. Qg4 Nxc3 7. bxc3 Bxc3+ 8. Kd1 Kf8 9. Rb1 Nc6 10. Ba3+ Kg8 11. Rb3 Bxd4 { Diagram } 12. Qxg7+ Kxg7 13. Rg3+ Kh6 14. Bc1+ Kh5 15. Be2+ Kh4 16. Rh3# *
+
+[Event "#4958 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Silvaplana"]
+[Date "1993.??.??"]
+[Round "-"]
+[White "Hueppin"]
+[Black "Baumgartner"]
+[Result "*"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 e6 4. Nc3 Bb4 5. Bd2 Bb7 6. e3 O-O 7. Be2 d6 8. O-O Nbd7 9. a3 Bxc3 10. Bxc3 Ne4 11. Rc1 a5 12. b4 f5 13. Bb2 Qe7 14. h3 g5 15. Nd2 Ndf6 16. Kh2 Qg7 17. f3 Nxd2 18. Qxd2 g4 19. Bd3 Qg5 20. f4 Qh5 21. Be2 { Diagram # } 21... Bxg2 22. Kxg2 Qxh3+ 23. Kg1 Ne4 24. Qe1 Qxe3+ 25. Kg2 Qh3+ *
+
+[Event "#4959 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "-"]
+[White "Botwinnik"]
+[Black "Keres"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. a3 Bxc3+ 6. bxc3 Re8 7. Ne2 e5 8. Ng3 d6 9. Be2 Nbd7 10. O-O c5 11. f3 cxd4 12. cxd4 Nb6 13. Bb2 exd4 14. e4 Be6 15. Rc1 Re7 16. Qxd4 Qc7 17. c5 dxc5 18. Rxc5 Qf4 19. Bc1 Qb8 20. Rg5 Nbd7 { Diagram
+# } 21. Rxg7+ Kxg7 22. Nh5+ Kg6 ( 22... Kf8 23. Nxf6 Nxf6 24. Qxf6 Rd7 25. Bg5 Kg8 26. Bh6 ) 23. Qe3 *
+
+[Event "#4960 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "-"]
+[White "Euwe"]
+[Black "Colle"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 b6 5. e4 Bb7 6. Bd3 Bxc3+ 7. bxc3 d6 8. Ne2 h6 9. O-O O-O 10. f4 Nbd7 11. e5 Ne8 12. Ng3 c5 13. Qe2 Qh4 14. f5 cxd4 15. Rf4 Qd8 16. cxd4 dxe5 17. dxe5 Nc7 18. Rg4 Qe7 { Diagram } 19. Rxg7+ ( 19. Rxg7+ Kxg7 20. f6+ Nxf6 21. exf6+ Kxf6 22. Nh5# ) *
+
+[Event "#4961 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "-"]
+[White "Sullivan, C"]
+[Black "Cook"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. e3 O-O 7. Bd3 e5 8. d5 Bxc3+ 9. Qxc3 e4 10. dxc6 exf3 11. gxf3 bxc6 12. b3 Be6 13. Bb2 a5 14. Rg1 Kh8 15. Ke2 a4 16. Qd4 axb3 { Diagram } 17. Rxg7 $1 Kxg7 18. Rg1+ Kh6 19. Qf4+ *
+
+[Event "#4962 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Mexico City MEX"]
+[Date "1932.??.??"]
+[Round "-"]
+[White "Soto-Larrea"]
+[Black "Brunner"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. e3 Bb4 6. Bd2 O-O 7. Bd3 d6 8. O-O Nbd7 9. a3 Bxc3 10. Bxc3 Qe7 11. Qc2 e5 12. e4 exd4 13. Nxd4 Ne5 14. Nf5 Qe6 15. f3 a5 16. Rad1 Nxd3 17. Qxd3 Ra6 18. Qe3 Ne8 { Diagram } 19. Bxg7 Nxg7 20. Qg5 Qe5 21. f4 ( 21. f4 Qxb2 22. e5 ) *
+
+[Event "#4963 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "-"]
+[White "NN"]
+[Black "Crepeaux"]
+[Result "*"]
+
+1. f4 d5 2. Nf3 Nc6 3. e3 Bg4 4. b3 e5 5. fxe5 Nxe5 6. Be2 Bxf3 7. Bxf3 Nf6 8. Bb2 Bd6 9. O-O Ne4 10. Nc3 Qh4 11. Nxd5 { Diagram } 11... Qxh2+ 12. Kxh2 Nxf3+ 13. Kh3 Neg5+ 14. Kg4 h5+ 15. Kf5 g6+ 16. Kf6 Kf8 ( 16... Kf8 { 17. -- Nh7# } ) *
+
+[Event "#4964 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "-"]
+[White "Cook"]
+[Black "NN"]
+[Result "*"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. f4 d5 2. e3 c5 3. b3 e6 4. Bb2 Nf6 5. Nf3 Be7 6. Bd3 O-O 7. Ng5 g6 8. h4 Nh5 9. Qxh5 Bxg5 { Diagram } 10. Qxh7+ Kxh7 11. hxg5+ Kg8 12. Rh8# *
+
+[Event "#4965 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1889.??.??"]
+[Round "-"]
+[White "Lasker"]
+[Black "Bauer"]
+[Result "*"]
+
+1. f4 d5 2. e3 Nf6 3. b3 e6 4. Bb2 Be7 5. Bd3 b6 6. Nc3 Bb7 7. Nf3 O-O 8. O-O Nbd7 9. Ne2 c5 10. Ng3 Qc7 11. Ne5 Nxe5 12. Bxe5 Qc6 13. Qe2 a6 14. Nh5 Nxh5 { Diagram
+# } 15. Bxh7+ Kxh7 16. Qxh5+ Kg8 17. Bxg7 Kxg7 18. Qg4+ Kh7 19. Rf3 e5 20. Rh3+ Qh6 21. Rxh6+ Kxh6 22. Qd7 *
+
+[Event "#4966 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Munich GER"]
+[Date "1915.??.??"]
+[Round "-"]
+[White "Tarrasch"]
+[Black "Satzinger"]
+[Result "*"]
+
+1. f4 e6 2. Nf3 d5 3. e3 c5 4. b3 Be7 5. Bb2 Bf6 6. Ne5 Bxe5 7. fxe5 Ne7 8. Bd3 Nbc6 9. O-O O-O 10. Qh5 Ng6 11. Rf3 Nce7 12. Nc3 a6 13. Raf1 b5 14. Nd1 Bb7 15. Nf2 c4 16. Ng4 f5 17. exf6 Nf5 18. fxg7 Nxg7 { Diagram } 19. Qxh7+ Kxh7 20. Rh3+ Kg8 21. Nh6+ Kh7 22. Nf7+ Kg8 23. Rh8+ Nxh8 24. Nh6# *
+
+[Event "#4967 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "-"]
+[White "Nivergenit"]
+[Black "Kapello"]
+[Result "*"]
+
+1. c4 e5 2. g3 d6 3. Bg2 Be7 4. Nc3 c6 5. d3 f5 6. Rb1 Nf6 7. e4 O-O 8. Nge2 Na6 9. b4 Qe8 10. O-O Qh5 11. f3 fxe4 12. fxe4 Bh3 13. Bxh3 Qxh3 14. Rf2 Ng4 15. Rg2 Rf7 16. Qe1 Raf8 17. Nd1 { Diagram } 17... Nxh2 *
+
+[Event "#4968 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "-"]
+[White "Shaw"]
+[Black "Whitney"]
+[Result "*"]
+
+1. c4 e5 2. Nc3 Nf6 3. e4 Nc6 4. f4 d6 5. d3 Be7 6. Be3 Ng4 7. Bd2 { Diagram } 7... Nxh2 8. Rxh2 Bh4+ 9. Ke2 Nd4+ 10. Ke3 exf4+ 11. Kxd4 Qf6+ 12. Kd5 Be6# *
+
+[Event "#4969 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "-"]
+[White "Henschel"]
+[Black "Karff"]
+[Result "*"]
+
+1. d4 Nf6 2. Nf3 b6 3. e3 Bb7 4. Nbd2 e6 5. Bd3 d5 6. O-O Nbd7 7. Qe2 Ne4 8. c4 Bd6 9. Ne1 O-O 10. Qf3 f5 11. Qe2 Rf6 12. f3 { Diagram } 12... Bxh2+ 13. Kxh2 Rh6+ 14. Kg1 Ng3 15. Qd1 Qh4 16. Qc2 ( 16. f4 Qh2+ 17. Kf2 Nf6 18. Nef3 Ng4+ 19. Ke1 Qxg2 ) 16... Nh1 *
+
+[Event "#4970 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "-"]
+[White "Polgar, Zsuzsa"]
+[Black "N.N"]
+[Result "*"]
+
+1. d4 Nf6 2. Nf3 b6 3. Bf4 d5 4. Nbd2 c5 5. e3 e6 6. Ne5 cxd4 7. exd4 Be7 8. Ndf3 O-O 9. Bd3 Bb7 10. O-O Nc6 11. c3 Rc8 12. h3 Nxe5 13. dxe5 Ne4 14. Nd4 Nc5 15. Bc2 Ba6 16. Re1 Qe8 17. Re3 Bb7 18. Rg3 a6 { Diagram } 19. Bxh7+ $1 Kxh7 20. Qh5+ Kg8 21. Rxg7+ $1 Kxg7 22. Bh6+ Kh8 23. Bg5+ Kg8 24. Bf6 $1 Bxf6 25. exf6 *
+
+[Event "#4971 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "-"]
+[White "Marshall"]
+[Black "Burn"]
+[Result "*"]
+
+1. d4 Nf6 2. Nf3 d6 3. Bf4 Nbd7 4. e3 g6 5. Bd3 Bg7 6. Nbd2 O-O 7. h4 Re8 8. h5 Nxh5 9. Rxh5 gxh5 { Diagram } 10. Bxh7+ Kxh7 11. Ng5+ Kg6 ( 11... Kg8 12. Qxh5 Nf6 13. Qxf7+ Kh8 14. O-O-O ) 12. Ndf3 e5 13. Nh4+ Kf6 14. Nh7+ Ke7 15. Nf5+ Ke6 16. Nxg7+ Ke7 17. Nf5+ Ke6 18. d5+ Kxf5 19. Qxh5+ Ke4 20. O-O-O exf4 21. Rd4# *
+
+[Event "#4972 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "-"]
+[White "Denker"]
+[Black "Robbins"]
+[Result "*"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 e6 6. Bd3 Bb4 7. O-O Bxc3 8. bxc3 b6 9. Bg5 Bb7 10. Ne5 O-O 11. Ng4 d6 12. Nxf6+ gxf6 { Diagram } 13. Bxh7+ Kg7 ( 13... Kxh7 14. Qh5+ Kg7 15. Qh6+ Kg8 16. Qg6+ Kh8 17. Rxf6 ) 14. Qh5 fxg5 15. Qg6+ Kh8 16. Bg8 Rxg8 17. Qh6# *
+
+[Event "#4973 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "-"]
+[White "Jaglom"]
+[Black "Kahn"]
+[Result "*"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 b6 5. f3 exf3 6. Nxf3 Bb7 7. Bd3 e6 8. O-O Be7 9. Qe2 O-O 10. Ne5 Nd5 { Diagram } 11. Bxh7+ Kxh7 12. Qh5+ Kg8 13. Rxf8+ Qxf8 14. Ng6 Qe8 15. Qh8+ Kf7 16. Ne5# *
+
+[Event "#4974 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "-"]
+[White "Lasker, Ed"]
+[Black "Thomas"]
+[Result "*"]
+
+1. d4 f5 2. Nc3 Nf6 3. Nf3 e6 4. Bg5 Be7 5. Bxf6 Bxf6 6. e4 fxe4 7. Nxe4 b6 8. Ne5 O-O 9. Bd3 Bb7 10. Qh5 Qe7 { Diagram } 11. Qxh7+ Kxh7 12. Nxf6+ Kh6 13. Neg4+ Kg5 14. h4+ Kf4 15. g3+ Kf3 16. Be2+ Kg2 17. Rh2+ Kg1 18. Kd2# *
+
+[Event "#4975 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "-"]
+[White "Abramovic"]
+[Black "Botvinnik"]
+[Result "*"]
+
+1. d4 f5 2. Nf3 Nf6 3. c4 e6 4. Nc3 b6 5. Bg5 Be7 6. e3 Bb7 7. Bd3 O-O 8. O-O Ne4 9. Bxe7 Qxe7 10. Rc1 Na6 11. a3 Rf6 12. Qa4 Nxc3 13. Rxc3 Bxf3 14. Qxa6 Rg6 15. g3 Qg5 16. Re1 Qh5 17. e4 { Diagram } 17... Qxh2+ *
+
+[Event "#4976 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1883.??.??"]
+[Round "-"]
+[White "Tarrasch"]
+[Black "Richter"]
+[Result "0-1"]
+
+1. d4 f5 2. c4 e6 3. Nf3 Nf6 4. e3 b6 5. Bd3 Bb7 6. O-O Bd6 7. Nc3 Nc6 8. e4 fxe4 9. Nxe4 Be7 10. Ne5 Nxd4 11. Nxf6+ Bxf6 12. Qh5+ g6 13. Bxg6+ hxg6 14. Qxg6+ Ke7 15. Ng4 Qf8 16. Nxf6 Qxf6 17. Bg5 Ne2+ 18. Kh1 { Diagram } 18... Rxh2+ $1 19. Kxh2 Rh8+ 20. Bh6 Qh4# 0-1
+
+[Event "#4977 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "-"]
+[White "Zsuzsa Polgar"]
+[Black "Chirakov"]
+[Result "*"]
+
+1. d4 f5 2. c4 Nf6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O d6 7. Nc3 c6 8. d5 e5 9. dxe6 Bxe6 10. Qd3 Na6 11. Ng5 Qe7 12. Bf4 Rad8 13. Rfd1 Ne8 14. Qe3 Nc5 15. b4 Ne4 16. Ncxe4 Bxa1 { Diagram } 17. Nxh7 fxe4 ( 17... Kxh7 18. Bg5 ) 18. Nxf8 Kxf8 19. Rxa1 Bxc4 20. Bg5 Nf6 21. Qd4 *
+
+[Event "#4978 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "-"]
+[White "Judit Polgar"]
+[Black "N.N"]
+[Result "*"]
+
+1. e4 g6 2. d4 Bg7 3. f4 c6 4. Nf3 d6 5. Nc3 Nf6 6. Bd3 O-O 7. O-O Nbd7 8. e5 Ne8 9. Be3 Nc7 10. Ne4 d5 11. Neg5 f6 { Diagram } 12. Nxh7 Kxh7 13. Ng5+ Kg8 ( 13... fxg5 14. Qh5+ ) 14. Bxg6 fxg5 15. Qh5 Nf6 ( 15... Rf6 16. Qh7+ Kf8 17. exf6 ) 16. exf6 Rxf6 17. Qh7+ Kf8 18. fxg5 Bg4 19. gxf6 exf6 20. Bh6 Qe7 21. Qh8# *
+
+[Event "#4979 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "-"]
+[White "Korelov"]
+[Black "Krememetzky"]
+[Result "*"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. d5 Nc7 9. a4 Rb8 10. Qe1 e6 11. dxe6 Nxe6 12. f5 Nd4 13. Qh4 gxf5 14. Bg5 Ne6 15. exf5 Nxg5 16. Nxg5 d5 { Diagram } 17. Nxh7 $1 c4 ( 17... Nxh7 18. f6 Nxf6 19. Rxf6 ) 18. Nxd5 $1 Ne4 19. Ne7+ $1 *
+
+[Event "#4980 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Nurnberg"]
+[Date "1892.??.??"]
+[Round "-"]
+[White "Tarrasch"]
+[Black "Schroder"]
+[Result "*"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 d5 2. e5 c5 3. f4 e6 4. Nf3 Nc6 5. c3 Qb6 6. Bd3 Bd7 7. Bc2 c4 8. b3 cxb3 9. axb3 d4 10. Qe2 dxc3 11. dxc3 Nh6 12. Nd2 Be7 13. Ne4 O-O 14. Qd3 g6 15. Qh3 Nf5 16. g4 Ng7 17. Nf6+ Bxf6 18. exf6 Ne8 19. g5 Kh8 20. Qh6 Rg8 21. h4 Nd6 22. h5 Nf5 { Diagram } 23. Qxh7+ ( 23. Qxh7+ Kxh7 24. hxg6+ Kxg6 25. Rh6# ) *
+
+[Event "#4981 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "-"]
+[White "Medvegy"]
+[Black "Hilmer"]
+[Result "*"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8. exd5 Nb8 9. f4 a6 10. Nc3 Be7 11. fxe5 dxe5 12. Be3 O-O 13. Qf3 Nd7 14. O-O-O Rb8 15. g4 Bg5 16. Rg1 b5 17. Ne4 Bxe3+ 18. Qxe3 a5 19. g5 b4 20. Bd3 a4 21. Rdf1 Qb6 22. Qh3 a3 23. Rg3 Qd4 { Diagram } 24. Qxh7+ $1 Kxh7 25. Nf6+ *
+
+[Event "#4982 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "-"]
+[White "Judit Polgar"]
+[Black "Metodlev"]
+[Result "*"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 a6 7. Bc4 Bg7 8. Bb3 O-O 9. f3 Qc7 10. Qd2 e6 11. O-O-O b5 12. h4 Na5 13. h5 Nc4 14. Bxc4 bxc4 15. hxg6 fxg6 16. Bh6 Rf7 17. Bxg7 Rxg7 18. Qg5 Rf7 19. e5 Nd5 20. Nxd5 exd5 { Diagram # } 21. Rxh7 Rxh7 ( 21... Kxh7 22. Rh1+ Kg7 ( 22... Kg8 23. Qxg6+ Rg7 24. Qe8# ) 23. Qh6+ Kg8 24. Qh8# ) 22. Qxg6+ Kh8 23. Qe8+ Kg7 24. Nf5# *
+
+[Event "#4983 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "-"]
+[White "Book"]
+[Black "Ingerslev"]
+[Result "*"]
+
+1. e4 e6 2. Nc3 Bb4 3. Nf3 c5 4. Bd3 d5 5. a3 Ba5 6. b4 cxb4 7. axb4 Bxb4 8. Bb2 Ne7 9. O-O O-O 10. Re1 b6 11. exd5 Nxd5 12. Nxd5 exd5 13. Nd4 Bb7 14. Re3 Nd7 15. Nc6 $1 Bxc6 { Diagram } 16. Bxh7+ $1 Kxh7 17. Qh5+ Kg8 18. Bxg7 Kxg7 19. Rg3+ Kf6 20. Re1 Rg8 21. Rf3+ Kg7 22. Rxf7# *
+
+[Event "#4984 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "-"]
+[White "Tal"]
+[Black "N.N"]
+[Result "*"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Kh1 d6 8. f4 Nbd7 9. Nd2 Be7 10. N2f3 O-O 11. Qe2 Nc5 12. e5 dxe5 13. fxe5 Nfd7 14. Bg5 Nxe5 15. Bxe7 Nxf3 16. Rxf3 Qxe7 { Diagram } 17. Bxh7+ $1 Kxh7 18. Rh3+ Kg8 19. Nf5 Qg5 20. Qh5 $1 Qxh5 21. Ne7+ Kh8 22. Rxh5# *
+
+[Event "#4985 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "-"]
+[White "Solymar"]
+[Black "Navarovsky"]
+[Result "*"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nxc6 bxc6 7. c4 e5 8. Nc3 Bc5 9. O-O Rb8 10. Kh1 d6 11. Qe2 Ng4 12. f3 { Diagram } 12... Nxh2 $1 13. Re1 ( 13. Kxh2 Qh4# ) 13... Nf1 14. Qxf1 Qh4# *
+
+[Event "#4986 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "-"]
+[White "Hort"]
+[Black "Rabulov"]
+[Result "*"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8. f4 d5 9. e5 Nd7 10. Bxe7 Qxe7 11. O-O-O a6 12. Nf3 O-O 13. Bd3 Rb8 14. Qe3 b5 { Diagram
+# } 15. Bxh7+ $1 Kxh7 16. Ng5+ Kg6 17. Qh3 *
+
+[Event "#4987 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "-"]
+[White "Blelfeldt"]
+[Black "Daley"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 Nf6 4. f3 Nc6 5. e5 Nd7 6. f4 Be7 7. c3 O-O 8. Bd3 b6 9. Nf3 Bb7 10. h4 f6 11. Ng5 fxg5 { Diagram } 12. Bxh7+ $1 Kxh7 13. Qh5+ Kg8 14. hxg5 Ba6 ( 14... Rf5 15. g4 ) 15. g6 *
+
+[Event "#4988 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "-"]
+[White "Curdo"]
+[Black "Daley"]
+[Result "*"]
+
+1. e4 e6 2. d4 c5 3. c3 cxd4 4. cxd4 d5 5. e5 Nc6 6. Nf3 Bb4+ 7. Nc3 Nge7 8. Bd3 O-O { Diagram } 9. Bxh7+ $1 Kxh7 10. Ng5+ Kg6 11. Qg4 f5 12. Qg3 f4 13. Qg4 Kh6 14. Qh4+ Kg6 15. Qh7+ Kxg5 16. h4+ Kg4 17. Qxg7+ Ng6 18. Qxg6+ *
+
+[Event "#4989 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "-"]
+[White "Diemer"]
+[Black "Zeller"]
+[Result "*"]
+
+1. d4 d5 2. e4 e6 3. Be3 dxe4 4. Nd2 f5 5. f3 Nf6 6. fxe4 fxe4 7. Nh3 Bd6 8. Bc4 O-O 9. O-O Kh8 10. Ng5 Qe7 11. Ndxe4 e5 12. Nxf6 gxf6 13. dxe5 Bxe5 14. Qh5 fxg5 15. Rxf8+ Qxf8 16. Rf1 Bf6 17. Bd3 Qe7 18. Rxf6 Qxe3+ 19. Kh1 Qe7 20. Rf7 Qe1+ 21. Rf1 Qe7 { Diagram } 22. Bxh7 $1 Qxh7 23. Rf8+ Kg7 24. Rf7+ Kg8 25. Qxh7# *
+
+[Event "#4990 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1619.??.??"]
+[Round "-"]
+[White "Greco"]
+[Black "N.N"]
+[Result "*"]
+
+1. e4 e6 2. d4 Nf6 3. Bd3 Nc6 4. Nf3 Be7 5. h4 O-O 6. e5 Nd5 { Diagram } 7. Bxh7+ $1 Kxh7 8. Ng5+ Bxg5 9. hxg5+ Kg6 10. Qh5+ Kf5 11. Qh7+ g6 12. Qh3+ Ke4 13. Qd3# *
+
+[Event "#4991 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "-"]
+[White "Kaufman"]
+[Black "Rheti"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Bd3 c5 4. exd5 Qxd5 5. Nc3 Qxd4 6. Nf3 Qd8 7. Bf4 Nf6 8. Qe2 Nc6 9. O-O Bd6 10. Bxd6 Qxd6 11. Rad1 Qf4 12. Ne4 Nxe4 13. Bxe4 O-O 14. Rfe1 Qc7 15. Qc4 b6 16. Rd3 Bb7 { Diagram } 17. Bxh7+ $1 Kxh7 18. Qh4+ Kg8 19. Ng5 Rfd8 20. Qh7+ Kf8 21. Qh8+ Ke7 22. Rxe6+ fxe6 23. Qxg7+ Ke8 24. Qg8+ Ke7 25. Qf7# *
+
+[Event "#4992 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "-"]
+[White "Lasker"]
+[Black "Traxler"]
+[Result "*"]
+
+1. e4 e6 2. Nc3 Nf6 3. Nf3 d5 4. e5 Nfd7 5. d4 Be7 6. Be3 O-O 7. Bd3 b6 8. h4 f6 { Diagram } 9. Bxh7+ $1 Kxh7 10. Ng5+ fxg5 ( 10... Kg6 11. h5+ Kh6 12. Nxe6+ $1 ) 11. hxg5+ Kg8 12. Qh5 Rf5 13. f4 Nf8 14. g4 g6 15. Qh8+ Kf7 16. gxf5 exf5 17. O-O-O a5 18. Rh6 Ke6 19. Qg8+ Kd7 20. Qxd5+ *
+
+[Event "#4993 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "-"]
+[White "Szasz"]
+[Black "Sheppards"]
+[Result "*"]
+
+1. d4 d5 2. e4 e6 3. Be3 b6 4. e5 Bb7 5. f4 Nd7 6. Nf3 c5 7. c3 cxd4 8. cxd4 Rc8 9. a3 Ne7 10. Bd3 Nc6 11. O-O Ncb8 12. Nc3 Ba6 13. Nb5 Bxb5 14. Bxb5 a6 15. Bd3 Be7 16. Bd2 O-O 17. Bb4 Bxb4 18. axb4 a5 { Diagram } 19. Bxh7+ $1 Kh8 ( 19... Kxh7 20. Ng5+ Kg8 ( 20... Kg6 21. Qg4 ) 21. Qh5 Re8 22. Qxf7+ Kh8 23. Qh5+ Kg8 24. Qh7+ Kf8 25. Qh8+ Ke7 26. Qxg7# ) 20. Ng5 g6 21. Qg4 f5 22. Qh4 Kg7 23. Nxe6+ *
+
+[Event "#4994 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "-"]
+[White "Balogh"]
+[Black "Sheppards"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 cxd4 5. Nf3 Nc6 6. Bd3 Nge7 7. O-O Ng6 8. Re1 Be7 9. a3 O-O 10. h4 Nxh4 { Diagram } 11. Bxh7+ $1 Kxh7 12. Ng5+ Bxg5 13. Bxg5 Qb6 14. Qxh4+ Kg8 15. Bf6 $1 gxf6 16. exf6 *
+
+[Event "#4995 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "-"]
+[White "Gauderson"]
+[Black "Faul"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 cxd4 5. cxd4 Bb4+ 6. Nc3 Nc6 7. Nf3 Nge7 8. Bd3 O-O { Diagram } 9. Bxh7+ $1 Kxh7 10. Ng5+ Kg6 11. h4 Nxd4 12. Qg4 f5 13. h5+ Kh6 14. Nxe6+ g5 15. hxg6# *
+
+[Event "#4996 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "-"]
+[White "Gurgenidze"]
+[Black "Simchak"]
+[Result "*"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Nfd7 5. d4 c5 6. Bb5 Nc6 7. O-O Be7 8. Ne2 cxd4 9. Nexd4 Nxd4 10. Nxd4 O-O 11. Re1 Qc7 12. Bf4 Nb8 13. Qg4 Rd8 14. Re3 Nc6 15. Nxc6 bxc6 16. Bd3 g6 17. h4 Kh8 18. Bg5 Re8 19. Rf3 Rf8 20. h5 Bb7 21. Rh3 Rg8 22. hxg6 fxg6 { Diagram } 23. Rxh7+ $1 Kxh7 24. Qh5+ Kg7 25. Qxg6+ Kf8 26. Bh6+ Rg7 27. Bxg7+ *
+
+[Event "#4997 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "-"]
+[White "Petersen"]
+[Black "Rochelle"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 cxd4 7. cxd4 Bb4+ 8. Nc3 Nge7 9. O-O Nf5 10. Bf4 Bd7 11. a3 Ne3 12. fxe3 Bxc3 13. bxc3 Na5 14. Ng5 O-O 15. Bd3 g6 16. Qf3 Qd8 17. Qg3 f6 { Diagram } 18. Nxh7 $1 Kxh7 19. Qxg6+ Kh8 20. Qh7# *
+
+[Event "#4998 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "-"]
+[White "Wolk"]
+[Black "Bukrejev"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. dxc5 Bxc5 6. Bd3 Nge7 7. Bf4 Qb6 8. O-O Qxb2 9. Nbd2 O-O 10. Nb3 Qa3 { Diagram } 11. Bxh7+ $1 Kxh7 12. Ng5+ Kg6 13. Qd3+ Nf5 14. Qh3 Nh6 15. g4 *
+
+[Event "#4999 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "-"]
+[White "Jansa"]
+[Black "Marovic"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Nd2 b6 4. Ngf3 Nf6 5. Bd3 dxe4 6. Nxe4 Bb7 7. Qe2 Be7 8. Bf4 Nbd7 9. O-O-O Nd5 10. Bd2 Nb4 11. Bxb4 Bxb4 12. Ne5 O-O 13. Nxd7 Qxd7 14. Nf6+ $1 gxf6 { Diagram } 15. Bxh7+ Kh8 ( 15... Kxh7 16. Qh5+ Kg7 17. Qg4+ Kh7 18. Rd3 ) 16. Qh5 Kg7 17. Qg4+ Kh8 18. d5 Rfd8 19. Rd3 Bxd5 20. Bf5 Bxg2 21. Qxg2 *
+
