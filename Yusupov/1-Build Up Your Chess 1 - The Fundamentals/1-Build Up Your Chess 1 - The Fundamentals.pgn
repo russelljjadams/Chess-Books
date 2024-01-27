@@ -1,0 +1,4398 @@
+﻿[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "01.01"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 01"]
+[SetUp "1"]
+[FEN "3r1rk1/pp3ppp/3pn3/1qpN4/5PP1/P5PQ/1PP5/1K1R4 w - - 0 1"]
+[PlyCount "5"]
+
+1. Ne7+ Kh8 2. Qxh7+ Kxh7 3. Rh1# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "01.02"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 01"]
+[SetUp "1"]
+[FEN "6R1/2p1qr1k/1p1p1r1p/p3p3/2P1P3/2P3Q1/PP3P2/2K3R1 w - - 0 0"]
+[PlyCount "3"]
+
+1. Rh8+ Kxh8 2. Qg8# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "01.03"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 01"]
+[SetUp "1"]
+[FEN "2kr2nr/pp1n1ppp/2p1p3/8/1P1P1B2/2N2Q1P/1PPKBPP1/7q w - - 0 0"]
+[PlyCount "3"]
+
+1. Qxc6+ bxc6 2. Ba6# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "01.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 01"]
+[SetUp "1"]
+[FEN "5r2/p3Qnkp/1p3Np1/2p3P1/3q4/5P2/PP3R2/4R1K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Qxf8+ Kxf8 2. Re8+ Kg7 3. Rg8# 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "01.05"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 01"]
+[SetUp "1"]
+[FEN "r1b2r1k/ppb2ppB/3q4/8/2PN1n1Q/PP6/1B3PPP/R4RK1 b - - 0 0"]
+[PlyCount "3"]
+
+1... Nh3+ 2. Qxh3 Bxh3 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "01.06"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 01"]
+[SetUp "1"]
+[FEN "5r1k/6p1/p2p1rRp/2pPpq1Q/8/PPp1P3/5P1R/K7 w - - 0 0"]
+[PlyCount "3"]
+
+1. Qxh6+ gxh6 2. Rhxh6# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "01.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 01"]
+[SetUp "1"]
+[FEN "r1n3k1/pp2q2p/2ppr1pQ/4p3/8/2N4R/PPP3PP/5RK1 w - - 0 0"]
+[PlyCount "3"]
+
+1. Rf8+ Qxf8 2. Qxh7# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "01.08"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 01"]
+[SetUp "1"]
+[FEN "4rr1k/p4pb1/5R1p/1p2q3/3p4/3P2R1/PP1Q2BP/7K w - - 0 0"]
+[PlyCount "3"]
+
+1. Qxh6+ Bxh6 2. Rxh6# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "01.09"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 01"]
+[SetUp "1"]
+[FEN "r4r1k/ppn4p/2p2N2/4P3/2pP1N2/5K2/PPP5/6R1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Ng6+ hxg6 2. Rh1+ Kg7 3. Rh7# 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "01.10"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 01"]
+[SetUp "1"]
+[FEN "k1r5/1p4pq/p7/5n2/3nQ3/P7/RPP2PPP/2B2RK1 b - - 0 0"]
+[PlyCount "11"]
+
+1... Ng3 2. Qxd4 Ne2+ 3. Kh1 Qxh2+ 4. Kxh2 Rh8+ 5. Bh6 Rxh6+ 6. Qh4 Rxh4# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "01.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 01"]
+[SetUp "1"]
+[FEN "5r1k/1p1br2p/pqnbpp2/3p4/3P4/P1NQ1N2/1PB2PPP/R3R1K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Nxd5 exd5 2. Rxe7 f5 3. Rxd7 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "01.12"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 01"]
+[SetUp "1"]
+[FEN "2kr1r2/pp1n3p/2p1bp2/8/5B2/8/PP2BP1P/2R1K1R1 w - - 0 0"]
+[PlyCount "3"]
+
+1. Rxc6+ bxc6 2. Ba6# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "02.01"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 02"]
+[SetUp "1"]
+[FEN "r1b2rk1/p1p2p1p/2p1pB2/8/3P4/P7/1PP2PqP/R2QK2R w KQ - 0 0"]
+[PlyCount "13"]
+
+1. Qf3 Qg6 2. Kd2 Qh6+ 3. Kc3 Re8 4. Rhg1+ Kf8 5. Bg7+ Qxg7 6. Rxg7 Kxg7 7.
+Qxc6 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "02.02"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 02"]
+[SetUp "1"]
+[FEN "rn3r1k/ppp3pp/8/4bP1Q/2BqN3/8/PP3p1P/2R2K1R w - - 0 0"]
+[PlyCount "3"]
+
+1. Ng5 h6 2. Qg6 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "02.03"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 02"]
+[SetUp "1"]
+[FEN "1q1r1r2/1bb2pk1/pN1pp3/4n1p1/1PPQP3/1N2BPp1/P5P1/2RR1B1K b - - 0 0"]
+[PlyCount "11"]
+
+1... Rh8+ 2. Kg1 Rh1+ 3. Kxh1 Rh8+ 4. Kg1 Rh1+ 5. Kxh1 Qh8+ 6. Kg1 Qh2# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "02.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 02"]
+[SetUp "1"]
+[FEN "r4r1k/5p1p/p2p1Pp1/2p3Q1/q1P1P3/7P/1P4P1/1R3R1K w - - 0 0"]
+[PlyCount "9"]
+
+1. Rf4 Qc2 2. Qh6 Qxb1+ 3. Kh2 Rg8 4. Qxh7+ Kxh7 5. Rh4# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "02.05"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 02"]
+[SetUp "1"]
+[FEN "1rb1nrk1/5p1p/p1q1p1p1/1pbp2N1/2P2P2/PP1BP3/1B4PP/1R1QK2R w K - 0 0"]
+[PlyCount "3"]
+
+1. Qh5 gxh5 2. Bxh7# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "02.06"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 02"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp1pb1p1/2n1p3/4P1P1/3P4/2P5/P4PP1/R1BQK2R w KQ - 0 0"]
+[PlyCount "9"]
+
+1. Rh8+ Kxh8 2. Qh5+ Kg8 3. g6 Rf5 4. Qh7+ Kf8 5. Qh8# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "02.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 02"]
+[SetUp "1"]
+[FEN "r1bqk2r/ppp1nppp/2np4/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 0"]
+[PlyCount "9"]
+
+1. Ng5 O-O 2. Qh5 h6 3. Nxf7 Rxf7 4. Qxf7+ Kh7 5. O-O 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "02.08"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 02"]
+[SetUp "1"]
+[FEN "6k1/1b5p/pp1pPqp1/2p1r3/8/8/PPQ2PPP/3R1RK1 b - - 0 0"]
+[PlyCount "5"]
+
+1... Qf3 2. gxf3 Rg5+ 3. Kh1 Bxf3# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "02.09"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 02"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppn3bp/2p1p1p1/3pN1Nn/P2P1P1P/3B4/1PP3P1/R1BQK2R w KQ - 0 0"]
+[PlyCount "3"]
+
+1. Qxh5 h6 2. Qxg6 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "02.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 02"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp2nppp/3p4/2pNp1B1/2BnP1b1/3P1N2/PPP2PPP/R2QK2R w KQkq - 0 0"]
+[PlyCount "5"]
+
+1. Nxe5 Bxd1 2. Nf6+ gxf6 3. Bxf7# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "02.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 02"]
+[SetUp "1"]
+[FEN "r1bq2rk/5p1p/2np1PpQ/pnp1p3/1p2P2N/2PP2P1/PP4BP/R2N1RK1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Nf3 Qf8 2. Ng5 Qxh6 3. Nxf7# 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "02.12"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 02"]
+[SetUp "1"]
+[FEN "r1bn1rk1/ppp1q1pp/1b1p1n2/3Pp1B1/4N2N/2P4P/PP2BPP1/R2QK2R b KQ - 0 0"]
+[PlyCount "5"]
+
+1... Nxe4 2. Bxe7 Bxf2+ 3. Kf1 Ng3# 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "03.01"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 03"]
+[SetUp "1"]
+[FEN "rnbqk1nr/ppp2ppp/3b4/8/8/2N5/PPPPP1PP/R1BQKBNR b KQkq - 0 1"]
+[PlyCount "5"]
+
+1... Qh4+ 2. g3 Qxg3+ 3. hxg3 Bxg3# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "03.02"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 03"]
+[SetUp "1"]
+[FEN "r1bqk2r/pppp1ppp/1bn2n2/8/2BPP3/5N2/PP3PPP/RNBQK2R w KQkq - 0 1"]
+[PlyCount "17"]
+
+1. d5 Ne7 2. e5 Ne4 3. O-O O-O 4. Qe2 Nc5 5. b4 Na6 6. d6 cxd6 7. exd6 Ng6 8.
+Bg5 Qe8 9. Be7 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "03.03"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 03"]
+[SetUp "1"]
+[FEN "r2qk2r/pp1nbppp/5n2/1BpPp1B1/4P3/2N2Q2/PPP3PP/R3K2R w KQkq - 0 0"]
+[PlyCount "3"]
+
+1. d6 Bxd6 2. O-O-O 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "03.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 03"]
+[SetUp "1"]
+[FEN "r3k1nr/pppq1ppp/1b2b3/n7/3P4/B1NB1N2/P4PPP/R2Q1RK1 w kq - 0 0"]
+[PlyCount "5"]
+
+1. d5 Bxd5 2. Nxd5 Qxd5 3. Re1+ 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "03.05"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 03"]
+[SetUp "1"]
+[FEN "rnb1k2r/ppp2p1p/3p4/8/3PqB2/8/PPP2KP1/R2Q1B1R w kq - 0 0"]
+[PlyCount "9"]
+
+1. Bb5+ Kf8 2. Bh6+ Kg8 3. Rh5 Bf5 4. Qd2 Bg6 5. Re1 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "03.06"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 03"]
+[SetUp "1"]
+[FEN "r2qkb1r/5p1p/p1np4/1p1Npb2/8/N4Q2/PPP2PPP/R3KB1R b KQkq - 0 0"]
+[PlyCount "15"]
+
+1... Nd4 2. Nc7+ Qxc7 3. Qxa8+ Ke7 4. Rd1 Nxc2+ 5. Nxc2 Bxc2 6. Qd5 Bxd1 7.
+Qxd1 Bh6 8. Qb1 Rc8 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "03.07"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 03"]
+[SetUp "1"]
+[FEN "r5k1/1b2qpbp/3p4/1B2p3/1N6/2P2P2/1P4PP/3QK2R b K - 0 0"]
+[PlyCount "17"]
+
+1... d5 2. Be2 Qc5 3. Qd2 e4 4. fxe4 dxe4 5. Bd1 e3 6. Qd3 Qg5 7. Nc2 Bxg2 8.
+Rg1 Qh4+ 9. Ke2 Qf2# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "03.08"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 03"]
+[SetUp "1"]
+[FEN "r2qk2r/2nbpp1p/p2p1bp1/2pP4/P1p5/2N5/1PP1BPPP/R1BQ1RK1 w kq - 0 0"]
+[PlyCount "1"]
+
+1. Bh6 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "03.09"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 03"]
+[SetUp "1"]
+[FEN "rn2kb1r/p3qppp/2p2n2/1p2p1B1/2B1P3/1QN5/PPP2PPP/R3K2R w KQkq - 0 0"]
+[PlyCount "15"]
+
+1. Nxb5 cxb5 2. Bxb5+ Nbd7 3. O-O-O Rd8 4. Rxd7 Rxd7 5. Rd1 Qe6 6. Bxd7+ Nxd7
+7. Qb8+ Nxb8 8. Rd8# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "03.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 03"]
+[SetUp "1"]
+[FEN "r1b1qrk1/p2n2pp/1ppbpn2/3p1p2/2PP4/3N1NP1/PPQ1PPBP/R1B2RK1 w - - 0 0"]
+[PlyCount "5"]
+
+1. cxd5 Bb7 2. dxc6 Rc8 3. cxd7 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "03.11"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 03"]
+[SetUp "1"]
+[FEN "r1b1k2r/pp2qppp/2np1n2/2pPp3/2P5/P1PBPN2/2Q2PPP/R1B1K2R b KQkq - 0 0"]
+[PlyCount "5"]
+
+1... e4 2. Bxe4 Qxe4 3. Qxe4+ Nxe4 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "03.12"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 03"]
+[SetUp "1"]
+[FEN "rnb2k1r/pppp1ppp/5n2/8/5N1q/2P2B2/PPP1QP1P/R1B1K2R w KQ - 0 0"]
+[PlyCount "5"]
+
+1. Qc4 g5 2. Qd4 gxf4 3. Bxf4 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "04.01"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 04"]
+[SetUp "1"]
+[FEN "8/8/8/1p6/8/1Pk5/8/1K6 w - - 0 0"]
+[PlyCount "3"]
+
+1. b4 Kxb4 2. Kb2 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "04.02"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 04"]
+[SetUp "1"]
+[FEN "8/8/8/3kp3/8/8/8/3K4 w - - 0 0"]
+[PlyCount "3"]
+
+1. Ke1 Ke4 2. Ke2 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "04.03"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 04"]
+[SetUp "1"]
+[FEN "5k2/8/8/8/1P6/8/8/3K4 w - - 0 0"]
+[PlyCount "9"]
+
+1. Kc2 Ke7 2. Kb3 Kd6 3. Ka4 Kc6 4. Ka5 Kb7 5. Kb5 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "04.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 04"]
+[SetUp "1"]
+[FEN "8/7p/4K2P/8/5k2/8/8/8 w - - 0 0"]
+[PlyCount "7"]
+
+1. Kf6 Ke4 2. Kg7 Kf5 3. Kxh7 Kf6 4. Kg8 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "04.05"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 04"]
+[SetUp "1"]
+[FEN "8/8/8/1k6/8/K7/6P1/8 w - - 0 0"]
+[PlyCount "21"]
+
+1. Kb3 Kc5 2. Kc3 Kd5 3. Kd3 Ke5 4. Ke3 Kf5 5. Kf3 Kg5 6. Kg3 Kf5 7. Kh4 Kf6 8.
+Kh5 Kg7 9. Kg5 Kf7 10. Kh6 Kf6 11. g4 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "04.06"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 04"]
+[SetUp "1"]
+[FEN "k7/8/1p6/8/1P6/5K2/8/8 w - - 0 0"]
+[PlyCount "19"]
+
+1. b5 Kb7 2. Ke4 Kc7 3. Ke5 Kd7 4. Kd5 Kc7 5. Ke6 Kb7 6. Kd7 Kb8 7. Kc6 Ka7 8.
+Kc7 Ka8 9. Kxb6 Kb8 10. Ka6 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "04.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 04"]
+[SetUp "1"]
+[FEN "8/7p/8/4kpPP/8/8/8/5K2 w - - 0 0"]
+[PlyCount "5"]
+
+1. h6 Ke6 2. g6 hxg6 3. h7 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "04.08"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 04"]
+[SetUp "1"]
+[FEN "8/8/3p4/k7/P1P5/p7/2K5/8 w - - 0 0"]
+[PlyCount "13"]
+
+1. Kb3 a2 2. Kb2 Kb4 3. Ka1 Kxa4 4. c5 dxc5 5. Kxa2 Kb4 6. Kb2 Kc4 7. Kc2
+1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "04.09"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 04"]
+[SetUp "1"]
+[FEN "8/8/3p4/2k5/4P3/8/8/1K6 w - - 0 0"]
+[PlyCount "7"]
+
+1. e5 dxe5 2. Kc1 Kd5 3. Kd1 Ke4 4. Ke2 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "04.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 04"]
+[SetUp "1"]
+[FEN "8/7k/5Pp1/8/5K2/8/8/8 w - - 0 0"]
+[PlyCount "7"]
+
+1. Kg5 Kh8 2. Kh6 g5 3. f7 g4 4. f8=Q# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "04.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 04"]
+[SetUp "1"]
+[FEN "1k6/1p1K4/1P6/2P5/8/8/8/8 w - - 0 0"]
+[PlyCount "5"]
+
+1. Kd8 Ka8 2. c6 bxc6 3. Kc7 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "04.12"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 04"]
+[SetUp "1"]
+[FEN "8/8/8/7p/2K5/8/6kP/8 w - - 0 0"]
+[PlyCount "7"]
+
+1. h4 Kg3 2. Kd3 Kxh4 3. Ke2 Kg3 4. Kf1 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "05.01"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 05"]
+[SetUp "1"]
+[FEN "3r1n1k/3P3p/pp3q2/2pQp3/P1P3B1/3b2R1/1P5P/6K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Qg8+ Kxg8 2. Be6+ Kh8 3. Rg8# 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "05.02"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 05"]
+[SetUp "1"]
+[FEN "r4rk1/8/p5n1/1p3b2/2q5/P1N1B1Q1/1PPR2PP/5RK1 b - - 0 0"]
+[PlyCount "5"]
+
+1... Qxf1+ 2. Kxf1 Bd3+ 3. Kg1 Rf1# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "05.03"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 05"]
+[SetUp "1"]
+[FEN "r4nkr/p3b2p/1pp1p1qB/5Q2/2BP4/2P3P1/P4P1P/4R1K1 w - - 0 0"]
+[PlyCount "7"]
+
+1. Rxe6 Bf6 2. Qxg6+ hxg6 3. Re7+ Ne6 4. Bxe6# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "05.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 05"]
+[SetUp "1"]
+[FEN "6r1/p4rkp/3RQ1n1/1pp1p1B1/2p1P3/2P3R1/P4qPK/8 w - - 0 0"]
+[PlyCount "7"]
+
+1. Qxe5+ Nxe5 2. Bf6+ Kh6 3. Bg7+ Kh5 4. Rh6# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "05.05"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 05"]
+[SetUp "1"]
+[FEN "rnb1k2r/pp2ppbp/2p5/3Q4/8/5N2/P1qB1PPP/3RKB1R w Kkq - 0 0"]
+[PlyCount "5"]
+
+1. Qd8+ Kxd8 2. Ba5+ Ke8 3. Rd8# 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "05.06"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 05"]
+[SetUp "1"]
+[FEN "r2r2k1/5p2/3p2p1/1N2p1q1/2P2n1p/4N1n1/5RPP/3RQBK1 b - - 0 0"]
+[PlyCount "5"]
+
+1... Nh3+ 2. gxh3 Ne2+ 3. Kh1 Qg1# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "05.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 05"]
+[SetUp "1"]
+[FEN "r1b2r1k/pp3p1p/2n2NpB/q2pQ3/8/7P/PPP3P1/2K4R w - - 0 0"]
+[PlyCount "11"]
+
+1. Bg7+ Kxg7 2. Ne8+ Kh6 3. Qf4+ g5 4. Qf6+ Kh5 5. Ng7+ Kh4 6. Qf2# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "05.08"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 05"]
+[SetUp "1"]
+[FEN "rnb1kb1r/pp3ppp/2p5/4q3/4n3/3Q4/PPPB1PPP/2KR1BNR w kq - 0 0"]
+[PlyCount "5"]
+
+1. Qd8+ Kxd8 2. Bg5+ Kc7 3. Bd8# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "05.09"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 05"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp3pp/1qp5/2b1Pp2/3Qn3/5N2/PPPBNPPP/3RK2R w Kkq - 0 0"]
+[PlyCount "11"]
+
+1. Qd8+ Kxd8 2. Bg5+ Ke8 3. Rd8+ Kf7 4. e6+ Kxe6 5. Nf4+ Kf7 6. Ne5# 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "05.10"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 05"]
+[SetUp "1"]
+[FEN "3rk2r/pp3p1p/6n1/2Qnp3/8/P1Pq4/R3NPPP/2B1K2R b Kk - 0 0"]
+[PlyCount "5"]
+
+1... Qd1+ 2. Kxd1 Ne3+ 3. Ke1 Rd1# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "05.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 05"]
+[SetUp "1"]
+[FEN "r2q1rk1/pb3pbp/np4pQ/3p4/1P1N4/P2BP3/1B3PPP/R3K2R w KQ - 0 0"]
+[PlyCount "5"]
+
+1. Qxg7+ Kxg7 2. Nf5+ Kg8 3. Nh6# 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "05.12"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 05"]
+[SetUp "1"]
+[FEN "3r3k/6p1/3b4/2pb2qp/8/1P2Pr1P/PB1pQPP1/R2N1NK1 b - - 0 0"]
+[PlyCount "9"]
+
+1... Qxg2+ 2. Kxg2 Rg3+ 3. Kh2 Rg2+ 4. Kh1 Rh2+ 5. Kg1 Rh1# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "06.01"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 06"]
+[SetUp "1"]
+[FEN "8/4bkp1/8/2r2p2/Kp4p1/1P1Q4/8/8 w - - 0 0"]
+[PlyCount "1"]
+
+1. Qxf5+ 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "06.02"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 06"]
+[SetUp "1"]
+[FEN "2r5/p3qrk1/4pp1p/np1p2p1/2pP2NP/1PP2NP1/P4P2/R1BQ2K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Nxh6 Kxh6 2. Nxg5 Kg7 3. Nxf7 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "06.03"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 06"]
+[SetUp "1"]
+[FEN "7k/p1p2r1p/bpn1ppRQ/8/3P4/q1P1PP2/P1PK3P/R7 b - - 0 0"]
+[PlyCount "7"]
+
+1... Ne5 2. Rag1 Nxf3+ 3. Kd1 Nxg1 4. Rxg1 Qxc3 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "06.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 06"]
+[SetUp "1"]
+[FEN "r2q1r2/p4pkp/1p2p1p1/2p3N1/2BP4/2N1P3/PP4PP/3R1RK1 w - - 0 0"]
+[PlyCount "3"]
+
+1. Rxf7+ Kg8 2. Nxe6 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "06.05"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 06"]
+[SetUp "1"]
+[FEN "8/8/8/1Q6/5pkp/4pr2/8/6K1 w - - 0 0"]
+[PlyCount "3"]
+
+1. Qe2 h3 2. Kh2 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "06.06"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 06"]
+[SetUp "1"]
+[FEN "8/8/5Nb1/3p4/3k4/3P4/2PK4/8 w - - 0 0"]
+[PlyCount "5"]
+
+1. Nd7 Bxd3 2. c3+ Ke4 3. Nc5+ 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "06.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 06"]
+[SetUp "1"]
+[FEN "7r/P1pq4/2p5/1k5p/5p2/3P1P2/Q5PK/8 w - - 0 0"]
+[PlyCount "5"]
+
+1. Qb2+ Ka6 2. Qb8 Rxb8 3. axb8=N+ 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "06.08"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 06"]
+[SetUp "1"]
+[FEN "8/8/8/8/7p/1b3N1P/8/Qqk3K1 w - - 0 0"]
+[PlyCount "25"]
+
+1. Nd2 Qxa1 2. Nxb3+ Kb1 3. Nxa1 Kxa1 4. Kf2 Kb2 5. Kf3 Kc3 6. Kg4 Kd4 7. Kxh4
+Ke5 8. Kg5 Ke6 9. Kg6 Ke7 10. Kg7 Ke6 11. h4 Kf5 12. h5 Kg5 13. h6 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "06.09"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 06"]
+[SetUp "1"]
+[FEN "k2r4/1p5q/p1n5/4p3/2Q5/P3P1P1/1P3PP1/2R1K3 b - - 0 0"]
+[PlyCount "11"]
+
+1... e4 2. Ke2 Qh5+ 3. Ke1 Ne5 4. Qc7 Nf3+ 5. gxf3 Qh1+ 6. Ke2 exf3# 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "06.10"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 06"]
+[SetUp "1"]
+[FEN "6k1/2p3pp/p7/1p1q4/3N4/1P2K3/PB1N2PP/8 b - - 0 0"]
+[PlyCount "3"]
+
+1... Qe5+ 2. Ne4 c5 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "06.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 06"]
+[SetUp "1"]
+[FEN "8/2K1nk2/7P/5P2/8/8/8/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. h7 Kg7 2. f6+ 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "06.12"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 06"]
+[SetUp "1"]
+[FEN "8/p2p2k1/3P2pp/2PN1p2/r4P1P/2K5/6P1/8 w - - 0 0"]
+[PlyCount "5"]
+
+1. c6 Ra6 2. Nb4 Ra5 3. cxd7 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "07.01"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 07"]
+[SetUp "1"]
+[FEN "1r4k1/3nppbp/p2p2p1/q7/2b5/2N3P1/P2QPPBP/2RR2K1 w - - 0 0"]
+[PlyCount "7"]
+
+1. Nd5 Qxd2 2. Nxe7+ Kf8 3. Rxd2 Kxe7 4. Rxc4 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "07.02"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 07"]
+[SetUp "1"]
+[FEN "3kr1r1/ppp2p1p/2bp4/2nNPB2/2P2P2/1P6/P1QB1qPP/R6K w - - 0 1"]
+[PlyCount "7"]
+
+1. Ba5 Bxd5 2. Qxf2 Bxg2+ 3. Qxg2 Rxg2 4. Kxg2 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "07.03"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 07"]
+[SetUp "1"]
+[FEN "8/2p1kp2/1p6/2r5/4r1PK/P2R3P/4n3/4Q3 b - - 0 0"]
+[PlyCount "7"]
+
+1... Rh5+ 2. Kxh5 Nf4+ 3. Kg5 Ne6+ 4. Kf5 Rxe1 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "07.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 07"]
+[SetUp "1"]
+[FEN "r3k2r/pp1n1ppp/2p1b3/3pP3/3P1N2/q2BQ3/P1P3PP/R4RK1 w kq - 0 0"]
+[PlyCount "3"]
+
+1. Nxe6 fxe6 2. Bg6+ 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "07.05"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 07"]
+[SetUp "1"]
+[FEN "3rn2k/ppb2rpp/2ppqp2/5N2/2P1P3/1P5Q/PB3PPP/3RR1K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Nh6 Qxh3 2. Nxf7+ Kg8 3. gxh3 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "07.06"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 07"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppp2ppp/1b1p1q2/3P4/BPPp4/8/PB1PQPPP/R4RK1 b - - 0 0"]
+[PlyCount "3"]
+
+1... d3 2. Bxf6 dxe2 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "07.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 07"]
+[SetUp "1"]
+[FEN "r1b2rk1/2q2ppp/p1pppn2/8/Q1P5/B1PB4/P4PPP/R2R2K1 w - - 0 0"]
+[PlyCount "3"]
+
+1. Bxd6 Qxd6 2. Bxh7+ 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "07.08"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 07"]
+[SetUp "1"]
+[FEN "Q1bk4/p4p2/6r1/3p4/8/2P5/2PK1P1P/R4B1q w - - 0 0"]
+[PlyCount "3"]
+
+1. Qxc8+ Kxc8 2. Bh3+ 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "07.09"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 07"]
+[SetUp "1"]
+[FEN "4r1k1/pb4p1/1pq2nQp/8/2PB1P1R/3R4/P5PP/6K1 b - - 0 0"]
+[PlyCount "5"]
+
+1... Re1+ 2. Kf2 Ne4+ 3. Kxe1 Qxg6 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "07.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 07"]
+[SetUp "1"]
+[FEN "r4rk1/ppqn1pbp/2n1b1p1/3pN3/N2P1B2/P7/1P2BPPP/R2Q1RK1 w - - 0 0"]
+[PlyCount "1"]
+
+1. Nxg6 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "07.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 07"]
+[SetUp "1"]
+[FEN "2rr2k1/1b3ppp/ppqppb2/2n5/2P1P1Q1/1PN3P1/PB3PBP/3RR1K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Nd5 Bxb2 2. Ne7+ Kh8 3. Nxc6 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "07.12"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 07"]
+[SetUp "1"]
+[FEN "3r1q1k/p5b1/1r3p1p/1ppBpQpP/4P3/2P3P1/PP1R1PK1/3R4 w - - 0 0"]
+[PlyCount "3"]
+
+1. Bg8 Kxg8 2. Rxd8 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "08.01"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 08"]
+[SetUp "1"]
+[FEN "5r1k/pp2b1rp/8/6q1/3QR3/2pN4/P1P2RP1/6K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Re5 Rd8 2. Qe4 Qh4 3. Rf4 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "08.02"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 08"]
+[SetUp "1"]
+[FEN "1k1r3r/pp2b1p1/1q2p1p1/3pP3/bP6/8/P1NQ1PPP/R1B2RK1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Nd4 Rh4 2. Nf3 Re4 3. a3 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "08.03"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 08"]
+[SetUp "1"]
+[FEN "r1b1kb1r/4p2p/pqp1pnp1/3pB3/3N4/5N2/PPP2PPP/R2Q1RK1 w kq - 0 0"]
+[PlyCount "9"]
+
+1. Ng5 Bh6 2. Ndxe6 Bxg5 3. Nxg5 O-O 4. Qd2 Bf5 5. Rae1 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "08.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 08"]
+[SetUp "1"]
+[FEN "r2q1rk1/pb1nbppp/1pp3n1/3pN3/3P4/2NBP1B1/PP3PPP/R2Q1RK1 w - - 0 0"]
+[PlyCount "3"]
+
+1. f4 Ndxe5 2. fxe5 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "08.05"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 08"]
+[SetUp "1"]
+[FEN "4rbk1/1R3pp1/2Q5/6p1/3rn3/q2N2P1/5PBP/5RK1 b - - 0 0"]
+[PlyCount "3"]
+
+1... Re6 2. Qc8 Nd6 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "08.06"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 08"]
+[SetUp "1"]
+[FEN "1n1r1rk1/R5p1/5q1p/4p3/8/4P1P1/4Q1BP/R5K1 w - - 0 0"]
+[PlyCount "1"]
+
+1. Rb1 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "08.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 08"]
+[SetUp "1"]
+[FEN "r2b1rk1/2pn3p/1p1pq3/5pp1/1PP5/4NPP1/2Q1PB1P/2RR2K1 w - - 0 0"]
+[PlyCount "7"]
+
+1. b5 Ne5 2. Nd5 h6 3. Ra1 Rxa1 4. Rxa1 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "08.08"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 08"]
+[SetUp "1"]
+[FEN "R2b4/2pr1q1k/1p1p2n1/1P1N1p1p/2P2Pp1/2Q3P1/1B2P2P/6K1 w - - 0 0"]
+[PlyCount "7"]
+
+1. Ne3 Qf8 2. Nxf5 d5 3. cxd5 Qxf5 4. Rxd8 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "08.09"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 08"]
+[SetUp "1"]
+[FEN "2rq1rk1/4bppp/pn1p4/1p2p1P1/4P2P/2N1BP1R/PPPQ4/1K1R4 w - - 0 0"]
+[PlyCount "13"]
+
+1. Bxb6 Qxb6 2. Nd5 Qd8 3. f4 exf4 4. Qxf4 Qd7 5. Qf5 Rcd8 6. Rc3 g6 7. Qf3 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "08.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 08"]
+[SetUp "1"]
+[FEN "2kr1b1r/pp3pp1/2p1pn1p/8/2PPnq1P/2B2NN1/PPQ2PP1/1K1R3R w - - 0 0"]
+[PlyCount "9"]
+
+1. Ne5 Nxg3 2. fxg3 Qxg3 3. Rd3 Qf4 4. Rf3 Qe4 5. Nxf7 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "08.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 08"]
+[SetUp "1"]
+[FEN "3r3r/kpp3pp/p1pqbpn1/2N5/Q2PP3/5NPP/PP4P1/2R2RK1 w - - 0 0"]
+[PlyCount "9"]
+
+1. Nxa6 Bxh3 2. e5 Nxe5 3. dxe5 fxe5 4. Nc5+ Kb8 5. gxh3 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "08.12"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 08"]
+[SetUp "1"]
+[FEN "r3k3/1b4pp/p3B3/2b1p1B1/2p5/3q4/P5PP/4QR1K b q - 0 0"]
+[PlyCount "7"]
+
+1... Be4 2. Bg4 Rb8 3. Bd1 Kd7 4. Rf7+ Ke6 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "09.01"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 09"]
+[SetUp "1"]
+[FEN "7Q/1b5P/8/8/6R1/8/8/K6k w - - 0 0"]
+[PlyCount "3"]
+
+1. Qa8 Bg2 2. Qxg2# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "09.02"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 09"]
+[SetUp "1"]
+[FEN "8/8/3B4/8/8/3Pk1p1/2K3Q1/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. Be7 Kf4 2. Qe4# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "09.03"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 09"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/2N1p1K1/6B1/2B1r1k1 w - - 0 0"]
+[PlyCount "3"]
+
+1. Ba3 e2 2. Bc5# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "09.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 09"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/5K2/1QBk4/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. Ba4+ Kd3 2. Bb5# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "09.05"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 09"]
+[SetUp "1"]
+[FEN "B1n5/5RK1/4k3/4p3/8/8/8/3R4 w - - 0 0"]
+[PlyCount "3"]
+
+1. Be4 Nd6 2. Bd5# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "09.06"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 09"]
+[SetUp "1"]
+[FEN "2nR4/Q3b3/8/1Pppk3/8/2P2K1B/8/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. Rd6 Nxa7 2. Re6# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "09.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 09"]
+[SetUp "1"]
+[FEN "k7/P7/1P1NpP2/1p2q3/4NR2/5B2/4K3/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. Rg4 b4 2. Rg8# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "09.08"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 09"]
+[SetUp "1"]
+[FEN "br1n4/BkP2n2/2R5/3R4/8/K2B4/8/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. Rd7 Kxc6 2. cxb8=N# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "09.09"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 09"]
+[SetUp "1"]
+[FEN "5Q2/3N4/2K1k2r/7b/4P3/8/8/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. Kc7 Bg4 2. Qe8# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "09.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 09"]
+[SetUp "1"]
+[FEN "4Q3/8/8/6rR/4N1k1/4K1p1/8/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. Qg8 Kf5 2. Rxg5# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "09.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 09"]
+[SetUp "1"]
+[FEN "5Q2/5B1k/6r1/6p1/6N1/6K1/8/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. Qa8 Rg7 2. Qh1# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "09.12"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 09"]
+[SetUp "1"]
+[FEN "2K4Q/8/2N5/1k6/3B4/8/P5P1/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. Qh3 Kxc6 2. Qd7# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "10.01"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 10"]
+[SetUp "1"]
+[FEN "8/3k2p1/8/5P2/8/8/8/1K6 w - - 0 0"]
+[PlyCount "9"]
+
+1. Kc2 Kd6 2. f6 gxf6 3. Kd2 Ke6 4. Ke2 Kf5 5. Kf3 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "10.02"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 10"]
+[SetUp "1"]
+[FEN "8/5p2/8/6Pk/5P2/8/8/7K w - - 0 0"]
+[PlyCount "9"]
+
+1. g6 fxg6 2. f5 gxf5 3. Kg1 Kg5 4. Kf1 Kf4 5. Kf2 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "10.03"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 10"]
+[SetUp "1"]
+[FEN "8/5k2/3p4/3P4/2P5/6K1/8/8 w - - 0 0"]
+[PlyCount "19"]
+
+1. Kf3 Ke7 2. Kg4 Kf6 3. Kf4 Ke7 4. Kg5 Kf7 5. Kf5 Ke7 6. Kg6 Ke8 7. Kf6 Kd7 8.
+Kf7 Kd8 9. Ke6 Kc7 10. Ke7 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "10.04"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 10"]
+[SetUp "1"]
+[FEN "8/6k1/3K1p2/4p1p1/4P1P1/5P2/8/8 b - - 0 0"]
+[PlyCount "7"]
+
+1... Kh6 2. Ke7 Kg7 3. Ke8 Kg8 4. Kd7 Kh7 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "10.05"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 10"]
+[SetUp "1"]
+[FEN "8/3k4/6p1/5pPp/3K1P1P/8/8/8 w - - 0 0"]
+[PlyCount "13"]
+
+1. Kd5 Ke7 2. Ke5 Kf7 3. Kd6 Kf8 4. Ke6 Kg7 5. Ke7 Kg8 6. Kf6 Kh7 7. Kf7 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "10.06"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 10"]
+[SetUp "1"]
+[FEN "8/2K3k1/6p1/5p1p/5P1P/6P1/8/8 w - - 0 0"]
+[PlyCount "19"]
+
+1. Kc6 Kf6 2. Kd6 Kf7 3. Kd7 Kf6 4. Ke8 Kg7 5. Ke7 Kg8 6. Kf6 Kh7 7. Kf7 Kh6 8.
+Kg8 g5 9. fxg5+ Kg6 10. Kf8 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "10.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 10"]
+[SetUp "1"]
+[FEN "8/3k4/4p3/4K3/3P1P2/8/8/8 w - - 0 0"]
+[PlyCount "7"]
+
+1. d5 exd5 2. Kxd5 Ke7 3. Ke5 Kf7 4. Kf5 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "10.08"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 10"]
+[SetUp "1"]
+[FEN "8/8/5Kpk/5p2/5P2/6P1/8/8 b - - 0 0"]
+[PlyCount "13"]
+
+1... Kh7 2. Kf7 Kh6 3. Kg8 g5 4. Kf7 gxf4 5. gxf4 Kh7 6. Kf6 Kg8 7. Kxf5 Kf7
+1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "10.09"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 10"]
+[SetUp "1"]
+[FEN "8/8/8/1p6/1Pk5/1p6/1K6/8 w - - 0 0"]
+[PlyCount "7"]
+
+1. Ka3 b2 2. Ka2 b1=Q+ 3. Kxb1 Kxb4 4. Kb2 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "10.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 10"]
+[SetUp "1"]
+[FEN "5k2/8/3P4/8/6K1/8/8/8 w - - 0 0"]
+[PlyCount "9"]
+
+1. Kf5 Kf7 2. Ke5 Kf8 3. Kf6 Ke8 4. Ke6 Kd8 5. d7 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "10.11"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 10"]
+[SetUp "1"]
+[FEN "8/8/8/3p2k1/6q1/3R4/8/7K w - - 0 0"]
+[PlyCount "7"]
+
+1. Rg3 d4 2. Kg2 d3 3. Kf1 Kh5 4. Rxg4 1/2-1/2
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "10.12"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 10"]
+[SetUp "1"]
+[FEN "8/k1K5/p7/8/1P6/8/8/8 b - - 0 0"]
+[PlyCount "7"]
+
+1... Ka8 2. Kb6 a5 3. Kxa5 Ka7 4. Kb5 Kb7 1/2-1/2
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "11.01"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 11"]
+[SetUp "1"]
+[FEN "4r1k1/pp1q1ppp/2p1rnn1/8/2PP4/P2QPR2/6PP/1N2BRK1 b - - 0 0"]
+[PlyCount "3"]
+
+1... Ne5 2. Qb3 Nxf3+ 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "11.02"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 11"]
+[SetUp "1"]
+[FEN "8/8/3r4/4k3/1B1r4/4K3/8/8 w - - 0 0"]
+[PlyCount "1"]
+
+1. Bc3 1/2-1/2
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "11.03"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 11"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/4p3/5q2/8/Pp1Q4/1P4PP/1K1R4 b - - 0 0"]
+[PlyCount "3"]
+
+1... Rd8 2. Qxf5 Rxd1# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "11.04"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 11"]
+[SetUp "1"]
+[FEN "7b/8/8/3k4/3q4/2R5/K2P4/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. Rd3 Ke4 2. Rxd4+ 1/2-1/2
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "11.05"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 11"]
+[SetUp "1"]
+[FEN "4r3/1p4pk/2b2pq1/7p/3B1P2/7P/4RQP1/7K b - - 0 0"]
+[PlyCount "3"]
+
+1... Qxg2+ 2. Qxg2 Rxe2 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "11.06"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 11"]
+[SetUp "1"]
+[FEN "3q3k/5p1p/3B4/8/1p6/6Q1/1K6/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. Be5+ f6 2. Qg5 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "11.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 11"]
+[SetUp "1"]
+[FEN "8/5B2/6r1/7k/8/3pB2K/8/8 w - - 0 0"]
+[PlyCount "5"]
+
+1. Kh2 d2 2. Bxd2 Kh4 3. Bxg6 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "11.08"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 11"]
+[SetUp "1"]
+[FEN "2r5/pp1bkp2/3q1p2/3Pp3/7Q/1B6/P1P3PP/1K3R2 w - - 0 0"]
+[PlyCount "3"]
+
+1. Rxf6 Qxf6 2. d6+ 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "11.09"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 11"]
+[SetUp "1"]
+[FEN "4r1k1/8/3R1Qpp/2p5/2P1p1q1/P3P3/1P2PK2/8 b - - 0 0"]
+[PlyCount "3"]
+
+1... Rf8 2. Rd8 Qh4+ 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "11.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 11"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp2ppbp/6p1/q7/1n1PP3/5N2/P1R1BPPP/2BQ1RK1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Bd2 Qb6 2. Rb2 a5 3. a3 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "11.11"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 11"]
+[SetUp "1"]
+[FEN "r3r1k1/ppp2ppp/3b4/3p1q2/1n1P1N2/1Q2B3/PPP2PPP/2R1R1K1 b - - 0 0"]
+[PlyCount "5"]
+
+1... Nxc2 2. Rxc2 Qxf4 3. g3 Qf5 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "11.12"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 11"]
+[SetUp "1"]
+[FEN "2r3k1/q5pp/4p3/2rp1p2/1p1B1P2/1P1QP3/P1R3PP/6K1 w - - 0 0"]
+[PlyCount "3"]
+
+1. Qb5 Rxc2 2. Bxa7 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "12.01"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 12"]
+[SetUp "1"]
+[FEN "4B1k1/5p1p/5pp1/p2Pn3/3QP3/7P/5PPK/1q6 b - - 0 0"]
+[PlyCount "3"]
+
+1... Qb8 2. f4 Qxe8 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "12.02"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 12"]
+[SetUp "1"]
+[FEN "8/B3kppp/4p3/3nP3/4RPK1/P1r5/7P/8 b - - 0 0"]
+[PlyCount "3"]
+
+1... f5+ 2. exf6+ Nxf6+ 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "12.03"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 12"]
+[SetUp "1"]
+[FEN "6k1/p4p2/1p1bq1p1/2p5/4n3/2BQ2PP/PP1N1PK1/8 b - - 0 0"]
+[PlyCount "7"]
+
+1... Qxh3+ 2. Kf3 Qf5+ 3. Ke3 Nxc3 4. bxc3 Qe6+ 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "12.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 12"]
+[SetUp "1"]
+[FEN "1n1q2k1/5p1p/1p4p1/1B1PN3/2QP1r2/r7/P4PP1/5RK1 w - - 0 0"]
+[PlyCount "1"]
+
+1. Qc1 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "12.05"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 12"]
+[SetUp "1"]
+[FEN "r1b1r1k1/pp2qppp/2n2n2/4p1B1/2Pp4/P3PN2/1PQ1BPPP/3RK2R b K - 0 0"]
+[PlyCount "7"]
+
+1... d3 2. Bxd3 e4 3. Be2 exf3 4. gxf3 Qe5 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "12.06"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 12"]
+[SetUp "1"]
+[FEN "5rk1/6pp/8/p1qp1N2/1p4n1/1P4P1/P3P2P/3Q1R1K w - - 0 0"]
+[PlyCount "7"]
+
+1. Qd4 Rxf5 2. Qxc5 Rxf1+ 3. Kg2 Rf2+ 4. Kg1 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "12.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 12"]
+[SetUp "1"]
+[FEN "8/1P3k2/1r5p/N3pp1p/P6P/3K4/5PP1/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. Nc6 Rxb7 2. Nd8+ 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "12.08"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 12"]
+[SetUp "1"]
+[FEN "3R4/pp3pkp/2p1rpq1/5b2/8/2Q3N1/PPP3PP/6K1 w - - 0 0"]
+[PlyCount "1"]
+
+1. Qc5 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "12.09"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 12"]
+[SetUp "1"]
+[FEN "6k1/1b4pp/1B3p2/4p3/1Pr5/5P2/5QPP/r4BK1 w - - 0 0"]
+[PlyCount "3"]
+
+1. Qa2 Rxa2 2. Bxc4+ 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "12.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 12"]
+[SetUp "1"]
+[FEN "1n6/2qb1kp1/1p2pp1p/1P1p4/1Q1P1N2/4P1PB/5P1P/6K1 w - - 0 0"]
+[PlyCount "11"]
+
+1. Bxe6+ Bxe6 2. Qf8+ Kxf8 3. Nxe6+ Ke7 4. Nxc7 Kd6 5. Ne8+ Ke7 6. Nxg7 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "12.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 12"]
+[SetUp "1"]
+[FEN "r1bq1rk1/p1p1bppp/1p2pn2/6B1/3P4/3B1N2/PPP1QPPP/R3K2R w KQ - 0 0"]
+[PlyCount "3"]
+
+1. Bxf6 Bxf6 2. Qe4 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "12.12"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 12"]
+[SetUp "1"]
+[FEN "6k1/5r1p/p2N4/nppP2q1/2P5/1P2N3/PQ5P/7K w - - 0 0"]
+[PlyCount "3"]
+
+1. Qh8+ Kxh8 2. Nxf7+ 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "13.01"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 13"]
+[SetUp "1"]
+[FEN "8/2pb1p2/r2k2pp/8/1P1K1P2/P3R2P/4N1P1/8 w - - 0 0"]
+[PlyCount "9"]
+
+1. Nc3 f5 2. b5 Rb6 3. Kc4 Be6+ 4. Kb4 c5+ 5. Ka5 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "13.02"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 13"]
+[SetUp "1"]
+[FEN "8/8/6p1/pp1k1p1p/3p3P/1P4P1/P1R1KP2/3r4 b - - 0 0"]
+[PlyCount "19"]
+
+1... d3+ 2. Kxd1 dxc2+ 3. Kxc2 Ke4 4. Kd2 Kf3 5. Ke1 f4 6. gxf4 Kxf4 7. Ke2 Kg4
+8. Ke3 Kxh4 9. Kf4 Kh3 10. Kg5 h4 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "13.03"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 13"]
+[SetUp "1"]
+[FEN "7k/6p1/7p/4RN1r/5K2/6P1/8/8 w - - 0 0"]
+[PlyCount "11"]
+
+1. Nh4 Rxe5 2. Kxe5 g5 3. Nf5 Kh7 4. Kf6 g4 5. Ne3 h5 6. Kg5 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "13.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 13"]
+[SetUp "1"]
+[FEN "3r3k/7p/1pr2b2/p2p4/8/P6Q/1P5P/5R1K w - - 0 0"]
+[PlyCount "1"]
+
+1. Qh6 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "13.05"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 13"]
+[SetUp "1"]
+[FEN "7k/1b5p/2q3p1/5p2/2P4P/8/1P3Q2/2R3K1 w - - 0 0"]
+[PlyCount "17"]
+
+1. Qd4+ Kg8 2. Qd5+ Qxd5 3. cxd5 Bxd5 4. b4 Kf8 5. b5 Ke7 6. b6 Ke6 7. Rc7 h6
+8. b7 Bxb7 9. Rxb7 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "13.06"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 13"]
+[SetUp "1"]
+[FEN "r5b1/8/2k3pp/1N3p2/1K3P2/P3R2P/6P1/8 w - - 0 0"]
+[PlyCount "9"]
+
+1. Rd3 g5 2. Rd6+ Kb7 3. fxg5 hxg5 4. Rg6 Rf8 5. Rxg5 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "13.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 13"]
+[SetUp "1"]
+[FEN "8/k1q2p1p/8/1QN5/8/8/P4PPP/4b1K1 w - - 0 0"]
+[PlyCount "7"]
+
+1. Qd7 Kb6 2. Qxc7+ Kxc7 3. Kf1 Ba5 4. Ke2 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "13.08"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 13"]
+[SetUp "1"]
+[FEN "8/5p2/4p1p1/3nP1Nk/pr3P2/R2K2P1/8/8 b - - 0 0"]
+[PlyCount "3"]
+
+1... Nxf4+ 2. gxf4 Rxf4 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "13.09"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 13"]
+[SetUp "1"]
+[FEN "8/5Rbk/4p3/3pP2P/1P5p/3r4/3n4/6RK b - - 0 1"]
+[PlyCount "17"]
+
+1... Rh3+ 2. Kg2 Rg3+ 3. Kh1 Rxg1+ 4. Kxg1 Kh6 5. b5 Bxe5 6. b6 Bd4+ 7. Kg2
+Bxb6 8. Rf6+ Kxh5 9. Rxe6 Nc4 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "13.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 13"]
+[SetUp "1"]
+[FEN "4Q3/4p1k1/4Pb2/5Pp1/8/5qNK/5P2/8 w - - 0 0"]
+[PlyCount "7"]
+
+1. Qg6+ Kh8 2. Qh5+ Qxh5+ 3. Nxh5 Bd4 4. f6 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "13.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 13"]
+[SetUp "1"]
+[FEN "4b1k1/1p3p1p/2r1pp2/p7/1P6/P7/B1n2PPP/2R1R1K1 w - - 0 0"]
+[PlyCount "7"]
+
+1. b5 Rc3 2. Bb1 Nxe1 3. Rxc3 Bxb5 4. Re3 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "13.12"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 13"]
+[SetUp "1"]
+[FEN "8/8/8/8/1R1P4/2P2kb1/7r/6K1 b - - 0 0"]
+[PlyCount "9"]
+
+1... Rh8 2. Rb2 Re8 3. Rb1 Bf2+ 4. Kf1 Rh8 5. Rb8 Rh1# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "14.01"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 14"]
+[SetUp "1"]
+[FEN "3q1rk1/3r1p1p/1p2p1pQ/2p1P3/2P1b3/4P3/1B3PPP/R2R2K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Rd6 Bb7 2. Rad1 Rxd6 3. exd6 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "14.02"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 14"]
+[SetUp "1"]
+[FEN "rnbqrnk1/5p2/p2p1bp1/2pPp3/Q1P1P3/P4NPP/3B4/1R1NRBK1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Re3 Nh7 2. Reb3 Bd7 3. Qa5 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "14.03"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 14"]
+[SetUp "1"]
+[FEN "2r2rk1/p3bppp/bq2pn2/3p4/1p1P4/4P1P1/PP1N1P1P/R1BQRBK1 b - - 0 0"]
+[PlyCount "9"]
+
+1... Rc6 2. Bxa6 Qxa6 3. Nf3 Rfc8 4. Qb3 Ne4 5. Nd2 Rc2 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "14.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 14"]
+[SetUp "1"]
+[FEN "r1b2rk1/1p1nqpp1/p3p2p/7n/P1B5/2N1PN2/1P2QPPP/R2R2K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Rd2 Nb6 2. Rad1 Qc5 3. Bb3 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "14.05"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 14"]
+[SetUp "1"]
+[FEN "3k2rr/1bq2pp1/pn1b4/2pPpPP1/1pP1P1B1/4B3/P2N1K2/2R3QR w - - 0 0"]
+[PlyCount "19"]
+
+1. Rh2 Qe7 2. Nb3 Kc7 3. Kf3 Nd7 4. a3 bxa3 5. Ra2 Rh4 6. Rxa3 Rgh8 7. Rb1 Rb8
+8. Qe1 Rxg4 9. Kxg4 Bc8 10. Qa5+ 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "14.06"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 14"]
+[SetUp "1"]
+[FEN "r3n1k1/5ppp/1p2p3/p7/1Pr1P3/2P2P2/1B4PP/R2R1K2 w - - 0 0"]
+[PlyCount "3"]
+
+1. Rd7 Rc7 2. Rad1 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "14.07"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 14"]
+[SetUp "1"]
+[FEN "1r4k1/p4pp1/3q1n1p/2pp1B2/8/1P4P1/P1P2PP1/1R2Q1K1 b - - 0 0"]
+[PlyCount "5"]
+
+1... Re8 2. Qd2 Qe5 3. Qf4 Qc3 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "14.08"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 14"]
+[SetUp "1"]
+[FEN "3qr3/r2n1pk1/p2p2p1/2pPp1P1/b1P1P3/P4QPB/1R3N2/1R4K1 w - - 0 0"]
+[PlyCount "11"]
+
+1. Rb7 Rxb7 2. Rxb7 Kg8 3. Bxd7 Bxd7 4. Ng4 Qxg5 5. Rxd7 f5 6. exf5 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "14.09"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 14"]
+[SetUp "1"]
+[FEN "r1rq1bk1/1n1b1p1p/3p1np1/1p1Pp3/1Pp1P3/2P1BNNP/R2Q1PP1/1B2R1K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Ba7 Ne8 2. Bc2 Nc7 3. Rea1 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "14.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 14"]
+[SetUp "1"]
+[FEN "2rq1rk1/pb1n1p1p/1p2pbp1/8/3PPB2/3B1N2/P3QPPP/2RR2K1 w - - 0 0"]
+[PlyCount "11"]
+
+1. Ba6 Bxa6 2. Qxa6 Rxc1 3. Rxc1 Qa8 4. Bd6 Rd8 5. e5 Bg7 6. Rc7 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "14.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 14"]
+[SetUp "1"]
+[FEN "3r2k1/p1Rn1pbp/Qp1Bp1p1/4P3/3q4/8/P2N1PPP/6K1 w - - 0 0"]
+[PlyCount "1"]
+
+1. Rxd7 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "14.12"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 14"]
+[SetUp "1"]
+[FEN "r1r1nb2/p4pk1/1p1p1qp1/1P1Pp2p/PQ2P3/4N1P1/4BP1P/R1R3K1 w - - 0 0"]
+[PlyCount "13"]
+
+1. Rc6 Qd8 2. Rac1 Nf6 3. Bf1 Rcb8 4. Bh3 a6 5. Re1 axb5 6. axb5 Nh7 7. Nc4 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "15.01"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 15"]
+[SetUp "1"]
+[FEN "8/p5kp/1p3p2/6p1/8/1P3QPK/P2N4/6q1 b - - 0 0"]
+[PlyCount "7"]
+
+1... h5 2. Qxh5 Qh1+ 3. Kg4 Qd1+ 4. Nf3 Qd7# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "15.02"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 15"]
+[SetUp "1"]
+[FEN "6k1/pr3ppp/1p3qn1/5NQ1/2p5/8/P4PPP/4R1K1 w - - 0 0"]
+[PlyCount "7"]
+
+1. Re8+ Nf8 2. Nh6+ Qxh6 3. Rxf8+ Kxf8 4. Qd8# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "15.03"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 15"]
+[SetUp "1"]
+[FEN "2k1r3/2p2pp1/1n6/N1q3Pp/Pn6/4B3/4QP1P/1K1R4 w - - 0 0"]
+[PlyCount "3"]
+
+1. Rd8+ Kxd8 2. Nb7+ 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "15.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 15"]
+[SetUp "1"]
+[FEN "k5r1/p4b2/2P5/5p2/3P1P2/4QBrq/P5P1/4R1K1 w - - 0 0"]
+[PlyCount "7"]
+
+1. Qe8+ Rxe8 2. Rxe8+ Bxe8 3. c7+ Rxf3 4. c8=Q# 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "15.05"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 15"]
+[SetUp "1"]
+[FEN "2k2r2/2p5/1pq5/p1p1n3/P1P4B/1R4Pp/2Q1R3/6K1 b - - 0 0"]
+[PlyCount "5"]
+
+1... Rf1+ 2. Kxf1 Qh1+ 3. Kf2 Ng4# 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "15.06"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 15"]
+[SetUp "1"]
+[FEN "6k1/ppp3pp/8/8/8/2Nqn1QP/PP4PK/5r1R b - - 0 0"]
+[PlyCount "9"]
+
+1... Ng4+ 2. Qxg4 Qd6+ 3. g3 Qd2+ 4. Ne2 Rf2+ 5. Kg1 Qe1# 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "15.07"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 15"]
+[SetUp "1"]
+[FEN "8/4bk1p/pQ4p1/1N1pB3/5PP1/4P1KP/2q5/8 b - - 0 0"]
+[PlyCount "7"]
+
+1... Bh4+ 2. Kxh4 Qf2+ 3. Kg5 h6+ 4. Kxh6 Qh4# 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "15.08"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 15"]
+[SetUp "1"]
+[FEN "6nr/pQ4pp/2Bk4/2b5/3r1pbq/2N5/PPP3PP/R1B2K1R b - - 0 1"]
+[PlyCount "5"]
+
+1... Qf2+ 2. Kxf2 Rd1+ 3. Be3 Bxe3# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "15.09"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 15"]
+[SetUp "1"]
+[FEN "5b1k/6np/pq1p2p1/1pr1p3/4P1N1/PQ1P4/1P4PP/2R3K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Qg8+ Kxg8 2. Nh6+ Kh8 3. Nf7+ 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "15.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 15"]
+[SetUp "1"]
+[FEN "2r1r3/1b1n2kp/1p2q1pN/p7/P1pPp1PB/2P1P2P/2Q5/2R2RK1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Rf7+ Kxh6 2. g5+ Kh5 3. Rxh7# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "15.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 15"]
+[SetUp "1"]
+[FEN "4r1k1/5ppn/6q1/pp2pN2/4P3/P6Q/1PP2P2/4K2R w K - 0 0"]
+[PlyCount "7"]
+
+1. Ne7+ Rxe7 2. Qc8+ Nf8 3. Qxf8+ Kxf8 4. Rh8# 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "15.12"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 15"]
+[SetUp "1"]
+[FEN "1k1q1b2/pp4p1/8/Q4b2/7r/4Pn2/PP1B1P1P/2RK3R b - - 0 0"]
+[PlyCount "5"]
+
+1... b6 2. Qc3 Rc4 3. Qxc4 Qxd2# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "16.01"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 16"]
+[SetUp "1"]
+[FEN "8/4K3/8/8/3Q4/8/1pk5/8 w - - 0 0"]
+[PlyCount "7"]
+
+1. Qc4+ Kd2 2. Qb3 Kc1 3. Qc3+ Kb1 4. Kd6 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "16.02"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 16"]
+[SetUp "1"]
+[FEN "6K1/7P/6q1/8/8/8/8/1k6 w - - 0 0"]
+[PlyCount "1"]
+
+1. Kh8 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "16.03"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 16"]
+[SetUp "1"]
+[FEN "1K6/2P5/1q6/8/4k3/8/8/8 w - - 0 0"]
+[PlyCount "1"]
+
+1. Ka8 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "16.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 16"]
+[SetUp "1"]
+[FEN "6K1/8/8/8/2Q5/7p/p7/1k6 w - - 0 0"]
+[PlyCount "5"]
+
+1. Qb3+ Ka1 2. Qc2 h2 3. Qc1# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "16.05"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 16"]
+[SetUp "1"]
+[FEN "8/8/8/5K2/8/8/Q1p5/3k4 w - - 0 0"]
+[PlyCount "3"]
+
+1. Ke4 c1=Q 2. Kd3 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "16.06"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 16"]
+[SetUp "1"]
+[FEN "8/8/8/3QK3/8/2k5/2p5/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. Qd4+ Kb3 2. Qa1 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "16.07"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 16"]
+[SetUp "1"]
+[FEN "8/8/8/8/3K4/8/1kp1Q3/8 b - - 0 0"]
+[PlyCount "3"]
+
+1... Ka1 2. Qd2 Kb1 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "16.08"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 16"]
+[SetUp "1"]
+[FEN "8/8/8/3QK3/8/4k3/2p5/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. Qg2 Kd3 2. Qg5 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "16.09"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 16"]
+[SetUp "1"]
+[FEN "8/8/8/4K3/8/8/Q1pk4/8 b - - 0 0"]
+[PlyCount "9"]
+
+1... Kc3 2. Qa3+ Kd2 3. Qb2 Kd1 4. Qd4+ Kc1 5. Ke4 Kb1 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "16.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 16"]
+[SetUp "1"]
+[FEN "8/5K2/8/p7/P7/2Q5/kp6/8 w - - 0 0"]
+[PlyCount "13"]
+
+1. Qc2 Ka1 2. Ke6 b1=Q 3. Qxb1+ Kxb1 4. Kd5 Kc2 5. Kc4 Kd2 6. Kb5 Kc3 7. Kxa5
+1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "16.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 16"]
+[SetUp "1"]
+[FEN "8/8/8/1K6/8/Q7/p7/1k6 w - - 0 0"]
+[PlyCount "9"]
+
+1. Qb3+ Ka1 2. Qd1+ Kb2 3. Qd2+ Kb1 4. Kb4 a1=Q 5. Kb3 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "16.12"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 16"]
+[SetUp "1"]
+[FEN "8/3K4/2P5/8/8/5k2/8/3q4 w - - 0 0"]
+[PlyCount "13"]
+
+1. Kc8 Ke4 2. c7 Kd5 3. Kb7 Qb3+ 4. Ka7 Qa4+ 5. Kb7 Qc6+ 6. Kb8 Qb6+ 7. Ka8
+1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "17.01"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 17"]
+[SetUp "1"]
+[FEN "6K1/3nkP2/8/5P2/8/2b5/8/8 w - - 0 0"]
+[PlyCount "5"]
+
+1. f8=Q+ Nxf8 2. f6+ Ke8 3. f7+ 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "17.02"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 17"]
+[SetUp "1"]
+[FEN "5k2/3B2bK/6P1/4n3/8/6P1/8/8 w - - 0 0"]
+[PlyCount "20"]
+
+1. Bg4 Nc6 2. Bf3 Nd4 3. Bg4 Nb5 4. Bd7 Nc3 5. Bc6 Ne2 6. Bd5 Nd4 7. g4 Ne2 8.
+Bc4 Nf4 9. g5 Nh3 10. Be6 Nxg5# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "17.03"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 17"]
+[SetUp "1"]
+[FEN "6bB/3P4/5K2/7k/8/8/8/7q w - - 0 0"]
+[PlyCount "3"]
+
+1. d8=Q Qh4+ 2. Kg7 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "17.04"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 17"]
+[SetUp "1"]
+[FEN "8/r4KP1/6Pk/8/8/8/8/8 w - - 0 0"]
+[PlyCount "6"]
+
+1. Kg8 Rxg7+ 2. Kh8 Ra7 3. g7 Rxg7 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "17.05"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 17"]
+[SetUp "1"]
+[FEN "8/8/3p4/7p/6pP/6K1/4P3/7k w - - 0 0"]
+[PlyCount "4"]
+
+1. e4 Kg1 2. e5 dxe5 1/2-1/2
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "17.06"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 17"]
+[SetUp "1"]
+[FEN "8/R4p2/3K3k/4PPp1/6P1/8/8/4r3 b - - 0 0"]
+[PlyCount "3"]
+
+1... Rxe5 2. Kxe5 f6+ 1/2-1/2
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "17.07"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 17"]
+[SetUp "1"]
+[FEN "1k6/2q2p2/1Q3p2/KP3P1p/P6P/8/8/8 b - - 0 0"]
+[PlyCount "2"]
+
+1... Ka8 2. Qxc7 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "17.08"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 17"]
+[SetUp "1"]
+[FEN "1R6/4Q1pk/2p5/5p1p/4pPqP/8/3r4/1R5K w - - 0 0"]
+[PlyCount "8"]
+
+1. Rh8+ Kxh8 2. Rb8+ Kh7 3. Rh8+ Kxh8 4. Qxg7+ Kxg7 1/2-1/2
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "17.09"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 17"]
+[SetUp "1"]
+[FEN "2Q5/8/p3R3/P5pP/3p2P1/3k4/3q4/6K1 b - - 0 0"]
+[PlyCount "2"]
+
+1... Qc1+ 2. Qxc1 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "17.10"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 17"]
+[SetUp "1"]
+[FEN "8/4R3/8/3k1p2/3np3/4K3/r5B1/8 w - - 0 0"]
+[PlyCount "5"]
+
+1. Bxe4+ fxe4 2. Re5+ Kd6 3. Rxe4 1/2-1/2
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "17.11"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 17"]
+[SetUp "1"]
+[FEN "6k1/8/2q1n3/2p1BK1Q/p1Pp4/P2P4/1P6/8 b - - 0 0"]
+[PlyCount "3"]
+
+1... Ng7+ 2. Bxg7 Qg6+ 1/2-1/2
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "17.12"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 17"]
+[SetUp "1"]
+[FEN "8/8/2PQ4/4p2k/4P1qP/4Bp1n/8/5B1K b - - 0 0"]
+[PlyCount "7"]
+
+1... Nf2+ 2. Bxf2 Qh3+ 3. Kg1 Qg4+ 4. Kh2 Qh3+ 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "18.01"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 18"]
+[SetUp "1"]
+[FEN "5rk1/1b3p1p/pp3p2/3n1N2/1P6/P1qB1PP1/3Q3P/4R1K1 w - - 0 0"]
+[PlyCount "3"]
+
+1. Qh6 Qxe1+ 2. Bf1 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "18.02"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 18"]
+[SetUp "1"]
+[FEN "2r1nrk1/p4p1p/1p2p1pQ/nPqbRN2/8/P2B4/1BP2PPP/3R2K1 w - - 0 0"]
+[PlyCount "7"]
+
+1. Ne7+ Qxe7 2. Qxh7+ Kxh7 3. Rh5+ Kg8 4. Rh8# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "18.03"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 18"]
+[SetUp "1"]
+[FEN "1k1q1Q1r/1pp1n1pp/1P6/4p3/3p4/7P/6P1/R4RK1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Ra8+ Kxa8 2. bxc7 Qxf8 3. Ra1# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "18.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 18"]
+[SetUp "1"]
+[FEN "4rr2/1ppb2k1/2q3p1/p7/3n4/1BP1B3/PP3PP1/2K4Q w - - 0 0"]
+[PlyCount "7"]
+
+1. Bh6+ Kf6 2. Qh4+ Ke5 3. Qxd4+ Kf5 4. Qf4# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "18.05"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 18"]
+[SetUp "1"]
+[FEN "r3r1kb/5p1p/p1q3pB/1p1bP3/4N2Q/5N1P/PP3PP1/3R2K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Rxd5 Qxd5 2. Nf6+ Bxf6 3. Qxf6 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "18.06"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 18"]
+[SetUp "1"]
+[FEN "r5k1/pppb1rpp/3p4/3P3q/3QN3/5P2/PB3P1P/R5RK b - - 0 0"]
+[PlyCount "9"]
+
+1... Qxf3+ 2. Rg2 Bh3 3. Rag1 Re8 4. Qc3 Bxg2+ 5. Rxg2 Rxe4 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "18.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 18"]
+[SetUp "1"]
+[FEN "1q4r1/p5pk/1p2r2p/3pNp1P/P2P4/1P4Q1/2P5/K5R1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Qg6+ Rxg6 2. hxg6+ Kh8 3. Nf7# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "18.08"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 18"]
+[SetUp "1"]
+[FEN "8/5k2/4N3/8/8/2p2p1p/7P/7K w - - 0 0"]
+[PlyCount "5"]
+
+1. Ng5+ Kf6 2. Nxf3 c2 3. Ng1 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "18.09"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 18"]
+[SetUp "1"]
+[FEN "8/8/8/p2Pkp2/2K5/8/8/8 w - - 0 0"]
+[PlyCount "7"]
+
+1. Kc5 f4 2. d6 f3 3. d7 f2 4. d8=Q 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "18.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 18"]
+[SetUp "1"]
+[FEN "r1b1Q3/1p4pk/p3pr1p/8/P3pPB1/2b4R/1qP4P/6RK w - - 0 0"]
+[PlyCount "9"]
+
+1. Bf5+ exf5 2. Rxg7+ Kxg7 3. Rg3+ Rg6 4. Rxg6+ Kh7 5. Qg8# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "18.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 18"]
+[SetUp "1"]
+[FEN "7k/1p3p2/1p4pp/r3P3/PQ4P1/3B1b1K/1P5P/6q1 w - - 0 0"]
+[PlyCount "9"]
+
+1. Qf8+ Kh7 2. Qxf7+ Kh8 3. Qf8+ Kh7 4. Bxg6+ Kxg6 5. Qg8# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "18.12"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 18"]
+[SetUp "1"]
+[FEN "1n1r1r1k/4qp1p/p3p1pb/2p1Pn2/2P3NN/2B3P1/P1Q2PBP/4R1K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Nxf5 gxf5 2. Nxh6 Qg5 3. Nxf5 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "19.01"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 19"]
+[SetUp "1"]
+[FEN "6k1/1p3p2/p2prPq1/8/7p/2Q5/PP3RP1/6K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Qc8+ Kh7 2. Qxe6 fxe6 3. f7 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "19.02"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 19"]
+[SetUp "1"]
+[FEN "4r2k/8/p6p/2P5/PR6/3N1p2/1p5P/1n5K b - - 0 0"]
+[PlyCount "3"]
+
+1... Re1+ 2. Nxe1 f2 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "19.03"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 19"]
+[SetUp "1"]
+[FEN "1r3k2/3p1ppp/RP2p3/8/1PR5/6P1/3rPP1P/6K1 w - - 0 0"]
+[PlyCount "3"]
+
+1. Ra8 Rxa8 2. b7 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "19.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 19"]
+[SetUp "1"]
+[FEN "2r2rk1/p1N2p1p/2P1p1p1/1Pp3q1/3b4/5Q2/P1P3PP/4RR1K w - - 0 0"]
+[PlyCount "7"]
+
+1. Nxe6 fxe6 2. Qxf8+ Rxf8 3. Rxf8+ Kxf8 4. c7 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "19.05"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 19"]
+[SetUp "1"]
+[FEN "7r/1pR5/6k1/3p4/p5n1/4P1p1/PPP3P1/5RK1 b - - 0 0"]
+[PlyCount "5"]
+
+1... Nf2 2. Rxf2 Rh1+ 3. Kxh1 gxf2 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "19.06"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 19"]
+[SetUp "1"]
+[FEN "8/2n5/3p4/2kPp3/4Pp2/N1K2Pp1/6P1/8 b - - 0 1"]
+[PlyCount "5"]
+
+1... Nxd5+ 2. exd5 e4 3. fxe4 f3 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "19.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 19"]
+[SetUp "1"]
+[FEN "1n6/R7/P1r2pk1/7p/8/5P2/7P/6K1 w - - 0 0"]
+[PlyCount "3"]
+
+1. Rg7+ Kxg7 2. a7 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "19.08"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 19"]
+[SetUp "1"]
+[FEN "6k1/5pp1/8/B2n4/5P2/P4QPp/4K3/7q b - - 0 0"]
+[PlyCount "3"]
+
+1... Qxf3+ 2. Kxf3 Ne3 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "19.09"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 19"]
+[SetUp "1"]
+[FEN "rkb4r/4Rp1p/p1PR1p1b/8/8/5N2/P4PPP/6K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Rd8 Ra7 2. Rxa7 Rxd8 3. c7+ 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "19.10"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 19"]
+[SetUp "1"]
+[FEN "8/8/3K1k2/5p1p/4p1p1/4P1P1/5PP1/8 b - - 0 0"]
+[PlyCount "7"]
+
+1... f4 2. Kd5 h4 3. Kxe4 f3 4. gxf3 h3 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "19.11"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 19"]
+[SetUp "1"]
+[FEN "8/2k5/6p1/3P1q2/6Bp/7P/5PN1/4K3 b - - 0 0"]
+[PlyCount "3"]
+
+1... Qxg4 2. hxg4 h3 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "19.12"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 19"]
+[SetUp "1"]
+[FEN "5rk1/p5pp/8/8/2Pbp3/1P4P1/7P/4RN1K b - - 0 0"]
+[PlyCount "5"]
+
+1... Bc3 2. Rd1 Rxf1+ 3. Rxf1 e3 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "20.01"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 20"]
+[SetUp "1"]
+[FEN "3k4/1b1nppbp/pp4p1/3N4/P1BPP1P1/3KB3/5P1P/8 w - - 0 0"]
+[PlyCount "5"]
+
+1. Nb4 a5 2. Bd5 Bxd5 3. Nxd5 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "20.02"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 20"]
+[SetUp "1"]
+[FEN "r5k1/pppb3p/2nqp1p1/1B1p4/3P1r2/2P2N1P/PP2QPPK/R4R2 w - - 0 0"]
+[PlyCount "5"]
+
+1. g3 Rf5 2. Bxc6 Bxc6 3. Ne5 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "20.03"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 20"]
+[SetUp "1"]
+[FEN "r2r2k1/1q1nbppp/pp1pbn2/4p3/P3P3/2N1BP2/1PPQB1PP/R1NR2K1 w - - 0 0"]
+[PlyCount "15"]
+
+1. N1a2 Nc5 2. Nb4 a5 3. Nbd5 Nxd5 4. Nxd5 Bxd5 5. Qxd5 Qxd5 6. Rxd5 g6 7. c3
+Ra7 8. Bb5 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "20.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 20"]
+[SetUp "1"]
+[FEN "r1b1r1k1/1pqn1pbp/p1p2np1/4p3/2P1P3/1NN1BP2/PP1Q2PP/1K1R1B1R w - - 0 0"]
+[PlyCount "1"]
+
+1. c5 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "20.05"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 20"]
+[SetUp "1"]
+[FEN "r2qr1k1/p3np1p/4bBp1/2pp4/7Q/2PB4/P1P2PPP/4RRK1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Re5 Bf5 2. Qh6 Bxd3 3. Qg7# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "20.06"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 20"]
+[SetUp "1"]
+[FEN "6k1/2q2pp1/2p2n1p/p3p3/1pN1P3/1P1Q1P2/P1P3PP/6K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Qd6 Qa7+ 2. Kf1 Nd7 3. Qxc6 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "20.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 20"]
+[SetUp "1"]
+[FEN "r2r2k1/p2nqppp/1p2p3/3b4/1P6/2Q2NP1/P3PPBP/2RR2K1 w - - 0 0"]
+[PlyCount "9"]
+
+1. Nd4 Nf6 2. b5 Bxg2 3. Kxg2 Rd5 4. Nc6 Qd7 5. Qc2 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "20.08"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 20"]
+[SetUp "1"]
+[FEN "2kr3r/pp1bbpp1/1q2p2p/n2pP3/2pP4/P1P2NP1/1P3PBP/R1BQR1K1 b - - 0 0"]
+[PlyCount "9"]
+
+1... Qb3 2. Qe2 Ba4 3. Be3 Kb8 4. Rad1 Qc2 5. Rd2 Qf5 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "20.09"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 20"]
+[SetUp "1"]
+[FEN "r6r/pp1bkppp/n3p3/1Nb1P2n/P1B2B2/2N5/1P3PPP/R4RK1 w - - 0 1"]
+[PlyCount "17"]
+
+1. Be3 Rhc8 2. Be2 g6 3. Ne4 Bxe3 4. fxe3 Rc2 5. Nbd6 Rf8 6. Bxa6 bxa6 7. g4
+Ng7 8. Nf6 Bc6 9. Rfc1 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "20.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 20"]
+[SetUp "1"]
+[FEN "3n4/6pp/1p1k1p2/1p6/p2PPN1P/P2K4/1P4P1/8 w - - 0 0"]
+[PlyCount "11"]
+
+1. Nh5 Ne6 2. Ke3 Ke7 3. d5 Nc5 4. Nxg7 Kd6 5. Ne6 Nxe6 6. dxe6 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.01.??"]
+[Round "?"]
+[White "20.11"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 20"]
+[SetUp "1"]
+[FEN "1r6/p1r1k1p1/4p2p/N2p1p2/nPp5/2P1PP2/P1R2KPP/4R3 b - - 0 0"]
+[PlyCount "19"]
+
+1... Nc5 2. Ke2 Nd3 3. Rb1 Kd6 4. a4 g5 5. Rd2 Rbc8 6. b5 Rb8 7. Nb3 e5 8. Nc1
+e4 9. Kd1 f4 10. Re2 Re7 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "20.12"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 20"]
+[SetUp "1"]
+[FEN "3B2k1/1p1b1p2/r5p1/1NpP1n1p/P1P3n1/R7/6PP/5BK1 w - - 0 0"]
+[PlyCount "11"]
+
+1. a5 Ne5 2. Bb6 Ra8 3. Rc3 Rc8 4. Na7 Re8 5. Bxc5 Ng4 6. Rb3 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "21.01"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 21"]
+[SetUp "1"]
+[FEN "6r1/5p1p/5Kpk/6R1/7P/p7/6P1/8 w - - 0 0"]
+[PlyCount "7"]
+
+1. g4 a2 2. Rh5+ gxh5 3. g5+ Rxg5 4. hxg5# 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "21.02"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 21"]
+[SetUp "1"]
+[FEN "8/8/8/6K1/2kp3P/2p5/2Pr4/2R5 b - - 0 0"]
+[PlyCount "3"]
+
+1... Rxc2 2. Rxc2 d3 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "21.03"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 21"]
+[SetUp "1"]
+[FEN "8/2k5/8/8/R4b2/4p1p1/5rP1/4B1K1 b - - 0 0"]
+[PlyCount "5"]
+
+1... e2 2. Bxf2 Be3 3. Ra1 gxf2+ 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "21.04"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 21"]
+[SetUp "1"]
+[FEN "2r3k1/5pp1/7p/b2q1p2/3P4/pRPQ2B1/P5PP/6K1 b - - 0 0"]
+[PlyCount "5"]
+
+1... Qxb3 2. axb3 a2 3. Qd1 Bxc3 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "21.05"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 21"]
+[SetUp "1"]
+[FEN "3r2k1/p6p/b2r2p1/2qPQp2/2P2P2/8/6BP/R4R1K w - - 0 0"]
+[PlyCount "9"]
+
+1. Rxa6 Rxa6 2. d6 Qxe5 3. fxe5 Ra5 4. Bd5+ Kf8 5. Rb1 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "21.06"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 21"]
+[SetUp "1"]
+[FEN "5r1k/p6p/1p1p1qp1/2pQpr2/8/2PP2P1/PP2RPKP/5R2 b - - 0 0"]
+[PlyCount "21"]
+
+1... e4 2. Qc4 d5 3. Qb5 e3 4. f4 d4 5. Rc1 g5 6. cxd4 gxf4 7. Kh1 fxg3 8. Qd7
+Rf1+ 9. Kg2 Qf3+ 10. Kh3 Qh5+ 11. Kg2 Qxh2# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "21.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 21"]
+[SetUp "1"]
+[FEN "8/3P1pkp/2n2Np1/8/5b2/B6P/5PP1/6K1 w - - 0 0"]
+[PlyCount "13"]
+
+1. Be7 Bg5 2. Ne8+ Kh6 3. Bf8+ Kh5 4. Ng7+ Kh4 5. Kh2 Bd8 6. f4 g5 7. g3# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "21.08"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 21"]
+[SetUp "1"]
+[FEN "4r1k1/4P1p1/7p/1pp1N3/7P/4q2n/P5Q1/5R1K w - - 0 1"]
+[PlyCount "7"]
+
+1. Rf8+ Rxf8 2. Qd5+ Kh7 3. exf8=N+ Kh8 4. Neg6# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "21.09"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 21"]
+[SetUp "1"]
+[FEN "3Q4/p3b1k1/2p2rPp/2q5/4B3/P2P4/7P/6RK w - - 0 0"]
+[PlyCount "7"]
+
+1. Qh8+ Kxh8 2. g7+ Kg8 3. Bh7+ Kxh7 4. g8=Q# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "21.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 21"]
+[SetUp "1"]
+[FEN "8/5p2/8/5KPp/7k/7p/7P/8 w - - 0 0"]
+[PlyCount "9"]
+
+1. g6 fxg6+ 2. Kf4 g5+ 3. Kf3 g4+ 4. Kf4 g3 5. hxg3# 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "21.11"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 21"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp2pp1/1bnp1n1p/8/2BPP3/2N1BN1P/PP3PP1/R2Q1RK1 b - - 0 0"]
+[PlyCount "7"]
+
+1... Nxe4 2. Nxe4 d5 3. Bxd5 Qxd5 4. Nc3 Qf5 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "21.12"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 21"]
+[SetUp "1"]
+[FEN "1nk1r1r1/pp2n1pp/4p3/q2pPp1N/b1pP1P2/B1P2R2/2P1B1PP/R2Q2K1 w - - 0 0"]
+[PlyCount "11"]
+
+1. Nf6 gxf6 2. exf6 Rgf8 3. Bxe7 Rf7 4. Re3 Nd7 5. Bb4 Qc7 6. Bh5 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "22.01"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 22"]
+[SetUp "1"]
+[FEN "8/8/k7/8/4K3/7p/7b/8 b - - 0 0"]
+[PlyCount "3"]
+
+1... Bg3 2. Kf3 Bh4 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "22.02"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 22"]
+[SetUp "1"]
+[FEN "8/1p1p3b/2k5/P1p1K3/8/8/8/3B4 w - - 0 0"]
+[PlyCount "7"]
+
+1. Ba4+ Kc7 2. Bxd7 Kxd7 3. a6 bxa6 4. Kd5 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "22.03"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 22"]
+[SetUp "1"]
+[FEN "4k3/1p4K1/5P2/P7/2b5/8/8/8 w - - 0 0"]
+[PlyCount "5"]
+
+1. a6 bxa6 2. f7+ Bxf7 3. Kf6 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "22.04"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 22"]
+[SetUp "1"]
+[FEN "8/2bk4/8/8/7p/8/4K1P1/8 w - - 0 0"]
+[PlyCount "11"]
+
+1. Kf2 Bh2 2. g4 h3 3. Kf3 Ke6 4. g5 Kf5 5. g6 Kxg6 6. Kg4 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "22.05"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 22"]
+[SetUp "1"]
+[FEN "7k/5Ppp/3b4/4N3/8/8/8/1K6 w - - 0 0"]
+[PlyCount "7"]
+
+1. f8=Q+ Bxf8 2. Nf7+ Kg8 3. Nh6+ gxh6 4. Kc2 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "22.06"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 22"]
+[SetUp "1"]
+[FEN "8/8/8/8/1p2k3/8/b1PK4/8 w - - 0 0"]
+[PlyCount "13"]
+
+1. c3 b3 2. Kc1 Kd3 3. Kb2 Kc4 4. Ka1 Kb5 5. Kb2 Ka4 6. c4 Kb4 7. c5 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "22.07"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 22"]
+[SetUp "1"]
+[FEN "8/8/3k4/8/p7/7b/8/4K3 w - - 0 0"]
+[PlyCount "5"]
+
+1. Kd2 a3 2. Kc2 Bf5+ 3. Kb3 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "22.08"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 22"]
+[SetUp "1"]
+[FEN "1N6/p7/3k4/8/1pb5/8/PK6/8 w - - 0 0"]
+[PlyCount "5"]
+
+1. Na6 Bxa6 2. a3 bxa3+ 3. Kxa3 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "22.09"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 22"]
+[SetUp "1"]
+[FEN "8/8/5k2/ppP5/8/8/8/3BK2b w - - 0 0"]
+[PlyCount "7"]
+
+1. c6 Bxc6 2. Ba4 bxa4 3. Kd2 a3 4. Kc2 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "22.10"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 22"]
+[SetUp "1"]
+[FEN "8/8/2K5/p3k3/8/8/1P6/3b4 w - - 0 0"]
+[PlyCount "7"]
+
+1. b3 Bxb3 2. Kb5 a4 3. Kb4 Kd4 4. Ka3 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "22.11"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 22"]
+[SetUp "1"]
+[FEN "3N4/8/1p1k4/8/8/1b6/8/4K3 w - - 0 0"]
+[PlyCount "9"]
+
+1. Nb7+ Kc6 2. Na5+ bxa5 3. Kd2 Kc5 4. Kc3 a4 5. Kb2 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "22.12"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 22"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/2k5/7P/K2B4 w - - 0 0"]
+[PlyCount "7"]
+
+1. h4 Kd4 2. h5 Ke5 3. h6 Kf6 4. Bh5 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "23.01"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 23"]
+[SetUp "1"]
+[FEN "4nrkn/r2q1p1p/3p2pQ/NppPpN1P/1P2P3/2P3P1/5P2/R3K2R w KQ - 0 0"]
+[PlyCount "3"]
+
+1. Qg7+ Nxg7 2. Nh6# 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "23.02"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 23"]
+[SetUp "1"]
+[FEN "r5k1/p1q2pp1/2p4p/7n/1PPP2N1/3QBN2/P3n1P1/R6K b - - 0 0"]
+[PlyCount "7"]
+
+1... Nhg3+ 2. Kh2 Nf1+ 3. Kh1 Qh2+ 4. Ngxh2 Nfg3# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "23.03"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 23"]
+[SetUp "1"]
+[FEN "2r2r2/ppk3pp/3NQ1p1/4p3/n7/8/2PP2q1/2KR4 w - - 0 0"]
+[PlyCount "17"]
+
+1. Nb5+ Kd8 2. Qd6+ Ke8 3. Qxe5+ Kf7 4. Nd6+ Kg8 5. Qe6+ Kh8 6. Nf7+ Kg8 7.
+Nh6+ Kh8 8. Qg8+ Rxg8 9. Nf7# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "23.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 23"]
+[SetUp "1"]
+[FEN "r4k1r/p1p2ppp/1bN1bq2/8/Q3P3/2P5/P4PPP/RN3RK1 w - - 0 0"]
+[PlyCount "13"]
+
+1. e5 Qg5 2. h4 Qg4 3. Qa3+ Kg8 4. Ne7+ Kf8 5. Ng6+ Kg8 6. Qf8+ Rxf8 7. Ne7#
+1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "23.05"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 23"]
+[SetUp "1"]
+[FEN "6rk/p2b4/3p1Nqp/2pPpn2/P1P4p/5P1P/Q2B1NP1/6RK b - - 0 0"]
+[PlyCount "9"]
+
+1... Ng3+ 2. Kh2 Nf1+ 3. Kh1 Qg3 4. N6g4 Qh2+ 5. Nxh2 Ng3# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "23.06"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 23"]
+[SetUp "1"]
+[FEN "1kr5/p1pR4/2P3pp/5p2/1N6/KP2p2P/2P2r2/8 w - - 0 0"]
+[PlyCount "11"]
+
+1. Na6+ Ka8 2. Nxc7+ Kb8 3. Na6+ Ka8 4. Rb7 e2 5. Rb8+ Rxb8 6. Nc7# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "23.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 23"]
+[SetUp "1"]
+[FEN "2r4k/5Rbp/2rNQ1p1/p6q/Pp4n1/1B6/4KP2/3R4 w - - 0 0"]
+[PlyCount "5"]
+
+1. Rf8+ Rxf8 2. Qg8+ Rxg8 3. Nf7# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "23.08"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 23"]
+[SetUp "1"]
+[FEN "k4q2/n7/B1b5/2N5/8/6Q1/8/6K1 w - - 0 0"]
+[PlyCount "7"]
+
+1. Bb7+ Bxb7 2. Nd7 Qd8 3. Qb8+ Qxb8 4. Nb6# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "23.09"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 23"]
+[SetUp "1"]
+[FEN "5rk1/p1p3pp/4P3/4N3/2pq4/5Q2/P4P1P/6K1 w - - 0 0"]
+[PlyCount "13"]
+
+1. e7 Rxf3 2. e8=Q+ Rf8 3. Qe6+ Kh8 4. Nf7+ Kg8 5. Nh6+ Kh8 6. Qg8+ Rxg8 7.
+Nf7# 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "23.10"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 23"]
+[SetUp "1"]
+[FEN "3rr1k1/1pp3pp/5q2/p1b1n3/2P5/1P1b1NP1/R2N1PBP/Q3R1K1 b - - 0 0"]
+[PlyCount "13"]
+
+1... Bxf2+ 2. Kxf2 Ng4+ 3. Kg1 Qb6+ 4. Kh1 Nf2+ 5. Kg1 Nh3+ 6. Kh1 Qg1+ 7. Rxg1
+Nf2# 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "23.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 23"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/p2N4/k7/2K5 w - - 0 0"]
+[PlyCount "5"]
+
+1. Kc2 Ka1 2. Nc1 a2 3. Nb3# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "23.12"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 23"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/7p/N4K1k/8 w - - 0 0"]
+[PlyCount "9"]
+
+1. Nc3 Kh1 2. Ne4 Kh2 3. Nd2 Kh1 4. Nf1 h2 5. Ng3# 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "24.01"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r1bqk2r/pppp1ppp/2n2n2/2b1P3/2Bp4/5N2/PPP2PPP/RNBQ1RK1 b kq - 0 1"]
+[PlyCount "11"]
+
+1... d5 2. exf6 dxc4 3. Re1+ Be6 4. Ng5 Qd5 5. Nc3 Qf5 6. Nce4 Bf8 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "24.02"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 24"]
+[SetUp "1"]
+[FEN "r4bkr/ppp3pp/8/3qn1N1/2pp2P1/8/PPP2P1P/R1BQR1K1 w - - 0 0"]
+[PlyCount "3"]
+
+1. Rxe5 Qxe5 2. Qf3 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "24.03"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 24"]
+[SetUp "1"]
+[FEN "r4bkr/pppq2pp/2n1R3/6N1/2pp2P1/5Q2/PPP2P1P/R1B3K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Re7 Qxe7 2. Qd5+ Qf7 3. Qxf7# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "24.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 24"]
+[SetUp "1"]
+[FEN "r1b3rk/pp1R1Q1p/2p2p2/5q2/4R3/bPp2N2/P1P2PPP/1K6 w - - 0 0"]
+[PlyCount "9"]
+
+1. Re8 Bf8 2. Rxf8 Qg6 3. Rxg8+ Qxg8 4. Qxf6+ Qg7 5. Qxg7# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "24.05"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 24"]
+[SetUp "1"]
+[FEN "r1b1kb1r/ppp2ppp/2n5/3q4/3pn3/5N2/PPP2PPP/RNBQR1K1 w kq - 0 0"]
+[PlyCount "3"]
+
+1. Nc3 Qa5 2. Nxe4 1/2-1/2
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "24.06"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 24"]
+[SetUp "1"]
+[FEN "Q7/ppp2kpp/3b4/8/4RP1q/7b/PPP3PP/3R2K1 b - - 0 0"]
+[PlyCount "9"]
+
+1... Bc5+ 2. Kh1 Bxg2+ 3. Kxg2 Qg4+ 4. Kf1 Qf3+ 5. Ke1 Qf2# 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "24.07"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 24"]
+[SetUp "1"]
+[FEN "2kr3r/ppp3pp/2nbR3/7q/3p4/5N2/PPPBQPPP/R5K1 b - - 0 0"]
+[PlyCount "7"]
+
+1... d3 2. Qe4 Nd4 3. g4 Nxf3+ 4. Qxf3 Qxh2+ 0-1
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "24.08"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 24"]
+[SetUp "1"]
+[FEN "2k1r2r/ppp3pp/2nbR3/q5B1/3p4/5N2/PPP1QPPP/R5K1 b - - 0 0"]
+[PlyCount "9"]
+
+1... Kd7 2. Re4 Qf5 3. Re1 Rxe4 4. Qxe4 Qxe4 5. Rxe4 Re8 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "24.09"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 24"]
+[SetUp "1"]
+[FEN "r4rk1/pp1qbppp/2p1b3/8/Q2P1B2/2N5/PP3PPP/R3R1K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. d5 Bf5 2. dxc6 bxc6 3. Rad1 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "24.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 24"]
+[SetUp "1"]
+[FEN "r3k2r/ppp2ppp/q1n1b3/6B1/3NN3/1P6/P1P2PPP/R2Qb1K1 w kq - 0 0"]
+[PlyCount "15"]
+
+1. Nc5 Qb6 2. Ndxe6 Bxf2+ 3. Kxf2 fxe6 4. Qd7+ Kf8 5. Kg3 Qxc5 6. Rf1+ Qf5 7.
+Rxf5+ exf5 8. Qxf5+ 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "24.11"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 24"]
+[SetUp "1"]
+[FEN "r4k1r/ppp3pp/2n1Q3/6B1/8/1P4K1/P1P3PP/8 w - - 0 0"]
+[PlyCount "7"]
+
+1. Bc1 Re8 2. Ba3+ Ne7 3. Bxe7+ Rxe7 4. Qf5+ 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "24.12"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 24"]
+[SetUp "1"]
+[FEN "5k1r/ppp1r1pp/4Q3/8/8/1P4K1/P1P3PP/8 w - - 0 4"]
+[PlyCount "5"]
+
+4. Qf5+ Ke8 5. Qc8+ Kf7 6. Qxh8 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.01"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "1rbk1bnr/ppNpppp1/7p/1N6/4P3/3q4/P2B1PPP/1R1QK2R w K - 0 0"]
+[PlyCount "3"]
+
+1. Ne6+ Ke8 2. Nbc7# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.02"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "8/8/8/5p2/3k4/5P2/8/6K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. f4 Ke3 2. Kg2 Kxf4 3. Kf2 1/2-1/2
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.03"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "8/8/8/5p2/3k4/5P2/8/6K1 b - - 0 1"]
+[PlyCount "7"]
+
+1... f4 2. Kf2 Kd3 3. Kf1 Ke3 4. Ke1 Kxf3 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.04"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "r2b3k/1ppQ3p/5pqB/p7/8/1B2n3/PPP2PPP/6K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Bg7+ Qxg7 2. Qe8+ Qg8 3. Qxg8# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.05"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "4rr1k/q2n3p/b1p2ppQ/p1n1p3/Pp2P3/1B1PBR2/1PPN2PP/R5K1 w - - 0 0"]
+[PlyCount "7"]
+
+1. Qxh7+ Kxh7 2. Rh3+ Kg7 3. Bh6+ Kh8 4. Bxf8# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.06"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "r4rk1/pp1qb1pp/5p2/4nN2/2P5/5Q2/PB3PPP/R4RK1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Bxe5 fxe5 2. Qd5+ Qxd5 3. Nxe7+ 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.07"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "r2qkbnr/ppp1pppp/8/3Pn3/6b1/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 1"]
+[PlyCount "13"]
+
+1. Nxe5 Bxd1 2. Bb5+ c6 3. dxc6 e6 4. cxb7+ Ke7 5. Nc6+ Kf6 6. Nxd8 Rxd8 7.
+Nxd1 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.08"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "8/1k6/1p6/1K6/P1P5/8/8/8 b - - 0 0"]
+[PlyCount "5"]
+
+1... Kc7 2. Ka6 Kc6 3. Ka7 Kc7 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.09"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "3r2k1/pp2rppp/1qp2nn1/5B2/3PP3/2N5/PP3QPP/4RR1K w - - 0 1"]
+[PlyCount "15"]
+
+1. e5 Nd5 2. Ne4 Nf8 3. Nd6 Qc7 4. Be4 Ne6 5. Qh4 g6 6. Bxd5 cxd5 7. Rc1 Qd7 8.
+Rc3 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.10"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "5rk1/pp1qrp1p/3Nn1p1/3pP3/3P3Q/2R5/PP4PP/5R1K w - - 0 0"]
+[PlyCount "15"]
+
+1. Nf5 Rfe8 2. Nh6+ Kf8 3. Qf6 Ng7 4. Rcf3 Rc8 5. Nxf7 Re6 6. Qg5 Nf5 7. Nh6
+Qg7 8. g4 1-0
+
+[Event "Black to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.11"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "3r3k/p3N1pp/4q3/3Np3/8/1Pp1P1P1/P4Q1P/6K1 b - - 0 0"]
+[PlyCount "7"]
+
+1... Qxe7 2. Nxc3 Qb4 3. Nb1 Rd1+ 4. Kg2 Rxb1 0-1
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.12"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "8/4rk2/5p1P/3R1K2/6P1/8/8/8 w - - 0 0"]
+[PlyCount "3"]
+
+1. g5 fxg5 2. Rd8 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.13"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp3pp1/5n1p/q1p1pP2/2P5/P1PBP3/2QN2PP/R4RK1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Ne4 Qd8 2. Nxf6+ Qxf6 3. Be4 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.14"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/p7/3N4/k1K5 w - - 0 0"]
+[PlyCount "11"]
+
+1. Nb3+ Ka2 2. Nc5 Ka1 3. Kc2 Ka2 4. Nd3 Ka1 5. Nc1 a2 6. Nb3# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.15"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "3r1k2/3qbpNp/4pp1Q/p7/Pp6/7P/1PP2PP1/3rR1K1 w - - 0 0"]
+[PlyCount "5"]
+
+1. Nxe6+ Ke8 2. Qf8+ Bxf8 3. Ng7# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.16"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "8/8/8/4K3/8/8/3Q1p2/6k1 w - - 0 0"]
+[PlyCount "3"]
+
+1. Kf4 f1=Q+ 2. Kg3 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.17"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "8/4k1p1/8/3K1p1P/8/8/5b2/8 w - - 0 0"]
+[PlyCount "11"]
+
+1. h6 gxh6 2. Ke5 h5 3. Kxf5 h4 4. Kg4 Kf6 5. Kh3 Kg5 6. Kg2 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.18"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "3r2k1/pp4b1/2p2p2/4pB1R/1q2P1Q1/6P1/PPP4P/7K w - - 0 0"]
+[PlyCount "3"]
+
+1. Rh8+ Kf7 2. Rxd8 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.19"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "4rrk1/pq3ppp/n1p2b2/8/3p4/PP1B4/1BPQ1PPP/R4RK1 w - - 0 0"]
+[PlyCount "3"]
+
+1. Qa5 Nc7 2. Qf5 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.20"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "1r6/5RR1/7p/2p1r1p1/2p1P1k1/3P2P1/2P3K1/8 w - - 0 0"]
+[PlyCount "5"]
+
+1. Rf4+ Kh5 2. Rh4+ gxh4 3. g4# 1-0
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.21"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "1k6/R7/K7/8/8/8/2p5/8 w - - 0 0"]
+[PlyCount "6"]
+
+1. Rb7+ Kc8 2. Rb5 c1=Q 3. Rc5+ Qxc5 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.22"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "1rb1r1k1/ppp2pbp/1n4p1/N3p3/8/1P4PP/PBP1PPB1/2KR3R w - - 0 0"]
+[PlyCount "5"]
+
+1. Rd2 c6 2. Rhd1 f5 3. c4 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.23"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "4kNb1/5p2/5P2/6K1/8/8/8/8 w - - 0 0"]
+[PlyCount "9"]
+
+1. Kh5 Kxf8 2. Kh6 Ke8 3. Kg7 Kd7 4. Kxg8 Ke6 5. Kg7 1/2-1/2
+
+[Event "White to move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25.24"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Book 1 Test 25"]
+[SetUp "1"]
+[FEN "8/8/8/8/7P/2k1K3/1pb5/6Q1 w - - 0 0"]
+[PlyCount "9"]
+
+1. Qg7+ Kb3 2. Kd2 b1=Q 3. Qc3+ Ka4 4. Qxc2+ Qxc2+ 5. Kxc2 1-0
+
