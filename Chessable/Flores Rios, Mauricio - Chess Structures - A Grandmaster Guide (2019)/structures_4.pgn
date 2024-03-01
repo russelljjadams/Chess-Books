@@ -1,0 +1,1172 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Najdorf Type II"]
+[Black "Almasi vs. Aagaard #1"]
+[Result "*"]
+[FEN "r3k2r/1pqbbpp1/p1nppn1p/8/4PPP1/1NN2QB1/PPP4P/2KR1B1R b kq - 0 1"]
+[SetUp "1"]
+
+1... b5 { is met by } 2. e5 { since after } 2... dxe5 3. fxe5 Nh7 { the strong } 4. Nd5 { leaves Black in a desperate position. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Najdorf Type II"]
+[Black "Almasi vs. Aagaard #2"]
+[Result "*"]
+[FEN "r3k2r/1pqbbpp1/p1np1n1p/4p3/4PPP1/1NN2QB1/PPP4P/2KR1B1R w kq - 0 1"]
+[SetUp "1"]
+
+1. f5 Rc8 { Black is in serious trouble after } 2. h4 { preparing g4-g5 followed by Nc3-d5, gaining great attacking chances. Black does not have a satisfactory reply. For example } 2... Nb4 { threatening 16... Nxa2, is simply answered by  protecting c2, possibly followed by a2-a3 and g4-g5; then } 3. Rh2 a5 4. a3 a4 5. Na1 Nc6 6. g5 Ng8 7. Nd5 { when Blacks position is lost both tactically and strategically. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Najdorf Type II"]
+[Black "Almasi vs. Aagaard #3"]
+[Result "*"]
+[FEN "2r1k2r/2qnbpp1/p1bp3p/1p2pP2/4P1PP/1BN2QB1/PPP5/1K1R3R w k - 0 1"]
+[SetUp "1"]
+
+{ White had a powerful attack after } 1. g5 b4 { 21...Nc5  22.Nd5  Bxd5  23.Bxd5  with complete control. } 2. Qh5 { 22.Nd5 !? } 2... bxc3 3. Qxf7+ Kd8 4. Qxg7 Re8 5. f6 Bf8 6. Qg6 { with more than sufficient compensation. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Najdorf Type II"]
+[Black "Almasi vs. Aagaard #4"]
+[Result "*"]
+[FEN "r6r/1k2bpp1/p2p3p/4pP2/R3P1PP/1PP5/5B2/1K1R4 b - - 0 1"]
+[SetUp "1"]
+
+{ Trying to create counterplay is not simple. For example: } 1... Rhg8 { with the idea ...g7-g6 } 2. c4 Kc6 { Protecting the d6-pawn.   38...g6  39.f6 !  Bxf6  40.Rxd6 } 3. b4 g6 4. Rxa6+ { A nice tactical blow ! } 4... Rxa6 5. b5+ Kb7 6. bxa6+ Kxa6 7. f6 { White is winning. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Najdorf Type II"]
+[Black "Baadur Jobava vs Liviu-Dieter Nisipeanu"]
+[Result "*"]
+
+{ @@HeaderStart@@Baadur Jobava – Liviu-Dieter Nisipeanu, Burgas 2012@@HeaderEnd@@  Learning objective:  This game is an example of Black’s central reaction ...d6-d5 once the advance f4-f5 has been achieved. } 1. e4 c5 2. Nc3 Nc6 3. Nge2 e6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 a6 7. Be2 Nf6 8. a3 { Preventing 8...Bb4.   The main line is  8.O-O  but probably White wanted to avoid  8...Bb4  in the style of a Taimanov Sicilian. } 8... Be7 9. O-O O-O 10. f4 d6 11. Kh1 Nxd4 12. Bxd4 e5 13. Bg1 { Also interesting is  13.Be3 !?  b5 } 13... b5 14. Bf3 Bb7 15. f5 { We reach the position of interest, and it is time for a comparison with the 14th move of the previous game:  1. White’s king is on the kingside. In the previous game the attack h2-h4 and g2-g4-g5 was strong and risk-free. Here, this attack is good too, but it could backfire against White’s monarch.  2. Black’s bishop on b7 is far more useful than a bishop on d7, as in the previous game; it pressures the e4-pawn and controls the d5-square.  3. White’s bishop on f3 is less useful than in the previous game; remember this bishop made it to b3, creating great attacking prospects.   Overall, this position is approximately equal, with a slight tendency to favour Black, as the ...d6-d5 break is attainable. } 15... Rac8 { A standard move, immobilizing the knight on c3 due to the pressure on c2.   An alternative was  15...Rfd8  preparing  ...d6-d5.  16.Qd3   Bad is  16.Qe1 ?!  because of  16...d5 !  17.exd5  Nxd5  18.Nxd5  Bxd5  19.Bxd5  Rxd5  =+ when Black has gained the initiative   16.Nd5 ?!  does not work well due to  16...Bxd5  17.exd5  e4 !  18.Be2  Qb7  when White must find a way to compensate for the lost pawn.  16...Rac8  With a standard position. } 16. Qe1 { Safer was  16.Qd3  Rfd8  17.Rfd1  when White momentarily prevents the  ...d6-d5  break. } 16... Rfe8 { The reader should become familiar with this alternative way of preparing the ...d6-d5 break.   After the more standard  16...Rfd8  17.Rd1  White wants to proceed with g2-g4-g5, thus Black should react soon. For example after  17...d5 !?  18.Nxd5  Bxd5  19.exd5  Bd6 !  ∞   or  19...Qxc2 !?  Black’s next move will probably be  ...Re8  , so it would have made sense to place the rook on  e8  immediately on move  16. } 17. Rd1 d5 { In most Sicilian-type positions, plans for both sides work around this break, either preparing for it, or attempting to prevent it. As this break has been achieved, it is White who must try to equalize.   An alternative was  17...a5 !?  18.Nxb5  Qxc2  19.Nxd6  Bxd6  20.Rxd6  Bxe4  with level chances.   Instead  17...Bc6 ?!  protecting  b5  and preparing  ...a6-a5  followed by  ...b5-b4  , seems too slow after  18.g4  h6   slightly better is  18...Nd7  19.h4  a5  20.g5  but the break f5-f6 is coming  19.h4  Nd7  20.Be3  when White’s attack becomes dangerous, while Black’s  ...d6-d5  reaction now seems far from possible. } 18. exd5 { If  18.Nxd5  then  18...Bxd5  19.exd5  Bc5 !  is the most precise:  20.Bxc5  Qxc5  Black will regain the pawn under favourable conditions, for example:  21.Be4  Qc4  22.d6   22.Bd3  Qxd5  =+  22...Rcd8  23.Bd3  Qc6  =+ } 18... e4 { This is the key to the move 16...Rfe8. Suddenly Black’s pieces become very active. } 19. Nxe4 { A serious tactical inaccuracy.   Better was  19.Be2  Bc5  again, attempting to regain the d5-pawn favourably.   19...Bxa3 !?  is also worth considering  20.Bxc5  Qxc5  21.Qd2  Red8  22.d6  Rc6   or  22...Rd7 !?  to double rooks and regain the d6-pawn, while keeping queens on the board  23.Qd4  Qxd4  24.Rxd4  Rcxd6  25.Rxd6  Rxd6  Black’s position is a tiny amount better because of the passed e4-pawn. } 19... Bxd5 20. Bd4 { The decisive mistake in an already bad position.   If  20.Nxf6+  Bxf6  21.Qd2   or  21.Rxd5  Rxe1  22.Rxe1  Bxb2  ∓  21...Bxf3  22.Rxf3  Bxb2  ∓ White is losing the c2-pawn without any counterplay. } 20... Nxe4 21. Bxe4 Bf6 { -+ Winning a piece and the game. } 22. Bxf6 Bxe4 23. Qh4 { The alternative  23.Bc3  loses the queen after  23...Bxg2+  24.Kxg2  Rxe1. } 23... gxf6 24. Rf4 Qxc2 25. Rg4+ Kf8 { White resigns, as Black’s king is in no real danger.   Final remarks  1. Black’s pieces were ideally placed for the pawn structure, and this played a major role in the development of the game. In particular, the difference between Black’s bishop on b7 and White’s bishop on f3 made it easier for Black to conduct the game.  2. The idea of ...d6-d5 followed by ...e5-e4 is typical, but it is only strong after White has already played f3-f4-f5. The reader should remember this theme and remember when it works. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Najdorf Type II"]
+[Black "Jobava vs. Nisipeanu #1"]
+[Result "*"]
+[FEN "2r2rk1/1bq1bppp/p2p1n2/1p2pP2/4P3/P1N2B2/1PP3PP/R3QRBK b - - 2 1"]
+[SetUp "1"]
+
+1... Rfe8 { The reader should become familiar with this alternative way of preparing the ...d6-d5 break.   After the more standard  16...Rfd8  17.Rd1  White wants to proceed with g2-g4-g5, thus Black should react soon. For example after  17...d5 !?  18.Nxd5  Bxd5  19.exd5  Bd6 !  ∞   or  19...Qxc2 !?  Blacks next move will probably be  ...Re8  , so it would have made sense to place the rook on  e8  immediately on move  16. } 2. Rd1 d5 { In most Sicilian-type positions, plans for both sides work around this break, either preparing for it, or attempting to prevent it. As this break has been achieved, it is White who must try to equalize.   An alternative was  17...a5 !?  18.Nxb5  Qxc2  19.Nxd6  Bxd6  20.Rxd6  Bxe4  with level chances.   Instead  17...Bc6 ?!  protecting  b5  and preparing  ...a6-a5  followed by  ...b5-b4  , seems too slow after  18.g4  h6   slightly better is  18...Nd7  19.h4  a5  20.g5  but the break f5-f6 is coming  19.h4  Nd7  20.Be3  when Whites attack becomes dangerous, while Blacks  ...d6-d5  reaction now seems far from possible. } 3. exd5 { If  18.Nxd5  then  18...Bxd5  19.exd5  Bc5 !  is the most precise:  20.Bxc5  Qxc5  Black will regain the pawn under favourable conditions, for example:  21.Be4  Qc4  22.d6   22.Bd3  Qxd5  =+  22...Rcd8  23.Bd3  Qc6  =+ } 3... e4 { This is the key to the move 16... Rfe8. Suddenly Blacks pieces become very active. } 4. Nxe4 { A serious tactical inaccuracy.   Better was  19.Be2  Bc5  again, attempting to regain the d5-pawn favourably.   19...Bxa3 !?  is also worth considering  20.Bxc5  Qxc5  21.Qd2  Red8  22.d6  Rc6   or  22...Rd7 !?  to double rooks and regain the d6-pawn, while keeping queens on the board  23.Qd4  Qxd4  24.Rxd4  Rcxd6  25.Rxd6  Rxd6  Blacks position is a tiny amount better because of the passed e4-pawn. } 4... Bxd5 5. Bd4 { The decisive mistake in an already bad position.   If  20.Nxf6  Bxf6  21.Qd2   or  21.Rxd5  Rxe1  22.Rxe1  Bxb2  ∓  21...Bxf3  22.Rxf3  Bxb2  ∓ White is losing the c2-pawn without any counterplay. } 5... Nxe4 6. Bxe4 Bf6 { -+ Winning a piece and the game. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Najdorf Type II"]
+[Black "Jobava vs. Nisipeanu #2"]
+[Result "*"]
+[FEN "2r1r1k1/1bq1bppp/p4n2/1p1ppP2/4P3/P1N2B2/1PP3PP/3RQRBK w - - 0 1"]
+[SetUp "1"]
+
+1. Nxd5 Bxd5 2. exd5 Bc5 { is the most precise: } 3. Bxc5 Qxc5 { Black will regain the pawn under favourable conditions, for example: } 4. Be4 Qc4 5. d6 { 22.Bd3  Qxd5  =+ } 5... Rcd8 6. Bd3 Qc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Introduction"]
+[Result "*"]
+[FEN "4k3/5ppp/pp1pp3/8/2P1P3/8/PP3PPP/4K3 w - - 0 1"]
+[SetUp "1"]
+
+{ @@HeaderStart@@The Hedgehog@@HeaderEnd@@  The hedgehog structure is characterized by Black's pawns on a6-b6-d6-e6, covering some central squares and preventing White's forces from approaching, like a real hedgehog does! Advancing several adjacent pawns to the 3rd rank would generally be a bad decision. For example, moving kingside pawns to h6-g6-f6-e6 would be a major positional mistake as it creates multiple weaknesses. Here this is not the case, as the natural arrangement of Black's pieces allows for the pawns to be defended rather easily, while keeping a variety of active plans at hand. White generally has a spatial advantage in the hedgehog, and Black's main plan is to break in the centre with ...d6-d5, or sometimes ...b6-b5. White will typically arrange his pieces to prevent such plans, while keeping the game tense and flexible. Now, let's discuss specific lines of action for each side.  White's plans  l. Break on the queenside with c4-c5.  2. Break on the queenside with b4-b5.  3. Break on the queenside with a4-a5.  4. Pressure the d6-pawn, but only after some pieces have been traded.  Black's plans  l. Break in the centre with ...d6-d5.  2. Break on the queenside with ...b6-b5.  3. Create a kingside attack with ...Kh8, ...Rg8 and ...g7-g5-g4. Or maybe with ...h7-h5-h4-h3.  4. Prepare all the plans above without actually executing any of them until the right opportunity comes.  White's Plans 1 -3 are often based on arranging pieces actively to subsequently open up the queenside. Such action often gives White a big advantage because Black's pieces are not as active due to their limited space. The most common of these breaks is c4-c5, which typically opens the b- and c-files. White's fourth plan is not as easy to implement because the d6-pawn is not always vulnerable. Black will usually have a bishop on e7  (or c7)  which easily protects this pawn from the attack of rooks down the d-file. In addition, the breaks ...b6-b5 and ...d6-d5 are powerful, drawing attention away from this small vulnerability. However, after some pieces are traded, Black's chances of counterplay lose strength, giving more importance to a vulnerable d6-pawn.  If White's bishop is on the f1-a6 diagonal, Black's first plan is the most important. This plan is so strong that White players will devote a great deal of energy to fight against it. In most cases, White will be able to prevent this break, and Black will need a new plan to create counterplay. A popular option is to create kingside threats with the third plan. This plan often yields double-edged positions where a single slip can be very costly for either side. As we will learn in this chapter, if White cannot fight this plan with a queenside reaction, then Black's kingside play will give him an excellent position.  If White's bishop is on g2, then the ...d6-d5 break is much more difficult to carry out, but then Black's second plan  (the ...b6-b5 break)  gains strength. As long as White does not have a bishop on the fl-a6 diagonal, this break is likely to work well. Something to notice is that if White has played g2-g3 and Bg2, then Black's plan of ...Rg8 and ...g7-g5-g4 does not really hit anything, hence it should not be attempted at all.  Finally, something to mention about Black's position is its flexibility. Often White will find ways to prevent or undermine Black's attempts for counterplay. In such cases, Black can often just wait and attempt new plans without damaging his position. In many cases it is better for Black to continue preparing his plans, or to start a new plan than to execute a plan under unfavourable circumstances; this is the essence of the fourth plan.  As the reader may have noticed from the discussion above, a key factor in the hedgehog is whether White's bishop is developed on g2 or stays on the fl -a6 diagonal. We will focus on the latter as I believe it resembles more closely the spirit of the hedgehog structure. The first four games in this chapter will illustrate White's four plans in numeric order. The fifth example will illustrate Black's ...d6-d5 break, while the remaining examples will illustrate what Black may do if this break is not possible. Games 6 and 7 are examples of the ...Rg8 and ...g7-g5-g4 plan; the eighth game is an example of the ...b6-b5 break, while the last game is a fragment illustrating Black's fourth plan - the ability to wait for an opportunity without damaging his position. } 1. -- *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Kasparov - Kramnik"]
+[Result "*"]
+[FEN "bq1rr1k1/2b2pp1/pp1ppnnp/8/PPPNP3/3N1P2/2R1B1PP/1RQ3BK w - - 0 1"]
+[SetUp "1"]
+
+{ The position in this diagram is from the game Kasparov - Kramnik, Botvinnik Memorial 2001. We use this diagram as a starting point to discuss the key strategic elements in this position, from White's perspective:  Piece arrangement  1. White's rooks should be placed on the b- and c-files, ready for any queenside break.  2. The queen should be placed on c1 protecting the rook on b1 from the potential X-ray attack by the queen on b8.  3. The bishop on g1 is needed against the battery ...Qb8 and ...Bc7, attacking h2.  4. The knights on d4 and d3  (or a4)  ideally support White's centre.  Possible breaks  1. White can attempt to break on the queenside with a4-a5, b4-b5 or c4-c5. Any of these would prove effective given White's ideal piece arrangement.  2. Black does not have effective central breaks. The break ...b6-b5 obviously loses a pawn, while the break ...d6-d5 is immediately punished by the typical exd5, followed by c4-c5 with a strong positional advantage. This response should be remembered and will be discussed later in the chapter. } 1. -- *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Roeland Pruijssers vs. Gyula Izsak"]
+[Result "*"]
+
+{ @@HeaderStart@@Roeland Pruijssers – Gyula Izsak, Germany 2012@@HeaderEnd@@  Learning objective:  This game illustrates the strength in White’s c4-c5 break and the subsequent queenside attack. } 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. a3 b6 8. Be3 Bb7 9. f3 d6 10. Be2 Be7 11. Rc1 O-O 12. O-O Nbd7 13. b4 Rac8 14. Kh1 Rfe8 15. Qd2 Qb8 16. Rfd1 { So far both sides are following the typical moves of a hedgehog position. Black’s forces are arranged to prepare ...d6-d5, while White is ready to prevent it with his rooks on the c- and d-files. } 16... Ne5 17. Na4 Ba8 { Protecting b6. } 18. Bf1 Nfd7 19. Rc2 Bd8 20. Bg1 Bc7 21. Rb1 { As the reader may notice, the piece arrangement resembles very closely the previous example. } 21... Bb7 { The c4-c5 break would be imminent after the preparatory move Qc1, but this makes things much easier for White.    The break  21...d5 ?  hangs the a6-pawn for no compensation after:  22.cxd5  exd5  23.Bxa6  Rcd8  24.Qc3 !  Qa7  25.Bb5  +-   Instead, Black could have tried  21...Kh8 !?  followed by  ...Rg8  and ...g7-g5;  22.Qc1 !  Defending the rook on  b1  and preparing c4-c5   White is not ready to break with  22.c5 ?  bxc5  23.Bxa6   23.bxc5 ??  Qxb1  -+  23...cxd4  24.Bxc8  Rxc8  25.Qxd4  when chances are roughly equal  22...Bd8  23.c5 !  b5  24.Nb2  d5   24...dxc5  25.bxc5  Nc6  26.Nxc6  Bxc6  27.Nc4 !  ± followed by a3-a4 pressuring the b5-pawn  25.exd5  Bxd5  26.a4  += White’s position is preferable because of the vulnerable a6- and b5-pawns. } 22. c5 { White achieves the thematic c4-c5 break under excellent conditions. Notice how powerful the bishops on f1 and g1 become. } 22... b5 { Hoping to keep the game closed.   Preventing c5-c6 with  22...Qa8  is met by:  23.cxb6  Bxb6  24.Nxb6  Nxb6  25.Nxe6 !  Rxe6  26.Bxb6  ±   Also, opening up the position with  22...dxc5  23.bxc5  bxc5   23...b5 ?  24.c6 !  +-  24.Nxe6 !  Rxe6  25.Rcb2  Rd6  26.Qe3  Qa8  27.Rxb7  ± gives White a big advantage due to the weak a6- and c5-pawns. } 23. c6 { This typical intermediate move must be remembered, as it creates permanent weaknesses in Black’s camp.   Instead  23.Nb2 ?!  gives away part of the advantage after  23...Nc6 !  24.a4  Nxd4  25.Bxd4  dxc5  26.bxc5  Bxh2  27.axb5  axb5  28.Bxb5  += when White is slightly better but the position is complicated. } 23... bxa4 24. cxd7 { Even stronger is  24.b5 !!  which is analyzed separately after this game. } 24... Nxd7 25. Nc6 Bxc6 { But not:  25...Qa8 ?  26.Na7 !  +- } 26. Rxc6 { This is one of White’s dream positions in the hedgehog. The a6- and a4-pawns are nearly lost while Black cannot easily organize any counterplay. } 26... Qb7 { Aiming to trap the rook for two pieces, but this does not help.   More stubborn was  26...Bb6  27.Qxd6  Bxg1  28.Kxg1  Qa7+  29.Kh1  Nb8 !  protecting the a6-pawn, though after  30.Rxc8  Rxc8  31.Rc1 !  ± White still has a big advantage. } 27. Rbc1 Nc5 28. Rxc7 Rxc7 29. bxc5 dxc5 30. Bc4 { 30.Qa5 !?  is strong too.  A rook and two weak pawns are no opponent for White’s strong bishops, and Black resigned on move 57.  Final remarks  1. After the break 22.c5 ! essentially every tactical variation favours White due to his ideal piece arrangement.  2. It is worth noticing how well White’s bishops work from g1 and f1. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Pruijssers vs. Izsak #1"]
+[Result "*"]
+[FEN "1qr1r1k1/1bbn1ppp/pp1pp3/4n3/NPPNP3/P4P2/2RQ2PP/1R3BBK w - - 0 1"]
+[SetUp "1"]
+
+1. c5 { White achieves the thematic c4-c5 break under excellent conditions. Notice how powerful the bishops on f1 and g1 become.  Preventing c5-c6 with } 1... Qa8 2. cxb6 { is met by: } 2... Bxb6 3. Nxb6 Nxb6 4. Nxe6 Rxe6 5. Bxb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Pruijssers vs. Izsak #2"]
+[Result "*"]
+[FEN "1qr1r1k1/1bbn1ppp/pp1pp3/4n3/NPPNP3/P4P2/2RQ2PP/1R3BBK w - - 0 1"]
+[SetUp "1"]
+
+1. c5 { White achieves the thematic c4-c5 break under excellent conditions. Notice how powerful the bishops on f1 and g1 become.  Also, opening up the position with } 1... dxc5 2. bxc5 bxc5 { 23...b5 ?  24.c6 ! } 3. Nxe6 Rxe6 4. Rcb2 Rd6 5. Qe3 Qa8 6. Rxb7 { gives White a big advantage due to the weak a6- and c5-pawns. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Pruijssers vs. Izsak #3"]
+[Result "*"]
+[FEN "1qr1r1k1/1bbn1ppp/p2pp3/1pP1n3/NP1NP3/P4P2/2RQ2PP/1R3BBK w - - 0 1"]
+[SetUp "1"]
+
+1. c6 { This typical intermediate move must be remembered, as it creates permanent weaknesses in Blacks camp. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "The potential strength of White's forces"]
+[Result "*"]
+[FEN "1qr1r1k1/1bbn1ppp/p1Ppp3/4n3/pP1NP3/P4P2/2RQ2PP/1R3BBK w - - 0 1"]
+[SetUp "1"]
+
+{ The previous example was a very convincing win for White, but on White’s 24th move a wonderful thematic blow was missed. The strongest continuation was: } 1. b5 { Opening lines and unleashing the full potential of White’s forces. Black is desperate as the following variations illustrate. } 1... Ba8 { Or  24...Nc5  25.bxa6  Nb3  hoping to block the b-file, but White is ready to sacrifice his queen with:  26.cxb7 !  Nxd2  27.Rxd2  +- Now the a6- and b7-pawns together with the bishops on  f1  and  g1  are far stronger than a queen. } 2. cxd7 Nxd7 { Material is balanced, but White’s coordination is so strong that the game is decided on the spot after: } 3. Nc6 Qb7 { 26...Bxc6  is refuted by:  27.bxc6 !  Qxb1  28.cxd7  Qxf1  29.Rxc7 !  +- } 4. Qc1 { Threatening bxa6 trapping the queen. } 4... a5 { 27...axb5  loses to  28.Na7 !  h6  29.Nxc8  Rxc8  30.Rxb5  Nb6  31.Bxb6.   27...Bd8  offers no relief after:  28.Nxd8  Rexd8  29.bxa6  Rxc2  30.axb7  Rxc1  31.bxa8  =Q  Rxa8  32.Rxc1  +- } 5. b6 { Forcing the opening of lines and making the most of White’s ideally placed rooks and bishops. } 5... Bd8 { 28...Bxb6  is bad because of:  29.Ne7+ !  +-   Also  28...Nxb6  loses after:  29.Nxa5  Qb8   or  29...Qa7  30.Bxb6  +-  30.Ba6  +- } 6. Nxa5 { White is easily winning, and the game could finish after: } 6... Rxc2 7. Qxc2 Qb8 8. Qxa4 Nf6 9. b7 Bxa5 10. Qxa5 Bxb7 11. Ba6 { Winning the bishop, since White is mating after: } 11... Re7 12. Bxb7 Rxb7 13. Rxb7 Qxb7 14. Qd8+ { From the analysis of this position we learn about the destructive power of White’s forces after the queenside has been opened. It is essential to observe how, after this break, White’s rooks on b1 and c2, and bishops on f1 and g1, perform to the very best of their capacity. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "The potential strength of White's forces #1"]
+[Result "*"]
+[FEN "1qr1r1k1/1bbn1ppp/p1Ppp3/4n3/pP1NP3/P4P2/2RQ2PP/1R3BBK w - - 0 1"]
+[SetUp "1"]
+
+{ The previous example was a very convincing win for White, but on White's 24th move a wonderful thematic blow was missed. The strongest continuation was: } 1. b5 { Opening lines and unleashing the full potential of White's forces. Black is desperate as the following variations illustrate. } 1... Nc5 2. bxa6 Nb3 { Hoping to block the b-file, but White is ready to sacrifice his queen with: } 3. cxb7 Nxd2 4. Rxd2 { Now the a6- and b7-pawns together with the bishops on f1 and g1 are far stronger than a queen. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "The potential strength of White's forces #2"]
+[Result "*"]
+[FEN "bqr1r1k1/2bn1ppp/p2pp3/1P6/p2NP3/P4P2/2RQ2PP/1R3BBK w - - 0 1"]
+[SetUp "1"]
+
+1. Nc6 Bxc6 2. bxc6 Qxb1 3. cxd7 Qxf1 4. Rxc7 { And White wins. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "The potential strength of White's forces #3"]
+[Result "*"]
+[FEN "bqr1r1k1/2bn1ppp/p2pp3/1P6/p2NP3/P4P2/2RQ2PP/1R3BBK w - - 0 1"]
+[SetUp "1"]
+
+1. Nc6 Qb7 { 26...Bxc6  is refuted by:  27.bxc6 !  Qxb1  28.cxd7  Qxf1  29.Rxc7 !  +- } 2. Qc1 { Threatening bxa6 trapping the queen. } 2... a5 { 27...axb5  loses to  28.Na7 !  h6  29.Nxc8  Rxc8  30.Rxb5  Nb6  31.Bxb6.   27...Bd8  offers no relief after:  28.Nxd8  Rexd8  29.bxa6  Rxc2  30.axb7  Rxc1  31.bxa8  =Q  Rxa8  32.Rxc1  +- } 3. b6 { Forcing the opening of lines and making the most of Whites ideally placed rooks and bishops. } 3... Bd8 { 28...Bxb6  is bad because of:  29.Ne7 !  +-   Also  28...Nxb6  loses after:  29.Nxa5  Qb8   or  29...Qa7  30.Bxb6  +-  30.Ba6  +- } 4. Nxa5 { White is easily winning. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Mauricio Flores Rios vs. Hovik Hayrapetian"]
+[Result "*"]
+
+{ @@HeaderStart@@Mauricio Flores Rios – Hovik Hayrapetian, Sant Marti 2013@@HeaderEnd@@  Learning objective:  The b4-b5 break is often underestimated by many strong players due to its anti-positional appearance. This game serves as an example to prove that the benefits of this break often outweigh its disadvantages. } 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. a3 b6 8. Be3 Bb7 9. f3 Be7 { Black delays pushing ...d7-d6 in order to keep open the possibility of ...Bd6 attacking the h2-pawn.   The try  9...Bd6 ?  threatening the h2-pawn and provoking the anti-positional g2-g3, runs into the thematic refutation  10.Ndb5 !  axb5  11.Nxb5  when White regains the piece with a crushing attack. For example:  11...Bg3+   or  11...Qc6  12.Qxd6  Na6  13.Rd1  +- followed by  Bxb6  12.hxg3  Qxg3+  13.Bf2  Qf4  14.Qd6 !  +- } 10. Rc1 O-O 11. Be2 d6 { Once again  11...Bd6 ?  runs into  12.Ndb5 !  axb5  13.Nxb5  Bg3+  14.hxg3  Qxg3+  15.Kf1  when Black is lost due to the threats of  Bxb6  and  Rh3.  For example,  15...Ra6  16.Rh3  Qe5  17.Qd2  followed by  Bf4  or  Bd4  trapping the queen.   There is no benefit in delaying castling with  11...Rd8  as after:  12.O-O  Bd6 ?!  13.Kh1 !   but not  13.Ndb5 ?  axb5  14.Nxb5  Bxh2+  15.Kh1  Qg3  -+  The h2-pawn is immune. For example:  13...Bxh2 ?  14.f4  Now Black’s bishop will be trapped:  14...Bg3  15.e5  Ne4  16.Nxe4  Bxe4  17.Bf3  Qb7  18.Qc2 !  Bxf3  19.Rxf3  Bh4  20.Rh3  +- } 12. O-O Nbd7 13. b4 Rac8 14. Kh1 Qb8 { If  14...Ne5  15.Qd2  the c4-pawn is untouchable since after  15...Nxc4 ??  16.Bxc4  Qxc4  17.Na4 !  the queen is trapped. } 15. Qd2 Bd8 16. Rc2 { Once again White follows the piece arrangement of the previous two examples. } 16... Bc7 17. Bg1 { Protecting h2.   The alternative  17.b5 !?  is analyzed separately after this game. } 17... Rfe8 { The premature  17...d5 ?  loses material due to the weakness of the a6-pawn, say after:  18.cxd5  Bf4  19.Qd1  exd5  20.Nxd5  Nxd5  21.exd5  Rxc2  22.Qxc2  Bxd5   or  22...Nf6  23.Nc6 !  ±  23.Bxa6  ± } 18. Na4 Ne5 { We should also check:  18...d5 ?!  But this break is still premature:  19.exd5  Bf4   Or  19...exd5  20.c5 !  b5  21.c6 !  bxa4  22.cxb7  Qxb7  23.Rfc1  += with a positional edge due to the weakened queenside and White’s excellent piece coordination.  20.Qd1  exd5  21.c5 !  This thematic break must be remembered.  21...b5   Or  21...bxc5  22.bxc5  ± when White’s passed c5-pawn and his knight on  d4  reduce Black’s chances of counterplay.  22.Nb2   Or the typical:  22.c6 !?  bxa4  23.cxb7  Qxb7  24.Rxc8  Qxc8  25.Qxa4  ±  22...Ne5   22...Nf8  23.a4  ±  Typically  ...Ne5-c4  gives counterplay, but here the f4-bishop is misplaced after:  23.g3 !  Bh6  24.Nf5  ± followed by  Nxh6  ruining Black’s queenside. } 19. Rfc1 { I wanted to double rooks on the c-file reinforcing the c4-c5 break, especially since Black has lost protection of the c5-square by playing ...Nd7-e5.   More usual is  19.Rb1  but I was somewhat afraid of  19...Nxe4  20.fxe4  Bxe4  , though White is just better after:  21.Rf1  Bxc2  22.Qxc2  += } 19... Nc6 { The break  19...d5 !?  is tempting, since the standard reply  20.exd5 ?  exd5  21.c5   or  21.cxd5  Nxd5 =  does not work well after  21...Nc4  !. This is the key.  22.Bxc4  Bf4 !  23.Qd1  bxc5  24.bxc5  Bxc1  25.Qxc1  dxc4  With a complex position.   However  19...d5  can be met by the strong  20.c5 !  This creates a dangerous passed pawn, and after  20...b5   20...dxe4 ?!  is not as strong as it seems after  21.cxb6  Bd6   or  21...exf3  22.Bxf3  ±  22.Rxc8  Rxc8  23.Rxc8+  Bxc8  24.fxe4  Nxe4  25.Qc2  ± when White’s b6-pawn is a dangerous weapon  21.c6 !  bxa4  22.cxb7  Qxb7  23.b5 !  += White has a strong queenside initiative. } 20. Nxc6 Bxc6 21. b5 { Black will have to give up material: } 21... Ba8 { The only reasonable defence.    Opening the c-file with  21...axb5  22.cxb5  only helps White after:  22...Ba8   22...Bd7  23.Qd4  +- or  22...Bb7  23.Nxb6  Bxb6  24.Bxb6  Rxc2  25.Rxc2  Bxe4  26.Bc7 !  +-  23.Nxb6 !  Winning a decisive pawn.   After  21...Bd7  22.Qd4  the b6-pawn is lost.   Also  21...Bb7  22.bxa6  Bxa6  runs into the nice  23.c5 !  winning material:  23...b5   or  23...Bxe2  24.cxb6  +-  24.cxd6   or  24.c6 !?  +-  24...Bxd6  25.Nc5  Bf4  26.Be3  Bxe3  27.Qxe3  Qb6  28.Qb3 !  Winning the b5-pawn and the game. } 22. bxa6 { White is threatening Rb1 followed by Nxb6. } 22... Nd7 23. Rb1 Qa7 24. Nc3 { If  24.Rcb2  Qxa6  25.Nxb6 ?!   25.Nc3 !?  is similar to the game  25...Nxb6  26.Bxb6  Bxb6  27.Rxb6  Qxa3  28.Rxd6  ± the lack of dark-squared bishops makes it harder for White to utilize his advantage. } 24... Nc5 25. Nb5 Qxa6 26. Nxc7 { Even stronger was  26.Rcb2 !  Qb7   or  26...Bb8  27.Nxd6  Red8  28.Rxb6  Qxa3  29.Nxc8 !  Rxd2  30.Rxb8  h5  31.Nb6+  Kh7  32.Rxa8  +-  27.Nxd6  Bxd6  28.Qxd6  when the b6-pawn is soon lost. } 26... Rxc7 27. Qxd6 Rc6 28. Qd2 { White has an extra pawn for no compensation. The game remains interesting since the b6-pawn is often sufficient to stop White’s a- and c-pawns; this is a technical difficulty to overcome. Notice how the presence of White’s dark-squared bishop plays a key role in converting the advantage. } 28... f5 { But not  28...Qxa3 ?  29.Ra2  when the queen is trapped. } 29. e5 { Keeping lines closed. } 29... Qa7 30. Rd1 { Gaining control of the d-file. } 30... Qc7 { The a3-pawn is immune:  30...Qxa3 ?  allows  31.Ra2  Qb3  32.Rda1 !  attacking the a8-bishop:  32...Bb7  33.Rb2  and the queen is trapped. } 31. Qd4 { A more precise winning method was  31.Qc3 !?  Rd8  32.Rcd2  Rxd2  33.Qxd2  controlling the d-file and hoping to progress with a4-a5. } 31... Bb7 32. Rcd2 Bc8 { 32...Nb3 ?  does not work due to:  33.Qd7 !  Qxd7   33...Nxd2 ??  34.Qxe8#  34.Rxd7  +- } 33. Qh4 h6 { The e5-pawn is untouchable:  33...Qxe5 ?  34.Rd8  Rxd8  35.Rxd8+  Kf7  36.Bd4 !  The key move.  36...Qxe2  37.Qh5+  Ke7  38.Qg5+  Kf7  39.Qxg7# } 34. Qf4 g5 35. Qe3 Nb7 36. Qc3 { I finally came to realize that advancing my queenside pawns would be the only way to make progress. } 36... Re7 37. a4 Nc5 38. Rd6 Nxa4 { 38...Rd7  does not help because of:  39.Qb4  Rcxd6  40.Rxd6  Rxd6  41.exd6  Qxd6  42.a5 !  +- } 39. Qb4 Nc5 40. Rxc6 Qxc6 41. Rd6 Qc7 42. Rxb6 { White has finally achieved the trade of queenside pawns, obtaining a decisive passed pawn on c4. } 42... Nb7 43. c5 Qxe5 44. Ba6 Rd7 { Black is also lost after  44...Qc7  45.c6  Nd6  46.Bc5  Bxa6  47.Rxa6. } 45. Bxb7 { Simpler was:  45.c6 !  Rd1  46.cxb7  Qe3  47.bxc8=Q+  Kh7  48.Qe7+  Kg6  49.Qce8# } 45... Rd1 46. Rd6 Ra1 47. Qd4 Rxg1+ { The last trick.   White wins a piece after:  47...Qxd4  48.Rxd4  Bxb7  49.Rd8+  Kh7  50.Rd7+  Kg6  51.Rxb7  +- } 48. Qxg1 { Certainly not  48.Kxg1 ??  Qe1#.   Black resigned in view of  48...Bb7  49.Rd8  Kg7  50.Rd7  winning the bishop on  b7.  Final remarks  1. The b4-b5 break should not be disregarded despite its anti-positional look. It is true that White gives up control of the c5-square and weakens his a3- and c4-pawns, but these factors did not make much of a difference in this game. On the other hand, the sudden weakness of the b6- and d6-pawns forced Black to give up a pawn.  2. After White had an extra pawn, it was still a little difficult to impose his superiority, as the a3- and c4-pawns were disconnected. Nevertheless, the plan a3-a4-a5 should work well in most cases, especially if White has a dark-squared bishop applying pressure down the g1-a7 diagonal.  3. The variation 18...d5, in which White replies with the thematic 19.exd5 followed by 20.c5, should be carefully examined. This idea presents itself many times in hedgehog positions, and deserves a close study. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Flores Rios vs. Hayrapetian #1"]
+[Result "*"]
+[FEN "rn2kb1r/1bqp1ppp/pp2pn2/8/2PNP3/P1N1BP2/1P4PP/R2QKB1R b KQkq - 0 1"]
+[SetUp "1"]
+
+{ The try } 1... Bd6 2. Ndb5 axb5 { threatening the h2-pawn and provoking the anti-positional g2-g3, runs into the thematic refutation } 3. Nxb5 Bg3+ 4. hxg3 { when White regains the piece with a crushing attack. For example: } 4... Qxg3+ { 11...Qc6  12.Qxd6  Na6  13.Rd1  +-  Followed by Bxb6. } 5. Bf2 Qf4 6. Qd6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Flores Rios vs. Hayrapetian #2"]
+[Result "*"]
+[FEN "2r2rk1/1bqnbppp/pp1ppn2/8/1PPNP3/P1N1BP2/4B1PP/2RQ1R1K b - - 0 1"]
+[SetUp "1"]
+
+1... Ne5 2. Qd2 { The c4-pawn is untouchable since after } 2... Nxc4 3. Bxc4 Qxc4 4. Na4 { the queen is trapped. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Flores Rios vs. Hayrapetian #3"]
+[Result "*"]
+[FEN "1qr1r1k1/1bbn1ppp/pp1ppn2/8/NPPNP3/P4P2/2RQB1PP/5RBK b - - 0 1"]
+[SetUp "1"]
+
+1... d5 { This break is still premature: } 2. exd5 Bf4 { 19...exd5  20.c5 !  b5  21.c6 !  bxa4  22.cxb7  Qxb7  23.Rfc1  +=  with a positional edge due to the weakened queenside and Whites excellent piece coordination. } 3. Qd1 exd5 4. c5 { This thematic break must be remembered. } 4... b5 { 21...bxc5  22.bxc5  ±  Whites passed c5-pawn and his knight on d4 reduce Blacks chances of counterplay. } 5. Nb2 { 22.c6 !?  bxa4  23.cxb7  Qxb7  24.Rxc8  Qxc8  25.Qxa4  ± } 5... Ne5 { Typically ...Ne5-c4 gives counterplay, but here the f4-bishop is misplaced after:   22...Nf8  23.a4  ± } 6. g3 Bh6 7. Nf5 { followed by Nxh6 ruining Blacks queenside. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Flores Rios vs. Hayrapetian #4"]
+[Result "*"]
+[FEN "1qr1r1k1/1bb2ppp/pp2pn2/3pn3/NPPNP3/P4P2/2RQB1PP/2R3BK w - - 0 1"]
+[SetUp "1"]
+
+1. c5 { This creates a dangerous passed pawn, and after } 1... b5 { 20...dxe4 ?!  is not as strong as it seems after  21.cxb6  Bd6   21...exf3  22.Bxf3  ±  22.Rxc8  Rxc8  23.Rxc8+  Bxc8  24.fxe4  Nxe4  25.Qc2  ±  when White's b6-pawn is a dangerous weapon. } 2. c6 bxa4 3. cxb7 Qxb7 4. b5 { White has a strong queenside initiative. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Flores Rios vs. Hayrapetian #5"]
+[Result "*"]
+[FEN "1qr1r1k1/1bb2ppp/pp1ppn2/4n3/NPPNP3/P4P2/2RQB1PP/2R3BK b - - 0 1"]
+[SetUp "1"]
+
+1... Nc6 2. Nxc6 Bxc6 3. b5 { I was already writing this chapter when this game took place, and I was happy to find an example of this powerful break in my own practice. Many players unconsciously disregard it in their calculations, as it has a rather anti-positional appearance. Nevertheless, this is a perfect opportunity to execute this break as the b6- and d6-pawns will become vulnerable rather quickly. Black will have to give up material: } 3... Bb7 4. bxa6 Bxa6 { This runs into the nice } 5. c5 b5 { 23...Bxe2  24.cxb6 } 6. cxd6 Bxd6 7. Nc5 Bf4 8. Be3 Bxe3 9. Qxe3 Qb6 10. Qb3 { Winning the b5-pawn and the game. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Another Example of the b4-b5 break"]
+[Result "*"]
+[FEN "1qr2rk1/1bbn1ppp/pp1ppn2/8/1PPNP3/P1N1BP2/2RQB1PP/5R1K w - - 0 1"]
+[SetUp "1"]
+
+{ Although I managed to win the previous game by executing the b4-b5 break, I did not even consider it until conditions were far too favourable to ignore it. However, this break already deserves consideration in this position.  Let’s examine how the game could have continued after: } 1. b5 Bd8 { The best defence, covering the c6-square.   Occupying the weakened c5-square with  17...Nc5 ?  actually worsens Black’s position after  18.bxa6  Nxa6   but not  18...Bxa6 ?  19.Nc6  Qb7  20.Ne7+  +-  19.Ndb5  when the d6-pawn is far too vulnerable. A possible continuation is:  19...Bc6   but not  19...Rfd8 ?  20.Nxc7  Qxc7  21.Nb5  and the b6-pawn is lost  20.Bg5 !  Nc5   20...Nd7 ?  21.Be7  +-  21.Rd1  Rcd8  22.Bxf6  gxf6  23.Qh6  Winning the f6-pawn and the game.   Closing the position with  17...a5  does not help due to:  18.Nc6 !  This forces the opening of lines, and after  18...Bxc6  19.bxc6  Ne5  20.Nb5  Nxc6  21.Rb2  Nd7  22.Nxc7  Qxc7  23.Rd1  += White regains the pawn, while the b6-pawn is clearly weaker than White’s c4-pawn.   The option  17...Qa8  18.bxa6  Bxa6  19.Ndb5  += is similar to the main line. } 2. bxa6 Bxa6 3. Ndb5 Ne8 4. Rb1 Nc5 5. Rcb2 { A possible continuation is: } 5... Bf6 6. Rb4 h6 7. Nd4 Nd7 8. Na4 Bd8 9. Nc2 { Black is under severe pressure, and is bound to commit a mistake sooner or later. } 9... Rc6 { A subtle imprecision.   Probably better was  25...Qa8  keeping an inferior but solid position, since the immediate  26.Nxb6  Nxb6  27.Bxb6  Bxb6  28.Rxb6  Bxc4  does not offer much to White. } 10. e5 { Transforming the pawn structure, and allowing White to convert his advantage into a more concrete form. } 10... Nxe5 { Other moves do not help.   A waiting move, such as  26...Kh8  , is met by  27.f4 !  ± followed by  Bf3  , when both the b6- and d6-pawns are likely to fall. } 11. Nxb6 Bxb6 12. Rxb6 Qc8 13. Rxc6 Qxc6 14. Nb4 Qa8 15. Nxa6 Qxa6 16. Rb3 { The most precise, protecting the a3-pawn while preparing c4-c5. } 16... Nf6 { 32...Nxc4 ?  loses to  33.Rc3 !  d5   or  33...Nxd2  34.Bxa6  Nb1  35.Rb3  +-  34.Bxc4  dxc4  35.Bc5 } 17. c5 Qa4 18. Qb4 Qxb4 19. axb4 dxc5 20. Bxc5 { White has excellent winning chances due to his pair of bishops in an open position and his remote passed pawn. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Another Example of the b4-b5 break #1"]
+[Result "*"]
+[FEN "1q1bnrk1/3n1pp1/bprpp2p/8/NRP1P3/P3BP2/2NQB1PP/1R5K w - - 6 1"]
+[SetUp "1"]
+
+1. e5 { Transforming the pawn structure, and allowing White to convert his advantage into a more concrete form. } 1... Nxe5 { Other moves do not help.   A waiting move, such as  26...Kh8  , is met by  27.f4 !  ± followed by  Bf3  , when both the b6- and d6-pawns are likely to fall. } 2. Nxb6 Bxb6 3. Rxb6 Qc8 4. Rxc6 Qxc6 5. Nb4 Qa8 6. Nxa6 Qxa6 7. Rb3 { The most precise, protecting the a3-pawn while preparing c4-c5. } 7... Nf6 { 32...Nxc4 ?  loses to  33.Rc3 !  d5   or  33...Nxd2  34.Bxa6  Nb1  35.Rb3  +-  34.Bxc4  dxc4  35.Bc5 } 8. c5 Qa4 9. Qb4 Qxb4 10. axb4 dxc5 11. Bxc5 { White has excellent winning chances due to his pair of bishops in an open position and his remote passed pawn. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Borki Predojevic vs. Dejan Nestorovic"]
+[Result "*"]
+
+{ @@HeaderStart@@Borki Predojevic – Dejan Nestorovic, Sarajevo 2013@@HeaderEnd@@  Learning objective:  This game illustrates White’s queenside break a4-a5 and the subsequent pressure on Black’s a6- and d6-pawns. } 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Be2 { Note how White does not bother to prevent ...Bb4 with a2-a3.  His idea will be to later push a2-a4 directly, with the idea of achieving the break a4-a5. } 7... b6 { Another option was  7...Bb4 !?  and a possible continuation is  8.O-O  Bxc3  9.bxc3  Nxe4  10.Bf3  Nc5  11.Nb3  where White is slightly better, since  11...Nxb3 ?  as in the game Bologan – Paragua, Tripoli 2004, could be met by  12.axb3 !  with a decisive positional advantage, for example:  12...O-O  13.Ba3  Re8  14.Bd6  +- } 8. Be3 Bb7 9. f3 d6 { An imprecise move order, allowing White to quickly develop a queenside initiative.   Better was:  9...Be7 !  10.O-O   now  10.a4 ?!  is not as good since Black controls the b4-square:  10...Nc6  11.Nxc6  Bxc6  12.O-O  O-O =  10...O-O  11.Rc1  d6  White’s plan of a2-a4-a5 is now delayed since the rook is no longer on  a1. } 10. a4 { The beginning of White’s plan. } 10... Be7 { Preventing a4-a5 with  10...a5 ?  is generally a bad idea since the weakening of the b5-square is far more serious. In this case, after  11.Ndb5  Qc6  12.Qd4  Nbd7  13.Rd1  the d6-pawn is lost. } 11. a5 { Achieving the a4-a5 break at an early stage, thanks to Black’s imprecise opening. } 11... bxa5 { If  11...Nbd7  12.Nb3  O-O  13.axb6  Nxb6  14.Na5  Rab8  15.O-O  Ba8  16.Bd4  += White has a pleasant version of the hedgehog, as he can choose between pressuring the a6-pawn or creating a passed pawn with b2-b4-b5. } 12. Qa4+ Nfd7 13. Qxa5 Qxa5 14. Rxa5 O-O 15. Kf2 { By playing a2-a4-a5, White virtually prevents Black from carrying out his typical plans. Now that the queens are off the board, this is even more the case. So Black must defend passively and hope for a draw. } 15... Rc8 16. Rc1 { Instead  16.Rd1 !?  deserves attention, because after b2-b4, the threats b4-b5 and c4-c5 are much stronger if White’s rooks are doubled on the d-file. For example,  16...Ne5  17.b3  Nbd7  when Black manages to hold by temporarily preventing b3-b4. } 16... Nc6 { Making White’s plans easier.   Better was  16...Ne5 !  17.b3  Nbc6  18.Nxc6  Nxc6  19.Ra2  += though White is still better. } 17. Nxc6 Rxc6 18. b4 { Black’s position is unpleasant. He cannot create counterplay, but must be ready to meet potential c4-c5 and b4-b5 breaks. } 18... Bh4+ { The beginning of an incorrect plan. The bishop was best placed on e7.   It was better to play  18...Ne5 !  forcing White to clarify his intentions on the queenside. For example:  19.b5  Rcc8  20.Ra4  Kf8  21.Rca1  axb5  22.Rxa8  Rxa8  23.Rxa8+  Bxa8  24.cxb5  += White has a small advantage due to his remote passed pawn. } 19. g3 Bd8 { A useless move, as White should bring the rook back to  a2  anyway, in order to double rooks on the d-file.  Even after a better move, Black is still struggling. For example:  19...Bf6  20.Ra2  Rb8  21.Rd2  Ne5  22.Na4 !  ± It is important for White to stay flexible, and to continue preparing either b4-b5 or c4-c5 as convenient. } 20. Ra2 Bb6 { Bringing the king into play with  20...Kf8  does not help as after  21.Rd2  Ke7  22.Rcd1 !  Black’s position is suddenly lost due to the threats c4-c5 and b4-b5. For example:  22...Bc7  23.Na4  f6  24.c5  Bc8  25.b5 !  +-   Better was  20...Be7 !  though after  21.Rd1  ± White has a significant advantage as Black wasted too many moves to realize that the bishop belonged on  e7. } 21. Na4 { Conceptually appropriate, but missing a major opportunity.   Much better was  21.Rd1 !  as Black cannot prevent material loss.  21...Bxe3+   or  21...Kf8  22.c5  Bc7  23.Na4  Ke7  24.Rad2  Rd8  25.b5  trapping Black’s rook  22.Kxe3  Kf8  23.c5  Ke7  24.Rad2  a5  25.Rxd6  Rxd6  26.cxd6+  Kd8  27.Rb1  axb4  28.Rxb4  ± With a healthy extra pawn. } 21... Bxe3+ 22. Kxe3 Kf8 { Black’s task is now much easier, but still he cannot hope for more than a draw. } 23. c5 { If  23.Rd1  Ke7  24.Rad2  Nb6  25.Nb2  Rac8  26.f4  += White is better, but improving his position is not straightforward. } 23... dxc5 24. Rac2 { Also sensible was:  24.Nxc5  Nxc5  25.bxc5  Rac8  26.Ra5  += } 24... Rac8 25. b5 { An interesting alternative. Instead of having a passed pawn on the c-file, White wants to have a dangerous passed pawn on the a-file, further away from Black’s king. } 25... Rd6 { The only move.   Instead  25...axb5 ?  loses an exchange:  26.Bxb5  R6c7  27.Bxd7  Rxd7  28.Nb6  +- } 26. e5 Rd5 { Again the only defence.   But not  26...Nxe5 ?  27.Nxc5  Rb8  28.f4  Ng6  29.Nxb7  Rxb7  30.bxa6  when the a-pawn decides the game. } 27. bxa6 Rxe5+ 28. Kf2 Bc6 { Better was:  28...Rxe2+ !  29.Kxe2  Bxa6+  30.Kf2  c4  31.Nb2  Nb6  += It is unclear how White can make progress. } 29. Nxc5 { Black’s position is now lost after the forced sequence: } 29... Rxc5 30. Rxc5 Nxc5 31. Rxc5 Ke7 32. Bb5 { This is the key. } 32... Bxb5 { A very nice pawn endgame results after:  32...Kd6  33.Rxc6+  Rxc6  34.Bxc6  Kxc6  And Black eventually loses after:   35.Ke3  Kb6  36.Kd4  Kxa6  37.Kc5  Kb7  38.Kd6  g5 !  The game is far from over yet.  39.h4 !   The careless variation  39.Ke7  Kc6  40.Kxf7  e5  41.Kf6  loses after  41...g4  !.  39...Kc8  40.hxg5  Kd8  41.Ke5  Ke7  42.g4  Ke8  43.Kf6  Kf8  44.f4  Kg8  45.Ke7  Kg7  And now White must triangulate with:  46.Ke8  Kg8  47.Kd8  Kg7  48.Ke7 !  And only now is White winning after:  48...Kg8  49.Kf6  Kf8  50.f5  exf5  51.gxf5  Kg8  52.Ke7  Kg7  53.f6+  Kg6  54.Kf8  Kxg5  55.Kxf7  +- It is unlikely that Predojevic analyzed this variation, but he could probably foresee he was winning, and would be able to figure out the details as they arose. } 33. Rxc8 Bxa6 34. Rc7+ { The rest of this game is irrelevant to our purposes, though White won the game convincingly.  Final remarks  1. White’s early a2-a4-a5 break was very powerful, and Black should revise his poor opening sequence to avoid such an inferior position.  2. After White achieved the a4-a5 break, Black’s main problem was his lack of counterplay and the vulnerability of the a6- and d6-pawns.  3. White missed a major chance to win by not attacking the d6-pawn directly on move 21. The tactics were favourable and the game could have been decided quickly. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Predojevic vs. Nestorovic #1"]
+[Result "*"]
+[FEN "rnb1kb1r/1pqp1ppp/p3pn2/8/2PNP3/2N5/PP2BPPP/R1BQK2R b KQkq - 4 1"]
+[SetUp "1"]
+
+{ Another option was } 1... Bb4 { and a possible continuation is } 2. O-O Bxc3 3. bxc3 Nxe4 4. Bf3 Nc5 5. Nb3 { where White is slightly better, since } 5... Nxb3 { as in the game Bologan Paragua, Tripoli 2004, could be met by } 6. axb3 { with a decisive positional advantage, for example: } 6... O-O 7. Ba3 Re8 8. Bd6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Predojevic vs. Nestorovic #2"]
+[Result "*"]
+[FEN "rn2kb1r/1bqp1ppp/pp2pn2/8/2PNP3/2N1BP2/PP2B1PP/R2QK2R b KQkq - 0 1"]
+[SetUp "1"]
+
+1... d6 { An imprecise move order, allowing White to quickly develop a queenside initiative.   Better was:  9...Be7 !  10.O-O   now  10.a4 ?!  is not as good since Black controls the b4-square:  10...Nc6  11.Nxc6  Bxc6  12.O-O  O-O =  10...O-O  11.Rc1  d6  White's plan of a2-a4-a5 is now delayed since the rook is no longer on  a1. } 2. a4 { The beginning of White's plan. } 2... Be7 { Preventing a4-a5 with  10...a5 ?  is generally a bad idea since the weakening of the b5-square is far more serious. In this case, after  11.Ndb5  Qc6  12.Qd4  Nbd7  13.Rd1  the d6-pawn is lost. } 3. a5 { Achieving the a4-a5 break at an early stage, thanks to Black's imprecise opening. } 3... bxa5 { If  11...Nbd7  12.Nb3  O-O  13.axb6  Nxb6  14.Na5  Rab8  15.O-O  Ba8  16.Bd4  += White has a pleasant version of the hedgehog, as he can choose between pressuring the a6-pawn or creating a passed pawn with b2-b4-b5. } 4. Qa4+ Nfd7 5. Qxa5 Qxa5 6. Rxa5 O-O 7. Kf2 { By playing a2-a4-a5, White virtually prevents Black from carrying out his typical plans. Now that the queens are off the board, this is even more the case. So Black must defend passively and hope for a draw. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Predojevic vs. Nestorovic #3"]
+[Result "*"]
+[FEN "r2b2k1/1b1n1ppp/p1rpp3/8/1PP1P3/2N1BPP1/R3BK1P/2R5 b - - 2 1"]
+[SetUp "1"]
+
+{ Bringing the king into play with } 1... Kf8 { does not help as after } 2. Rd2 Ke7 3. Rcd1 { Black's position is suddenly lost due to the threats c4-c5 and b4-b5. For example: } 3... Bc7 4. Na4 f6 5. c5 Bc8 6. b5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Predojevic vs. Nestorovic #4"]
+[Result "*"]
+[FEN "r5k1/1b1n1ppp/pbrpp3/8/1PP1P3/2N1BPP1/R3BK1P/2R5 w - - 3 1"]
+[SetUp "1"]
+
+1. Rd1 { Black cannot prevent material loss. } 1... Bxe3+ { 21...Kf8  22.c5  Bc7  23.Na4  Ke7  24.Rad2  Rd8  25.b5  trapping Black's rook. } 2. Kxe3 Kf8 3. c5 Ke7 4. Rad2 a5 5. Rxd6 Rxd6 6. cxd6+ Kd8 7. Rb1 axb4 8. Rxb4 { With a healthy extra pawn. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Predojevic vs. Nestorovic #5"]
+[Result "*"]
+[FEN "2r2k2/1b1n1ppp/p2rp3/1Pp5/N3P3/4KPP1/2R1B2P/2R5 w - - 1 1"]
+[SetUp "1"]
+
+1. e5 Rd5 { Again the only defence.   But not  26...Nxe5 ?  27.Nxc5  Rb8  28.f4  Ng6  29.Nxb7  Rxb7  30.bxa6  when the a-pawn decides the game. } 2. bxa6 Rxe5+ 3. Kf2 Bc6 { Better was:  28...Rxe2 !  29.Kxe2  Bxa6  30.Kf2  c4  31.Nb2  Nb6  += It is unclear how White can make progress. } 4. Nxc5 { Black's position is now lost after the forced sequence: } 4... Rxc5 5. Rxc5 Nxc5 6. Rxc5 Ke7 7. Bb5 { This is the key. } 7... Bxb5 { A very nice pawn endgame results after:  32...Kd6  33.Rxc6  Rxc6  34.Bxc6  Kxc6  And Black eventually loses after:  35.Ke3  Kb6  36.Kd4  Kxa6  37.Kc5  Kb7  38.Kd6  g5 !  The game is far from over yet.  39.h4 !   The careless variation  39.Ke7  Kc6  40.Kxf7  e5  41.Kf6  loses after  41...g4  !.  39...Kc8  40.hxg5  Kd8  41.Ke5  Ke7  42.g4  Ke8  43.Kf6  Kf8  44.f4  Kg8  45.Ke7  Kg7  And now White must triangulate with:  46.Ke8  Kg8  47.Kd8  Kg7  48.Ke7 !  And only now is White winning after:  48...Kg8  49.Kf6  Kf8  50.f5  exf5  51.gxf5  Kg8  52.Ke7  Kg7  53.f6  Kg6  54.Kf8  Kxg5  55.Kxf7  +- It is unlikely that Predojevic analyzed this variation, but he could probably foresee he was winning, and would be able to figure out the details as they arose. } 8. Rxc8 Bxa6 9. Rc7+ { The rest of this game is irrelevant to our purposes, though White won the game convincingly. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "The space disadvantage - and the trading of pieces"]
+[Result "*"]
+
+{ Based on the previous examples, it should be clear that White's spatial advantage plays a significant role in hedgehog positions. Most strategy books teach that we should trade pieces when we have less space. Does this mean Black should trade pieces in the hedgehog? The natural reply would be 'Yes' but reality is not as simple, and in many cases the answer is a forthright 'No'. The reason is that Black's chances of counterplay are mostly based on a ...d6-d5 break, which is unlikely to be helpful unless Black can create serious tactical threats. The trading of two, or even one minor piece, severely undermines the potential threat of a ...d6-d5 break. In other words, having traded some minor pieces would give White a more stable centre, hence a lasting positional advantage. } 1. -- *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Pavel Eljanov vs. Dmitri Jakovenko"]
+[Result "*"]
+
+{ @@HeaderStart@@Pavel Eljanov – Dmitri Jakovenko, FIDE World Cup, Tromsø 2013@@HeaderEnd@@  Learning objectives:  1. The position after 18...Rc8 is an example of White’s advantage in the hedgehog once a couple of minor pieces have been traded.  2. The reader should pay close attention to how Black is unable to push ...d6-d5, and hence must remain passive. } 1. c4 Nf6 2. Nc3 c5 3. g3 e6 4. Nf3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8. Qxd4 O-O 9. Rd1 d6 10. Bg5 Nc6 11. Qd2 Qb8 12. h3 Rd8 13. Rac1 h6 14. Be3 Rd7 15. b3 Qf8 16. Nd4 Nxd4 17. Bxd4 Bxg2 18. Kxg2 Rc8 19. e4 { This move establishes a hedgehog-type position under favourable circumstances, since the ...d6-d5 break is hard to accomplish and unlikely to succeed. } 19... Ne8 { If  19...Qd8  20.Qe2  Qc7  21.f4  Qc6  22.Rd3  a6  23.a4  += Black will hardly achieve a break, while a kingside attack with g3-g4-g5 has a good chance to succeed.   The break  19...d5 ?  loses a pawn after  20.exd5  exd5  21.Bxf6  Bxf6  22.Nxd5   Of course  19...e5 ?!  20.Be3  gives a stable advantage to White, and is similar to the game Tiviakov – Anand from the previous chapter. } 20. Qe2 Bf6 21. Be3 { White is in no hurry to make further exchanges, as they are unnecessary. White enjoys some space advantage, while Black no longer has enough material to create serious tactical threats. Unfortunately, this move is tactically imprecise as it gives Black some chances for a ...d6-d5 break.   A safer option was  21.Rd3  Bxd4  22.Rxd4  a6  23.Qe3  Rb7  24.a4  Rbc7  25.Rcd1  += when Black faces problems, in similar style to the game. } 21... Qe7 { The trade  21...Bxc3  22.Rxc3  does not help, as after  22...Qe7   22...d5 ?  is refuted by  23.exd5  exd5  24.Bxh6 !  ± since  24...gxh6 ?  loses to  25.Qg4+  23.Rcd3  += White dominates the board and his bishop is far stronger than Black’s knight. He may proceed with the plans a4-a5 or f4-g4-h4-g5 with a big advantage in either case. } 22. Rd3 { An imprecision which could have allowed Black to free his position.   If  22.f4  Bxc3  23.Rxc3  d5 !  and Black releases his position.   Better though was  22.Rc2  since the try  22...Bxc3  23.Rxc3  d5 ?   or  23...Nf6 !?  24.Bc1  followed by  Rcd3  is now refuted by  24.Rcd3  Nf6  25.exd5  exd5  26.Qf3  when White is simply winning a pawn. } 22... Rdd8 { Missing an opportunity.   A better try was  22...Bxc3  23.Rcxc3  d5 !  as after  24.cxd5  Rxc3  25.Rxc3  exd5  26.exd5  Rxd5  27.Rc8  += White’s advantage is rather small. } 23. Qd2 Qb7 { Threatening ...Bxc3 followed by ...Qxe4.   Now  23...Bxc3  is met by  24.Rdxc3 !  d5  25.cxd5  Rxc3  26.Qxc3  exd5  27.e5 !  += with a structural advantage. } 24. f3 Be5 25. a4 a6 26. Rd1 Bf6 { White’s position is rock solid, and Black has nothing better than waiting.   If  26...Nc7 ?!  attempting  ...b6-b5  , then  27.Bd4 !  highlights the weakness of the d6-pawn:  27...Bxd4  28.Rxd4  And now White is winning a pawn after:  28...b5   or  28...Ne8  29.e5 !  ±  29.cxb5  axb5  30.Rb4  ± } 27. h4 { Advancing on the kingside; White intends to follow up with g4-g5. } 27... Rc6 28. Bd4 { White is now ready to attack on the kingside with g4-g5, therefore he must first remove Black’s bishop from f6.   But not  28.g4 ?!  Bxh4  when things are far from clear. } 28... Bxd4 29. Rxd4 Rdc8 30. g4 Rc5 31. Rd3 { The try  31.g5  is worthy of consideration, but after:  31...Qe7   instead  31...hxg5  32.hxg5  Qe7  33.f4  is very dangerous for Black, for example  33...b5  34.Rh1  bxc4  35.b4 !  R5c7  36.Qe3  Qd7  37.Qh3  Kf8  38.Qh8+  Ke7  39.Qg8 !  followed by  Rh8  with deadly threats  32.f4  g6  The game remains complex. } 31... Qe7 32. Qf2 { Black did not resist the pressure and unnecessarily weakened his position with: } 32... g5 { Better was  32...Qb7 !  though after  33.Qe1 !?  += White keeps all his options open   but not  33.f4 ?  b5 !  ⇆ when Black frees his position } 33. hxg5 hxg5 34. Qd4 { ± Black is now in serious trouble, due to the threat of Rh1. } 34... R8c6 { The try  34...Qf8  would be met by:  35.a5 !  bxa5   35...Rxa5 ?!  36.Qxb6  36.Na4  R5c6  37.e5  dxe5  38.Qxe5  ± } 35. Na2 { Threatening Nb4xa6. } 35... b5 { If  35...a5  the b5-square is weakened and after  36.Nc3  Nc7  37.Nb5  Nxb5  38.axb5  Rc7  39.Rh1  e5  40.Qxd6  the endgame is won for White. } 36. Nb4 Rc8 { Or  36...Rb6  37.cxb5  axb5  38.a5  Rb8  39.Rc3  when the passed pawn and excellent piece coordination should secure a win for White. } 37. Nxa6 bxc4 38. Nxc5 cxd3 39. Nxd3 { The connected passed pawns give White a decisive advantage, which Eljanov converted in convincing fashion: White won.  Final remarks  1. The absence of two minor pieces did not solve Black’s space problem, but it did deprive him of the ...d6-d5 break.  2. The d6-pawn proved a serious weakness throughout the game. Black’s main chance to survive was based on the ...d6-d5 break, which White should not have allowed when he played the imprecise 21.Rd3. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Eljanov vs. Jakovenko #1"]
+[Result "*"]
+[FEN "2r1n1k1/p2rqpp1/1p1ppb1p/8/2P1P3/1PNRB1PP/P3QPK1/2R5 b - - 6 1"]
+[SetUp "1"]
+
+{ A better try was } 1... Bxc3 2. Rdxc3 d5 { as after } 3. cxd5 Rxc3 4. Rxc3 exd5 5. exd5 Rxd5 6. Rc8 { White's advantage is rather small. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Eljanov vs. Jakovenko #2"]
+[Result "*"]
+[FEN "2rrn1k1/1q3pp1/pp1ppb1p/8/P1P1P3/1PNRBPPP/3Q2K1/3R4 w - - 2 1"]
+[SetUp "1"]
+
+1. h4 { Advancing on the kingside; White intends to follow up with g4-g5. } 1... Rc6 2. Bd4 { White is now ready to attack on the kingside with g4-g5, therefore he must first remove Black's bishop from f6.   But not  28.g4 ?!  Bxh4  when things are far from clear. } 2... Bxd4 3. Rxd4 Rdc8 4. g4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Eljanov vs. Jakovenko #3"]
+[Result "*"]
+[FEN "2r1n1k1/4qpp1/pp1pp2p/2r5/P1P1P1PP/1PNR1P2/5QK1/3R4 b - - 4 1"]
+[SetUp "1"]
+
+1... g5 { Better was  32...Qb7 !  though after  33.Qe1 !?  += White keeps all his options open   but not  33.f4 ?  b5 !  ⇆ when Black frees his position } 2. hxg5 hxg5 3. Qd4 { ± Black is now in serious trouble, due to the threat of Rh1. } 3... Qf8 { Would be met by } 4. a5 bxa5 5. Na4 R5c6 6. e5 dxe5 7. Qxe5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Eljanov vs. Jakovenko #4"]
+[Result "*"]
+[FEN "4n1k1/4qp2/pprpp3/2r3p1/P1PQP1P1/1PNR1P2/6K1/3R4 w - - 2 1"]
+[SetUp "1"]
+
+1. Na2 { Threatening Nb4xa6. } 1... b5 { If  35...a5  the b5-square is weakened and after  36.Nc3  Nc7  37.Nb5  Nxb5  38.axb5  Rc7  39.Rh1  e5  40.Qxd6  the endgame is won for White. } 2. Nb4 Rc8 { Or  36...Rb6  37.cxb5  axb5  38.a5  Rb8  39.Rc3  when the passed pawn and excellent piece coordination should secure a win for White. } 3. Nxa6 bxc4 4. Nxc5 cxd3 5. Nxd3 { The connected passed pawns give White a decisive advantage, which Eljanov converted in convincing fashion. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Leinier Dominguez Perez vs. Dmitry Andreikin"]
+[Result "*"]
+
+{ @@HeaderStart@@Leinier Dominguez Perez – Dmitry Andreikin, Capablanca Memorial, Havana 2011@@HeaderEnd@@  Learning objective:  This game illustrates the initiative Black may gain after a well-executed ...d6-d5 central break. } 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd2 Qc7 8. a3 Be7 9. Be3 d6 10. Be2 O-O 11. O-O b6 12. Qd2 Bb7 13. f3 Nbd7 14. Rfc1 Rac8 15. a4 a5 16. Ndb5 Qb8 17. Bf4 Ne5 18. b3 Rfd8 19. Kh1 h5 20. Bf1 h4 21. Qf2 Rc5 22. Be3 { All of Black’s forces are ready for the following break: } 22... d5 { This is both logical and very strong. } 23. exd5 { The optimistic  23.Bxc5 ?  loses after:  23...Bxc5  24.Qxh4   or  24.Qe2  dxe4  25.Nxe4  Bxe4  26.fxe4  Neg4  -+ threatening  h2  and  f2  24...dxe4  25.fxe4  Neg4  With deadly kingside threats, such as after  26.Rc2  g6 !  27.Nd1  Kg7  followed by ...  Rh8  winning on the spot.   The option  23.cxd5  exd5  24.Nxd5  Nxd5  25.exd5  Bxd5  is also good for Black, since  26.Bxc5  Bxc5  27.Qxh4 ?   better is  27.Rxc5 !?  is refuted by  27...Nxf3 !  because the bishop is untouchable due to:  28.gxf3 ?   or  28.Qh3  Ng5  29.Qh4  Ne4  ∓  28...Bxf3+  29.Bg2  Bxg2+  30.Kxg2  Qb7+ !  With forced mate after:  31.Kh3  Qf3+  32.Qg3  Qh5+  33.Kg2  Rd2+ } 23... exd5 24. cxd5 { The alternative  24.Bxc5  Bxc5  25.Qxh4  dxc4  yields a complex position, since the natural  26.bxc4 ?   instead  26.Rd1  gives a dynamic balance  is losing after:  26...Nxf3 !  27.Qg3   or  27.gxf3  Bxf3+  28.Bg2  Bxg2+  29.Kxg2  Rd2+  as suggested by Kritz:  30.Kf1  Qa8  is checkmating  27...Ng4 !  28.Ra2  Qxg3  29.hxg3  Ng5 !  With the deadly threat  ...g6  ,  ...Kg7  ,  ...Rh8# } 24... h3 { Undermining White’s kingside, especially the f3-pawn which will be vulnerable after Black takes on d5. } 25. Rd1 { An alternative was  25.Bxc5  Bxc5  26.Qg3  hxg2+  27.Bxg2  Nh5  28.Qg5  Nd3  29.Rf1  Ndf4 !?  ∞ when Black’s active pieces fully compensate for the exchange. } 25... Nxd5 26. Bxc5 { If  26.Nxd5  Rcxd5  27.Rxd5  Rxd5  the pressure along the a8-h1 diagonal gives Black a big advantage, for example  28.Bxb6  is met by the brilliant:  28...Nxf3 !   or  28...Rd2 !  with a crushing attack  29.gxf3   but not  29.Qxf3 ?  Rxb5  30.Qf2  Rxb6 !  winning a piece, since if  31.Qxb6  Bxg2+  29...Rd2 !  30.Be2   30.Qxd2 ?  Bxf3+  31.Kg1  Qxb6+  32.Nd4  Bc5  -+;  30.Qg3 ?  Bxf3+ !  -+  30...Qf4  Threatening  ...Rxe2  , and after  31.Nc3  Rc2  32.Ne4  Bxe4  33.fxe4  Qxf2  34.Bxf2  Rxe2  White is in a hopeless position. } 26... Bxc5 27. Qg3 { Even though White is an exchange up, it is Black who is playing for the win, as all his pieces became extremely active due to the ...d6-d5 break. } 27... Nxc3 28. Rxd8+ { A mistake leading to a premature end; White miscalculated Black’s powerful threats.   Correct was  28.Nxc3  and after the forced line:  28...hxg2+  29.Bxg2  Bd4  30.f4  Bxg2+  31.Qxg2  Bxc3  32.Rxd8+  Qxd8  33.Rc1  Bb2 !  34.Qxb2  Nd3  35.Qd2  Qa8+  36.Kg1  Nxc1  37.Qxc1  Qd8  Black has a tiny plus in a drawish endgame. } 28... Qxd8 29. Qxe5 { 29.Nxc3 ?  doesn’t help:  29...Qd4 !  when Black is winning due to the threats  ...Qxc3  and ...Qg1#:  30.Be2   or  30.Ne2  Qxa1  -+  30...hxg2+  31.Kxg2  Qxc3  -+ } 29... Nd1 { -+ Threatening ...Nf2+ followed by a discovered check. } 30. Ra2 { 30.Rxd1  Qxd1  31.Qe2  Qxb3  and wins } 30... Ne3 31. Nc3 { 31.Qa1  also fails due to  31...Qd5 !  with deadly threats, such as after:  32.Re2  hxg2+  33.Bxg2  Qxf3 !  34.Bxf3  Bxf3+  35.Kg1  Nc2+  36.Kf1  Bxe2+  37.Kxe2  Nxa1 } 31... Nxf1 32. Re2 Nd2 33. Qg3 hxg2+ 34. Rxg2 g6 { Final remarks  1. The ...d6-d5 break gave Black great dynamic chances as all his pieces became active. Nearly every variation contained brilliant sacrifices and attacking ideas.  2. Black’s plan ...h7-h5-h4-h3 was very strong, and should be considered an integral part of the ...d6-d5 break, as it gives great winning chances to Black. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Dominguez Perez vs. Andreikin #1"]
+[Result "*"]
+[FEN "1q1r2k1/1b2bpp1/1p1ppn2/pNr1n3/P1P1P2p/1PN1BP2/5QPP/R1R2B1K b - - 3 1"]
+[SetUp "1"]
+
+1... d5 { This is both logical and very strong.  The optimistic } 2. Bxc5 Bxc5 { loses after: } 3. Qxh4 { 24.Qe2  dxe4  25.Nxe4  Bxe4  26.fxe4  Neg4  -+  Threatening h2 and f2. } 3... dxe4 4. fxe4 Neg4 { With deadly kingside threats, such as after } 5. Rc2 g6 6. Nd1 Kg7 { followed by ...Rh8 winning on the spot. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Dominguez Perez vs. Andreikin #2"]
+[Result "*"]
+[FEN "1q1r2k1/1b2bpp1/1p3n2/pNrpn3/P1P4p/1PN1BP2/5QPP/R1R2B1K w - - 0 1"]
+[SetUp "1"]
+
+1. Bxc5 Bxc5 2. Qxh4 dxc4 { Yields a complex position, since the natural } 3. bxc4 { is losing after   26.Rd1  would give a dynamic balance instead. } 3... Nxf3 4. Qg3 { 27.gxf3  Bxf3  28.Bg2  Bxg2  29.Kxg2  Rd2  30.Kf1  Qa8  is checkmating. } 4... Ng4 5. Ra2 Qxg3 6. hxg3 Ng5 { With the deadly threat ...g6, ...Kg7, ...Rh8# } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Dominguez Perez vs. Andreikin #3"]
+[Result "*"]
+[FEN "1q1r2k1/1b2bpp1/1p3n2/pNrpn3/P1P4p/1PN1BP2/5QPP/R1R2B1K w - - 0 1"]
+[SetUp "1"]
+
+1. cxd5 { The alternative  24.Bxc5  Bxc5  25.Qxh4  dxc4  yields a complex position, since the natural  26.bxc4 ?   instead  26.Rd1  gives a dynamic balance  is losing after:  26...Nxf3 !  27.Qg3   or  27.gxf3  Bxf3  28.Bg2  Bxg2  29.Kxg2  Rd2  as suggested by Kritz:  30.Kf1  Qa8  is checkmating  27...Ng4 !  28.Ra2  Qxg3  29.hxg3  Ng5 !  With the deadly threat  ...g6  ,  ...Kg7  ,  ...Rh8# } 1... h3 { Undermining White's kingside, especially the f3-pawn which will be vulnerable after Black takes on d5. } 2. Rd1 { An alternative was  25.Bxc5  Bxc5  26.Qg3  hxg2  27.Bxg2  Nh5  28.Qg5  Nd3  29.Rf1  Ndf4 !?  ∞ when Black's active pieces fully compensate for the exchange. } 2... Nxd5 3. Nxd5 Rcxd5 4. Rxd5 Rxd5 { the pressure along the a8-h1 diagonal gives Black a big advantage, for example } 5. Bxb6 { is met by the brilliant: } 5... Nxf3 { Or   28...Rd2 !  with a crushing attack. } 6. gxf3 { 29.Qxf3 ?  Rxb5  30.Qf2  Rxb6 !  winning a piece, because of  31.Qxb6  Bxg2 } 6... Rd2 7. Be2 { 30.Qxd2 ?  Bxf3  31.Kg1  Qxb6  32.Nd4  Bc5  -+ } 7... Qf4 { Threatening Rxe2. } 8. Nc3 Rc2 9. Ne4 Bxe4 10. fxe4 Qxf2 11. Bxf2 Rxe2 { White is in a hopeless position. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Dominguez Perez vs. Andreikin #4"]
+[Result "*"]
+[FEN "1q1r2k1/1b3pp1/1p6/pNb1n3/P7/1Pn2PQp/6PP/R2R1B1K w - - 0 1"]
+[SetUp "1"]
+
+1. Rxd8+ { A mistake leading to a premature end; White miscalculated Black's powerful threats.   Correct was  28.Nxc3  and after the forced line:  28...hxg2  29.Bxg2  Bd4  30.f4  Bxg2  31.Qxg2  Bxc3  32.Rxd8  Qxd8  33.Rc1  Bb2 !  34.Qxb2  Nd3  35.Qd2  Qa8  36.Kg1  Nxc1  37.Qxc1  Qd8  Black has a tiny plus in a drawish endgame. } 1... Qxd8 2. Nxc3 Qd4 { Black is winning due to the threats of Qg1# and Qxc3. } 3. Ne2 Qxa1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Dominguez Perez vs. Andreikin #5"]
+[Result "*"]
+[FEN "3q2k1/1b3pp1/1p6/pNb1n3/P7/1Pn2PQp/6PP/R4B1K w - - 0 1"]
+[SetUp "1"]
+
+1. Qxe5 { 29.Nxc3 ?  doesn't help:  29...Qd4 !  when Black is winning due to the threats  ...Qxc3  and ...Qg1#:  30.Be2   or  30.Ne2  Qxa1  -+  30...hxg2  31.Kxg2  Qxc3  -+ } 1... Nd1 { -+ Threatening ...Nf2 followed by a discovered check. } 2. Ra2 { 30.Rxd1  Qxd1  31.Qe2  Qxb3  and wins } 2... Ne3 3. Qa1 { also fails due to } 3... Qd5 { with deadly threats, such as after: } 4. Re2 hxg2+ 5. Bxg2 Qxf3 6. Bxf3 Bxf3+ 7. Kg1 Nc2+ 8. Kf1 Bxe2+ 9. Kxe2 Nxa1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Twan Burg â Emilio Cordova"]
+[Result "*"]
+
+{ @@HeaderStart@@Twan Burg – Emilio Cordova, Barcelona 2011@@HeaderEnd@@  Learning objective:  This game illustrates how White’s routine play can be met by a strong kingside attack with ...Kh8, ...Rg8 and ...g7-g5-g4. } 1. e4 c5 2. Nf3 a6 3. c4 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Nc3 Bb4 7. Bd2 Qc7 8. a3 Be7 9. Be3 d6 10. Be2 b6 11. Rc1 O-O 12. O-O Bb7 13. f3 Nbd7 14. b4 Rac8 15. Qb3 { A questionable move, since a queen on b3 is unlikely to contribute to any of White’s plans in the hedgehog.   A better choice was  15.Na4 !?  in similar style to previous examples. } 15... Qb8 16. Rfd1 Kh8 17. Bf1 Rg8 18. Qa2 { It is true that most hedgehog positions offer a stable advantage for White, but simply waiting gives Black strong counterplay which can start right now: } 18... g5 { This is an important moment in the game. After a series of routine moves by White, the initiative has passed into Black’s hands, and he wishes to create a kingside attack. } 19. h3 { This move is often played to momentarily stop ...g5-g4. If Black wants to insist on ...g5-g4 then he will have to push ...h7-h5, further exposing his own king.   A worthy alternative was  19.Qb1 !?  supporting the e4-pawn.  19...Qa8 !?  Pressing on  e4  , and preparing  ...g5-g4  once again   but not  19...g4 ?!  20.f4 !  += when White retains a good position since the kingside will stay closed  20.Bd3  Ne5   again  20...g4 ?!  is met by  21.f4 !  +=  21.Na4  Nfd7  The position remains unclear, and it seems White will have to play h2-h3 after all. } 19... h5 { Black insists on his idea of ...g5-g4. } 20. Qd2 { The move  20.Qf2  temporarily prevents  ...g5-g4  , but it is not enough to prevent this break in the long term after:  20...Rg6 !   the premature  20...g4 ?  loses to  21.hxg4  hxg4  22.Qh4+  and Black is finished after either  22...Nh7   or  22...Kg7  23.Qh6#  23.Qxe7  Black is insisting on the threat of  ...g5-g4  , and now White does not seem to have any useful moves since preventing the break with  21.g4 ?!  weakens the dark squares, and after  21...Ne5  =+ Black’s position is preferable. } 20... g4 { White’s position now becomes unpleasant. } 21. hxg4 { Black is also doing well after  21.h4 !?  gxf3  22.Nxf3  Rg6  =+ when Black’s chances are preferable at least on a practical level. Controlling the e5-square and the g-file are dreams for hedgehog players. } 21... hxg4 22. Bg5 { White’s hopes for kingside activity are destined to fail.   Much better was  22.f4 !  keeping the g-file closed:  22...Nxe4   or  22...Bxe4 !?  23.Nxe4  Nxe4  24.Qb2  Kh7  25.Bd3  Qb7  26.Qe2  ∞  23.Nxe4  Bxe4  24.Ne2  (threatening Qd4)  24...Bg6   but not  24...Bb7 ?  25.Bd4+  Kh7  26.Ng3  +- when Black cannot defend against  Bd3  followed by  Kf2  and  Rh1  25.Ng3  ∞ White’s compensation for his pawn deficit is Black’s exposed king. } 22... gxf3 23. Nxf3 Rg6 24. Qf4 Rcg8 { The rest of the game serves as an example of how to realize Black’s advantage: } 25. Qh4+ Kg7 26. Bd3 Rh8 27. Qf4 Nh5 { -+ Beyond tactical details, note how Black trades dark-squared bishops emphasizing White’s positional weaknesses. The rest is simple, and needs little comment. } 28. Qe3 Bxg5 29. Nxg5 Ne5 30. Be2 Qd8 31. Nh3 Ng3 { Threatening ...Rxh3. } 32. Nf4 Rh1+ 33. Kf2 Nf5 { The knight is untouchable! } 34. Rxh1 { 34.exf5 ?  Qh4+  35.g3  Qh2+  36.Ng2  Qxg2# } 34... Nxe3 35. Nxg6 N3g4+ 36. Bxg4 Nxg4+ 37. Kg3 Qg5 38. Rh4 Ne5+ 39. Kh3 Nxg6 40. Rd1 Qxh4# { Final remarks  1. Black’s kingside plan was very strong against White’s passive play.  2. White could have stayed in the game by keeping the f-file closed with 22.f4 ! sacrificing a pawn.  3. Once the g-file is open, the game is practically lost. White should find a way to avoid such types of position at all costs. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Burg â Cordova #1"]
+[Result "*"]
+[FEN "1qr3rk/1b1nbppp/pp1ppn2/8/1PPNP3/P1N1BP2/Q5PP/2RR1BK1 b - - 8 1"]
+[SetUp "1"]
+
+1... g5 { This is an important moment in the game. After a series of routine moves by White, the initiative has passed into Black's hands, and he wishes to create a kingside attack. } 2. h3 { This move is often played to momentarily stop ...g5-g4. If Black wants to insist on ...g5-g4 then he will have to push ...h7-h5, further exposing his own king.   A worthy alternative was  19.Qb1 !?  supporting the e4-pawn.  19...Qa8 !?  Pressing on  e4  , and preparing  ...g5-g4  once again   but not  19...g4 ?!  20.f4 !  += when White retains a good position since the kingside will stay closed  20.Bd3  Ne5   again  20...g4 ?!  is met by  21.f4 !  +=  21.Na4  Nfd7  The position remains unclear, and it seems White will have to play h2-h3 after all. } 2... h5 { Black insists on his idea of ...g5-g4. } 3. Qf2 { This move temporarily prevents ...g5-g4, but it is not enough to prevent this break in the long term after: } 3... Rg6 { Black is insisting on the threat of ...g5-g4, and now White does not seem to have any useful moves since preventing the break with   20...g4 ?  21.hxg4  hxg4  22.Qh4  Nh7   22...Kg7  23.Qh6#  23.Qxe7 } 4. g4 { weakens the dark squares, and after } 4... Ne5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Burg â Cordova #2"]
+[Result "*"]
+[FEN "1qr3rk/1b1nbp2/pp1ppn2/6pp/1PPNP3/P1N1BP1P/3Q2P1/2RR1BK1 b - - 1 1"]
+[SetUp "1"]
+
+1... g4 { White's position now becomes unpleasant. } 2. hxg4 { Black is also doing well after  21.h4 !?  gxf3  22.Nxf3  Rg6  =+ when Black's chances are preferable at least on a practical level. Controlling the e5-square and the g-file are dreams for hedgehog players. } 2... hxg4 3. Bg5 { White's hopes for kingside activity are destined to fail.   Much better was  22.f4 !  keeping the g-file closed:  22...Nxe4   or  22...Bxe4 !?  23.Nxe4  Nxe4  24.Qb2  Kh7  25.Bd3  Qb7  26.Qe2  ∞  23.Nxe4  Bxe4  24.Ne2  (threatening Qd4)  24...Bg6   but not  24...Bb7 ?  25.Bd4  Kh7  26.Ng3  +- when Black cannot defend against  Bd3  followed by  Kf2  and  Rh1  25.Ng3  ∞ White's compensation for his pawn deficit is Black's exposed king. } 3... gxf3 4. Nxf3 Rg6 5. Qf4 Rcg8 { Black's advantage is practically decisive. The reasons for such an advantage are quite evident:  1. White has two very serious weaknesses - the e4- and g2-pawns.   2. Black has innumerable threats along the g-file.   3. White is practically unable to create counterplay, and there are no weaknesses in Black's camp.   The rest of the game serves as an example of how to realize Black's advantage. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Burg â Cordova #3"]
+[Result "*"]
+[FEN "1qr3rk/1b1nbp2/pp1ppn2/7p/1PPNP1P1/P1N1BP2/3Q2P1/2RR1BK1 b - - 0 1"]
+[SetUp "1"]
+
+1... hxg4 { Much better was } 2. f4 { keeping the g-file closed: } 2... Nxe4 3. Nxe4 Bxe4 4. Ne2 { threatening Qd4 } 4... Bg6 { 24...Bb7 ?  25.Bd4  Kh7  26.Ng3  +-  Black cannot defend against Bd3 followed by Kf2 and Rh1. } 5. Ng3 { White's compensation for his pawn deficit is Black's exposed king. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Burg â Cordova #4"]
+[Result "*"]
+[FEN "1q4r1/1b1nbpk1/pp1ppnr1/6B1/1PP1P2Q/P1NB1N2/6P1/2RR2K1 b - - 6 1"]
+[SetUp "1"]
+
+1... Rh8 2. Qf4 Nh5 { -+ Beyond tactical details, note how Black trades dark-squared bishops emphasizing White's positional weaknesses. The rest is simple, and needs little comment. } 3. Qe3 Bxg5 4. Nxg5 Ne5 5. Be2 Qd8 6. Nh3 Ng3 { Threatening ...Rxh3. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Alexander Galkin vs. Aleksander Delchev"]
+[Result "*"]
+
+{ @@HeaderStart@@Alexander Galkin – Aleksander Delchev, Ohrid 2001@@HeaderEnd@@  Learning objective:  This fragment of a game is an additional example of the ...Rg8 and ...g7-g5 plan. } 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3 b6 9. Be2 Bb7 10. O-O Be7 11. Be3 Ne5 12. f3 O-O 13. Qd2 Qc7 14. Rfd1 Rac8 15. Rac1 Qb8 { The game has developed as usual and now the real fight begins. } 16. Qe1 Bd8 17. Qf2 { White’s play is imprecise.   A better move order was  17.Kh1  Bc7  18.Qg1  Ned7  where White has an extra tempo compared to the game, and after  19.Nc2  += we have a typical hedgehog position. } 17... Ned7 18. Kh1 Bc7 19. Qg1 { Protecting the h2-pawn. } 19... Kh8 { Black announces his intention to play ...Rg8 followed by ...g7-g5-g4. } 20. Rc2 { A useful piece of advice for players of the white pieces is the following: you should be ready to meet  ...g7-g5  with c4-c5 opening the queenside with counterplay. Therefore, the move  20.b4 !?  makes perfect sense, and after:  20...Rg8  21.Na4  Ba8  22.Rd2  g5  23.c5 !  += White is just in time, and the subsequent complications will probably favour White due to Black’s weakened kingside. } 20... Rg8 21. Rcd2 g5 22. Qf2 Rg6 23. Nc2 { An alternative was:  23.Bd3 !?  (threatening e4-e5)  23...Rg7   but not  23...Ne5 ?!  24.Bxb6  g4  25.Bxc7  Qxc7  26.Be2  gxf3  27.Bxf3  Nfg4  28.Qd4  += when Black does not have enough compensation  24.h3  h5  25.Bd4  Rcg8  26.Nc2  Qd8 !?  ∞ The break  ...g5-g4  is a double-edged weapon due to White’s well-placed bishops. } 23... Rcg8 { Black’s position remains solid and flexible; he could play ...g5-g4 or just prepare it further with ...h7-h5. } 24. h3 h5 25. Bd4 R8g7 26. b4 Qg8 { Further reinforcing the ...g5-g4 break, though this might just be unnecessary.   Black was perfectly ready for:  26...g4 !  27.h4   the opening of the h-file after  27.hxg4 ?  only benefits Black:  27...hxg4  28.f4  Rh6+  29.Kg1  Bxe4 !  30.Nxe4  Nxe4  31.Bxg7+  Kxg7  32.Qe3  d5 !  -+  27...Qd8 !?  The h4-pawn will soon become a serious weakness. } 27. Kg1 g4 28. fxg4 { Keeping lines closed with  28.h4  does not help much after  28...gxf3  29.Bxf3  Qd8  as Black is much better due to the weak pawns on  e4  ,  g2  and  h4.   The try  28.hxg4  hxg4  29.f4  is nearly suicidal after  29...Qh7  30.Kf1  g3  31.Qf3  e5  32.Bg1  Rh6   or  32...Rg4 !?  (and Black’s attack is deadly.) } 28... hxg4 29. Bxg4 { After  29.h4  g3  30.Qf3  e5  31.Be3  Rh7  White cannot even defend the h4-pawn:  32.Bg5 ?  Rxg5  33.hxg5  Rh1+ !  34.Kxh1  Qh7  +-+ } 29... e5 30. Be3 Nxg4 31. hxg4 Rxg4 { Black has achieved another dream hedgehog position and he imposed his advantage in 12 more moves: Black won.  Final remarks  1. Generally speaking, protecting the h2-pawn with Bg1 is somewhat healthier than protecting it with Qg1. However, if White wishes to use the queen for this purpose, he certainly should not lose a tempo by playing Qe1-f2-g1 as in the game.  2. Important: White should be ready to meet ...g7-g5 with a c4-c5 break.  3. Once again, after Black accomplishes the ...g5-g4 break, things do not look good for White in practically every variation. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Galkin vs. Delchev #1"]
+[Result "*"]
+[FEN "1qr2rk1/1bbn1ppp/pp1ppn2/8/2P1P3/N1N1BP2/PP2B1PP/2RR2QK b - - 14 1"]
+[SetUp "1"]
+
+1... Kh8 { Black announces his intention to play ...Rg8 followed by ...g7-g5-g4.  A useful piece of advice for players of the White pieces is the following: you should be ready to meet ...g7-g5 with c4-c5 opening the queenside with counterplay. Therefore, the move } 2. b4 { makes perfect sense, and after: } 2... Rg8 3. Na4 Ba8 4. Rd2 g5 5. c5 { White is just in time, and the subsequent complications will probably favour White due to Black's weakened kingside. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Galkin vs. Delchev #2"]
+[Result "*"]
+[FEN "1q5k/1bbn1pr1/pp1ppnr1/6pp/1PPBP3/2N2P1P/P1NRBQP1/3R3K b - - 0 1"]
+[SetUp "1"]
+
+{ Black was perfectly ready for: } 1... g4 2. h4 { the opening of the h-file after   27.hxg4 ?  only benefits Black:  hxg4  28.f4  Rh6  29.Kg1  Bxe4 !  30.Nxe4  Nxe4  31.Bxg7  Kxg7  32.Qe3  d5 !  Black is winning. } 2... Qd8 { The h4-pawn will soon become a serious weakness. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Galkin vs. Delchev #3"]
+[Result "*"]
+[FEN "6qk/1bbn1pr1/pp1ppnr1/6pp/1PPBP3/2N2P1P/P1NRBQP1/3R2K1 b - - 2 1"]
+[SetUp "1"]
+
+1... g4 2. fxg4 { Keeping lines closed with  28.h4  does not help much after  28...gxf3  29.Bxf3  Qd8  as Black is much better due to the weak pawns on  e4  ,  g2  and  h4.   The try  28.hxg4  hxg4  29.f4  is nearly suicidal after  29...Qh7  30.Kf1  g3  31.Qf3  e5  32.Bg1  Rh6   or  32...Rg4 !?  (and Black's attack is deadly.) } 2... hxg4 3. Bxg4 { After  29.h4  g3  30.Qf3  e5  31.Be3  Rh7  White cannot even defend the h4-pawn:  32.Bg5 ?  Rxg5  33.hxg5  Rh1 !  34.Kxh1  Qh7  +- } 3... e5 4. Be3 Nxg4 5. hxg4 Rxg4 { Black has achieved another dream hedgehog position and he imposed his advantage in 12 more moves: Black won. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Galkin vs. Delchev #4"]
+[Result "*"]
+[FEN "6qk/1bbn1pr1/pp1ppnr1/8/1PPBP1p1/2N4P/P1NRBQP1/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. h4 g3 2. Qf3 e5 3. Be3 Rh7 { White cannot even defend the h4-pawn: } 4. Bg5 Rxg5 5. hxg5 Rh1+ 6. Kxh1 Qh7+ 7. Kg1 Qh2+ 8. Kf1 Qh1# *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Miguel Munoz Pantoja vs. Julio Granda Zuniga"]
+[Result "*"]
+
+{ @@HeaderStart@@Miguel Munoz Pantoja – Julio Granda Zuniga, La Roda 2013@@HeaderEnd@@  Learning objectives:  1. This game is an example of Black’s ...b6-b5 break when White’s bishop is placed on g2 rather than the f1-a6 diagonal.  2. Something to understand about this position is that White’s queenside plans are no longer a priority in this position, while a kingside attack is a much more suitable idea.  3. Black’s ...d6-d5 break is now nearly impossible, but as we see in this game, the ...b6-b5 break is quite likely to be accomplished. } 1. e4 c5 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. d4 cxd4 6. Nxd4 d6 7. g3 Ne7 8. Bg2 Nec6 9. O-O Be7 10. b3 O-O 11. Bb2 a6 12. Nc2 Nd7 13. Ne3 Qb8 14. Kh1 Ra7 { This strange-looking move is the start of an interesting plan for Black. He will proceed with ...Ba8, ...Rc7 and ...Rfc8 in order to strengthen the ...b6-b5 break.   A healthy option was:  14...b5 !?  15.f4   or  15.cxb5 ?!  axb5  16.Nxb5  Ba6  17.a4  Bxb5  18.axb5  Qxb5  =+ and the b3-pawn is weak  15...Bf6   but not  15...bxc4 ?!  16.Nxc4  += when the d6-pawn is vulnerable  16.a3  Rd8  17.Rb1  Qa7  18.Ng4  bxc4  19.Nxf6+  Nxf6  20.bxc4  Rab8  Black is slightly better since none of White’s standard plans work here and the c4-pawn is somewhat vulnerable. } 15. f4 Ba8 16. a3 { White is unlikely to profit from advancing his queenside pawns.   Instead, White should focus on the kingside with  16.Qe2 !?  Rc8  17.Rad1 !?   or  17.g4  b5  18.g5  with mutual chances  17...b5  18.f5  Nde5  19.fxe6  fxe6  20.Bh3  Nd8  21.Ncd5 !?  exd5  22.Bxe5  dxe5  23.Bxc8  Qxc8  24.cxd5  += with a complicated position. } 16... Rc8 17. b4 Bf8 18. Qd2 Rac7 19. Rad1 Na7 { A daring idea: Black moves away from the centre in order to prepare the ...b6-b5 break followed by recapturing with a knight. This idea however entails some risks.   The break  19...b5 !?  is not so favourable, as after  20.cxb5  axb5  21.Qd3  Na7  the b5-pawn needs protection, therefore White remains a little better. A possible continuation is  22.f5 !?  Ne5  23.Qd2  Nac6  24.Rf2  when Black’s kingside is in danger. } 20. Rc1 { Wasting a crucial tempo and directing energies in the wrong direction.   Far stronger was  20.f5 !  creating serious kingside threats:  20...b5 !?   Black’s position is risky after  20...Ne5  21.fxe6  fxe6  22.Rxf8+ !?   or the computer-like  22.b5 !  ± blocking the knight on  a7  22...Rxf8  23.Qxd6  Rc6  24.Qd4  += with pressure along the a1-h8 diagonal  21.cxb5  Nxb5  22.fxe6  fxe6  23.Ne2 !  ± The e6-pawn is particularly weak. } 20... b5 { Black achieves the key break for his position. White’s position becomes vulnerable due to over-expansion. } 21. cxb5 Nxb5 22. Nxb5 { Or  22.Ne2  Rxc1  23.Rxc1  Rxc1+  24.Qxc1  Be7  with level chances. } 22... Qxb5 { It is now White who must play for equality, as the e4-pawn has become vulnerable and Black no longer suffers a space disadvantage. } 23. Rxc7 Rxc7 24. Rc1 Rxc1+ 25. Bxc1 { Better was  25.Qxc1  a5 !?  with mutual chances. } 25... Nf6 26. Qc2 a5 { Now White is in trouble, as his queenside and e4-pawn are vulnerable. } 27. Qc4 { After  27.bxa5 ?  Qxa5  White has no satisfactory answer to the threat of ...Qe1:  28.Qd2   28.Kg1  Qe1+  29.Nf1  Nxe4  -+  28...Qxd2  29.Bxd2  Bxe4  ∓   An option was  27.Bd2  Qe2  28.Qd1  Qxd1+  29.Nxd1  axb4  30.axb4  Nxe4  ∓ although only Black can play for a win. } 27... Qb6 { Keeping more pieces on the board.   The alternative  27...Qxc4  28.Nxc4  axb4  29.axb4  Bxe4  ∓ gives good winning chances too. } 28. b5 { Again after  28.bxa5 ?  Qxa5  ∓ the threat of  ...Qe1  is very unpleasant. } 28... Nxe4 { This tactical blow reminds us of how many resources Black gains once a central break has been achieved. } 29. Bxe4 d5 30. Qc8 { White realizes he needs activity to stay in the game.   The try  30.Nxd5 ?  loses immediately to  30...exd5  31.Bxd5  Qe6 !  making use of two pins. } 30... Bb7 31. Qb8 dxe4 { Black has a clear extra pawn and faces no problems in imposing his superiority. } 32. a4 { Threatening Ba3. } 32... Qc5 33. Bd2 Qd4 34. Qxb7 Qxd2 35. Qxe4 g6 36. Ng4 { The final mistake.   More stubborn was  36.Nc4  Qd1+  37.Kg2  Qxa4  38.b6  Qb5  ∓ though Black retains a big advantage. } 36... Qd1+ 37. Kg2 Qxg4 38. b6 Qf5 { White resigns as there is no hope after  39.Qa8  Kg7  40.b7  due to  40...Qd5+ !  when checkmate is unstoppable. For example:  41.Kh3  Qh5+  42.Kg2  Qe2+  43.Kh3  Qf1+  44.Kg4  h5+  45.Kh4  Be7#  Final remarks  1. White’s most important mistake in this game was not developing a kingside attack with 20.f5.   2. This game illustrates how Black’s ...b6-b5 break weakens White’s queenside and centre. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Pantoja vs. Zuniga #1"]
+[Result "*"]
+[FEN "bq3rk1/r2nbppp/ppnpp3/8/2P1PP2/1PN1N1P1/PB4BP/R2Q1R1K w - - 0 1"]
+[SetUp "1"]
+
+1. Qe2 { White should focus on the kingside with } 1... Rc8 2. Rad1 { 17.g4  b5  18.g5  With mutual chances. } 2... b5 3. f5 Nde5 4. fxe6 fxe6 5. Bh3 { with a complicated position. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Pantoja vs. Zuniga #2"]
+[Result "*"]
+[FEN "bqr2bk1/n1rn1ppp/pp1pp3/8/1PP1PP2/P1N1N1P1/1B1Q2BP/3R1R1K w - - 0 1"]
+[SetUp "1"]
+
+{ Far stronger was } 1. f5 { creating serious kingside threats: } 1... b5 { Blacks position is risky after   20...Ne5  21.fxe6  fxe6  22.Rxf8+  Rxf8  23.Qxd6  Rc6  24.Qd4  +=  with pressure along the a1-h8 diagonal } 2. cxb5 Nxb5 3. fxe6 fxe6 4. Ne2 { The e6-pawn is particularly weak. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Pantoja vs. Zuniga #3"]
+[Result "*"]
+[FEN "bqr2bk1/n1rn1ppp/pp1pp3/8/1PP1PP2/P1N1N1P1/1B1Q2BP/3R1R1K w - - 0 1"]
+[SetUp "1"]
+
+1. Rc1 b5 { Black achieves the key break for his position. White's position becomes vulnerable due to over-expansion. } 2. cxb5 Nxb5 3. Nxb5 { 22.Ne2  Rxc1  23.Rxc1  Rxc1+  24.Qxc1  Be7  With level chances. } 3... Qxb5 { It is now White who must play for equality, as the e4-pawn has become vulnerable and Black no longer suffers a space disadvantage. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Pantoja vs. Zuniga #4"]
+[Result "*"]
+[FEN "b4bk1/3n1ppp/p2pp3/1q6/1P2PP2/P3N1P1/3Q2BP/2B4K b - - 0 1"]
+[SetUp "1"]
+
+1... Nf6 2. Qc2 a5 { Now White is in trouble, as his queenside and e4-pawn are vulnerable. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Pantoja vs. Zuniga #5"]
+[Result "*"]
+[FEN "b4bk1/5ppp/1q1ppn2/pP6/2Q1PP2/P3N1P1/6BP/2B4K b - - 0 1"]
+[SetUp "1"]
+
+1... Nxe4 { This tactical blow reminds us of how many resources Black gains once a central break has been achieved. } 2. Bxe4 d5 3. Nxd5 { Loses immediately to } 3... exd5 4. Bxd5 Qe6 { making use of two pins. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "John Bartholomew vs. Timur Gareev"]
+[Result "*"]
+
+{ @@HeaderStart@@John Bartholomew – Timur Gareev, USA 2009@@HeaderEnd@@  Learning objectives:  1. This game illustrates how Black can carry out a waiting strategy without damaging his position.  2. Black prepares many plans, and speculates with tactical ideas, but does not carry out any of them.  3. Black requires great calculating ability to carry out this strategy, as one slip can give White an overwhelming initiative, probably through a queenside attack. Both sides must constantly check the consequences of both White’s and Black’s breaks in this structure. } 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3 Be7 9. Be2 O-O 10. O-O b6 11. Be3 Rb8 { This prophylactic move gives extra protection to the b6-pawn. } 12. Qd2 Bb7 13. Rfd1 Ne5 14. f3 Re8 15. Kh1 { So far both sides follow the standard developing moves. Something to note is White’s awkwardly-placed knight on a3. White would like to transfer this knight to a better square, say after Nc2-d4; but this is not always easy due to the pressure on the c4-pawn. } 15... Bf8 { The premature  15...d5 ?  would be met by:  16.Bf4 !  Bd6  17.cxd5  exd5  18.Nc4 !  Quite an unpleasant surprise!  18...Nxc4  19.Bxc4  dxc4  20.Bxd6  Rc8  21.Qd4  ± } 16. Bf1 { The attempt to improve the knight with  16.Nc2  is met by  16...Qc7  attacking the c4-pawn, since the natural  17.b3 ?!   better is  17.Na4  Bc6  18.Nc3  Bb7 =  is met by  17...d5 !  opening the centre favourably after:  18.exd5  exd5  19.Nxd5  Nxd5  20.cxd5  Rbd8  21.Bf1  Rxd5  =+ Black has gained the initiative. } 16... Qc7 { Again, the break  16...d5 ?  is met by  17.Bf4 !  Bd6  18.cxd5  exd5  19.Nc4 !  ± as in the note above. } 17. Rac1 Ba8 18. Qf2 Kh8 19. Na4 { If White tries  19.Nc2  intending to follow up with  Nd4  , then after  19...Nxc4  20.Bxc4  Qxc4  the optimistic  21.Bxb6 ?  is refuted by:  21...Qc6  22.Be3  Rxb2  ∓ } 19... Qc6 { A more standard reply would be  19...Ned7  but then White could play  20.Nc2 !  followed by  Nd4  , when White’s chances are slightly preferable. } 20. Nc3 { The tempting  20.Nxb6 ?  is refuted by  20...Nfg4 !  when Black regains the material favourably after  21.fxg4  Nxg4  22.Qe2  Nxe3  23.Qxe3  Qxb6  24.Qxb6  Rxb6  ∓ with better chances due to the pair of bishops and weakened dark squares. } 20... Be7 21. Nab1 Rg8 { Black is ready to create active play on the kingside with ...g7-g5. } 22. Bd4 Qc7 23. b4 { A good decision. As mentioned previously, White should try to meet the ...g7-g5 plan with a well-timed c4-c5 break. } 23... Rgc8 { A curious approach; Black was ready to play ...g7-g5, but now simply decides to go for a different plan. It is typically a mistake to waste three moves on a plan and later choose to do something else. But sometimes in the hedgehog Black can afford such a decision due to the amazing flexibility of the structure.   White was well prepared to meet  23...g5  with:  24.Nd2  Rg6   or  24...g4  25.f4  ±  25.Na4  Ned7  26.c5 !  Breaking on the queenside  !  26...bxc5  27.bxc5  dxc5  28.Nxc5  Bxc5  29.Bxc5  Nxc5  30.Rxc5  Qe7  31.Rdc1  ± When the g5-pawn is more a weakness than a strength. } 24. Na4 Nfd7 25. Be3 Qb7 { Black now seems to be preparing a ...b6-b5 break. } 26. a3 Rc6 27. Nb2 Rbc8 28. Qd2 Qc7 { The break  28...b5 ?  does not work well because after  29.cxb5  axb5  30.Nc3  ± the b5-pawn is lost. As it turns out, when White’s knight can reach  c3  so easily and White’s bishop is on  f1  , the  ...b6-b5  break is unlikely to work well. White is nearly winning after  30...Nc4  31.Nxc4  bxc4  32.b5  R6c7  33.a4  due to the connected passed pawns. } 29. a4 Qb8 { It is amazing how Black continues to wait without causing any deterioration in his position. It seems Black has not done anything, however he has carefully analyzed White’s threats, and is ready to meet them. } 30. b5 { This is not the right timing for this break, as the b6- and d6-pawns do not become targets as they did in the game Flores Rios – Hayrapetian earlier in this chapter.   Better was  30.Nc3 !?  and a possible continuation would be  30...R6c7  31.Qf2  Rd8  32.Be2  with roughly equal chances. } 30... R6c7 { Worse is  30...axb5 ?!  31.axb5  since now White has a potential threat Nc3-a4 attacking the b6-pawn. In addition, the potentially weak a4-pawn has been traded. The play could continue  31...R6c7  32.Nc3  Ra7  33.Nca4  Qc7  34.Qf2  Rb8  35.Ra1  with a level game. } 31. bxa6 { In the event of  31.Nc3  a5 !  White does not have any breaks on the queenside and Black may turn his attention back to the kingside by playing  ...Rg8  followed by  ...g7-g5.  For example:  32.Bg5 !?  Preventing Black’s plan momentarily.  32...Bf8  33.Be2  h6  34.Bh4  g5  35.Bg3  Nc5  =+ White’s position is unpleasant in practice, as he does not have a clear-cut plan. } 31... Nc5 32. Qc2 Ra7 33. Nc3 Rxa6 { Black’s strategy has been successful and his position is now preferable due to his strong knights on c5 and e5.  The rest of the game is irrelevant to our purposes, though eventually Black won.  Final remarks  1. This game was a test of nerves for both players. Each player attempted to carry out their plans, but found a well-prepared opponent. If Black had played 15...d5 or 23...g5, he would have reached an inferior position. In turn, White lost his patience and broke with 30.b5, which gave him a worse position.  2. This type of position requires great precision in calculation from both sides, since they must constantly check how to prevent or meet their opponent’s breaks. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Bartholomew vs. Gareev #1"]
+[Result "*"]
+[FEN "1r1qr1k1/1b2bppp/pp1ppn2/4n3/2P1P3/N1N1BP2/PP1QB1PP/R2R3K b - - 0 1"]
+[SetUp "1"]
+
+{ The premature } 1... d5 { would be met by: } 2. Bf4 Bd6 3. cxd5 exd5 4. Nc4 { Quite an unpleasant surprise ! } 4... Nxc4 5. Bxc4 dxc4 6. Bxd6 Rc8 7. Qd4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Bartholomew vs. Gareev #2"]
+[Result "*"]
+[FEN "br2rb1k/2q2ppp/pp1ppn2/4n3/N1P1P3/N3BP2/PP3QPP/2RR1B1K b - - 10 1"]
+[SetUp "1"]
+
+1... Qc6 { A more standard reply would be  19...Ned7  but then White could play  20.Nc2 !  followed by  Nd4  , when White's chances are slightly preferable. } 2. Nxb6 { is refuted by } 2... Nfg4 { when Black regains the material favourably after } 3. fxg4 Nxg4 4. Qe2 Nxe3 5. Qxe3 Qxb6 6. Qxb6 Rxb6 { with better chances due to the pair of bishops and weakened dark squares. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Bartholomew vs. Gareev #3"]
+[Result "*"]
+[FEN "br4rk/2q1bppp/pp1ppn2/4n3/2PBP3/2N2P2/PP3QPP/1NRR1B1K w - - 17 1"]
+[SetUp "1"]
+
+1. b4 { A good decision. As mentioned previously, White should try to meet the ...g7-g5 plan with a well-timed c4-c5 break. } 1... g5 2. Nd2 Rg6 { 24...g4  25.f4  ± } 3. Na4 Ned7 4. c5 { Breaking on the queenside! } 4... bxc5 5. bxc5 dxc5 6. Nxc5 Bxc5 7. Bxc5 Nxc5 8. Rxc5 Qe7 9. Rdc1 { The g5-pawn is more a weakness than a strength. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Hedgehog"]
+[Black "Bartholomew vs. Gareev #4"]
+[Result "*"]
+[FEN "bqr4k/3nbppp/pprpp3/4n3/PPP1P3/4BP2/1N1Q2PP/1NRR1B1K w - - 1 1"]
+[SetUp "1"]
+
+1. b5 { This is not the right timing for this break, as the b6- and d6-pawns do not become targets as they did in the game Flores Rios - Hayrapetian earlier in this chapter.   Better was  30.Nc3 !?  and a possible continuation would be  30...R6c7  31.Qf2  Rd8  32.Be2  with roughly equal chances. } 1... R6c7 { Worse is  30...axb5 ?!  31.axb5  since now White has a potential threat Nc3-a4 attacking the b6-pawn. In addition, the potentially weak a4-pawn has been traded. The play could continue  31...R6c7  32.Nc3  Ra7  33.Nca4  Qc7  34.Qf2  Rb8  35.Ra1  with a level game. } 2. Nc3 a5 { White does not have any breaks on the queenside and Black may turn his attention back to the kingside by playing ...Rg8 followed by ...g7-g5. For example: } 3. Bg5 { Preventing Black's plan momentarily. } 3... Bf8 4. Be2 h6 5. Bh4 g5 6. Bg3 Nc5 { White's position is unpleasant in practice, as he does not have a clear-cut plan. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Introduction"]
+[Result "*"]
+[FEN "4k3/pp2pp1p/3p2p1/8/2P1P3/8/PP3PPP/4K3 w - - 0 1"]
+[SetUp "1"]
+
+{ @@HeaderStart@@The Maroczy@@HeaderEnd@@  The Maroczy structure we study in this chapter bears a great similarity with the Hedgehog from the previous chapter. In fact, some sources may call that chapter's structure Maroczy as well, simply because White has placed his pawns on c4 and e4. In this book, I decided to give a separate treatment to these two structures because I consider they are sufficiently different. The difference is in how Black develops his dark-squared bishop. In the Hedgehog chapter, Black's bishop was always developed on e7, hence ...e7-e6 had been played. Here instead we study those positions where Black fianchettoes his bishop on g7. Most importantly, Black's e-pawn often remains on e7. This fact has the following consequences:  1. White can place a knight on d5, which can lead to a major structural transformation if Black trades the knight.  2. The central break ...d6-d5 is no longer a main theme here.  3. Black can trade pieces without worrying about the d6-pawn becoming vulnerable, as happened in the game Eljanov - Jakovenko from the previous chapter.  The structure we study in this chapter is typical of the Accelerated Dragon, but it can also arise as a transposition from the English Opening or some lines that start out as a King's Indian. It can also occur with reversed colours if White plays the English Opening, allowing Black to reply ...d5 and later ...c5. Most examples in this chapter will come from the Accelerated Dragon because it is the most common source of Maroczy games. Nevertheless, the ideas transfer easily to the other lines. The main theme of the Maroczy is White's spatial advantage, which means Black will often attempt to trade pieces and later fight on in the endgame phase.  White's plans  1. Gain space with a queenside expansion, place a knight on d5, and/or expand on the kingside with f2-f4.  2. After f2-f4 has been played, place rooks on the central files and break with either e4-e5 or f4-f5.  3. Place a knight on d5 and wait for Black to capture on d5. Once this happens, White can transform the structure favourably with either exd5 or cxd5. Each of these replies is studied at the beginning of this chapter.  Black's plans  1. Trade pieces to alleviate the space problem.  2. Break on the queenside with ...b6-b5 and after c4xb5 and ...a6xb5 then apply pressure along the a-file.  3. Break on the kingside with ...f7-f5 and later create an attack against White's king.  4. Pressure White's queenside pawns with ...Qb6-b4, and when White plays b2-b3, then ...a7-a5-a4xb3.  5. On rare occasions play ...e7-e6 and later ...d6-d5, though this plan is more typical of the Hedgehog.  Out of the plans mentioned above, it should be said that White's first three plans are more or less equally common, while Black's first three plans are the most common for him. Black's fifth plan is almost never carried out in games which originate from the Accelerated Dragon variation. } 1. -- *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Symmetric Transformation"]
+[Result "*"]
+[FEN "4k3/pp2pp1p/3p2p1/3P4/4P3/8/PP3PPP/4K3 w - - 0 1"]
+[SetUp "1"]
+
+{ Symmetric Transformation  When White places a knight on d5 and Black captures it, White's recapture changes the character of the game dramatically. The first four examples of this chapter discuss White's cxd5 recapture. The next two are examples of the recapture exd5. Then we have two examples of Black's ...f7-f5 break, one example of the ...b7-b5 break, and the chapter concludes with one example exploring White's f4-f5 and e4-e5 breaks.  This structure most typically occurs when we have a Maroczy structure and White places a knight on d5. Once Black captures this knight then White recaptures cxd5. We will call this the symmetric transformation of the Maroczy. The main theme in this structure is White's spatial advantage. As the reader will notice, there are no natural breaks in this position. Black could attempt to challenge White's centre with ...e7-e6 or ...f7-f5, but these breaks mostly weaken Black's camp and can eventually backfire. For this reason, it is easy for Black to run out of useful moves and fall into an inferior position where White expands to ultimately obtain a winning position. Now, let's discuss specific plans for each side.  White's plans  1. Control the c-file and use it for a seventh rank invasion if this is possible.  2. Avoid excessive exchanges in order to make use of the spatial advantage.  3. Further expand on the queenside and kingside, squeeze Black's forces and then find a decisive break.  Black's plans  1. Trade pieces to decrease the space problem.  2. Take possession of the open c-file, and if possible invade the seventh rank with ...Rc2.  3. If White has played b2-b3, then ...a7-a5-a4xb3 can be useful to open another file for counterplay.  4. If the position is already simplified, and White threatens to gain space with flank expansions, then challenge White's centre with ...e7-e6 to create a distraction. This plan can backfire due to the weaknesses created, but they should not be too serious if the queens are already off the board.  As the reader will notice, White's plans of action are far more dangerous than Black's, and this is all a consequence of White's spatial advantage. Black must be careful and understand this structure can lead to a passive position. The first three examples are illustrations of White's first three plans all combined together to yield very convincing wins. In each of these three examples I will put forward suggestions to avoid losing passively in the way Black lost. Then, the fourth example is a fragment of a game to illustrate one of Black's thematic tricks to find counterplay. } 1. -- *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Lev Polugaevsky vs. Borislav Ivkov"]
+[Result "*"]
+
+{ @@HeaderStart@@Lev Polugaevsky – Borislav Ivkov, Belgrade 1969@@HeaderEnd@@  This game is a classical illustration of White’s ability to asphyxiate Black’s forces after a symmetric transformation. } 1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Nxd4 6. Qxd4 g6 7. e4 d6 8. Be3 Bg7 9. f3 O-O 10. Qd2 Be6 11. Rc1 Qa5 { We have transposed from an English Opening into a popular variation of the Accelerated Dragon. } 12. Nd5 { This move has fallen out of fashion since 12...Qxa2 offers good chances to Black.   Nowadays  12.b3  is preferred  (and we will see this move in the next example)  or  12.Be2  Rfc8  13.b3. } 12... Qxd2+ { Heading towards an inferior endgame.   Instead correct was:  12...Qxa2  13.Nxe7+  Kh8  14.Be2  Ng8 !? } 13. Kxd2 Bxd5 { 13...Nxd5 ?!  is not good due to  14. cxd5; Black is in trouble after  14...Bc8   or  14...Bd7  15.Rc7  ±  15.b3  e6  16.Bd3  followed by  Rc7.   A good option was  13...Rae8  and after the semi-forced line  14.Bxa7  Bxd5  15.cxd5  Ra8  16.Be3  Rxa2  17.Rc2  Nd7  White preserves a small advantage, but Black has more counterplay than he did in the game. } 14. cxd5 { We have reached the structure of interest. The c-file is open and for the moment there are no natural breaks to execute. This position has occurred 27 times on my database, and White has scored an amazing 80%. } 14... Rfc8 15. Be2 { += A simple approach. White has a stable advantage due to his space and pair of bishops. His plan is to expand everywhere on the board and to eventually asphyxiate Black. The lack of targets, or natural structural breaks, prevents Black from creating counterplay.   Much more common is  15.Rxc8+  Rxc8  16.g3 !  to follow up with  Bh3  , when Black loses control of the c-file. For example:  16...Nd7   16...a6 ?  loses to  17.Bh3  Rc7   or  17...Rd8  18.Rc1  18.Rc1 !  Rxc1  19.Kxc1  followed by  Bc8  17.Bh3  Rc7  18.Bxd7  Rxd7  19.b3  a6  20.Rc1  ± White gains control of the c-file. } 15... a6 { This is necessary sooner or later, to defend the a7-pawn, but now the b6-square is weak.   15...b6 ?  16.Ba6  ± loses the c-file. } 16. b4 { Beginning the queenside expansion. } 16... Kf8 { Black cannot fight for queenside space with  16...b5 ?  as it weakens the a6-b5 chain, and after  17.Rxc8+  Rxc8  18.Rc1  Rxc1  19.Kxc1  ± White is almost winning due to the threat of a2-a4.   The break  16...e6  17.dxe6  fxe6  weakens Black’s position, but secures some space and after  18.a4 ?!   instead White should play:  18.Kd3 !  Nd7  19.f4  +=  18...Kf7  19.a5  d5 !?  Black has some counterplay. } 17. a4 Nd7 18. a5 { Now the a6- and b7-pawns are fixed and represent potential weaknesses in the long term. } 18... Bb2 19. Rc2 Rxc2+ 20. Kxc2 Bg7 21. Kb3 Rc8 22. Bd2 { Black cannot use the c-file.   Note how White refrains from  22.Rc1 ?!  Rxc1  23.Bxc1  in order to keep more pieces on the board. } 22... Bd4 23. g4 { Now White will claim space on the kingside. } 23... Kg7 { Black’s waiting strategy is a big mistake.   Again  23...e6  was correct, as after  24.dxe6  fxe6  25.h4 !  += Black has many weaknesses, but at least he has space to move. } 24. g5 { Fixing Black’s kingside. } 24... Rc7 25. Rd1 Kf8 26. f4 Bg7 { It was not too late for  26...e6 !?  27.dxe6  fxe6  28.Bc4  Ke7  though after  29.h4 !  ± the threat of h4-h5 is troublesome. } 27. Bg4 Ke8 28. Rf1 Bd4 29. h4 Bg7 30. h5 Bd4 31. Rh1 { Throughout the last eight moves Black’s negligent waiting strategy has allowed a powerful kingside expansion. Although there is no clear winning method yet, White’s position is very promising and should be won with correct play. } 31... Bg7 32. Rh3 Kf8 33. h6 { White has found the right plan. Now he will prepare the decisive e4-e5 break, after which Black’s main problem will be the weak h7-pawn. } 33... Bd4 34. Rd3 { White is already winning after:  34.Bc3 !  Rxc3+   or  34...Bg1  35.e5 !  is similar to the game  35.Rxc3  Bxc3  36.Kxc3  Ke8  37.Kd4  Kd8  38.e5 !  (threatening the decisive e5-e6)  38...Kc7  39.e6  fxe6  40.Bxe6  Nf8  41.f5  gxf5  42.Bxf5  Kd8  43.Bxh7 !  When the passed pawns decide the game. } 34... Ba7 35. Bh3 Bg1 36. Bc3 { Preparing the e4-e5 break. } 36... Ke8 { More stubborn was  36...Bh2  though White is still winning, say after:  37.Rf3  Ke8  38.Bg7  Kd8   or  38...Rc1  39.e5 !  dxe5  40.Bxd7+  Kxd7  41.fxe5  39.f5 !  Decisively opening the f-file. The game could have finished with:  39...Rc1  40.fxg6  fxg6  41.Bd4  Re1  42.Bb6+ !  Nxb6   or  42...Ke8  43.Bxd7+  Kxd7  44.Rf8  to follow with  Rd8#  43.axb6  Ke8  44.Rc3  Rxe4  45.Be6 !  Checkmate is unavoidable. } 37. e5 { +- } 37... Bh2 { 37...dxe5  38.fxe5  Bh2  doesn’t help due to  39.d6 !  breaking through the defence.  39...exd6  40.exd6  Rc6  41.Re3+  Kd8  42.Re7  Rxd6  43.Rxf7  and after  44.Rxh7  the game is decided. } 38. exd6 exd6 39. Re3+ Kd8 40. Re4 { More direct was:  40.Bxd7  Rxd7  41.Bf6+  Kc7  42.Re8  Bxf4  43.Rh8  +- } 40... Bg1 41. Bxd7 { Black resigns, as there is no hope following:  41...Rxd7   or  41...Kxd7  42.Bf6  with the deadly threat  Re7  , and if  42...Kc8  then  43.Re8+  Kd7  44.Rd8#  42.Bf6+  Kc7  43.Re8  followed by  Rh8xh7  winning.  Final remarks  1. Black’s opening was rather imprecise, leading directly to an unfavourable endgame. Nowadays 12...Qxa2 is the move of choice and in fact White no longer plays 12.Nd5 because of this reply.  2. The endgame resulting after move 14 was indisputably superior for White, and the defence was very difficult in practice.  3. Black’s best approach would have been to break the powerful d5-e4 chain with a timely ...e7-e6 break. This weakens the d6- and e6-pawns, but it is the lesser of two evils. Instead, by defending passively Black was signing his own death sentence. White’s kingside expansion is a winning plan and passive defence is destined to fail no matter how precise.  4. White’s expansion on the flanks was enabled by his pair of bishops and his already existing spatial edge in the centre. By having more space, White is able to gain yet more. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #1"]
+[Result "*"]
+[FEN "r4rk1/pp2ppbp/3pbnp1/q7/2P1P3/2N1BP2/PP1Q2PP/2R1KB1R w K - 0 1"]
+[SetUp "1"]
+
+1. Nd5 { This move has fallen out of fashion since the following reply offers good chances to Black: } 1... Qxa2 2. Nxe7+ Kh8 3. Be2 Ng8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #2"]
+[Result "*"]
+[FEN "r4rk1/pp2ppbp/3pbnp1/3N4/2P1P3/4BP2/PP1K2PP/2R2B1R b - - 0 1"]
+[SetUp "1"]
+
+1... Nxd5 { is not good due to } 2. cxd5 { Black is in trouble after } 2... Bc8 { or   14...Bd7  15.Rc7  ± } 3. b3 e6 4. Bd3 { followed by Rc7. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #3"]
+[Result "*"]
+[FEN "r4rk1/pp2ppbp/3p1np1/3P4/4P3/4BP2/PP1K2PP/2R2B1R b - - 0 1"]
+[SetUp "1"]
+
+1... Rfc8 { Here the most common is } 2. Rxc8+ Rxc8 3. g3 { to follow up with Bh3, when Black loses control of the c-file. For example: } 3... a6 { This loses to } 4. Bh3 Rc7 { or   17...Rd8  18.Rc1 } 5. Rc1 Rxc1 6. Kxc1 { followed by Bc8. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #4"]
+[Result "*"]
+[FEN "r1r3k1/pp2ppbp/3p1np1/3P4/4P3/4BP2/PP1KB1PP/2R4R b - - 0 1"]
+[SetUp "1"]
+
+1... a6 { This is necessary sooner or later, to defend the a7-pawn, but now the b6-square is weak.   15...b6 ?  16.Ba6  ±  loses the c-file. } 2. b4 { Beginning the queenside expansion. Black cannot fight for queenside space with } 2... b5 { as it weakens the a6-b5 chain, and after } 3. Rxc8+ Rxc8 4. Rc1 Rxc1 5. Kxc1 { White is almost winning due to the threat of a2-a4. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #5"]
+[Result "*"]
+[FEN "r4k2/1p1nppbp/p2p2p1/P2P4/1P2P3/1K2BP2/4B1PP/7R b - - 0 1"]
+[SetUp "1"]
+
+1... Rc8 2. Bd2 { Black cannot use the c-file.  Note how White refrains from   22.Rc1 ?!  Rxc1  23.Bxc1  in order to keep more pieces on the board. } 2... Bd4 3. g4 { Now White will claim space on the kingside. } 3... Kg7 { Black's waiting strategy is a big mistake.  Again   23...e6  was correct, as after  24.dxe6  fxe6  25.h4 !  +=  Black has many weaknesses, but at least he has space to move. } 4. g5 { Fixing Blacks kingside. } 4... Rc7 5. Rd1 Kf8 6. f4 Bg7 { It was not too late for   26...e6 !?  27.dxe6  fxe6  28.Bc4  Ke7  though after  29.h4 !  ±  the threat of h4-h5 is troublesome. } 7. Bg4 Ke8 8. Rf1 Bd4 9. h4 Bg7 10. h5 Bd4 11. Rh1 { Throughout the last eight moves Black's negligent waiting strategy has allowed a powerful kingside expansion. Although there is no clear winning method yet, White's position is very promising and should be won with correct play. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #6"]
+[Result "*"]
+[FEN "4k3/1prnppbp/p2p2p1/P2P2PP/1P2PPB1/1K5R/3B4/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Kf8 2. h6 { White has found the right plan. Now he will prepare the decisive e4-e5 break, after which Black's main problem will be the weak h7-pawn. } 2... Bd4 { Now White is already winning after } 3. Bc3 Rxc3+ 4. Rxc3 Bxc3 5. Kxc3 Ke8 6. Kd4 Kd8 7. e5 { threatening the decisive e5-e6 } 7... Kc7 8. e6 fxe6 9. Bxe6 Nf8 10. f5 gxf5 11. Bxf5 Kd8 12. Bxh7 { When the passed pawns decide the game. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #7"]
+[Result "*"]
+[FEN "5k2/bprnpp1p/p2p2pP/P2P2P1/1P2PP2/1K1R3B/3B4/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Bg1 2. Bc3 { Preparing the e4-e5 break. } 2... Bh2 { This is the most stubborn, though White is still winning, say after: } 3. Rf3 Ke8 4. Bg7 Kd8 5. f5 { Decisively opening the f-file. The game could have finished with: } 5... Rc1 6. fxg6 fxg6 7. Bd4 Re1 8. Bb6+ Nxb6 { or   42...Ke8  43.Bxd7+  Kxd7  44.Rf8  to follow with Rd8# } 9. axb6 Ke8 10. Rc3 Rxe4 11. Be6 { Checkmate is unavoidable. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #8"]
+[Result "*"]
+[FEN "5k2/1prnpp1p/p2p2pP/P2P2P1/1P2PP2/1KBR3B/8/6b1 b - - 0 1"]
+[SetUp "1"]
+
+1... Ke8 2. e5 dxe5 3. fxe5 Bh2 { this doesn't help due to: } 4. d6 { breaking through the defence. } 4... exd6 5. exd6 Rc6 6. Re3+ Kd8 7. Re7 Rxd6 8. Rxf7 { and after 44. Rxh7 the game is decided. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #9"]
+[Result "*"]
+[FEN "4k3/1prnpp1p/p2p2pP/P2PP1P1/1P3P2/1KBR3B/8/6b1 b - - 0 1"]
+[SetUp "1"]
+
+1... Bh2 2. exd6 exd6 3. Re3+ Kd8 { Now the most direct is: } 4. Bxd7 Rxd7 5. Bf6+ Kc7 6. Re8 Bxf4 7. Rh8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Jan Smeets vs. Sergei Tiviakov"]
+[Result "*"]
+
+{ @@HeaderStart@@Jan Smeets – Sergei Tiviakov, Netherlands 2013@@HeaderEnd@@  Learning objective:  This game is a modern example of White’s advantage after a symmetric structure transformation. Notice how White inevitably gains control of the c-file. } 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6 8. Be3 Bg7 9. f3 Be6 10. Rc1 O-O 11. Qd2 Qa5 { So far it is the same opening as the previous example, and now: } 12. b3 a6 { And now of course: } 13. Nd5 { This is similar to the previous example except the reply ...Qxa2 is no longer possible. } 13... Qd8 { Tiviakov probably realized his mistake by now, as keeping the queens on the board gives more practical chances to Black.   If  13...Qxd2+  14.Kxd2  Bxd5   or  14...Rae8  15.Be2  Nd7  16.h4  +=  15.cxd5  += we are back to the highly undesirable endgame from the previous example. } 14. Bb6 Qd7 15. Be2 Bxd5 { A necessary concession.   If instead  15...Rac8  16.O-O  += and Black has nothing useful to do other than capture on  d5  after all. } 16. cxd5 { We essentially have the previous game again, but now in the presence of queens. } 16... Rfc8 17. O-O Qe8 { The break  17...e6 ?!  18.dxe6  fxe6  works poorly as the presence of queens makes Black’s king vulnerable. } 18. Be3 Nd7 19. g3 { The careless  19.b4  Qd8  20.a4 ?!  is met by  20...a5 !  21.bxa5  Nc5  with counterplay for Black. } 19... Nc5 { Blocking the c-file for the moment, but this will not work in the long run as White is able to play b3-b4.   Better was  19...Rxc1  20.Rxc1  Rc8  21.Rc2  Qd8  22.Kg2  h5  23.b4  Kh7  24.Qc1  Rxc2  25.Qxc2  Bh6  26.Bf2 !  keeping the pair of bishops. After  26...a5  27.a3  axb4  28.axb4  += White is certainly better, though Black remains solid. } 20. Rc2 a5 21. Rfc1 b6 { The problem with Black’s 19th move is that the c-file will not stay blocked forever. Meanwhile, Black’s attempts to keep the file blocked are creating weaknesses that will persist forever. For example ...b7-b6 makes the b6-pawn and the c6-square weak. } 22. Qd1 Qf8 23. a3 { ± Preparing b3-b4. } 23... Rcb8 { But not:  23...Nxb3 ?  24.Rxc8  Rxc8  25.Rxc8  Qxc8  26.Qxb3  +- } 24. b4 axb4 25. axb4 Nb3 { The decisive mistake; the knight will not find a way out.   More stubborn was  25...Nd7  26.Bb5  Qd8  27.Qe2  Ra7  though White has many risk-free plans to play for a win, such as  28.Bc6 !?  h5  29.Kg2  Kh7  30.Ra2  Rxa2  31.Qxa2  ± following by an a-file invasion.   Not  25...Ra3 ?  26.bxc5  Rxe3  27.c6  followed by c6-c7 and  Ba6  winning. } 26. Rb1 Ra3 27. Rc6 Na1 28. Bxb6 { White is completely winning due to his extra pawn and the awkward location of the knight on a1. The rest of the game needs no comments. } 28... f5 29. Bd4 Rba8 30. e5 Bxe5 31. Bxe5 dxe5 32. b5 e4 33. b6 exf3 34. Bxf3 Qh6 35. b7 Qe3+ 36. Kh1 Kf7 37. bxa8=Q Rxa8 38. d6 { Final remarks  1. Black’s problems began by forgetting his opening move order, and allowing the strong 13.Nd5, which is an improved version of the previous game, as the ...Qxa2 reply is no longer available.  2. Despite his opening imprecision, Black had reasonable chances to hold the game by trading rooks on move 19.   3. Black’s biggest mistake was attempting to block the c-file with 19...Nc5, as White will gain this file anyway after the standard b3-b4. Black’s problem was that supporting his knight on c5 meant creating more weaknesses with 20...a5 and 21...b6, hence later when the c-file was finally unblocked, White gained a huge advantage. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Smeets vs. Tiviakov #1"]
+[Result "*"]
+[FEN "r4rk1/pp2ppbp/3pbnp1/q7/2P1P3/1PN1BP2/P2Q2PP/2R1KB1R b K - 0 1"]
+[SetUp "1"]
+
+1... a6 { Black confuses his move order ! And now of course: } 2. Nd5 { This is similar to the previous example except the reply ...Qxa2 is no longer possible. } 2... Qd8 { Tiviakov probably realized his mistake by now, as keeping the queens on the board gives more practical chances to Black. If   13...Qxd2+  14.Kxd2  Bxd5  or   14...Rae8  15.Be2  Nd7  16.h4  +=  15.cxd5  +=  we are back to the highly undesirable endgame from the previous example. } 3. Bb6 Qd7 4. Be2 Bxd5 { A necessary concession. If instead   15...Rac8  16.O-O  +=  and Black has nothing useful to do other than capture on d5 after all. } 5. cxd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Smeets vs. Tiviakov #2"]
+[Result "*"]
+[FEN "r1r1q1k1/1p1nppbp/p2p2p1/3P4/4P3/1P2BP2/P2QB1PP/2R2RK1 w - - 0 1"]
+[SetUp "1"]
+
+{ The careless } 1. b4 Qd8 2. a4 { is met by } 2... a5 3. bxa5 Nc5 { with counterplay for Black. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Smeets vs. Tiviakov #3"]
+[Result "*"]
+[FEN "r1r1q1k1/1p1nppbp/p2p2p1/3P4/4P3/1P2BPP1/P2QB2P/2R2RK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Nc5 { Blocking the c-file for the moment, but this will not work in the long run as White is able to play b3-b4. Better was   19...Rxc1  20.Rxc1  Rc8  21.Rc2  Qd8  22.Kg2  h5  23.b4  Kh7  24.Qc1  Rxc2  25.Qxc2  Bh6  26.Bf2 !  keeping the pair of bishops. After  26...a5  27.a3  axb4  28.axb4  +=  White is certainly better, though Black remains solid. } 2. Rc2 a5 3. Rfc1 b6 { The problem with Black's 19th move is that the c-file will not stay blocked forever. Meanwhile, Black's attempts to keep the file blocked are creating weaknesses that will persist forever. For example ...b7-b6 makes the b6-pawn and the c6-square weak. } 4. Qd1 Qf8 5. a3 { ± Preparing b3-b4. } 5... Nxb3 6. Rxc8 Rxc8 7. Rxc8 Qxc8 8. Qxb3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Smeets vs. Tiviakov #4"]
+[Result "*"]
+[FEN "rr3qk1/4ppbp/1p1p2p1/2nP4/1P2P3/4BPP1/2R1B2P/2RQ2K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Ra3 2. bxc5 Rxe3 3. c6 { followed by c6-c7 and Ba6 winning. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Smeets vs. Tiviakov #5"]
+[Result "*"]
+[FEN "rr3qk1/4ppbp/1p1p2p1/2nP4/1P2P3/4BPP1/2R1B2P/2RQ2K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Nb3 { The decisive mistake; the knight will not find a way out. } 2. Rb1 Ra3 3. Rc6 Na1 4. Bxb6 { White is completely winning due to his extra pawn and the awkward location of the knight on a1. The rest of the game needs no comments. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Another Endgame"]
+[Result "*"]
+[FEN "r2r2k1/1p1bpp1p/3p2p1/3P4/p3P3/2R2P2/PP2B1PP/5R1K b - - 0 1"]
+[SetUp "1"]
+
+{ Jakovljevic – Predojevic, Novi Sad 2012, started out as a Maroczy and reached the position in the diagram, which is similar to previous examples.  Despite not having a pair of bishops, White has a significant spatial advantage and a very promising position. The game continued: } 1... Kf8 2. Rfc1 Ke8 3. Kg1 Rdc8 4. Kf2 { If  23.Rxc8+ !?  Bxc8  24.Kf2  Kd8  25.Ke3  Ra5  26.Kd4  Black is worse but his position seems defensible after  26...Bd7. } 4... Kd8 5. Ke3 b6 { Hoping to install a blockade with ...Rc5.   An option was  24...Rxc3+  25.Rxc3  e5 !  to be followed by  ...f7-f5  , and after  26.dxe6  fxe6  27.f4  Ra5 !?  the d6- and e6-pawns are not as vulnerable, and White’s king cannot manoeuvre as easily, hence Black should be able to hold a draw with precise play. } 6. Rxc8+ { Trading rooks will help White here, as the bishop endgame is difficult and Black’s lack of space can eventually lead to a zugzwang. } 6... Rxc8 { Without rooks on the board, Black loses all his chances for counterplay.   Better was  25...Bxc8  26.Rc6  Rb8  27.f4  Bd7  28.Rc1  Ra8  29.g4  Ra5  30.g5  f5 !?  when White remains better, but the most likely result is draw. } 7. Rxc8+ Kxc8 8. f4 Kc7 { This careless move is the decisive mistake.   If  27...e6  28.dxe6  fxe6  29.Kd4  the absence of rooks allows White to manoeuvre freely, giving him excellent winning chances after:  29...Bc6  30.h4  Kd8  31.g4  Ke7  32.g5  ±   Necessary was  27...f6 !  to prevent White from placing a pawn on g5;  28.h4   or  28.g4  g5 !  28...h6  29.g4 ?!   instead  29.Kd4  Kc7  30.e5 !  is more promising  29...g5 !  30.fxg5  fxg5  31.hxg5  hxg5  And now at least the g4-pawn is fixed on its own bishop’s colour. White still has a promising position after  32.e5 !  dxe5  33.Ke4  += but Black keeps drawing chances, say after  33...Kd8  34.Kxe5  Ke8  35.a3  Kf7. } 9. g4 h6 { Keeping the kingside intact makes no difference. For example:  28...b5  29.Kd4  Kb6  30.a3  Ka5  31.Kc3  The queenside is paralyzed; now White proceeds on the kingside.  31...Bc8  32.h4  Bd7  33.g5  Bh3  34.h5 !  Bg2  35.hxg6  hxg6  36.Bd3  +- Followed by  Kd4  , f4-f5xg6 and we reach the same structure as in the game. } 10. h4 f6 { If Black wants to refrain from  ...f7-f6  , to keep the g6-pawn defended, then a possible continuation is:  29...b5  30.Kd4  Kb6  31.a3  Be8  32.g5  hxg5  33.hxg5  Bd7  34.f5 !  gxf5   or  34...Be8  35.fxg6  fxg6  36.e5 !  is similar to the game  35.Bh5  And White wins after  Bxf7. } 11. g5 { Just as in Polugaevsky – Ivkov, White expands on the kingside to create weaknesses in Black’s camp. Black is helpless as he will be unable to protect the g6-pawn. } 11... fxg5 12. fxg5 hxg5 { Or  31...h5  32.Kd4  e5+   or  32...b5  33.e5  is similar to the game  33.dxe6  Bxe6  34.Bb5 !  (threatening Be8)  34...Kd8  35.a3  Bb3  36.Bc4 !  forcing a winning pawn endgame after  36...Bxc4  37.Kxc4  Ke7  38.Kb5. } 13. hxg5 b5 14. Kd4 Kb6 { Keeping the king centralized does not help either:  33...Be8  34.a3  Kb6  35.Bd3  Kc7  36.e5  dxe5+  37.Kxe5  Kd8  38.Ke6 !  +- Black is in zugzwang. } 15. Bd3 Ka5 16. a3 Kb6 { 35...b4  does not help:  36.e5  Be8  37.e6  Black is in zugzwang, thus he must take on a3:  37...bxa3    38.bxa3  Kb6  And now White must lose a tempo, hence he plays:  39.Be4   39.Kc3 ?  Kc5  39...Ka5  40.Bf3  Kb5  41.Be2+  Kb6  42.Bd3 !  Now Black is in a new zugzwang:  42...Ka5  43.Kc3  Kb6  44.Kb4  Kc7  45.Ka5  Kb7  46.Bb5 !  The resulting pawn endgame is winning. } 17. e5 Be8 18. e6 { Black is completely lost, and the game finished with the nice sequence: } 18... Ka5 19. Kc3 Ka6 20. Kb4 Kb6 21. Bc2 Ka6 22. b3 axb3 23. Bxb3 Kb6 24. Bc2 Ka6 25. Bd3 Kb6 26. Be2 { Zugzwang.  45...Ka6  46.a4  Kb6  47.Bxb5  Final remarks  1. Once again, White’s spatial advantage allows him to gain even more space.  2. Unlike previous examples, White did not have a pair of bishops here, but still managed to make problems for Black.  3. Black’s position was defensible, say with 24...Rxc3 followed by ...e5. Nevertheless, almost every line required precision from Black, while White could play for a win risk-free.  4. Something to mention from the initial position is Black’s pawn on a4, which is the same colour as his bishop. If this pawn had been on a5 to begin with then Black would have had better chances to hold the game, at least in the bishop endgame. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Jakovljevic vs. Predojevic #1"]
+[Result "*"]
+[FEN "r1rk4/1p1bpp1p/3p2p1/3P4/p3P3/2R1KP2/PP2B1PP/2R5 b - - 0 1"]
+[SetUp "1"]
+
+1... b6 { Hoping to install a blockade with ...Rc5. } 2. Rxc8+ { Trading rooks will help White here, as the bishop endgame is difficult and Black's lack of space can eventually lead to a zugzwang. } 2... Rxc8 { Without rooks on the board, Black loses all his chances for counterplay. Better was   25...Bxc8  26.Rc6  Rb8  27.f4  Bd7  28.Rc1  Ra8  29.g4  Ra5  30.g5  f5 !?  when White remains better, but the most likely result is draw. } 3. Rxc8+ Kxc8 4. f4 Kc7 { This careless move is the decisive mistake. } 5. g4 h6 6. h4 f6 { If Black wants to refrain from ...f7-f6, to keep the g6-pawn defended, then a possible continuation is:   29...b5  30.Kd4  Kb6  31.a3  Be8  32.g5  hxg5  33.hxg5  Bd7  34.f5 !  gxf5  or   34...Be8  35.fxg6  fxg6  36.e5 !  is similar to the game  35.Bh5  And White wins after Bxf7. } 7. g5 { Just as in Polugaevsky Ivkov, White expands on the kingside to create weaknesses in Blacks camp. Black is helpless as he will be unable to protect the g6-pawn. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Jakovljevic vs. Predojevic #2"]
+[Result "*"]
+[FEN "2k5/3bpp1p/1p1p2p1/3P4/p3P3/4KP2/PP2B1PP/8 w - - 0 1"]
+[SetUp "1"]
+
+1. f4 { Necessary is } 1... f6 { to prevent White from placing a pawn on g5; } 2. h4 { or   28.g4  g5 ! } 2... h6 3. g4 { instead   29.Kd4  Kc7  30.e5 !  is more promising } 3... g5 4. fxg5 fxg5 5. hxg5 hxg5 { And now at least the g4-pawn is fixed on its own bishop's colour. White still has a promising position after   32.e5 !  dxe5  33.Ke4  +=  but Black keeps drawing chances, say after  33...Kd8  34.Kxe5  Ke8  35.a3  Kf7. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Jakovljevic vs. Predojevic #3"]
+[Result "*"]
+[FEN "8/2kbp3/3p2p1/1p1P2P1/p2KP3/8/PP2B3/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Keeping the king centralized does not help either: } 1... Be8 2. a3 Kb6 3. Bd3 Kc7 4. e5 dxe5+ 5. Kxe5 Kd8 6. Ke6 { +- Black is in zugzwang. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Jakovljevic vs. Predojevic #4"]
+[Result "*"]
+[FEN "4b3/4p3/1k1pP1p1/1p1P2P1/p2K4/P2B4/1P6/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Ka5 { Black is completely lost, and the game finished with the nice sequence: } 2. Kc3 Ka6 3. Kb4 Kb6 4. Bc2 Ka6 5. b3 axb3 6. Bxb3 Kb6 7. Bc2 Ka6 8. Bd3 Kb6 9. Be2 { Zugzwang. } 9... Ka6 10. a4 Kb6 11. Bxb5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Counterplay for Black"]
+[Result "*"]
+[FEN "r1rq2k1/1p2ppbp/2bp2p1/p1n5/2P1P3/1PN1BP2/P1R1B1PP/1RQ4K w - - 0 1"]
+[SetUp "1"]
+
+{ Although Black is often worse after the symmetric transformation, there exist ways to create counterplay, and here is an example.   After a standard opening, we have reached the position in the diagram, and we obtain the structure of interest after: } 1. Nd5 Bxd5 2. cxd5 { Now the game Navara – Jirovsky, Czech Republic 2003, continued with: } 2... a4 { Black has a trick in mind. } 3. b4 { Overly optimistic, though it is hard to blame White for overlooking Black’s reply.   Better was:  22.bxa4  Rxa4  23.Bb5   or  23.Rxb7 !?  Rxa2 !  24.Rxa2  Nxb7  25.Rc2  when White has a tiny plus  23...Raa8  24.a4  Nd7  25.Bf1  Rxc2  26.Qxc2  Rc8  27.Qd2  Rc7  White is still somewhat better, but now Black certainly can find more counterplay than in the previous examples. } 3... Nb3 { A strong recurring idea in this position – the knight is immune. } 4. axb3 { Black takes the initiative after  23.Qd1 ?!  Rxc2  24.Qxc2  Nd4  25.Qd3  Nxe2  26.Qxe2  Rc8.   An option was  23.Rxc8  Qxc8 !  24.Qxc8+   but not  24.axb3  a3 !  -+  24...Rxc8  and now Black is fine after  25.Bb5   again not  25.axb3 ?  a3  -+  25...Rc3  26.Bxa4  Rxe3  27.Bxb3  Bc3 !?  with a drawish position. } 4... a3 5. Rc4 { Necessary was  24.Bc4  a2  25.Ra1  Bxa1  26.Qxa1  though after  26...b5 !  the bishop is lost:  27.Rxa2   White is losing after  27.Bd3 ?  Rxc2  28.Bxc2  Qc8 !  and now for example  29.Bd3  Ra3  30.Bg1  Rxb3  31.Bxb5  Qc2  27...Rxa2  28.Qxa2  bxc4  29.bxc4  Ra8  30.Qb2  Ra4  And we obtain a dynamically balanced position where either side could play for the win. } 5... a2 6. Ra1 Rxc4 7. Bxc4 { The alternative  26.bxc4 ?  loses after the forced line:  26...Qf8  27.Qd1  Bxa1  28.Qxa1  Qg7  29.Qxg7+  Kxg7  30.Bd4+  Kf8  31.Ba1  Ra4 } 7... Qf8 8. Qd1 Bxa1 9. Qxa1 { And now Black had two alternatives: } 9... Qg7 { Or  28...f5 !?  as played in the game, and after  29.Bd4  fxe4  30.fxe4  Qf4  31.Bh8 ?   instead  31.Qe1 !  keeps the game complicated  31...Kf7  32.Bc3  Qxe4  Black won very easily. } 10. Qxg7+ Kxg7 11. Bd4+ Kf8 12. Ba1 { An attempt to win could be: } 12... e6 { Opening lines. } 13. Kg1 { But not  32.dxe6 ?  fxe6  33.Bxe6  Re8  34.Bc4  due to  34...d5 !  -+ and the back rank is defenceless after  35.Bxd5   35.exd5 ?  Re1+  35...Rc8  36.Bc4  b5. } 13... exd5 14. exd5 Re8 15. Kf2 f5 { Now Black will expand while White attempts to keep his fortress intact. } 16. Bb2 Kf7 17. Ba1 g5 18. Bb2 f4 19. Ba1 Re3 20. b5 { But not:  39.Bb2 ?  b5 !  40.Bxb5  Rxb3  41.Ba1  Rb1  -+ } 20... b6 21. Bd4 Kg6 22. Ba1 h5 23. Bb2 Kf5 { Black has a big advantage, but it is not completely clear whether he can break through White’s defence. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Navara vs. Jirovsky #1"]
+[Result "*"]
+[FEN "r1rq2k1/1p2ppbp/3p2p1/p1nP4/4P3/1P2BP2/P1R1B1PP/1RQ4K b - - 0 1"]
+[SetUp "1"]
+
+1... a4 { Black has a trick in mind. } 2. b4 { Overly optimistic, though it is hard to blame White for overlooking Black's reply. Better was:   22.bxa4  Rxa4  23.Bb5  or   23.Rxb7 !?  Rxa2 !  24.Rxa2  Nxb7  25.Rc2  when White has a tiny plus  23...Raa8  24.a4  Nd7  25.Bf1  Rxc2  26.Qxc2  Rc8  27.Qd2  Rc7  White is still somewhat better, but now Black certainly can find more counterplay than in the previous examples. } 2... Nb3 { A strong recurring idea in this position - the knight is immune. } 3. axb3 a3 { Now necessary is } 4. Bc4 a2 5. Ra1 Bxa1 6. Qxa1 { though after } 6... b5 { the bishop is lost: } 7. Rxa2 Rxa2 8. Qxa2 bxc4 9. bxc4 { 29...Ra8  30.Qb2  Ra4  And we obtain a dynamically balanced position where either side could play for the win. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Navara vs. Jirovsky #2"]
+[Result "*"]
+[FEN "r1rq2k1/4pp1p/3p2p1/1p1P4/1PB1P3/1P2BP2/p1R3PP/Q6K w - - 0 1"]
+[SetUp "1"]
+
+1. Bd3 { This loses after } 1... Rxc2 2. Bxc2 Qc8 { and now for example } 3. Bd3 Ra3 4. Bg1 Rxb3 5. Bxb5 Qc2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Navara vs. Jirovsky #3"]
+[Result "*"]
+[FEN "r1rq2k1/1p2ppbp/3p2p1/3P4/1P2P3/pP1BBP2/2R3PP/1RQ4K w - - 0 1"]
+[SetUp "1"]
+
+1. Rc4 a2 2. Ra1 Rxc4 3. bxc4 { This loses after the forced line: } 3... Qf8 4. Qd1 Bxa1 5. Qxa1 Qg7 6. Qxg7+ Kxg7 7. Bd4+ Kf8 8. Ba1 Ra4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Navara vs. Jirovsky #4"]
+[Result "*"]
+[FEN "r4k2/1p2pp1p/3p2p1/3P4/1PBBP3/1P3P2/p5PP/7K w - - 0 1"]
+[SetUp "1"]
+
+1. Ba1 { And we reach an interesting endgame where White's pieces are more or less tied down, but it is hard to break through the defence. An attempt to win could be: } 1... e6 { Opening lines. But not } 2. dxe6 fxe6 3. Bxe6 Re8 4. Bc4 { due to } 4... d5 { -+ and the back rank is defenceless after } 5. Bxd5 { 35.exd5 ?  Re1+ } 5... Rc8 6. Bc4 b5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Asymmetric Transformation"]
+[Result "*"]
+[FEN "4k3/pp2pp1p/3p2p1/3P4/2P5/8/PP3PPP/4K3 w - - 0 1"]
+[SetUp "1"]
+
+{ @@HeaderStart@@Asymmetric Transformation@@HeaderEnd@@  Once the knight on d5 is captured, White can also recapture cxd5 to obtain a very different kind of position, which we call the asymmetric transformation of the Maroczy. Unlike the symmetric transformation, the recapture cxd5 is much more tactical and double-edged. White typically attempts a mating attack while Black will gain counterplay on the queenside. Black has a backward pawn on e7 which could become a target for White's rooks. However, Black can often neutralize this pressure by simply placing his dark-squared bishop on f6.  White's plans  1. Create a kingside attack with the break f2-f4-f5 .  2. Pressure the e7-pawn by doubling rooks on the e-file. This is only likely to work if Black cannot place a bishop on f6.  Black's plans  1. Attack White's c4-d5 chain with the break ...b7-b5xc4.  2. Open the a-file with ...a7-a5-a4xb3. If White responds to ...a5-a4 with b3-b4, then the c4-d5 chain becomes weaker, and the break ...b7-b5 could be stronger.  3. Simplify the position to minimize White's attacking chances.  White's kingside attack is very effective if Black cannot create the appropriate distraction with queenside play. For this reason, it is a must for Black to have at least one queenside break at hand. In contrast, if Black realizes he will not be able to find a queenside break, then he should probably avoid this structure altogether, or find a way to swap queens before an attack develops.  If Black desires to press for a win, the best approach is to combine Plans 1-3  (or 2-3)  , when trading queens is most important. Once Black has played ...b7-b5xc4, and White recaptures b3xc4, then the c4-pawn becomes a serious longterm target. This weakness is often more serious than Black's e7-pawn which is easily defended by a bishop on f6 or a king on f8.  The next example will show us the power of White's kingside attack once Black has missed the opportunity to achieve a queenside break. Then, we will see a short fragment to illustrate the ease of Black's play in an endgame, once the c4-pawn has been weakened. } 1. -- *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Nikolai Ninov vs. Dragoljub Velimirovic"]
+[Result "*"]
+
+{ @@HeaderStart@@Nikolai Ninov – Dragoljub Velimirovic, Belgrade 2009@@HeaderEnd@@  Learning objectives:  1. This game illustrates White’s attacking chances after an asymmetric transformation.  2. Note Black’s inability to create counterplay once the queenside is closed. } 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Nf6 7. Nc3 d6 8. Be2 O-O 9. O-O Bd7 10. Qd2 Nxd4 11. Bxd4 Bc6 12. f3 a5 13. b3 Nd7 14. Be3 Nc5 15. Rab1 { So far we are in the main line of the Accelerated Dragon, and now: } 15... b6 { This is a rare and low-scoring option.   The main line is  15...Qb6 } 16. Bd1 Ra7 17. a3 Qa8 18. Bc2 Rd8 19. Nd5 { White’s position is notably comfortable and now he invites Black to transform his position after: } 19... Bxd5 20. exd5 { We have reached the thematic structure.   If  20.cxd5  Rc8  21.Rfc1  Rac7  22.Bd1  b5  Black seems fine as he has gained some queenside space without weakening his position. } 20... Nd7 { If  20...a4  21.b4  Nd7  22.Bd3  Rc7  23.Rfd1  += White has a stable advantage, since the break  23...b5  is met by  24.Rbc1  bxc4  25.Rxc4  Rxc4  26.Bxc4  ± and the d5-pawn is well protected while Black’s a4-pawn is a target. } 21. f4 { This thematic move prepares f4-f5 with an attack, but it enables counterplay.   Better was  21.a4 !  preventing  ...a5-a4  , leaving Black without queenside activity. } 21... Qc8 { Returning the favour; Black misses his opportunity to complicate the game.   The break  21...a4 !  was necessary to obtain counterplay, and after  22.bxa4   22.b4 ?!  is met by  22...Rc7  23.Qe2  Rdc8  24.Bd3  b5  !!1 when White’s centre is trembling  22...Rc8  23.Rb4  Rac7  24.Bd3  Nc5  White’s extra pawn is clearly worthless. Still, there are chances for a kingside attack after  25.f5 !?  Nxa4  26.fxg6  hxg6  27.Qf2. } 22. a4 { ± This move rules out Black’s queenside reactions ...a5-a4 and ...b6-b5, and so White obtains a fully stable queenside. White is now able to conduct his kingside attack without distractions.   Instead  22.f5 ?  allows counterplay after  22...a4  !. } 22... Rb7 23. Rbe1 Re8 24. Rf3 { The immediate  24.f5  gives Black fewer options, and after  24...Ne5  25.Rf4  Bf6   or  25...Bh6  26.Rh4  Bxe3+  27.Rxe3  followed by  Reh3  26.h4  Kg7  27.Qf2  ± White can follow up with g2-g4 with deadly threats. } 24... e5 { Preventing f4-f5 with:  24...f5 !?  Can be met by:  25.g4 !  Forcing the opening of lines.  25...fxg4   Worse is  25...Rf8 ?  26.gxf5  gxf5  27.Qg2  Kh8  28.Rg3  when White’s attack is irresistible.  26.Rf2  Preparing f4-f5.  26...Bf6   26...Nf6  27.f5 !  gxf5  28.Bxf5  Qd8  29.Rg2  Kh8  30.Bd4  +-  27.Ref1  Nc5  28.f5 !  Keeping the e7-pawn fixed.   28.Rg2 ?  e6 !  28...g5  29.Bxg5  h5  30.h3 !  ± When Black is unable to keep the kingside closed.   Waiting with  24...Qd8  allows a strong attack after  25.f5 !  Ne5  26.Rg3  Bf6  27.Rf1.  Note how Black can only wait to be defeated:  27...Kg7  28.Rh3  Rh8  29.Bh6+  Kg8  30.Qe2  Rb8  31.g4  Rc8  32.Qe4  Rc7  33.g5  Bg7  34.Bxg7  Kxg7  35.Qh4 !  Black’s position is hopeless:  35...Kg8  36.fxg6  fxg6  37.Re3  Bringing the rook to the f-file.  37...Rb7  38.Re4  Rb8  39.Ref4  Qd7  40.Qh6  Black is tied to the defence of  f8.  40...Qe8  41.Be4 !  This will be followed by Bg2-h3-e6 – a very nice finish. } 25. dxe6 Rxe6 26. f5 { The attack continues. } 26... Re8 27. Ref1 Ne5 28. Rg3 Qc6 29. f6 { An alternative was  29.Bd4  d5  30.Qf4  threatening f5-f6:  30...Qf6  31.Kh1   but not  31.fxg6 ?  Nf3+ !  31...dxc4  32.fxg6  Qxf4  33.gxh7+  Kh8  34.Rxf4  ± } 29... Bh8 30. Qd4 { Threatening Be4 or Qh4 and then Rh3. } 30... Nd7 { The final mistake.   More stubborn was  30...d5 !  31.Qxd5  Qxd5  32.cxd5  ± though White has a clear extra pawn. } 31. Bxg6 { +-   Black resigns, as the following lines offer no escape:  31...hxg6   or  31...fxg6  32.f7+  Kf8  33.Qxh8+  Ke7  34.fxe8  =Q#  32.Rxg6+ !  And checkmate is unavoidable. For example:  32...Kh7   32...fxg6  33.f7+  33.Qh4+  Kxg6  34.Qh6#  Final remarks  1. The reader should note how in this game the capture 20.cxd5 would not have given much to White. It is necessary to know the pros and cons of both structures in order to choose correctly.  2. Once White stabilized the queenside with a3-a4, he had a free hand for a kingside attack. It is unlikely that Black could resist successfully. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Ninov vs. Velimirovic #1"]
+[Result "*"]
+[FEN "q2r2k1/r3ppbp/1pbp2p1/p1n5/2P1P3/PPN1BP2/2BQ2PP/1R3RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nd5 { White's position is notably comfortable and now he invites Black to transform his position after: } 1... Bxd5 2. exd5 { We have reached the thematic structure.  If   20.cxd5  Rc8  21.Rfc1  Rac7  22.Bd1  b5  Black seems fine as he has gained some queenside space without weakening his position.  If } 2... a4 3. b4 Nd7 4. Bd3 Rc7 5. Rfd1 { White has a stable advantage, since the break } 5... b5 { is met by } 6. Rbc1 bxc4 7. Rxc4 Rxc4 8. Bxc4 { and the d5-pawn is well protected while Blacks a4-pawn is a target. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Ninov vs. Velimirovic #2"]
+[Result "*"]
+[FEN "q2r2k1/r2nppbp/1p1p2p1/p2P4/2P5/PP2BP2/2BQ2PP/1R3RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. f4 { This thematic move prepares f4-f5 with an attack, but it enables counterplay. The break } 1... a4 { was necessary to obtain counterplay, and after } 2. b4 { is met by } 2... Rc7 3. Qe2 Rdc8 4. Bd3 b5 { when White's centre is trembling. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Ninov vs. Velimirovic #3"]
+[Result "*"]
+[FEN "q2r2k1/r2nppbp/1p1p2p1/p2P4/2P2P2/PP2B3/2BQ2PP/1R3RK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Qc8 2. a4 { ± This move rules out Black's queenside reactions ...a5-a4 and ...b6-b5, and so White obtains a fully stable queenside. White is now able to conduct his kingside attack without distractions. } 2... Rb7 3. Rbe1 Re8 { Now the immediate } 4. f5 { gives Black fewer options, and after } 4... Ne5 5. Rf4 Bf6 6. h4 Kg7 7. Qf2 { White can follow up with g2-g4 with deadly threats. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Ninov vs. Velimirovic #4"]
+[Result "*"]
+[FEN "2q1r1k1/1r1nppbp/1p1p2p1/p2P4/P1P2P2/1P2BR2/2BQ2PP/4R1K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Preventing f4-f5 with: } 1... f5 { can be met by } 2. g4 { Forcing the opening of lines. } 2... fxg4 { Worse is   25...Rf8 ?  26.gxf5  gxf5  27.Qg2  Kh8  28.Rg3  when White's attack is irresistible. } 3. Rf2 { Preparing f4-f5. } 3... Bf6 4. Ref1 Nc5 5. f5 { Keeping the e7-pawn fixed.   28.Rg2 ?  e6 ! } 5... g5 6. Bxg5 h5 7. h3 { ± When Black is unable to keep the kingside closed. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Ninov vs. Velimirovic #5"]
+[Result "*"]
+[FEN "4r1kb/1r3p1p/1pqp1Pp1/p3n3/P1PQ4/1P2B1R1/2B3PP/5RK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Nd7 { The final mistake. More stubborn was   30...d5 !  31.Qxd5  Qxd5  32.cxd5  ±  though White has a clear extra pawn. } 2. Bxg6 { Black resigns, as the following lines offer no escape: } 2... hxg6 { or   31...fxg6  32.f7+  Kf8  33.Qxh8+  Ke7  34.fxe8=Q# } 3. Rxg6+ { And checkmate is unavoidable. For example: } 3... fxg6 { 32...Kh7  33.Qh4+  Kxg6  34.Qh6# } 4. f7+ Kf8 5. Qxh8+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Maroczy"]
+[Black "Black obtains a superior endgame"]
+[Result "*"]
+[FEN "r1r3k1/1p2ppbp/p2pbnp1/3N4/2PBP3/1P3P2/P2R2PP/4KB1R b K - 0 1"]
+[SetUp "1"]
+
+{ The position in the diagram occurred in the game Aziz – Vazquez Igarza, Madrid 2011. White’s opening phase was rather imprecise, and at this point Black is ready to play: } 1... Bxd5 2. exd5 { Worse is:  16.cxd5 ?!  Rc1+  17.Kf2  Rac8  =+ } 2... Nd7 { Black finds a good opportunity to trade off White’s pair of bishops. For the rest of the game White will be weak on the dark squares. } 3. Bxg7 { Unfortunately  17.Be3 ?  loses an exchange to  17...Bc3. } 3... Kxg7 4. Be2 { Slightly preferable was:  18.Kf2  But now Black finds counterplay with:  18...a5 !   While  18...b5 ?  19.cxb5  ± no longer works for Black.  19.Bd3   Or  19.a4  Nc5  20.Rb2  Ra6 !  followed by  ...Rb6  19...a4  20.b4   20.Re1  axb3  21.axb3  Kf8  22.Bb1  Ra3  =+  20...Rc7  21.Re1  Kf8  22.f4  Rac8  Note how the c4-pawn is weaker than Black’s e7-pawn.  23.Rc2  b5 !  24.Rec1  bxc4  25.Bxc4  Nb6  26.Bd3  Rxc2+  27.Rxc2  Rxc2+  28.Bxc2  Nxd5  29.b5  Nb6  =+ Here only Black can play for a win. } 4... b5 { Black achieves the thematic break for this structure. } 5. Kf2 { The capture  19.cxb5 ?  is met by  19...Rc1+  20.Rd1   or  20.Bd1  axb5  ∓  20...Rxd1+  21.Kxd1  axb5  22.Bxb5  Rxa2 !  ∓ when White has weaknesses everywhere, and of course  23.Bxd7 ?  loses to  23...Ra1+  24.Kc2  Rxh1. } 5... bxc4 6. bxc4 { Now the c4-pawn will be a permanent weakness.   It was necessary to play  20.Bxc4  Nb6  21.Be2  Rc5  22.Rhd1  a5  =+ though Black is in control. } 6... Rab8 { Black controls the b-file and has a clear target in the c4-pawn; White has no counterplay whatsoever. } 7. Rc1 Rb4 8. Rdc2 Rcb8 9. Ke3 Nc5 { Black has complete control of the dark squares and White’s light-squared bishop is actually quite useless. Black can progress slowly but surely. } 10. Rc3 Kf6 11. R3c2 Ra4 12. Rd1 Ra3+ 13. Kd2 h5 { Expansion on the kingside! } 14. h4 Ke5 15. Ke1 Na4 16. Kf2 { 30.Rdd2  does not help:  Rb1+  31.Kf2  Ra1  32.g3  a5  33.Kg2  Kf6  34.Kf2  Nc5  35.Kg2  Na6  36.Kf2  Nb4  Black wins as the a2-pawn is lost after all. } 16... Rb2 17. Rxb2 Nxb2 18. Rd2 Rxa2 { Black has a clear extra pawn and won convincingly.  Final remarks  1. The reader should understand that this version of the asymmetric transformation was very bad for White from the start. The queens were off the board, White was forced to trade his dark-squared bishop, and most importantly, he could not prevent Black from breaking on the queenside.  2. Once Black captured ...bxc4, White’s recapture bxc4 was like accepting the loss, as Black obtained a dominant position and White found himself without a plan. At that point there was basically nothing to do other than wait. } *
+

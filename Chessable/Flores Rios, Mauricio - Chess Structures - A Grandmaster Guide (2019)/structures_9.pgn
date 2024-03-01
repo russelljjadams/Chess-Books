@@ -1,0 +1,600 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "1.  Julio Granda Zuniga â Sabrina Vega (Level 1)"]
+[Result "*"]
+[FEN "2rr2k1/1b1qbppp/p1p1pn2/1p4B1/3P4/1QN1P1P1/PP3PBP/2RR2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ How should White consolidate his positional advantage?  @@HeaderStart@@Julio Granda Zuniga – Sabrina Vega, Bahia Feliz 2011@@HeaderEnd@@  The key in the Slav structure is to prevent the central release with ...c6-c5 or ...e6-e5, hence the typical sequence: } 1. Bxf6 Bxf6 2. Ne4 { This leaves Black in a desperate situation as White has gained undisputed control of the c5-square, and ...e6-e5 does not work either. } 2... Be7 { Or  18...Qe7  19.Nxf6+  Qxf6  20.Rc5  is crushing } 3. Nc5 Bxc5 4. Rxc5 { White won easily by pressing on the c6-pawn, bringing the king to the queenside, and then expanding his kingside pawns. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "2.  Magnus Carlsen â Teimour Radjabov (Level 1)"]
+[Result "*"]
+[FEN "2r2rk1/1p2qp2/p1b1p1p1/2npP2p/P2N1P2/1PP5/2B2QPP/4RR1K w - - 0 1"]
+[SetUp "1"]
+
+{ Find White’s best continuation.  @@HeaderStart@@Magnus Carlsen – Teimour Radjabov, Moscow 2012@@HeaderEnd@@  Find White's best continuation.  The reader should note that the squares around Black’s king are weakened, and there are no pieces to provide immediate protection, hence it makes sense to open up the position with: } 1. f5 { ± The standard break in the French structure. } 1... exf5 { Making things easier for White.   The only defence was  26...Ne4  , though White has many attractive options such as  27.Bxe4  dxe4  28.Qf4 !?  exf5  29.Nxf5 !  when the attack continues, since  29...gxf5 ?  loses immediately to  30.Qg3+ !  Kh7  31.Rxf5. } 2. Nxf5 gxf5 { 27...Qe6  loses to  28.Qxc5  gxf5  29.Bxf5. } 3. Qg3+ { Black resigned due to the unavoidable mate after  28...Kh7  29.Rxf5. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "3.  Sandro Mareco â Paulo Werjivker (Level 1)"]
+[Result "*"]
+[FEN "q4rk1/pbr1bppp/1pn1pn2/8/2PP4/3B1N2/PB1NQPPP/2RR2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Find White's strongest continuation.  @@HeaderStart@@Sandro Mareco – Paulo Werjivker, Montevideo 2013@@HeaderEnd@@  White’s bishops on b2 and d3 have strong attacking potential, and White’s pieces are excellently coordinated, hence it makes sense to break in the centre with: } 1. d5 { +- Demolishing Black’s defence. } 1... exd5 { Making things easier for White.   The try  16...Nd8  is nicely refuted by  17.Ng5  h6  18.Qe5  Ne8  19.Nh7  winning an exchange and the game. } 2. cxd5 { Winning a piece. } 2... Nxd5 3. Qe4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "4.  Vadim Zvjaginsev â Ognjen Cvitan (Level 1)"]
+[Result "*"]
+[FEN "4rrn1/1pp2qbk/3p3p/pNnP1p2/2P1pP1N/4B1PP/PP2Q1R1/R5K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Find White's best continuation.  @@HeaderStart@@4.  Vadim Zvjaginsev – Ognjen Cvitan, Vienna 1996@@HeaderEnd@@  As we studied in Wojtaszek – Fedorov it is crucial to hit the base of the e4-f5 chain with: } 1. g4 { +- Black’s position is completely destroyed. } 1... fxg4 2. hxg4 Nd3 { There is nothing better. } 3. g5 { Black resigned because the kingside attack is irresistible, for example: } 3... Qd7 { 26...hxg5  is an even quicker loss  27.fxg5  Kh8  28.g6  followed by  Qh5.   Or  26...Kh8  27.f5  Ne5  when White wins with  28.f6   or the even stronger  28.Ng6+  !. } 4. f5 Rxf5 { 27...Be5  28.Qh5  +- } 5. Nxf5 Qxf5 6. Rf1 Qd7 7. gxh6 Bxh6 8. Qh5 { With unavoidable mate. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "5.  Ildar Khairullin â Aleksey Goganov (Level 1)"]
+[Result "*"]
+[FEN "r4rk1/1b3ppp/pqn1p3/2npP3/1p3P2/3B1N2/PPP1NQPP/R4R1K w - - 0 1"]
+[SetUp "1"]
+
+{ Find White's best continuation.  @@HeaderStart@@Ildar Khairullin – Aleksey Goganov, St Petersburg 2012@@HeaderEnd@@ } 1. Bxh7+ { +- This sacrifice is a valuable resource in French structures and here it gives White a winning attack. I said I would not cover the Greek Gift in Chapter 21, but I never promised it would not be in the exercise section... } 1... Kxh7 2. Qh4+ Kg8 { Or:  17...Kg6 ?  18.f5+ !  exf5   18...Kxf5  19.Ng3+  Kg6  20.Qh5#  19.Nf4# } 3. Ng5 Rfc8 4. f5 { Bringing the rook into the attack.   Or  19.Qh7+  Kf8  20.Qh8+  Ke7  21.Qxg7  Rf8  22.f5  and White wins. } 4... Nxe5 5. f6 gxf6 6. Rxf6 Kf8 7. Raf1 Rc7 { At this point we shall vary from the game: } 8. R1f5 { The text move wins on the spot, say after: } 8... Ke8 { No better are  23...exf5 ?   or  23...Nc4  24.Rxf7+  Rxf7  25.Rxf7+  Ke8  26.Qh8#  24.Rxb6 } 9. Rxe5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "6.  Eduardo Iturrizaga Bonelli â Vasily Papin (Level 1)"]
+[Result "*"]
+[FEN "r3r1k1/qb2bppp/ppn1pn2/4N3/2NP4/1P1B4/PB2QPPP/2RR2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ How should White proceed?  @@HeaderStart@@Eduardo Iturrizaga Bonelli – Vasily Papin, Moscow 2010@@HeaderEnd@@  White converted his superior coordination into a winning attack after: } 1. Nxf7 Kxf7 2. Ne5+ Nxe5 { Or  17...Kf8  18.Nxc6  Bxc6  19.Rxc6  and wins. } 3. dxe5 Nd5 4. Qh5+ Kf8 5. Qxh7 Bc5 6. Bg6 { Preparing Qh8xg7. } 6... Rec8 7. Qh8+ Ke7 8. Qxg7+ Kd8 { There are many ways to win, and the game finished with: } 9. Rxc5 Rxc5 { Or  24.h4 !?  to promote on  h8. } 10. Qf8+ Kc7 11. Qd6+ Kc8 12. Bf7 Bc6 13. Bxe6+ Kb7 14. Rxd5 Qb8 15. Rxc5 Qxd6 16. exd6 bxc5 17. Bf6 Re8 18. Be7 { The advance f4-f5-f6-f7 is unstoppable. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "7.  Daniel Naroditsky â Gata Kamsky (Level 2)"]
+[Result "*"]
+[FEN "2r2k2/5pp1/4p2p/pprpP2P/5P2/P1PK2R1/1P4P1/5R2 b - - 0 1"]
+[SetUp "1"]
+
+{ What is your evaluation of the position? How should Black proceed?  @@HeaderStart@@Daniel Naroditsky – Gata Kamsky, Saint Louis 2011@@HeaderEnd@@  The position is quite simplified and should be drawn with correct play. Black can gain some practical winning chances if he seizes the initiative with the thematic: } 1... b4 { The slow  28...Rc4 ?!  (preparing ...b5-b4)  is met by  29.f5  exf5  30.Rxf5  b4  31.axb4  axb4  32.Rgf3  R8c7  33.e6 !  f6  34.Rxd5  bxc3  35.bxc3  Rxc3+  36.Ke4  with a likely draw. } 2. axb4 axb4 3. Kd2 { If  30.cxb4  Rc4  =+ and Black is better since  31.f5 ?  no longer works due to  31...Rxb4 !  ∓ threatening  ...Rb3  winning the rook on  g3. } 3... d4 4. Rc1 { An understandable mistake.   White could have secured a draw with:  31.cxb4 !  Rc2+  32.Kd3  Rxb2  33.Ke4 !   but not  33.Kxd4 ?  Rxb4+  34.Ke3  Rc3+  35.Kd2  Rxg3  -+  33...Rxb4  34.Rd3  Rcc4  35.Rfd1 = } 4... Rc4 5. Rf3 dxc3+ { Interesting was:  32...Ke7 !?  =+ } 6. bxc3 Rd8+ 7. Ke2 { Better was  34.Kc2  although it is scary to cut one’s own king off from the kingside pawns. } 7... Re4+ 8. Kf1 { 35.Re3  Rxf4  ∓ } 8... Rc8 { And now the c3-pawn is lost. } 9. g3 Rec4 10. Ke2 bxc3 { And Black was able to exploit his advantage. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "8.  Rafael Leitao â Manuel Robledo (Level 2)"]
+[Result "*"]
+[FEN "r1b1r1k1/1pq2pbp/1npp2p1/p1n5/2PNPP2/1PN1B1PP/P1Q3B1/3RR1K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Find three moves which each obtain a big advantage for White.  @@HeaderStart@@Rafael Leitao – Manuel Robledo, Mar del Plata 2009@@HeaderEnd@@  The advantage is based on White’s ideal piece placement and the vulnerable d6-pawn. The strongest choice is: } 1. e5 { Undermining the knight on c5 and threatening 18.exd6.   White also obtains a big advantage after:  17.Ndb5  cxb5  18.Nxb5  Qe7  19.Nxd6  Nbd7  20.Nxe8  Qxe8  21.e5  ±   Or  17.Ncb5 !  cxb5  18.Nxb5  ± transposing to  17.Ndb5. } 1... dxe5 { 17...Bf8  is refuted by:  18.Ndb5 !  cxb5  19.exd6  Bxd6  20.Nxb5  +- } 2. Nxc6 bxc6 3. Bxc5 { Black’s position is destroyed; the c6-pawn is particularly weak. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "9. Rafael Leitao â Diego Di Berardino (Level 2)"]
+[Result "*"]
+[FEN "2r2rk1/p1q1bppp/2p1pn2/8/2PP2N1/2BR1QP1/P4PKP/4R3 w - - 0 1"]
+[SetUp "1"]
+
+{ How should White proceed?  @@HeaderStart@@Rafael Leitao – Diego Di Berardino, Manaus 2013@@HeaderEnd@@  In addition to the plans described in Chapter 3, if White’s pieces are active enough, then the following break is possible: } 1. d5 { The game continued: } 1... cxd5 2. Nxf6+ Bxf6 3. Bxf6 gxf6 4. cxd5 Qe7 { 25...exd5  doesn’t help:  26.Rd4 !  (threatening Rg4 and Qxf6)  26...Qd8  27.Rxd5  Qb6  28.Re4  Followed by  Rg4  or  Rh5  with a decisive attack. } 5. Qg4+ Kh8 6. dxe6 fxe6 7. Rxe6 { And the game soon turned into a won endgame. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "10.  Bojan Vuckovic â Branko Damljanovic (Level 2)"]
+[Result "*"]
+[FEN "r1r2qk1/1p2pp1p/3p2p1/p1nPb3/4P3/PP2BP2/2RQ2PP/1R3BK1 b - - 0 1"]
+[SetUp "1"]
+
+{ Evaluate the position. How should Black proceed?  @@HeaderStart@@Bojan Vuckovic – Branko Damljanovic, Valjevo 2000@@HeaderEnd@@  Black gains a powerful queenside initiative after: } 1... a4 2. b4 { This causes White to lose control of the c-file.   Better was  22.bxa4 !  Rxa4  23.Qc1  Rca8  24.Ra2  Bd4  when White must fight for equality. } 2... Nb3 3. Qf2 Rxc2 4. Qxc2 Rc8 5. Qf2 Rc3 { Unlike the game Polugaevsky – Ivkov, White cannot prevent a c-file invasion, thus he is certainly worse. } 6. Rd1 Qc8 7. f4 { Better was  27.Bb5  Rc2  28.Qf1  Qa8  , though the threat of  ...Ra2xa3  is promising for Black. } 7... Rc2 8. Qf3 Bg7 { Or  28...Bb2 !?  is equally strong.  White’s position is hopeless, as his pieces are trapped in a cage and the a3-pawn will be lost. } 9. Bb5 Ra2 10. Bxa4 Rxa3 11. Bb6 { 31.Bxb3  doesn’t help after  31...Rxb3  32.Qe2  Qc3  33.Bd2  Qd4+  34.Kf1  Rb2 } 11... Qc2 { Even stronger is  31...Qc4 !  and Black is winning. } 12. Qd3 Qxd3 13. Rxd3 Ra1+ 14. Kf2 Nc1 15. Rd1 Rxa4 16. Rxc1 Rxb4 { And Black later exploited his advantage. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "11.  Arik Braun â Rainer Polzin (Level 2)"]
+[Result "*"]
+[FEN "r1b2rk1/3nqpbp/p1pp1np1/1p2p3/2PPP3/2N2NPP/PPQ2PB1/R1BR2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ How should White proceed?  @@HeaderStart@@Arik Braun – Rainer Polzin, Germany 2008@@HeaderEnd@@  One of White’s standard plans in this position is the c4-c5 break. This idea is often stronger once Black has played ...b7-b5 because the c6-pawn becomes vulnerable, hence: } 1. c5 { This yields a big advantage to White. } 1... dxc5 { Worse is:  12...exd4  13.cxd6  Qxd6  14.Nxd4  Qc7  15.Bf4  Qb6  16.e5  +- } 2. dxe5 Nxe5 3. Nxe5 Qxe5 4. Bf4 Qe6 5. Bd6 Re8 { Aggravating the situation.   A better try was:  16...Rd8  17.Bxc5   17.e5 ?!  Ne8  17...Bb7  18.f4  Nd7  19.Bd6  ± } 6. e5 Nd7 7. f4 Bb7 8. Ne4 { White has a decisive advantage, which he exploited as follows: } 8... f6 9. Bxc5 Rad8 10. Nd6 Nxc5 11. Nxe8 Qxe8 12. Qxc5 fxe5 13. fxe5 Rxd1+ 14. Rxd1 Bxe5 15. Qb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "12.  Alvar Rosell â Predrag Nikolic (Level 2)"]
+[Result "*"]
+[FEN "r2q1rk1/pb1n2pp/1pp1pb2/3p1p2/NPPPn3/5NP1/PBQ1PPBP/R2R2K1 b - - 0 1"]
+[SetUp "1"]
+
+{ How should Black proceed?  @@HeaderStart@@Alvar Rosell – Predrag Nikolic, Barcelona 2012@@HeaderEnd@@  Black’s biggest problem in the Stonewall is making use of his light-squared bishop. A good solution is: } 1... Ba6 { A decent alternative is  14...a5 !?  15.a3  Ba6  16.c5  Bc4 } 2. c5 Bc4 3. e3 b5 { Now that Black’s bad bishop is outside the chain, it makes sense to close the queenside. } 4. Nc3 a5 5. a3 a4 { The queenside is completely closed and now ...Bb3 is a threat. } 6. Nd2 Nxd2 7. Rxd2 g5 { =+ Black is ready to launch a kingside attack while White cannot execute any of his standard plans. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "13.  Piotr Dzieczkaniec â Bartlomiej Macieja (Level 2)"]
+[Result "*"]
+[FEN "r2qr1k1/pb2bp1p/1pn1p1pB/8/3PB3/2P2N2/P1Q2PPP/3R1RK1 w - - 0 1"]
+[SetUp "1"]
+
+{ What should White play?  @@HeaderStart@@Piotr Dzieczkaniec – Bartlomiej Macieja, Wroclaw 2011@@HeaderEnd@@  When White has a hanging-pawns structure and his pieces are actively placed, then the d4-d5 break is both natural and strong: } 1. d5 exd5 2. Bxd5 { Black’s position is very delicate, due to multiple threats, including Bxf7+. } 2... Qc7 { An understandable mistake in a difficult position.   The only defence was  17...Qc8  18.Qd2  Qf5  19.Rfe1  += when White has a pleasant position. } 3. Bxf7+ { +- White gains a decisive attack. } 3... Kxf7 4. Qb3+ Kf6 5. Ng5 { Another winning path was  20.g4. } 5... Bf8 6. Bxf8 Kxg5 { 21...Rxf8  is also inadequate due to:  22.Qe6+ !  Kxg5   or  22...Kg7  23.Rd7+  23.f4+ !  Kh6   or  23...Rxf4  24.Rd5+  Kh6  25.Qh3+  Kg7  26.Rd7+  24.Rd7 !  Qxd7   24...Qc8 ??  25.Qh3#  25.Qxd7  And White wins. } 7. f4+ { After the text move, White’s attack is easily winning, for example: } 7... Kf5 { Or  22...Kf6  23.Rd6+  Kf5  24.Qd5+  and wins. } 8. Bd6 Qg7 9. Qd5+ Kf6 10. Be5+ Nxe5 11. fxe5+ Kg5 12. Qd2+ Kh5 13. g4+ { Forcing mate. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "14.  Aleksander Mista â David Navara (Level 2)"]
+[Result "*"]
+[FEN "r4rk1/1p1b2qp/p1nbp1p1/3p3n/3P3B/2N2N2/PPR2PPP/1B1QR1K1 b - - 0 1"]
+[SetUp "1"]
+
+{ White's last move was 18.Rc1-c2. How should Black respond?  @@HeaderStart@@Aleksander Mista – David Navara, Czech Republic 2005@@HeaderEnd@@ } 1... Rxf3 { ∓ This sacrifice is a thematic idea in the French Type I structure. Here it works particularly well because White’s pieces are poorly placed; it looks as if White was not expecting this blow. } 2. gxf3 { Or  19.Qxf3  Nxd4  when Black has an extra pawn after  20...Nxc2. This is why18.Rc2  was a bad idea. } 2... Nxd4 3. Rd2 Bc5 4. Bg3 Rf8 5. Rd3 Qf6 6. Kg2 Nf4+ 7. Bxf4 Qxf4 8. Ne4 Bb6 9. Ng3 e5 { White’s position is catastrophic; the pressure against the doubled f-pawns decides the game. } 10. Rde3 Kh8 11. Qd3 { 28.Rxe5  is of no help:  28...Nxf3  29.Rxd5  Nxe1+  30.Qxe1  Qf3+  31.Kg1  Bxf2  +-+ } 11... e4 12. Qc3 Rf6 { Preparing ...Nxf3. } 13. Nxe4 dxe4 14. Bxe4 Bc7 15. Rh1 Bb5 16. h4 Ne2 17. Qc5 Ng3 18. Bxb7 Nxh1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "15.  Ralf Akesson â Artur Gabrielian (Level 2)"]
+[Result "*"]
+[FEN "3qr1k1/4rpbp/pp1p1np1/2pP4/PnB1PP2/1QN2N1P/1P1B2P1/R3R1K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Black's last move was 17...Ra7-e7. How should White reply?  @@HeaderStart@@Ralf Akesson – Artur Gabrielian, Pardubice 2010@@HeaderEnd@@  White’s main plan in the asymmetric Benoni is the break e4-e5. In this position Black has failed to prevent it, so after checking some variations we should be confident to proceed with: } 1. e5 { The game continued with: } 1... Nd7 { 18...dxe5  doesn’t help after  19.fxe5  Nd7  20.Bg5 } 2. Ne4 b5 { Desperation.   Instead  19...dxe5  is met by  20.d6 !  Re6  21.Neg5  Nf8  22.fxe5  and White will win. } 3. axb5 axb5 4. Bxb5 dxe5 5. d6 Re6 6. Nfg5 { White is winning at least an exchange, and the game finished quickly afterwards. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "16.  Emilio Cordova â Alexis Cabrera (Level 2)"]
+[Result "*"]
+[FEN "r1b2rk1/pp1nqpb1/2p1p1pp/8/2PPN3/3B1N2/PP3PPP/R2QR1K1 w - - 0 1"]
+[SetUp "1"]
+
+{ What is White's thematic continuation in this position?  @@HeaderStart@@Emilio Cordova – Alexis Cabrera, Yucay 2001@@HeaderEnd@@  Since Black’s light-squared bishop is inside the pawn chain, it makes sense to further restrict this bishop with: } 1. c5 { And now: } 1... b6 { Hoping to undermine the c5-pawn and opening space for the bishop on c8, but weakening the c6-pawn.   The alternative  13...Nf6  is met by  14.Nd6  Ne8  15.Nc4  when White has pleasant control of many key squares. } 2. b4 a5 3. a3 { This gives White a small but durable advantage, due to the strong d6-square and the weak c6-pawn. White eventually won. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "17.  Robert Cvek â David Navara (Level 2)"]
+[Result "*"]
+[FEN "r2r2k1/pp2qppp/4b3/3p4/3Q4/1PN1P3/P4PPP/R4K1R b - - 0 1"]
+[SetUp "1"]
+
+{ Evaluate the position and suggest a continuation for Black.  @@HeaderStart@@Robert Cvek – David Navara, Ledec nad Sazavou 2013@@HeaderEnd@@  Black is doing very well despite the isolated queen pawn and the simplified position. The reason is that White does not quite have enough time to organize his pieces and fight for the c-file. The right continuation is: } 1... Rac8 2. Ke2 { Connecting the rooks.   The try  20.Rc1  is met by  20...Rc6  21.Ke2  Rdc8  22.Kd2  Qc7  ∓ with strong pressure. } 2... Qg5 { 20...Rc6 !?  is strong too. } 3. g3 Bg4+ 4. Kd2 { This makes things easier for Black.   White was losing a pawn after:  22.f3  Bxf3+  23.Kxf3  Qf5+  24.Ke2  Qc2+  25.Qd2  Rxc3  ∓ } 4... Rc4 { Creating a decisive attack. } 5. Qxa7 { 23.bxc4  dxc4  is also disastrous for White. } 5... Qf6 6. bxc4 dxc4+ 7. Kc2 Qxf2+ 8. Kc1 Bf5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "18.  Jan Sprenger â David Navara (Level 2)"]
+[Result "*"]
+[FEN "2r1k2r/1pq1bpp1/p2pb2p/4p3/4P3/3QN3/PPP2PPP/R1B2RK1 b k - 0 1"]
+[SetUp "1"]
+
+{ Find Black's best continuation.  @@HeaderStart@@Jan Sprenger – David Navara, Sibenik 2012@@HeaderEnd@@  White is behind in development and Black is ready to win a queenside pawn with: } 1... Bc4 { The imprecise  15...O-O  would allow White to stabilize his position after  16.c3  b5  17.Rd1  Qc6  18.Nd5  Bd8  19.Be3  with a balanced game. } 2. Nxc4 Qxc4 { This theme is quite common in the Najdorf Type II, and now after: } 3. Qf3 { Or  17.Qxc4  Rxc4  18.c3  Rxe4  and Black is clearly better. } 3... Qxc2 { White did not have enough compensation for the pawn. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "19.  Julio Granda Zuniga â Luis Latorre Lopez Moreira (Level 2)"]
+[Result "*"]
+[FEN "1b3rk1/pb1n1ppp/2rq1n2/2pp1B2/N7/1P2P1P1/PB1N1P1P/2RQR1K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Find White's strongest continuation.  @@HeaderStart@@Julio Granda Zuniga – Luis Latorre Lopez Moreira, Cochabamba 2013@@HeaderEnd@@ } 1. e4 { This break destroys the hanging pawns, yielding White a big advantage. } 1... Re8 { Black is losing a pawn after  19...dxe4  20.Nxe4  Qxd1  21.Rexd1  Nxe4  22.Bxe4  Rc7  23.Bxb7  Rxb7  24.Nxc5.   19...d4  20.Nc4  Qc7  21.e5  Nd5  22.Be4  leaves Black’s pieces awkwardly arranged. For example,  22...N5b6  23.Naxb6  axb6  24.Nd6 !  Ba8  25.Nb5  Qc8  26.f4  and White should win, as he is threatening the strong Qf3-Nxd4. } 2. f4 dxe4 { Or  20...Qc7  21.exd5  Rxe1+  22.Qxe1  Nxd5   22...Rd6  23.Be5 !  Nxe5  24.fxe5  +-  23.Qe8+  Nf8  24.Be5  Qa5  25.Nc4  winning a piece. } 3. Nxe4 Qc7 4. Bxf6 { Black resigned as the material loss is unavoidable. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "20.  Krisztian Szabo â Mauricio Flores Rios (Level 2)"]
+[Result "*"]
+[FEN "2rq1rk1/1b1nbppp/pp1ppn2/8/2PNPP2/2NB4/PP1BQ1PP/4RRK1 b - - 0 1"]
+[SetUp "1"]
+
+1... d5 { Analyze the position and find White's best reaction.  @@HeaderStart@@Krisztian Szabo – Mauricio Flores Rios, Belfort 2005@@HeaderEnd@@  I spent about thirty minutes calculating the sharp continuations after my ...d5 advance, but it did not occur to me that White had a simple and strong thematic reply: } 2. cxd5 { My opponent only spent seconds on this move.   Instead  15.exd5 ?  is met by  15...Bc5 !  16.Be3  exd5  when Black is obviously doing fine, for example:  17.cxd5  Re8  18.Nc2  b5  19.Qf3  b4  20.Ne4  Bxd5  =+   I carefully analyzed  15.e5 ?  though I concluded that after  15...dxc4  16.Bxc4   16.exf6 ??  cxd3  -+  16...Nxe5 !  17.Nxe6  Qxd2 !?   or  17...fxe6 !  ∓  18.Qxd2 ?  Nxc4  =+ Black is doing well. } 2... Nc5 3. Bb1 { I only calculated  16.e5 ?  Nxd5  17.Bb1  g6  when Black is doing fine. } 3... exd5 4. e5 { This is the point! Instead of wasting time calculating bad ideas, White’s thematic reply gives him a better game. Black is left with an isolated queen pawn and a bad bishop on b7. } 4... Nfe4 5. Nf5 Re8 { Accelerating the loss. Instead, correct was:  18...g6  19.Nxe4  Nxe4  20.Nxe7+  Qxe7  21.Be3  += } 6. Qg4 { White has a winning attack. } 6... g6 { 19...Bf8 ??  loses to  20.Nh6+  Kh8  21.Nxf7+.   More stubborn was  19...Ne6  20.Nxe4  dxe4  21.Be3  Kh8  though after  22.Rd1  Qc7  23.Nxe7  Qxe7  24.Rd6  White dominates, and should win. } 7. Nh6+ Kg7 { Or  20...Kf8  21.f5  and White is winning. } 8. f5 { Black is defenceless and the game finished: } 8... Nxd2 9. fxg6 Kxh6 { 22...fxg6  23.Rf7+  Kxh6  24.Rxh7+ !  Kxh7  25.Qxg6+  Kh8  26.Qh7#   and  22...Nxf1  23.Nf5+  Kh8  24.g7+  Kg8  25.Nh6#  were not improvements. } 10. Rxf7 Rh8 11. Re3 Bh4 12. Rh3 Nxb1 13. Rxh4+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "21.  Penteala Harikrishna â Leinier Dominguez (Level 2)"]
+[Result "*"]
+[FEN "6k1/pb3p1p/1p2pbpP/n7/3PP3/3B4/P3NPP1/2B3K1 w - - 0 1"]
+[SetUp "1"]
+
+{ White's last move was 23.e4-e5. Evaluate this move and describe how the game may develop.  @@HeaderStart@@Penteala Harikrishna – Leinier Dominguez, Melilla 2011@@HeaderEnd@@  As explained in Chapter 7, the move e4-e5 can be useful to create mating threats. But in an endgame, this move can be more weakening and, as in the game Vovk – Volokitin, we would expect Black to establish a blockade on d5 and then create a decisive passed pawn on the queenside. This is exactly what happened after: } 1. e5 Be7 2. Nc3 Nc6 3. Be4 { An option was  25.Be3  Nb4  26.Bb1  Nd5  27.Nxd5  Bxd5  =+ when Black will transfer his king to the queenside and then advance his majority. } 3... Bb4 { To gain control of d5. } 4. Bxc6 Bxc6 5. Nd1 Be7 6. f3 f5 { Preventing the manoeuvre Nf2-e4, as well as a possible kingside expansion. } 7. Nf2 { White would also be in trouble after:  29.exf6  Bxf6  30.Be3  b5  31.a3  a5  32.Kf2  Kf7  ∓ } 7... Bd5 { Black has blocked the d-pawn and now is ready to create a passed pawn on the queenside. } 8. a3 Bc4 { Preventing 31.Nd3. } 9. Nh3 b5 10. Kf2 a5 11. Ke1 a4 12. Kd2 b4 13. axb4 Bxb4+ 14. Kc2 a3 15. Nf4 g5 16. Nd3 a2 17. Bb2 Bf8 18. Nc5 Bxh6 { Black has a clear extra pawn and the game concluded with: } 19. Kc3 Bd5 20. Nd7 Bg7 21. Nb6 h5 22. Nxd5 exd5 23. Kb3 g4 24. Kxa2 Bh6 { To follow up with 47...gxf3 and promoting the h-pawn. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "22.  Konstantin Landa â Ruslan Ponomariov (Level 3)"]
+[Result "*"]
+[FEN "2rq1rk1/3b1pbp/p1n1p1p1/1p6/P2PP3/3BB3/3QNPPP/2R2RK1 b - - 0 1"]
+[SetUp "1"]
+
+{ White played 16.a4. Is this a good move? If not, how should White have played instead?  @@HeaderStart@@Konstantin Landa – Ruslan Ponomariov, Sochi 2012@@HeaderEnd@@  White should have played something like 16.Rc3, with a tiny advantage. Instead, 16.a4 was a big mistake and after: } 1... bxa4 { Of course not  16...Rb8 ?  17.axb5  axb5  18.Rc5  += as the b-pawn is more a weakness than a strength. } 2. Bxa6 Ra8 { All White accomplished was giving Black a passed pawn on the fifth. } 3. Bc4 { 18.Bb7 ?  is met by  18...Na5 !  19.Bxa8  Nb3  20.Qd3  Nxc1  21.Rxc1  Qxa8  ∓ when the passed a4-pawn is very strong. } 3... Qa5 4. Nc3 { If  19.Qxa5  Nxa5  20.Bd3  Rfc8  21.Rxc8+  Rxc8  22.Ra1  Bf8  ∓ Black is preparing  ...a4-a3  with a very good position. } 4... Rfc8 5. Rfd1 a3 { The continuation was: } 6. h3 Rab8 7. Bh6 { Desperation, but after instead  22.Qe1  Rb2  23.Bf1  Nb4  Black would win as  ...a3-a2  would soon follow. } 7... Rb2 8. Qf4 Bxh6 9. Qxh6 Ne7 { And now Black wins a piece. } 10. e5 Nf5 11. Qf4 Rxc4 { White resigned a few moves later. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "23.  Vladimir Kramnik â Loek van Wely (Level 3)"]
+[Result "*"]
+[FEN "2R5/prn2n1k/3p1b2/2pPp3/2P1Pp2/P1NN4/5BP1/5K2 w - - 0 1"]
+[SetUp "1"]
+
+{ How should White proceed?  @@HeaderStart@@Vladimir Kramnik – Loek van Wely, Wijk aan Zee 2010@@HeaderEnd@@  White has a slightly superior endgame, but in order to realize the advantage, the best continuation is the thematic piece sacrifice: } 1. Bxc5 { ± This gives White two passed pawns for the piece. } 1... dxc5 2. Nxc5 Nd6 3. Nxb7 Nxc8 4. c5 Na6 5. Ke2 { As Krasenkow points out,  44.d6 ?  loses the advantage after:  44...Nxc5 !  45.Nxc5  Nxd6 =   But a valid alternative was  44.Nb5 !?  ± preparing c5-c6 and d5-d6. } 5... Kg6 6. Nb5 { 45.Kd3 ?  This move allows counterplay.  45...Be7   Black had time for  45...Kf7 !?  46.Kc4  Ke7  followed by  ...Kd7  , with the point that  47.c6 ?   But instead  47.Nb5 !?  += is still promising.  47...Nc7 !   preventing  48.Nb5  48.Kc5  Na6+  49.Kc4  Nc7  seems drawish.  46.Na4   But not  46.Kc4 ?  Bxc5 !  since  47.Nxc5 ?  loses to  47...Nd6+  48.Kd3  Nxc5+.  46...Kg5 !  A good decision; passive defence was doomed so Black will go for the g2-pawn.  47.Kc4  Bxc5 ?  A miscalculation; Black now loses by one move.   As Krasenkow points out, Black could make a draw with  47...Nxc5 !  48.Naxc5  Kg4  and now a sample variation is:  49.Nd3  Bxa3 !  50.Nxe5+  Kg3  51.Nd3  Kxg2  52.e5  f3  53.d6  f2  54.Nxf2  Kxf2  55.Kd5  Bxd6  !!1  48.Naxc5  Nxc5  49.Kxc5  Kg4  50.d6  Nb6  51.Kc6  Kg3  52.Nc5  Kxg2  53.d7  Nxd7  54.Nxd7  f3  55.Nxe5  f2  56.Ng4  And Black resigned in view of  56...f1  =Q  57.Ne3+ } 6... Kf7 7. c6 Be7 8. d6 Nxd6 9. N7xd6+ Bxd6 10. Nxd6+ Ke6 11. Nc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "24.  Sandro Mareco â Ivan Ivanov (Level 3)"]
+[Result "*"]
+[FEN "r5k1/1rq1n1b1/p2p1n2/2pPp1pp/N1P1Pp2/P4P2/3BQNPP/1R3RK1 w - - 0 1"]
+[SetUp "1"]
+
+{ Black’s last move was 21...Rb8-b7. Was this a good move? How should White reply?  @@HeaderStart@@Sandro Mareco – Ivan Ivanov, Buenos Aires 2009@@HeaderEnd@@  Moving the rook to b7 was not a good move, as now White can gain control of the b-file after: } 1. Ba5 Qb8 2. Qc2 { Gaining a crucial tempo; White will trade on b7 and bring the other rook to b1, ‘winning’ the file.   But not  23.Rxb7 ?  Qxb7  24.Qc2  Rb8  when Black is still fighting for the open file. } 2... Nd7 { 23...Raa7 ?  is met by  24.Bb6  Ra8  25.Bxc5 !  ± and, similarly to a previous exercise, the central passed pawns create a near-winning position. } 3. Rxb7 Qxb7 4. Rb1 Qc8 { More stubborn is  25...Qa7. } 5. Nb6 Nxb6 6. Rxb6 { The d6-pawn is a serious problem. Note how Black is in trouble because he played ...a7-a6; this is similar to Mareco – Cori from Chapter 15. } 6... Qd7 7. Qb3 Ra7 8. Rb8+ Nc8 9. Qb6 Bf8 { And now the simple winning move was: } 10. Qd8 { This would have decided the game quickly: } 10... Qxd8 11. Bxd8 Ne7 12. Nh3 g4 13. Bxe7 Rxe7 14. Ng5 { With 36.Ne6 to follow. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "25.  Sam Collins â Bartlomiej Macieja (Level 3)"]
+[Result "*"]
+[FEN "r2q1rk1/pp2ppbp/2n3p1/8/3P4/2PB1Q1P/P4PP1/R1B1R1K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Evaluate the position and find Black’s strongest continuation.  @@HeaderStart@@Sam Collins – Bartlomiej Macieja, Freemont 2012@@HeaderEnd@@  White has the bishop pair in a hanging-pawns structure, which is often enough for an advantage. If Black desires to fight back, he must achieve one of the typical breaks against the hanging pawns. The best way to do this is: } 1... Qa5 { 13...e5 ?  is met by:  14.Ba3  Re8  15.d5  Na5  16.Bb5  ± } 2. Bb2 { Instead  14.Bd2  walks into a pin as  14...Nxd4 !  shows. } 2... e5 { Forcing the creation of weaknesses. } 3. d5 { Worse is  15.dxe5  Nxe5  16.Qg3  Nxd3  17.Qxd3  Rfe8  =+ when the c3- and a2-pawns are chronic weaknesses. } 3... Ne7 4. d6 { Black is also doing well after  16.Bc4  Nf5  17.Bb3  Nd6  18.c4  e4  19.Qe2  Bxb2  20.Qxb2  Rac8  when the c4-d5 chain is quite vulnerable. } 4... Nc8 5. Qxb7 Nxd6 { The game continued: } 6. Qb4 { Better is  18.Qa6  Qxa6  19.Bxa6  Rab8  20.Ba3  Rb6  21.Bf1  Rc8  22.Rad1  when White manages to maintain equality. } 6... Qd5 7. Rad1 Rab8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "26.  Lubomir Ftacnik â Ognjen Cvitan (Level 3)"]
+[Result "*"]
+[FEN "r1b3k1/ppp2rbn/1P1P2n1/P3p2p/2N1Pp1q/2N2Pp1/4B1PP/R2Q1RBK b - - 0 1"]
+[SetUp "1"]
+
+{ How should Black continue, and what is the evaluation of the position?  @@HeaderStart@@Lubomir Ftacnik – Ognjen Cvitan, Germany 1997@@HeaderEnd@@  White’s queenside attack has been a success and Black’s best practical chance is: } 1... Bh3 { Creating a last-minute tactical threat, and forcing White to make a difficult choice. } 2. bxc7 { Blundering away a full point.   Correct was  23.gxh3 !  Qxh3  24.Rf2 !  gxf2  25.Bxf2  when Black has gained an exchange, but is nevertheless close to losing. } 2... Bxg2+ 3. Kxg2 Qh3+ { This is the trick White probably missed.   Instead  24...Ng5 ?  loses after  25.Kh1  Qh3  26.Rf2  gxf2  27.Bxf2 } 4. Kxh3 { 25.Kh1  g2#  was White’s fastest route to the exit. } 4... Ng5+ 5. Kg2 Nh4+ { White resigned in view of  27.Kh1  g2#. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "27.  Axel Bachmann â Jorge Britez (Level 3)"]
+[Result "*"]
+[FEN "r4rk1/pb1n1ppp/1ppqp3/8/2PPQ3/5NP1/PP3PBP/R2R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Find White’s thematic response in this position.  @@HeaderStart@@Axel Bachmann – Jorge Britez, Foz do Iguacu 2013@@HeaderEnd@@  Black’s bishop is useless on b7 for the moment, but may become powerful after a potential ...c6-c5. Thus, it makes sense to play: } 1. c5 { Turning the c6-pawn into a weakness, and locking Black’s light-squared bishop out of the game.   A similar continuation was:  15.Ne5 !?  Rac8  16.c5 !  Qc7  17.b4  += } 1... Qe7 { The key to White’s previous move is that after  15...bxc5 ?!  16.dxc5  the c5-pawn is immune:  16...Qe7   16...Nxc5 ?  fails to  17.Qb4 !  Qe7  18.Rdc1  winning a piece   and  16...Qxc5 ?  17.Rxd7  is obvious  17.Ne5 !  Nf6   or  17...Nxc5  18.Qb4 !  ±  18.Qe3  ± White has a huge advantage. } 2. b4 { Supporting the c5-pawn. } 2... a5 3. a3 Nf6 { 17...axb4  is inadequate after  18.axb4  Rxa1  19.Rxa1  Ra8  20.Rxa8+  Bxa8  due to  21.Qf4 !  threatening  Qc7  , and winning because of the weak c6-pawn and d6-square. } 4. Qh4 b5 5. Ne5 Nd5 { Accelerating White’s win.   A better defence was  19...Qc7. } 6. Qxe7 Nxe7 7. a4 { +- White is winning thanks to the pressure along the h1-a8 diagonal, and the weakness of the c6-pawn. } 7... axb4 8. axb5 Rxa1 9. Rxa1 Ra8 10. Rb1 { White won the game a few moves later. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "28.  Jakov Geller â Denis Khismatullin (Level 3)"]
+[Result "*"]
+[FEN "2r1k2r/2q1bpp1/p1bp1n2/1p2pP1p/2n1P3/P1NN1B2/1PP1QBPP/3R1RK1 b k - 0 1"]
+[SetUp "1"]
+
+{ Find the strongest continuation for Black.  @@HeaderStart@@Jakov Geller – Denis Khismatullin, Taganrog 2013@@HeaderEnd@@  Black’s main plan in the Najdorf Type II is the central break ...d6-d5. White’s knight on c3 is currently preventing this objective, therefore it makes sense to play: } 1... Bd7 { And now: } 2. Nb1 d5 { Black takes the lead. } 3. exd5 { A better choice was  20.Nd2  dxe4  21.Nxe4  Bxf5  22.Nxf6+  Bxf6  =+ even though White does not have enough compensation. } 3... Bxf5 4. b3 e4 5. bxc4 exf3 6. gxf3 O-O { Black has a big advantage due to the bishop pair, his safer king and much superior piece coordination. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "29.  Rodrigo Vasquez â Adan Rios (Level 3)"]
+[Result "*"]
+[FEN "r2qr1k1/pbp2pbp/1p1p1np1/2n5/2PNP3/2N2PPP/PP4B1/1RBQR1K1 b - - 0 1"]
+[SetUp "1"]
+
+{ How should Black create counterplay?  @@HeaderStart@@Rodrigo Vasquez – Adan Rios, Santiago 2010@@HeaderEnd@@  The Open King’s Indian structure offers an advantage to White once he manages to stabilize his position. Here Black is tactically prepared to break in the centre, and he obviously must not miss this chance. The strongest move is: } 1... d5 { This break is usually very difficult to carry out, but when it works it has a spectacular effect, destroying White’s apparently solid centre.   A move such as  13...Nh5 ?!  14.Kh2  Qe7   but  14...f5 !?  is a worthy alternative, breaking White’s centre  15.Be3  would allow White to consolidate his position and slowly improve as in the game Meier – Feller. } 2. b4 { If  14.exd5  Rxe1+  15.Qxe1  Nxd5 !  it is Black who ends up with an extra pawn after:  16.cxd5   even worse is  16.Nde2 ?  Nd3  17.Qf1  Nxc3  18.bxc3  Qd6  -+  16...Bxd4+  17.Kh2  Bxd5  ∓   The optimistic  14.e5 ?  loses on the spot due to  14...dxc4 !  15.exf6  Rxe1+  16.Qxe1  Qxd4+  17.Be3  Qxf6. } 2... Nfxe4 { This crucial shot turns the balance in Black’s favour.   Instead, the game continued with  14...Ncd7 ?  allowing  15.cxd5  Nxd5  16.Nxd5  Bxd5  17.f4  when White is back on his feet and fighting for a tiny edge. } 3. fxe4 dxc4 4. Be3 { No better was:  16.bxc5  Bxd4+  17.Re3  Bxc5  18.Qe1  Qf6  19.Kh2  Bxe3  20.Bxe3  Rad8  ∓ } 4... Nd3 5. Nde2 Nxe1 6. Qxe1 Qe7 { White has only two knights for a rook and two pawns, in addition to a weak pawn structure and poor coordination. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "30.  Tigran Gharamian â Nidjat Mamedov (Level 3)"]
+[Result "*"]
+[FEN "1rq2rk1/1pp2p2/p1np1bp1/7p/2P1PP2/6PP/PP3QB1/2BRR2K w - - 0 1"]
+[SetUp "1"]
+
+{ How should White use his spatial advantage?  @@HeaderStart@@Tigran Gharamian – Nidjat Mamedov, Aix-les-Bains 2011@@HeaderEnd@@  This version of the Open King’s Indian structure is not especially favourable for White since two pairs of minor pieces are off the board already and the d6-pawn is supported. Hence, it is wise for White to change the structure favourably with: } 1. c5 { ± } 1... Qe6 { 24...dxc5  is met by  25.Qxc5  with strong pressure, and now a possible continuation is  25...Qe6  26.e5  Be7  27.Qd5  Rbd8  28.Qxe6  fxe6  29.Be3  ± with the positional threat of  Bxc6  followed by  Rc1. } 2. cxd6 cxd6 { Now the d6-pawn is a permanent weakness and White won comfortably. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "31.  Renato Quintiliano â Sandro Mareco (Level 3)"]
+[Result "*"]
+[FEN "2bqr1k1/1pbn1ppp/2pp1n2/8/2P1PP2/1PN1B1PP/2N3BK/Q3R3 b - - 0 1"]
+[SetUp "1"]
+
+{ How can Black find counterplay?  @@HeaderStart@@Renato Quintiliano – Sandro Mareco, Maringa 2012@@HeaderEnd@@  Unlike the typical Open King’s Indian, Black’s dark-squared bishop is on c7, and might eventually attack along the b8-h2 diagonal. In addition, White’s kingside is a little vulnerable, and now Black’s strongest move is: } 1... h5 { The game continued: } 2. Rd1 { Safer was  21.Qd1  Qe7  22.Bf2  h4  23.g4  though after  23...g5 !?  24.fxg5  Qe5+  25.Kg1  Qxg5  Black has good counterplay. } 2... Qe7 3. Qa3 h4 4. gxh4 { Correct was  23.g4  g5 !  24.Kh1   but not  24.fxg5 ?  Qe5+  25.Kg1  Qxc3  26.gxf6  Qxc2  and Black wins  24...gxf4  25.Bxf4  Nc5  though White must be fighting for equality. } 4... Nh5 { White’s kingside is severely weakened, and Black won convincingly after: } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "32.  Walter Arencibia â Raimundo Vera (Level 3)"]
+[Result "*"]
+[FEN "3qr1k1/3n1pbp/3p2p1/1p1P4/2p1PPP1/1r2BB1P/1P2RQK1/R7 b - - 0 1"]
+[SetUp "1"]
+
+{ Black has an excellent position. How can he consolidate his lead?  @@HeaderStart@@Walter Arencibia – Raimundo Vera, Havana 1986@@HeaderEnd@@  White’s bishop is currently useless on f3 but could come into the game after g4-g5 and Bg4. White needs a central break to gain counterplay, so Black chooses: } 1... g5 { -+ This is powerful and logical as it undermines White’s e4-e5 break. In fact, White cannot execute any of his standard anti-Benoni plans, and Black’s undisputed control of the dark squares gives him a decisive advantage already. } 2. Ra7 { 24.fxg5  is no good after  24...Ne5  25.Ra2  Nd3  26.Qg1  Bxb2  when the queenside pawns decide the game. } 2... gxf4 3. Bxf4 Ne5 4. Bxe5 { Or  26.Be3  Nd3  27.Qf1  Bxb2  and wins. } 4... Bxe5 { The game concluded: } 5. h4 Qf6 6. g5 Qf4 7. Bh5 Qh2+ 8. Kf1 Qh1+ { White resigned since after  31.Qg1  Qxg1+  32.Kxg1  Bd4+  the rook on  a7  is lost. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "33.  Vladimir Kramnik â Judit Polgar (Level 3)"]
+[Result "*"]
+[FEN "b1r2rk1/p2q1ppp/1pp1pn2/2Pp4/Q2P4/6P1/PP1NPPBP/2R2RK1 w - - 0 1"]
+[SetUp "1"]
+
+{ How should White proceed?  @@HeaderStart@@Vladimir Kramnik – Judit Polgar, Dortmund 1997@@HeaderEnd@@  The key is Black’s locked-in light-squared bishop. White should transform the structure with: } 1. e4 dxe4 2. Nxe4 { This position should remind us of White’s convincing victory in Ivanisevic – Ascic. } 2... Nxe4 { Of course there is no point in  16...Nd5 ?  17.Nd6  ± since White’s knight has a much better outpost than Black’s. } 3. Bxe4 { The game continued: } 3... Rfd8 4. Rfd1 Qc7 5. b4 g6 6. Qa3 Qe7 7. Qf3 { The reader should note how White’s d4-pawn is not any weaker than Black’s c6-pawn. } 7... b5 { Instead the text move worsens Black’s position and after: } 8. a4 { ± White has a clear advantage which he exploited convincingly. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "34.  Julio Granda Zuniga â Gilberto Milos (Level 3)"]
+[Result "*"]
+[FEN "r1b3qk/p1p3r1/3p1n1b/PP1Pp1pp/R3Pp1n/2N2P1P/4BNPK/3QBR2 b - - 0 1"]
+[SetUp "1"]
+
+{ Find Black’s strongest continuation.  @@HeaderStart@@Julio Granda Zuniga – Gilberto Milos, Quito 2012@@HeaderEnd@@  Black gains a decisive attack after: } 1... Nxg2 { -+ This is the most precise.   The game continued with  24...g4 !?  which is also strong. For example:  25.fxg4   a better try is  25.Nxg4  but after  25...Nxg2 !  26.Nxh6  Qh7  Black is winning anyway  25...hxg4  26.Nxg4  Nxg4+  27.hxg4  Nxg2 !  With a crushing attack. } 2. Kxg2 g4 3. fxg4 hxg4 4. Nxg4 { Or  27.Rh1  f3+  28.Bxf3  gxf3+  29.Kxf3  Rg3+  30.Ke2  Re3+  31.Kf1  Bd7  followed by  ...Qf7  and  ...Rf8  with a decisive attack. } 4... Nxg4 5. Bxg4 Bxg4 6. hxg4 Rxg4+ 7. Kh1 { 30.Kf3 ?  loses on the spot after  30...Rg2 !  followed by  ...Qg4#. } 7... Qg6 { For example: } 8. Qe2 Rg8 9. Qh2 Rg2 10. Qh3 Rg1+ 11. Kh2 f3 { Threatening ...Qg2. } 12. Ra2 Rxf1 13. Qxf1 Bf4+ 14. Kh1 Qh5+ 15. Rh2 Qxh2# *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "35.  Vladimir Epishin â Ognjen Cvitan (Level 3)"]
+[Result "*"]
+[FEN "r5k1/ppp2rbn/1P4n1/PN1Pp2p/2N1Pp1q/5Ppb/4B1PP/R2Q1RBK w - - 0 1"]
+[SetUp "1"]
+
+{ Black’s last move was 22...Bh3. What is your evaluation of the position? How should White proceed?  @@HeaderStart@@Vladimir Epishin – Ognjen Cvitan, Switzerland 1997@@HeaderEnd@@  We have seen a similar set-up in Ftacnik – Cvitan. Black’s threat is ...Bxg2+ followed by forced mate, so White should reply: } 1. gxh3 { Instead, the game finished:  23.Re1 ??  Bxg2+ !  24.Kxg2  Qh3+ !  25.Kxh3  Ng5+  26.Kg2  Nh4+  27.Kf1  g2+  28.Kf2  Nh3#   23.hxg3 ??  fxg3  is forced mate in two. } 1... Qxh3 2. Rf2 gxf2 3. Bxf2 { With a big advantage despite being material down, as Black’s attack is over. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "36.  Jaan Ehlvest â Stefan Kuipers (Level 3)"]
+[Result "*"]
+[FEN "r1bq1rk1/1p3pbp/2n1p1p1/p2pP3/3P2n1/5NP1/PP1N1PBP/R1BQR1K1 b - - 0 1"]
+[SetUp "1"]
+
+{ How should Black play?  @@HeaderStart@@Jaan Ehlvest – Stefan Kuipers, Gibraltar 2013@@HeaderEnd@@  The French Type III structure gives White more space and excellent attacking chances. If Black does not challenge White’s d4-e5 chain then he will gradually fall into submission. The logical continuation is: } 1... f6 2. exf6 { Correct was  13.h3  Nxf2  14.Qe2 !   but not  14.Kxf2 ?  fxe5  ∓  14...fxe5  15.dxe5  and now Black may either keep fighting with  15...Ne4 !?   or force a draw with:  15...Bxe5  16.Nxe5   16.Qxf2 ?  Bd4  ∓  16...Nd4  17.Qe3  Nc2  18.Qe2  Nd4 = } 2... Qxf6 { Now we have a French Type I structure, but White does not have the time to control the e5-square while Black is threatening the d4-pawn. } 3. h3 { White could try  14.Nb3  but he is still in some trouble after:  14...a4  15.Nc5  Nxd4  ∓ } 3... Nxf2 { Black makes use of his knight and now obtains a crushing attack after: } 4. Kxf2 Qxd4+ 5. Ke2 Qb6 { The game concluded: } 6. Qb3 { Also insufficient is:  17.Nf1  Bd7  18.Ne3  Rxf3 !  19.Bxf3  Nd4+  20.Kf2  Rf8  -+ } 6... Qc7 7. Kf2 a4 8. Qa3 Nd4 9. Qc3 Qb6 { Preparing 21...Nf3. } 10. Qe3 Bh6 11. Qxh6 Nf5+ 12. Qe3 Nxe3 13. Rxe3 e5 14. Ke2 e4 15. Ne1 Bd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "37.  Qingnan Liu â Bu Xiangzhi (Level 3)"]
+[Result "*"]
+[FEN "2r5/rp2ppkp/3pbnp1/3N4/1PP1P3/p4P2/P3B1PP/R1R3K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Evaluate the position and suggest a move for Black.  @@HeaderStart@@Qingnan Liu – Bu Xiangzhi, Qinhuangdao 2011@@HeaderEnd@@  In order to gain counterplay, Black must undermine the knight on d5 with: } 1... b5 { =+ } 2. Nxf6 { Black is also better after:  20.Kf2  bxc4  21.Rxc4  Rxc4  22.Bxc4  Bxd5  23.exd5  Rc7  =+ } 2... Kxf6 3. cxb5 Rxc1+ 4. Rxc1 Ra4 { White probably calculated:  22...Bxa2 ?  23.b6  Rb7  24.Rc3  Rxb6  25.Rxa3  Be6  26.b5  += } 5. Rc3 { Losing a pawn.   Instead a stronger defence was  23.Rc2  Rxb4  24.Bd3  =+ holding for now. } 5... Bxa2 6. Bd1 Rxb4 7. Rxa3 Bc4 8. Ra4 Rb1 { The crazy  26...Rxa4 ??  27.Bxa4  would spoil everything and lose. } 9. Rxc4 Rxd1+ 10. Kf2 Rd2+ 11. Kg3 Rb2 12. Rc7 Rxb5 { Black has a healthy extra pawn and won comfortably. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "38.  Rafael Leitao â Andre Diamant (Level 3)"]
+[Result "*"]
+[FEN "4r1k1/3n1pb1/bq1p2p1/2pP2Pp/1r2PP2/2N3QP/1P3RK1/1BB1R3 w - - 0 1"]
+[SetUp "1"]
+
+{ Evaluate the position and find White’s best reaction.  @@HeaderStart@@Rafael Leitao – Andre Diamant, Rio de Janeiro 2009@@HeaderEnd@@  Black’s pressure against the b2-pawn is quite annoying, so it makes sense to continue with: } 1. e5 { Other moves would leave White in a somewhat worse position. } 1... dxe5 2. f5 { But now Black can give the pawn back with: } 2... e4 { As the e5-pawn only restricted Black’s pieces.   Instead the game continued with the tempting  38...Bb7 ?  pressuring the d5-pawn, but  39.f6 !  decides the game on the spot as  39...Bf8  is met by the strong  40.Bxg6 !  since  40...fxg6  41.f7+  promotes to a queen. } 3. f6 Bf8 4. Rxe4 Rexe4 5. Bxe4 Bd6 { This yields a complex position. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "39.  Vitaly Kunin â Andrei Volokitin (Level 3)"]
+[Result "*"]
+[FEN "r3k2r/1p2ppbp/2pn2p1/p7/Pn1P4/4P1P1/1P1N1PBP/R1B2RK1 b kq - 0 1"]
+[SetUp "1"]
+
+{ Find Black’s strongest move.  @@HeaderStart@@Vitaly Kunin – Andrei Volokitin, Austria 2012@@HeaderEnd@@  In the Slav structure, Black must find a way to break in the centre favourably. Here, since White is not yet sufficiently developed, the natural move is: } 1... e5 { This forces White to fight for equality.   If Black plays passively with  16...O-O  17.Nf3  Rfd8  18.Bd2  e6  19.Rfc1  += White gradually gains control of the game, in similar style to Morozevich – Mamedyarov. } 2. Nb3 { Black is also more comfortable after:  17.dxe5  Bxe5  18.Rb1  O-O-O  =+ } 2... exd4 3. exd4 O-O { White has obtained an unfavourable isolani, since the queens are off the board and the d4-pawn is easily attacked. Black eventually won. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "40.  Evgenij Agrest â Fabiano Caruana (Level 3)"]
+[Result "*"]
+[FEN "1rbqr2k/2n3bp/p2p1pp1/1ppP4/P3P2P/5NB1/BP1Q1PP1/2R1R1K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Black’s last move was 24...b5. How should White respond?  @@HeaderStart@@Evgenij Agrest – Fabiano Caruana, Arvier 2007@@HeaderEnd@@  White’s pieces are ideally arranged for: } 1. b4 { Preventing Black’s queenside expansion, and threatening b4xc5. } 1... c4 { If  25...cxb4  26.Qxb4  Bf8  27.Nd4  Bb7  28.Nc6  Bxc6  and White is dominating and winning after either  29.Rxc6   or  29.dxc6 } 2. Nd4 { Instead of this strong move, the game continued  26.a5 !?  Qe7  27.Nd4  ± with a big advantage as well. } 2... Bb7 3. h5 { ± White has good chances all over the board. It is clear that Black will not gain anything from queenside play, so it is best for White to keep the tension on b5 in case he ever wants to take with a4xb5 and play down the a-file. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "41.  Mauricio Flores Rios â Salvador Alonso (Level 3)"]
+[Result "*"]
+[FEN "r1rq2k1/1p2ppbp/2bp2p1/p1n5/2P1P3/PPN1BP2/3QB1PP/1RR4K b - - 0 1"]
+[SetUp "1"]
+
+{ White’s last move was 18.a3. How would you rate this move?  @@HeaderStart@@Mauricio Flores Rios – Salvador Alonso, Magistral Endesa 2007@@HeaderEnd@@  18.a3 was a mistake, as White should first have played 19.Bd1 to cover b3, and only then 20.a3. Black refutes White’s play with: } 1... a4 { Forcing the destruction of White’s queenside structure. } 2. bxa4 { The point is that  19.b4 ?  is met by:  19...Nb3  ∓ } 2... Nxa4 3. Nd5 { And now Black should have chosen: } 3... e6 { Instead Black played  20...Bxd5 ?!  21.cxd5  Nc3  22.Rxb7  Rxa3  23.Bf1  after which the position was roughly balanced. } 4. Nb6 Nxb6 5. Bxb6 Qe7 { Black is a little better, since White no longer has any promising queenside plans and the pawns on a3 and c4 could be vulnerable. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "42.  Zoltan Almasi â Bartlomiej Macieja (Level 3)"]
+[Result "*"]
+[FEN "2r2rk1/1p2ppbp/3pbnp1/q7/p1PBPP2/P1N1Q3/1P2B1PP/3R1RK1 w - - 0 1"]
+[SetUp "1"]
+
+{ How should White proceed?  @@HeaderStart@@Zoltan Almasi – Bartlomiej Macieja, Khanty-Mansiysk Olympiad 2010@@HeaderEnd@@  Black’s a4-pawn prevents White from protecting his c4-pawn. On the other hand, this a4-pawn could be vulnerable if the position became more open. Therefore, the strongest continuation is: } 1. Bb6 { Instead  17.Nd5 ?!  Nxd5  18.cxd5  Bxd4  19.Rxd4  Bd7  20.Rb4  b5  += only gives a small edge. } 1... Qa8 2. c5 { Opening lines, and making the a4-pawn vulnerable. } 2... dxc5 3. Bxc5 { White was able to impose his advantage after: } 3... Rfe8 4. Rd2 Nd7 5. Bb4 Nb8 6. f5 { Initiating a kingside attack. } 6... Bb3 7. Nd5 Nc6 8. Nb6 Qa7 9. Bc5 Rcd8 10. Nd7 Qa8 11. Bb6 Rc8 12. e5 Na5 13. e6 { +- Black is defenceless; note how his queen is completely locked out of the game. } 13... gxf5 14. Rxf5 Rc1+ 15. Kf2 Nc6 16. Rxf7 Kh8 17. Qe4 Rh1 18. h3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "43.  Romain Edouard â Miso Cebalo (Level 3)"]
+[Result "*"]
+[FEN "r1r3k1/1p1bppbp/3p1np1/5P2/1qPBP3/1PN5/3QB1PP/3R1RK1 w - - 0 1"]
+[SetUp "1"]
+
+{ Find a strong continuation for White.  @@HeaderStart@@Romain Edouard – Miso Cebalo, Biel 2012@@HeaderEnd@@  A typical resource in the Maroczy or the Dragon structures is the sequence: } 1. Bxf6 Bxf6 2. Nd5 Qxd2 3. Nxf6+ { This intermediate move is the key, forcing Black to double his pawns. } 3... exf6 { A common reply is  20...Kg7  21.Rxd2  Kxf6  avoiding the doubling of pawns, but in this particular position White has  22.fxg6+  Kxg6  23.e5 !  ± winning the d6-pawn since  23...Ra6 ?!  is met by  24.Rd3 !  with a winning attack against Black’s king. For example:  24...Kg7  25.Rg3+  Kf8  26.Bh5  Be6  27.Bxf7 !  Bxf7  28.e6  and the position is bad enough to resign. } 4. Rxd2 { And White eventually won this superior endgame. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "44.  Tamaz Gelashvili â Jan Timman (Level 3)"]
+[Result "*"]
+[FEN "r4rk1/ppqb2pp/2nbpn2/3p2B1/3P4/2NB1N2/PP3PPP/R2QR1K1 b - - 0 1"]
+[SetUp "1"]
+
+{ White’s last move was 12.Ne2-c3. How should Black respond?  @@HeaderStart@@Tamaz Gelashvili – Jan Timman, Saint Vincent 2000@@HeaderEnd@@ } 1... Ng4 { Attacking h2 and opening the f-file for an attack. } 2. g3 { Or  15.h3 ?  Bh2+  16.Kf1  Nxf2 !  17.Kxf2  Qg3+  18.Kf1  Qxg5  when Black is a pawn up and the attack is not over. Black will win after, for example,  19.Bc2  Rxf3+ !  20.Qxf3  Nxd4  21.Qf2  Nxc2  22.Qxc2  Rf8+. } 2... Nxf2 { The decisive blow. } 3. Kxf2 Nxd4 4. Be2 Nxf3 5. Bxf3 Rf5 { Black’s threats along the f-file are decisive. } 6. Bf4 { Or  19.Bc1  Raf8  20.Re3  Bc5  and wins. } 6... Bxf4 7. gxf4 Qxf4 8. Kg2 Raf8 9. Rf1 d4 { -+ Now the ‘bad’ bishop comes into the game decisively. } 10. Ne4 Bc6 11. Qxd4 Qh4 12. Qd6 Rxf3 13. Rxf3 Qg4+ 14. Rg3 Qxe4+ 15. Kh3 Qf5+ 16. Kh4 Qf6+ { White resigned since his position is desperate after  30.Kh3  Qh6+  31.Kg4  Bf3+  32.Rxf3  Qg6+  33.Kh4  Qe4+. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "45.  Damian Lemos â Manuel Larrea (Level 3)"]
+[Result "*"]
+[FEN "rn3rk1/pp1b2p1/2pbpq1p/3p1p2/2PP4/2N2NP1/PPQ1PPBP/R4RK1 w - - 0 1"]
+[SetUp "1"]
+
+{ Find a good continuation for White.  @@HeaderStart@@Damian Lemos – Manuel Larrea, Asuncion 2011@@HeaderEnd@@  White can proceed with: } 1. Qb3 { A tricky move, attacking the b7-pawn to disrupt Black’s play. } 1... b6 { 11...Bc8  was necessary, but White is a little better after:  12.cxd5  cxd5   or  12...exd5  13.e4 !  fxe4  14.Nxe4  Qe6  15.Nxd6  Qxd6  16.Rae1  +=  13.Nb5  Qe7  14.Nxd6  Qxd6  15.e3  Nc6  16.Rfc1  Bd7  17.Bf1  += Followed by  Bb5xc6  and  Ne5. } 2. cxd5 cxd5 3. Nxd5 { +- This is the tactical point of 11.Qb3. } 3... exd5 4. Qxd5+ Qe6 5. Qxa8 Nc6 6. Qb7 { White won easily. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "46.  Teimour Radjabov â Gadir Guseinov (Level 4)"]
+[Result "*"]
+[FEN "r2qr1k1/1pnn1pbp/p2p2p1/2pp4/P1P1P3/2N1B2P/1P1QBPP1/4RRK1 w - - 0 1"]
+[SetUp "1"]
+
+{ Black’s last move was 16...exd5. How should White reply?  @@HeaderStart@@Teimour Radjabov – Gadir Guseinov, Baku 2010@@HeaderEnd@@ } 1. exd5 { += A good decision; White has a small but steady advantage since Black is unable to carry out the ...b7-b5 break, nor is he ready to fight for the e4-square.   If  16.cxd5  then we reach an asymmetric Benoni where Black’s pieces are ideally placed and his light-squared bishop has already been traded. It is not surprising that after  16...Rb8  17.a5   or  17.f3  b5  18.axb5  axb5  19.Ra1  c4  17...b5  18.axb6  Rxb6  Black has good counterplay.   16.Nxd5  is answered by  16...Nxd5 !?  and now White must make the same decision as before, but with fewer pieces on the board, hence a less significant spatial advantage, while  17.Qxd5  Nf6  18.Qxb7  Qb8  19.Qxb8  Raxb8  is about equal. } 1... a5 { If  16...Rb8  17.a5  b6  18.axb6  Rxb6  19.Bd1  Rb4  20.b3  += and White’s queenside is rock solid. } 2. g3 f5 3. Kg2 Nf6 4. Bd3 Qd7 5. Bg5 { Heading for a slightly superior endgame where White is the only one with winning chances. } 5... Rxe1 6. Rxe1 Re8 7. b3 Rxe1 8. Qxe1 Qe8 9. Qxe8+ Nfxe8 10. Ne2 Nf6 11. Bf4 Bf8 12. f3 Kf7 13. Bd2 b6 14. g4 { ± Black is already in a delicate position; White eventually won the game. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "47.  Rafael Leitao â Carlos Barreto (Level 4)"]
+[Result "*"]
+[FEN "r1bqr1k1/3n1pbp/pp2p1p1/3p4/P2P4/1Q1BPN2/1P1B1PPP/R4RK1 w - - 0 1"]
+[SetUp "1"]
+
+{ How should White continue?  @@HeaderStart@@Rafael Leitao – Carlos Barreto, Campinas 2009@@HeaderEnd@@  We have a symmetric structure. Since White’s bad bishop is inside the chain, on d2, White has little chance to gain an advantage in this structure. However, he has a lead in development, and can transform the structure favourably with: } 1. e4 { += } 1... Bb7 { Stronger was  14...dxe4  15.Bxe4  Ra7  16.Bg5  Bf6  17.h4 !?  += though this isolani position is better for White, due to his superior coordination. } 2. e5 { Now White enjoys a pleasant version of a French Type III structure. The c-file is open, but there is little Black can do with it, which is similar to the game Granda – Narciso. } 2... Rc8 { Playing routinely, but occupying the open file will not help Black.   Black could transfer to a French Type I structure with:  15...f6 !?  This is weakening but probably necessary, and after:  16.exf6  Bxf6  17.Rfe1   17.Rac1 !?  is probably more precise, preventing  ...e6-e5  for now, since  17...e5 ?  is refuted by:  18.Be4 !  exd4  19.Bxd5+  Bxd5  20.Qxd5+  Kh8  21.Rc6  ±  After the text move White is threatening  Bf4  to obtain a big advantage, as in the game Areshchenko – Vovk but now Black replies:  17...e5 !  This break has to be made now or never, and after:  18.dxe5  Nxe5  19.Nxe5  Bxe5  20.Bc3  += Black is worse but has some chances to hold an endgame. } 3. Rfe1 Rc7 { Now it is too late for  16...f6  due to  17.exf6  Bxf6  18.Bf4  with good control of the e5-square. A possible continuation is  18...Nb8  19.Be5  Bxe5  20.Nxe5  Nc6  21.Nxc6  Rxc6  22.Re5  Qf6  23.g3  Rec8  24.Kg2  ± and the game will proceed just like Areshchenko – Vovk did, implementing the plan h2-h4-h5. } 4. h4 { ± Once again, the standard h4-h5 is strong in this position and will create a decisive attack. } 4... Qa8 5. Bb4 { Taking an important diagonal. } 5... Bf8 6. Bxf8 Rxf8 { Trading dark-squared bishops favours White as the black king’s defences are now even weaker. } 7. h5 Rfc8 { White has a decisive attack and decided the game easily after: } 8. Ng5 Qa7 9. hxg6 hxg6 10. Qd1 Nf8 11. Qg4 { Black resigned due to the unavoidable threat: Qh4-Re3-Rh3-Qh8# } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "48.  Jorge Cori Tello â Hrant Melkumyan (Level 4)"]
+[Result "*"]
+[FEN "r2q1rk1/pb2nppp/1p1bpn2/3pN3/3P4/PP1B4/1BPN1PPP/R2Q1RK1 w - - 0 1"]
+[SetUp "1"]
+
+{ Evaluate the position and suggest a plan for White.  @@HeaderStart@@Jorge Cori Tello – Hrant Melkumyan, Moscow 2012@@HeaderEnd@@  We have a Carlsbad structure where White has played b2-b3 instead of the more usual c2-c3. In Chapter 5 we studied an identical structure in the game Wojtaszek – Khairullin, but with reversed colours. According to that game, Black’s plans should be based on playing ...a7-a5, ...b6-b5-b4 and then either ...Ba6 to trade bishops and pressure c2, or break in the centre with ...e6-e5.    As the reader may notice, neither plan works here. Despite the level appearance of the position, Black experiences some difficulties already because he lacks a plan. The game continued: } 1. Qe2 Rc8 2. f4 Qc7 3. Rf2 Ng6 4. g3 Qe7 5. h4 { Beginning a kingside attack; note how Black simply marks time. } 5... Rfe8 { Or  16...Qd8  17.h5  Ne7  18.g4 !  preventing ...Nf5; there is no counterplay and White may prepare a kingside assault for as long as he needs to. } 6. h5 Nf8 7. g4 N6d7 8. g5 { An excellent decision that entails a strong pawn sacrifice; Black’s forces are paralyzed. } 8... Bxe5 { This accelerates defeat.   Sturdier was waiting with  19...Rc7  though after  20.Qe3  Rec8  21.Ndf3  Qe8  22.Rg2  ± the eventual g5-g6 break will be strong. } 9. fxe5 { This is the point – the g5-pawn can be sacrificed.   But not  20.dxe5 ?  Nc5  when Black gains counterplay. } 9... Qxg5+ 10. Rg2 Qe7 { Or  21...Qh4  22.Nf3  Qxh5  23.Rh2  Qg4+  24.Kf2  followed by  25.Rg1  Qf4  26.Bc1  trapping the queen. } 11. Nf3 { White has a crushing attack, and the game finished convincingly: } 11... f6 12. Bc1 fxe5 13. Bg5 Qd6 14. Nxe5 Nxe5 15. dxe5 Qc5+ 16. Kh2 d4 17. Rg3 Rc7 18. Rag1 Rf7 19. Bf6 Ree7 20. Qg4 Qc7 21. Bxe7 Qxe7 22. Qxd4 Nd7 23. h6 Nxe5 24. Kh3 Ng6 25. Bxg6 hxg6 26. Rxg6 Rf3+ 27. R1g3 Rxg3+ 28. Rxg3 g5 29. Qe5 Kh7 30. Rxg5 Kxh6 31. Qh8+ { Black resigned as the queen is lost after  42...Kxg5  43.Qh4+  Kf5  44.Qxe7. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "49.  Cardenas Garcia â Villagra Henriquez (Level 4)"]
+[Result "*"]
+[FEN "2rq1rk1/1p2bpp1/p2pbn1p/3Np3/4P3/3QN3/PPP2PPP/R1B1R1K1 b - - 0 1"]
+[SetUp "1"]
+
+{ @@HeaderStart@@Cardenas Garcia – Villagra Henriquez, Punta Arenas 2014@@HeaderEnd@@ } 1... Nxd5 { This capture is a good decision because White does not have an ideal recapture.  How should White respond? What is the evaluation? } 2. Nxd5 { Instead, White made a poor decision by playing:  15.exd5 ?!  Obtaining a Najdorf Type I structure where Black has every reason to be optimistic. The position is simplified, there are chances for kingside play and White is unlikely to achieve a queenside expansion.  15...Bd7  16.c4 ?  This pawn will only become a target.   Better was  16.Nf5  Bxf5  17.Qxf5  g6  18.Qd3  Kg7  19.Be3  f5  though Black’s position is somewhat more comfortable.  16...f5  A natural move, taking some important central squares.  17.Bd2  b5 !  18.b3  f4 !  ∓ Initiating a kingside attack. Black dominates on both flanks, and the game continued:  19.Nf1  Qb6  20.Rac1  Bh4  21.Qe2  h5  22.h3  e4 !  Threatening  ...f4-f3.  23.Bxf4 ?  A poor defence.   More stubborn was  23.g3  fxg3  24.Nxg3  Rf3  25.Nxe4  Rcf8  ∓ though Black’s attack is close to winning.  23...Rxf4  24.g3  Rf3  25.gxh4  Rcf8  26.Rc2  R8f4  27.Ne3  Rxh3  28.Ng2  Rg4  0-1 } 2... Bxd5 3. Qxd5 { but since the pawn on c2 is falling, the position is only equal after } 3... Rxc2 4. Qxb7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Exercises"]
+[Black "50.  Peter Heine Nielsen â Roland Berzinsh (Level 4)"]
+[Result "*"]
+[FEN "rr4k1/2pbqpp1/3b1n1p/p1BPp3/1p2Pn2/4QN1P/PPRN1PP1/2R2BK1 w - - 0 1"]
+[SetUp "1"]
+
+{ How should White continue?  @@HeaderStart@@Peter Heine Nielsen – Roland Berzinsh, Eretria 2011@@HeaderEnd@@  White’s advantage is obvious, but for the moment it is not clear how to make progress. The c7-pawn is a weak backward pawn, but cannot be attacked. Instead, White transformed the position favourably with: } 1. Bxd6 cxd6 2. Nc4 { The game continued: } 2... Rb7 3. Nfd2 Be8 4. Nb6 Rab8 5. Nc8 { A nice manoeuvre, heading toward c6 via a7. } 5... Qd8 { Preventing  25.Na7  with  24...Qd7 ?  loses to  25.Rc6. } 6. Na7 a4 7. Nc6 Bxc6 8. Rxc6 { Now the d6-pawn is a serious target. } 8... Ne8 { Or  27...Rb6  28.Qxb6 !  Rxb6  29.Rc8  Rb8  30.Rxd8+  Rxd8  31.Rc6  and White is winning at least one pawn. } 9. Nc4 Ra8 { Waiting with  28...Ng6  is met by  29.Ra6  and now the a4-pawn is lost since  29...Ra8  loses to  30.Na5  !. } 10. Nb6 Ra5 { Or  29...Rab8  30.Nxa4  and White wins. } 11. g3 Ng6 12. Rc8 Qe7 { Black resigned due to: } 13. Rxe8+ Qxe8 14. Rc8 *
+
